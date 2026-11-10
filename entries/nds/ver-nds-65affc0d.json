@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "65AFFC0D",
+   "name": "圣洁传说(繁)(JP)(巴士汉化组)(1024Mb).nds",
+   "size": 130109052
+  }
+ ],
+ "group": "Tales of Innocence",
+ "id": "ver-nds-65affc0d",
+ "layer": "verified",
+ "original": {
+  "crc32": "AFA9C467",
+  "no_intro_name": "Tales of Innocence (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Tales of Innocence (Japan)",
+  "zh-Hans": "圣洁传说"
+ },
+ "vendor": "巴士汉化组",
+ "version": ""
+}

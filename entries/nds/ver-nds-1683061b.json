@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1683061B",
+   "name": "上旋高手3(JP)(Pluto&野次马)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Top Spin 3",
+ "id": "ver-nds-1683061b",
+ "layer": "verified",
+ "original": {
+  "crc32": "6B8503AC",
+  "no_intro_name": "Top Spin 3 (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Top Spin 3 (Japan)",
+  "zh-Hans": "上旋高手3"
+ },
+ "vendor": "Pluto&野次马",
+ "version": ""
+}

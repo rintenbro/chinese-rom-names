@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B28A34D2",
+   "name": "最终幻想DX3 (繁) (BBD).gbc",
+   "size": 2097152
+  }
+ ],
+ "genre": null,
+ "group": "最终幻想DX3",
+ "id": "cn-f017a0a6ea95",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "最终幻想DX3"
+ },
+ "type": "original",
+ "vendor": "BBD",
+ "vendor_full": "",
+ "year": null
+}

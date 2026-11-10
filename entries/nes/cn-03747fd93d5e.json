@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "400B7FE8",
+   "name": "光明之神(繁)[酷哥电子](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "光明之神",
+ "id": "cn-03747fd93d5e",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "光明之神"
+ },
+ "type": "original",
+ "vendor": "酷哥电子",
+ "vendor_full": "",
+ "year": null
+}

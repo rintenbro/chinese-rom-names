@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FA3433FA",
+   "name": "1425-侦探学园Q-挑战究极诡计完全版.gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Tantei Gakuen Q - Kyuukyoku Trick ni Idome!",
+ "id": "ver-gba-fa3433fa",
+ "layer": "verified",
+ "original": {
+  "crc32": "77C172BD",
+  "no_intro_name": "Tantei Gakuen Q - Kyuukyoku Trick ni Idome! (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Tantei Gakuen Q - Kyuukyoku Trick ni Idome! (Japan)",
+  "zh-Hans": "侦探学园Q-挑战究极诡计完全版"
+ },
+ "vendor": "",
+ "version": ""
+}

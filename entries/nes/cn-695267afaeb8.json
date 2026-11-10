@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FEF8B4C5",
+   "name": "战神世界(简)[晶科泰](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "genre": null,
+ "group": "战神世界",
+ "id": "cn-695267afaeb8",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "战神世界"
+ },
+ "type": "original",
+ "vendor": "晶科泰",
+ "vendor_full": "",
+ "year": null
+}

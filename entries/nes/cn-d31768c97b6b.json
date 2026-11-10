@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "EE7E6D30",
+   "name": "CAPCOM音乐30合一(v1.3)(简)[九班](EU)[ETC](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "CAPCOM音乐30合一",
+ "id": "cn-d31768c97b6b",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "CAPCOM音乐30合一"
+ },
+ "type": "hack",
+ "vendor": "九班",
+ "vendor_full": "",
+ "year": null
+}

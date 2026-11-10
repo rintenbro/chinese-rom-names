@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E19F678B",
+   "name": "恶魔城2 - 风云篇 (繁) (星星科技).gbc",
+   "size": 524288
+  }
+ ],
+ "genre": null,
+ "group": "恶魔城2 - 风云篇",
+ "id": "cn-664b23bae828",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "恶魔城2 - 风云篇"
+ },
+ "type": "original",
+ "vendor": "未知",
+ "vendor_full": "",
+ "year": null
+}

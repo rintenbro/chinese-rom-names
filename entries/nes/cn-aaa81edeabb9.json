@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8B619514",
+   "name": "口袋怪兽 绿叶版(简)[恒格电子](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "genre": null,
+ "group": "口袋怪兽 绿叶版",
+ "id": "cn-aaa81edeabb9",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "口袋怪兽 绿叶版"
+ },
+ "type": "original",
+ "vendor": "恒格电子",
+ "vendor_full": "",
+ "year": null
+}

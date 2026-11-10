@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "92D1EFB7",
+   "name": "女王格斗2000(Fixed)(繁)(广誉)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "genre": null,
+ "group": "女王格斗2000",
+ "id": "cn-a74897124871",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "女王格斗2000"
+ },
+ "type": "original",
+ "vendor": "Fixed",
+ "vendor_full": "",
+ "year": null
+}

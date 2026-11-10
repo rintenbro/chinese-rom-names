@@ -1,0 +1,34 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-86a42739cfac/title.png"
+ },
+ "files": [
+  {
+   "crc32": "0E7F2176",
+   "name": "视窗系统2000(简)[三佳](CN)[ETC](4Mb).nes",
+   "size": 524304
+  },
+  {
+   "crc32": "0A95C73C",
+   "name": "视窗系统2000(简)[小霸王](CN)[ETC](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "视窗系统2000",
+ "id": "cn-86a42739cfac",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "视窗系统2000"
+ },
+ "type": "original",
+ "vendor": "三佳",
+ "vendor_full": "",
+ "year": null
+}

@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E813A625",
+   "name": "杨家将(简)[外星科技](CN)[SLG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "杨家将",
+ "id": "cn-baed81897641",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "杨家将"
+ },
+ "type": "original",
+ "vendor": "外星科技",
+ "vendor_full": "",
+ "year": null
+}

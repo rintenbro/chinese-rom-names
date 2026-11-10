@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "806CEF17",
+   "name": "牧场物语(JP)(NdsBBS汉化组 & Mobile)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Bokujou Monogatari - Colobockle Station",
+ "id": "ver-nds-806cef17",
+ "layer": "verified",
+ "original": {
+  "crc32": "5A2DC942",
+  "no_intro_name": "Bokujou Monogatari - Colobockle Station (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Bokujou Monogatari - Colobockle Station (Japan)",
+  "zh-Hans": "牧场物语"
+ },
+ "vendor": "NdsBBS汉化组 & Mobile",
+ "version": ""
+}

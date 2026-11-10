@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-2e953aa21bfd/title.png"
+ },
+ "files": [
+  {
+   "crc32": "10C6931D",
+   "name": "推倒胡麻将(繁)[凯程电子](JP)[TAB](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "genre": null,
+ "group": "推倒胡麻将",
+ "id": "cn-2e953aa21bfd",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "推倒胡麻将"
+ },
+ "type": "original",
+ "vendor": "凯程电子",
+ "vendor_full": "",
+ "year": null
+}

@@ -1,0 +1,34 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2DB33357",
+   "name": "机器人大战终极版[广誉科技+Maxzhou88+Dangfer](fix2)(繁)(256Mb).gba",
+   "size": 33554432
+  },
+  {
+   "crc32": "E1F7D93D",
+   "name": "机器人大战终极版[盗商&Maxzhou88][繁](JP)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "genre": null,
+ "group": "机器人大战终极版",
+ "id": "cn-4a88157dc012",
+ "layer": "self",
+ "original": null,
+ "platform": "gba",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "机器人大战终极版"
+ },
+ "type": "original",
+ "vendor": "fix2 广誉科技+Maxzhou88+Dangfer",
+ "vendor_full": "",
+ "year": null
+}

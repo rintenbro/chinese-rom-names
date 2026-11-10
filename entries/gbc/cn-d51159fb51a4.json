@@ -1,0 +1,34 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F59C89A5",
+   "name": "水浒神兽(简)(广誉科技)(8Mb).gbc",
+   "size": 2097152
+  },
+  {
+   "crc32": "60A745B7",
+   "name": "水浒神兽(繁)(广誉科技)(8Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "genre": null,
+ "group": "水浒神兽",
+ "id": "cn-d51159fb51a4",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "水浒神兽"
+ },
+ "type": "original",
+ "vendor": "未知",
+ "vendor_full": "",
+ "year": null
+}

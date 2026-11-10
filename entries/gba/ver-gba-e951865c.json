@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E951865C",
+   "name": "神游之密特罗德 - 零点任务[神游](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Miteluode - Lingdian Renwu",
+ "id": "ver-gba-e951865c",
+ "layer": "verified",
+ "original": {
+  "crc32": "E951865C",
+  "no_intro_name": "Miteluode - Lingdian Renwu (China)",
+  "region": "China",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Miteluode - Lingdian Renwu (China)",
+  "zh-Hans": "神游之密特罗德 - 零点任务"
+ },
+ "vendor": "神游",
+ "version": ""
+}

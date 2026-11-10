@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "EB5F058B",
+   "name": "决意 死亡标记 完全汉化版(JP)(APEX汉化组)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Ketsui Death Label - Kizuna Jigoku-tachi",
+ "id": "ver-nds-eb5f058b",
+ "layer": "verified",
+ "original": {
+  "crc32": "8A4C33CB",
+  "no_intro_name": "Ketsui Death Label - Kizuna Jigoku-tachi (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Ketsui Death Label - Kizuna Jigoku-tachi (Japan)",
+  "zh-Hans": "决意 死亡标记 完全汉化版"
+ },
+ "vendor": "APEX汉化组",
+ "version": ""
+}

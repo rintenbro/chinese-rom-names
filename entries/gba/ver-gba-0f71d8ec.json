@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0F71D8EC",
+   "name": "超级机器人大战J[Srworld](简)(JP)(129.75Mb).gba",
+   "size": 17006881
+  }
+ ],
+ "group": "Super Robot Taisen J",
+ "id": "ver-gba-0f71d8ec",
+ "layer": "verified",
+ "original": {
+  "crc32": "C956FD37",
+  "no_intro_name": "Super Robot Taisen J (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Super Robot Taisen J (Japan)",
+  "zh-Hans": "超级机器人大战J"
+ },
+ "vendor": "Srworld",
+ "version": ""
+}

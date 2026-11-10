@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9E97C9B2",
+   "name": "盟军敢死队 (简) (Dragon)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "genre": null,
+ "group": "盟军敢死队",
+ "id": "cn-b1e34bb95a3a",
+ "layer": "self",
+ "original": null,
+ "platform": "md",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "盟军敢死队"
+ },
+ "type": "original",
+ "vendor": "Dragon",
+ "vendor_full": "",
+ "year": null
+}

@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "66DBA6DE",
+   "name": "倚天屠龙记(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "genre": null,
+ "group": "倚天屠龙记",
+ "id": "cn-9012804f273b",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "倚天屠龙记"
+ },
+ "type": "original",
+ "vendor": "南晶科技",
+ "vendor_full": "",
+ "year": null
+}

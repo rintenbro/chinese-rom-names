@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "52B4BFBF",
+   "name": "闪闪的红星(简)[南晶科技](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "闪闪的红星",
+ "id": "cn-16b83271cf25",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "闪闪的红星"
+ },
+ "type": "original",
+ "vendor": "南晶科技",
+ "vendor_full": "",
+ "year": null
+}

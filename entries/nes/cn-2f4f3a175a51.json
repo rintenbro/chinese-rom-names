@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7B125E39",
+   "name": "黄飞鸿(简)[南晶科技](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "黄飞鸿",
+ "id": "cn-2f4f3a175a51",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "黄飞鸿"
+ },
+ "type": "original",
+ "vendor": "南晶科技",
+ "vendor_full": "",
+ "year": null
+}

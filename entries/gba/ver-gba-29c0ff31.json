@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "29C0FF31",
+   "name": "钻地小子A - 不可思议的细菌[PGCG](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Mr. Driller A - Fushigi na Pacteria",
+ "id": "ver-gba-29c0ff31",
+ "layer": "verified",
+ "original": {
+  "crc32": "529F06A4",
+  "no_intro_name": "Mr. Driller A - Fushigi na Pacteria (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Mr. Driller A - Fushigi na Pacteria (Japan)",
+  "zh-Hans": "钻地小子A - 不可思议的细菌"
+ },
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A5E6730A",
+   "name": "侠盗猎车手Advance[Beq](简)(JP)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Grand Theft Auto",
+ "id": "ver-gba-a5e6730a",
+ "layer": "verified",
+ "original": {
+  "crc32": "4189E07F",
+  "no_intro_name": "Grand Theft Auto (Europe) (En,Fr,De,Es,It)",
+  "region": "Europe",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Grand Theft Auto (Europe) (En,Fr,De,Es,It)",
+  "zh-Hans": "侠盗猎车手Advance"
+ },
+ "vendor": "Beq",
+ "version": ""
+}

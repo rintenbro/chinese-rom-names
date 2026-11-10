@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E72958C4",
+   "name": "塞尔达传说 灵魂轨迹(US)(ACG汉化组)(1024Mb).nds",
+   "size": 86258364
+  }
+ ],
+ "group": "Zelda no Densetsu - Daichi no Kiteki",
+ "id": "ver-nds-e72958c4",
+ "layer": "verified",
+ "original": {
+  "crc32": "1821E161",
+  "no_intro_name": "Zelda no Densetsu - Daichi no Kiteki (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Zelda no Densetsu - Daichi no Kiteki (Japan)",
+  "zh-Hans": "塞尔达传说 灵魂轨迹"
+ },
+ "vendor": "ACG汉化组",
+ "version": ""
+}

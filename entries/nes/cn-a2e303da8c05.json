@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4F4310E9",
+   "name": "魔法门 英雄无敌(简)[外星科技](CN)[SLG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "魔法门 英雄无敌",
+ "id": "cn-a2e303da8c05",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "魔法门 英雄无敌"
+ },
+ "type": "original",
+ "vendor": "外星科技",
+ "vendor_full": "",
+ "year": null
+}

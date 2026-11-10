@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "556DD1CC",
+   "name": "守护英雄[啪嗒啪嗒 & 鸟文](v1.0) [简 & 繁](JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Advance Guardian Heroes",
+ "id": "ver-gba-556dd1cc",
+ "layer": "verified",
+ "original": {
+  "crc32": "1527CA8C",
+  "no_intro_name": "Advance Guardian Heroes (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Advance Guardian Heroes (Japan)",
+  "zh-Hans": "守护英雄"
+ },
+ "vendor": "啪嗒啪嗒 & 鸟文",
+ "version": "v1.0"
+}

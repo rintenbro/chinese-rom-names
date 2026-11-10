@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2E2EA687",
+   "name": "超级大富翁 (繁) (三协资讯)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Chaoji Dafuweng",
+ "id": "ver-md-2e2ea687",
+ "layer": "verified",
+ "original": {
+  "crc32": "2E2EA687",
+  "no_intro_name": "Chaoji Dafuweng (Taiwan)",
+  "region": "Taiwan",
+  "size": 1048576
+ },
+ "platform": "md",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Chaoji Dafuweng (Taiwan)",
+  "zh-Hans": "超级大富翁"
+ },
+ "vendor": "",
+ "version": ""
+}

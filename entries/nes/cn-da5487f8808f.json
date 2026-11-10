@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4B2FE379",
+   "name": "英语词霸(简)[小霸王](CN)[ETC](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "genre": null,
+ "group": "英语词霸",
+ "id": "cn-da5487f8808f",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "英语词霸"
+ },
+ "type": "original",
+ "vendor": "小霸王",
+ "vendor_full": "",
+ "year": null
+}

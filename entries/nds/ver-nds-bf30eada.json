@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BF30EADA",
+   "name": "龙珠DS 简体中文完美汉化版(JP)(CG汉化组)(512Mb).nds",
+   "size": 66631700
+  }
+ ],
+ "group": "Dragon Ball DS",
+ "id": "ver-nds-bf30eada",
+ "layer": "verified",
+ "original": {
+  "crc32": "4472F77A",
+  "no_intro_name": "Dragon Ball DS (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Dragon Ball DS (Japan)",
+  "zh-Hans": "龙珠DS 简体中文完美汉化版"
+ },
+ "vendor": "CG汉化组",
+ "version": ""
+}

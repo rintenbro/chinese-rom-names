@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "71CE0A27",
+   "name": "携带电兽2速度版[Advance汉化组](v1.0)(简)(128Mb).gba",
+   "size": 13708576
+  }
+ ],
+ "group": "Keitai Denjuu Telefang 2 - Speed",
+ "id": "ver-gba-71ce0a27",
+ "layer": "verified",
+ "original": {
+  "crc32": "8F95CA53",
+  "no_intro_name": "Keitai Denjuu Telefang 2 - Speed (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Keitai Denjuu Telefang 2 - Speed (Japan)",
+  "zh-Hans": "携带电兽2速度版"
+ },
+ "vendor": "Advance汉化组",
+ "version": "v1.0"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8242D2A7",
+   "name": "脑内觉醒(JP)(GV胜利汉化组)(128Mb).nds",
+   "size": 16777216
+  }
+ ],
+ "group": "Nounai Kakusei Honeycomb Beat",
+ "id": "ver-nds-8242d2a7",
+ "layer": "verified",
+ "original": {
+  "crc32": "648B2933",
+  "no_intro_name": "Nounai Kakusei Honeycomb Beat (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Nounai Kakusei Honeycomb Beat (Japan)",
+  "zh-Hans": "脑内觉醒"
+ },
+ "vendor": "GV胜利汉化组",
+ "version": ""
+}

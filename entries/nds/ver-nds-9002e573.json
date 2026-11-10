@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9002E573",
+   "name": "历史冒险 问答三国志通DS(JP)(ACG汉化组)(64Mb).nds",
+   "size": 7095848
+  }
+ ],
+ "group": "Rekishi Adventure - Quiz Sangokushi Tsuu DS",
+ "id": "ver-nds-9002e573",
+ "layer": "verified",
+ "original": {
+  "crc32": "F8B0B86C",
+  "no_intro_name": "Rekishi Adventure - Quiz Sangokushi Tsuu DS (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Rekishi Adventure - Quiz Sangokushi Tsuu DS (Japan)",
+  "zh-Hans": "历史冒险 问答三国志通DS"
+ },
+ "vendor": "ACG汉化组",
+ "version": ""
+}

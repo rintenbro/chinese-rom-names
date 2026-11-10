@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4777841C",
+   "name": "战国革命外传[熊组](繁)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Sengoku Kakumei Gaiden",
+ "id": "ver-gba-4777841c",
+ "layer": "verified",
+ "original": {
+  "crc32": "3DD25FD7",
+  "no_intro_name": "Sengoku Kakumei Gaiden (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Sengoku Kakumei Gaiden (Japan)",
+  "zh-Hans": "战国革命外传"
+ },
+ "vendor": "熊组",
+ "version": ""
+}

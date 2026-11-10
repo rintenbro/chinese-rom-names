@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "74887236",
+   "name": "口袋妖怪 – 蓝宝石[盗商+Metore+Blader](v1.1)(繁)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Pocket Monsters - Sapphire",
+ "id": "ver-gba-74887236",
+ "layer": "verified",
+ "original": {
+  "crc32": "FD1EEB78",
+  "no_intro_name": "Pocket Monsters - Sapphire (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Pocket Monsters - Sapphire (Japan)",
+  "zh-Hans": "口袋妖怪 – 蓝宝石"
+ },
+ "vendor": "盗商+Metore+Blader",
+ "version": "v1.1"
+}

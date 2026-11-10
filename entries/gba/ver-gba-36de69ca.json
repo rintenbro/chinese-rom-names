@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "36DE69CA",
+   "name": "桃太郎电铁G 打造黄金卡组![XDD+欧米伽先生](AI汉化补完版)(简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Momotarou Dentetsu G - Gold Deck o Tsukure!",
+ "id": "ver-gba-36de69ca",
+ "layer": "verified",
+ "original": {
+  "crc32": "5F3E184E",
+  "no_intro_name": "Momotarou Dentetsu G - Gold Deck o Tsukure! (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Momotarou Dentetsu G - Gold Deck o Tsukure! (Japan)",
+  "zh-Hans": "桃太郎电铁G 打造黄金卡组!"
+ },
+ "vendor": "XDD+欧米伽先生",
+ "version": ""
+}

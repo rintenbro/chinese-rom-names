@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E5119EED",
+   "name": "美猴王(解密版)(简)[外星科技+WXN](CN)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "美猴王",
+ "id": "cn-b820c1c237b0",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "美猴王"
+ },
+ "type": "original",
+ "vendor": "外星科技+WXN",
+ "vendor_full": "",
+ "year": null
+}

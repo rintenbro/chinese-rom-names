@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7756188B",
+   "name": "超级火枪英雄[天使汉化组](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Gunstar Super Heroes",
+ "id": "ver-gba-7756188b",
+ "layer": "verified",
+ "original": {
+  "crc32": "6D4307F7",
+  "no_intro_name": "Gunstar Super Heroes (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Gunstar Super Heroes (Japan)",
+  "zh-Hans": "超级火枪英雄"
+ },
+ "vendor": "天使汉化组",
+ "version": ""
+}

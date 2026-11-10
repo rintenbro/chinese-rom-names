@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F7630D88",
+   "name": "格斗至尊2003 (简) (SKOB).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Gedou Zhizun 2003",
+ "id": "ver-gbc-f7630d88",
+ "layer": "verified",
+ "original": {
+  "crc32": "F7630D88",
+  "no_intro_name": "Gedou Zhizun 2003 (Taiwan)",
+  "region": "Taiwan",
+  "size": 1048576
+ },
+ "platform": "gbc",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Gedou Zhizun 2003 (Taiwan)",
+  "zh-Hans": "格斗至尊2003"
+ },
+ "vendor": "SKOB",
+ "version": ""
+}

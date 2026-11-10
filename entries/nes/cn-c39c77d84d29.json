@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DF2D4413",
+   "name": "启智屋B(简)[小霸王](CN)[PUZ](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "genre": null,
+ "group": "启智屋B",
+ "id": "cn-c39c77d84d29",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "启智屋B"
+ },
+ "type": "original",
+ "vendor": "小霸王",
+ "vendor_full": "",
+ "year": null
+}

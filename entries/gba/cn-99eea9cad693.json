@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9CBB923E",
+   "name": "1692X 火焰之纹章-圣邪的意志.gba",
+   "size": 16777216
+  }
+ ],
+ "genre": null,
+ "group": "火焰之纹章-圣邪的意志",
+ "id": "cn-99eea9cad693",
+ "layer": "self",
+ "original": null,
+ "platform": "gba",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "火焰之纹章-圣邪的意志"
+ },
+ "type": "hack",
+ "vendor": "未知",
+ "vendor_full": "",
+ "year": null
+}

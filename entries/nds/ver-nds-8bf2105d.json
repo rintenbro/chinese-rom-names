@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8BF2105D",
+   "name": "噗哟噗哟15周年(v01)(JP)(珊瑚汉化组)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Puyo Puyo! - Puyopuyo 15th Anniversary",
+ "id": "ver-nds-8bf2105d",
+ "layer": "verified",
+ "original": {
+  "crc32": "6F0D0B44",
+  "no_intro_name": "Puyo Puyo! - Puyopuyo 15th Anniversary (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Puyo Puyo! - Puyopuyo 15th Anniversary (Japan)",
+  "zh-Hans": "噗哟噗哟15周年"
+ },
+ "vendor": "珊瑚汉化组",
+ "version": "v01"
+}

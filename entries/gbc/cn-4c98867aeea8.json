@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2FFE697C",
+   "name": "石器时代 - 精灵王诞生 (简) (修正版) (Gowin).gbc",
+   "size": 4194304
+  }
+ ],
+ "genre": null,
+ "group": "石器时代 - 精灵王诞生",
+ "id": "cn-4c98867aeea8",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "石器时代 - 精灵王诞生"
+ },
+ "type": "original",
+ "vendor": "Gowin",
+ "vendor_full": "",
+ "year": null
+}

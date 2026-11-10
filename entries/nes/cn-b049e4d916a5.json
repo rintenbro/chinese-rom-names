@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D0A5188E",
+   "name": "魔界霸主(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "genre": null,
+ "group": "魔界霸主",
+ "id": "cn-b049e4d916a5",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "魔界霸主"
+ },
+ "type": "original",
+ "vendor": "南晶科技",
+ "vendor_full": "",
+ "year": null
+}

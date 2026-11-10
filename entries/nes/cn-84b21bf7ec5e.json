@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "30F7FE62",
+   "name": "轩辕剑 天之痕(简)[晶科泰](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "genre": null,
+ "group": "轩辕剑 天之痕",
+ "id": "cn-84b21bf7ec5e",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "轩辕剑 天之痕"
+ },
+ "type": "original",
+ "vendor": "晶科泰",
+ "vendor_full": "",
+ "year": null
+}

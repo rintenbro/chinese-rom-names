@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A8B1C2F5",
+   "name": "决战太平洋(繁)[外星科技](CN)[SLG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "决战太平洋",
+ "id": "cn-b1a86d76122c",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "决战太平洋"
+ },
+ "type": "original",
+ "vendor": "外星科技",
+ "vendor_full": "",
+ "year": null
+}

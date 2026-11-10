@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "597B1E04",
+   "name": "三国志 蜀魏争霸(简)[晶科泰](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "genre": null,
+ "group": "三国志 蜀魏争霸",
+ "id": "cn-82bb82c6943e",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "三国志 蜀魏争霸"
+ },
+ "type": "original",
+ "vendor": "晶科泰",
+ "vendor_full": "",
+ "year": null
+}

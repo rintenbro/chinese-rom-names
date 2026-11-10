@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0E02E27E",
+   "name": "神鬼传奇(简)[外星科技](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "genre": null,
+ "group": "神鬼传奇",
+ "id": "cn-86ce8b098a5f",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "神鬼传奇"
+ },
+ "type": "original",
+ "vendor": "外星科技",
+ "vendor_full": "",
+ "year": null
+}

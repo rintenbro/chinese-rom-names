@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BB8A3316",
+   "name": "俄罗斯方块DS(JP)(APEX汉化组)(128Mb).nds",
+   "size": 16777216
+  }
+ ],
+ "group": "Tetris DS",
+ "id": "ver-nds-bb8a3316",
+ "layer": "verified",
+ "original": {
+  "crc32": "499753EA",
+  "no_intro_name": "Tetris DS (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Tetris DS (Japan)",
+  "zh-Hans": "俄罗斯方块DS"
+ },
+ "vendor": "APEX汉化组",
+ "version": ""
+}

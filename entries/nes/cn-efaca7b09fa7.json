@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DD851C3A",
+   "name": "数码暴龙(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "genre": null,
+ "group": "数码暴龙",
+ "id": "cn-efaca7b09fa7",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "数码暴龙"
+ },
+ "type": "original",
+ "vendor": "南晶科技",
+ "vendor_full": "",
+ "year": null
+}

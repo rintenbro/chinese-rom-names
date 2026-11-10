@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "886E4E5F",
+   "name": "星际争霸(繁)[恒格电子](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "星际争霸",
+ "id": "cn-ee76652bf715",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "星际争霸"
+ },
+ "type": "original",
+ "vendor": "恒格电子",
+ "vendor_full": "",
+ "year": null
+}

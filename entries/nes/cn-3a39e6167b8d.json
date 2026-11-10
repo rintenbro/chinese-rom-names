@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A809B8E0",
+   "name": "龙之谷(繁)[外星科技](JP)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "龙之谷",
+ "id": "cn-3a39e6167b8d",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "龙之谷"
+ },
+ "type": "original",
+ "vendor": "外星科技",
+ "vendor_full": "",
+ "year": null
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B6AD9D5F",
+   "name": "银河战士 初猎(US)(PGCG汉化组)(512Mb).nds",
+   "size": 66149420
+  }
+ ],
+ "group": "Metroid Prime - Hunters",
+ "id": "ver-nds-b6ad9d5f",
+ "layer": "verified",
+ "original": {
+  "crc32": "277B717B",
+  "no_intro_name": "Metroid Prime - Hunters (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Metroid Prime - Hunters (Japan)",
+  "zh-Hans": "银河战士 初猎"
+ },
+ "vendor": "PGCG汉化组",
+ "version": ""
+}

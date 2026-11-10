@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "680CC3B3",
+   "name": "世界传说 - 换装迷宫2[啪嗒啪嗒+代码熊+李采叶叶](v3.0完整汉化+中文语音2.0)(简)(JP)(140Mb).gba",
+   "size": 18904140
+  }
+ ],
+ "group": "Tales of the World - Narikiri Dungeon 2",
+ "id": "ver-gba-680cc3b3",
+ "layer": "verified",
+ "original": {
+  "crc32": "231B9FCA",
+  "no_intro_name": "Tales of the World - Narikiri Dungeon 2 (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Tales of the World - Narikiri Dungeon 2 (Japan)",
+  "zh-Hans": "世界传说 - 换装迷宫2"
+ },
+ "vendor": "啪嗒啪嗒+代码熊+李采叶叶",
+ "version": "v3.0"
+}

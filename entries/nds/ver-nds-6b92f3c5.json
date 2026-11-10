@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6B92F3C5",
+   "name": "围棋玩得更强 银星围棋DS(JP)(E.Wings汉化组)(256Mb).nds",
+   "size": 10768024
+  }
+ ],
+ "group": "Asonde Igo ga Tsuyoku Naru! - Ginsei Igo DS",
+ "id": "ver-nds-6b92f3c5",
+ "layer": "verified",
+ "original": {
+  "crc32": "E5DF3D88",
+  "no_intro_name": "Asonde Igo ga Tsuyoku Naru! - Ginsei Igo DS (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Asonde Igo ga Tsuyoku Naru! - Ginsei Igo DS (Japan)",
+  "zh-Hans": "围棋玩得更强 银星围棋DS"
+ },
+ "vendor": "E.Wings汉化组",
+ "version": ""
+}

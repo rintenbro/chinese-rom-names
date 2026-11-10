@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4DBCFE35",
+   "name": "口袋水晶(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "genre": null,
+ "group": "口袋水晶",
+ "id": "cn-ac3b8ce69501",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "口袋水晶"
+ },
+ "type": "original",
+ "vendor": "南晶科技",
+ "vendor_full": "",
+ "year": null
+}

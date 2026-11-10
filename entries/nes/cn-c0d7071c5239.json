@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2435B18D",
+   "name": "红楼梦(简)[南晶科技](CN)[TAB](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "红楼梦",
+ "id": "cn-c0d7071c5239",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "红楼梦"
+ },
+ "type": "original",
+ "vendor": "南晶科技",
+ "vendor_full": "",
+ "year": null
+}

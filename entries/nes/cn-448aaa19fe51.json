@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-448aaa19fe51/title.png"
+ },
+ "files": [
+  {
+   "crc32": "5ABE6CDB",
+   "name": "Microsoft Windows 98(简)[maxzhou88](CN)[ETC](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "Microsoft Windows 98",
+ "id": "cn-448aaa19fe51",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "Microsoft Windows 98"
+ },
+ "type": "hack",
+ "vendor": "maxzhou88",
+ "vendor_full": "",
+ "year": null
+}

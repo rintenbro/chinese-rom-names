@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0B274476",
+   "name": "金童卡修 友情的电击 梦幻标签锦标赛[DMG汉化组](简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Konjiki no Gashbell!! Yuujou no Zakeru - Dream Tag Tournament",
+ "id": "ver-gba-0b274476",
+ "layer": "verified",
+ "original": {
+  "crc32": "FB5516AD",
+  "no_intro_name": "Konjiki no Gashbell!! Yuujou no Zakeru - Dream Tag Tournament (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Konjiki no Gashbell!! Yuujou no Zakeru - Dream Tag Tournament (Japan)",
+  "zh-Hans": "金童卡修 友情的电击 梦幻标签锦标赛"
+ },
+ "vendor": "DMG汉化组",
+ "version": ""
+}

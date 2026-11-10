@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "12F9F488",
+   "name": "数码宝贝(简)[酷哥电子](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "genre": null,
+ "group": "数码宝贝",
+ "id": "cn-03a49a59976b",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "数码宝贝"
+ },
+ "type": "original",
+ "vendor": "酷哥电子",
+ "vendor_full": "",
+ "year": null
+}

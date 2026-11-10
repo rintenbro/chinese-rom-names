@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "83B8A179",
+   "name": "金庸群侠传 书剑江山(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "genre": null,
+ "group": "金庸群侠传 书剑江山",
+ "id": "cn-57d3f1f38250",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "金庸群侠传 书剑江山"
+ },
+ "type": "original",
+ "vendor": "南晶科技",
+ "vendor_full": "",
+ "year": null
+}

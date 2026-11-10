@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AFF1EDDC",
+   "name": "机器人欢歌(US)(远离汉化组)(512Mb).nds",
+   "size": 61195456
+  }
+ ],
+ "group": "Robocalypse",
+ "id": "ver-nds-aff1eddc",
+ "layer": "verified",
+ "original": {
+  "crc32": "92CAC62F",
+  "no_intro_name": "Robocalypse (USA)",
+  "region": "USA",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Robocalypse (USA)",
+  "zh-Hans": "机器人欢歌"
+ },
+ "vendor": "远离汉化组",
+ "version": ""
+}

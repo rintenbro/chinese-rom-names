@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FD22320C",
+   "name": "美丽世界(JP)(ACG汉化组)(1024Mb).nds",
+   "size": 125953952
+  }
+ ],
+ "group": "Subarashiki Kono Sekai - It's a Wonderful World",
+ "id": "ver-nds-fd22320c",
+ "layer": "verified",
+ "original": {
+  "crc32": "7CD47400",
+  "no_intro_name": "Subarashiki Kono Sekai - It's a Wonderful World (Japan) (Rev 1)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Subarashiki Kono Sekai - It's a Wonderful World (Japan) (Rev 1)",
+  "zh-Hans": "美丽世界"
+ },
+ "vendor": "ACG汉化组",
+ "version": ""
+}

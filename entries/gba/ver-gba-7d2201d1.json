@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7D2201D1",
+   "name": "火影忍者 - 木叶战记[熊组](v1.3)(简)(JP)(48Mb).gba",
+   "size": 6291456
+  }
+ ],
+ "group": "Naruto - Konoha Senki",
+ "id": "ver-gba-7d2201d1",
+ "layer": "verified",
+ "original": {
+  "crc32": "11829AFA",
+  "no_intro_name": "Naruto - Konoha Senki (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Naruto - Konoha Senki (Japan)",
+  "zh-Hans": "火影忍者 - 木叶战记"
+ },
+ "vendor": "熊组",
+ "version": "v1.3"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "78A53EC6",
+   "name": "马里奥网球 力量之旅[童心宜人](AI汉化v1.3)(简)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Mario Tennis - Power Tour",
+ "id": "ver-gba-78a53ec6",
+ "layer": "verified",
+ "original": {
+  "crc32": "DA192D29",
+  "no_intro_name": "Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It)",
+  "region": "USA",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It)",
+  "zh-Hans": "马里奥网球 力量之旅"
+ },
+ "vendor": "童心宜人",
+ "version": "v1.3"
+}

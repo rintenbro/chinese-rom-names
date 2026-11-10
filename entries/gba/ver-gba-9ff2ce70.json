@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9FF2CE70",
+   "name": "重装骑士 – 闪光英雄的诞生[盗商译超级机器人大战OG3][盗商&YY小龙虾][简](JP)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Get Ride! Amdriver - Senkou no Hero Tanjou!",
+ "id": "ver-gba-9ff2ce70",
+ "layer": "verified",
+ "original": {
+  "crc32": "9CF6887C",
+  "no_intro_name": "Get Ride! Amdriver - Senkou no Hero Tanjou! (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Get Ride! Amdriver - Senkou no Hero Tanjou! (Japan)",
+  "zh-Hans": "重装骑士 – 闪光英雄的诞生"
+ },
+ "vendor": "盗商译超级机器人大战OG3 / 盗商&YY小龙虾",
+ "version": ""
+}

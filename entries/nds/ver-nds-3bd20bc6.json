@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3BD20BC6",
+   "name": "仙境传说DS(繁)1.3(JP)(akairyusei)(1024Mb).nds",
+   "size": 103147008
+  }
+ ],
+ "group": "Ragnarok Online DS",
+ "id": "ver-nds-3bd20bc6",
+ "layer": "verified",
+ "original": {
+  "crc32": "ABD8B717",
+  "no_intro_name": "Ragnarok Online DS (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Ragnarok Online DS (Japan)",
+  "zh-Hans": "仙境传说DS1.3"
+ },
+ "vendor": "akairyusei",
+ "version": ""
+}

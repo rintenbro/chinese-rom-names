@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8D1EA568",
+   "name": "名侦探柯南 来自过去的前奏曲(JP)(ACG汉化组)(512Mb).nds",
+   "size": 58051968
+  }
+ ],
+ "group": "Meitantei Conan - Kako Kara no Zensou Kyoku",
+ "id": "ver-nds-8d1ea568",
+ "layer": "verified",
+ "original": {
+  "crc32": "EAB2134E",
+  "no_intro_name": "Meitantei Conan - Kako Kara no Zensou Kyoku (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Meitantei Conan - Kako Kara no Zensou Kyoku (Japan)",
+  "zh-Hans": "名侦探柯南 来自过去的前奏曲"
+ },
+ "vendor": "ACG汉化组",
+ "version": ""
+}

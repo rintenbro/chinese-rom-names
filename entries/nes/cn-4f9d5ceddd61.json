@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "038DECDE",
+   "name": "神奇宝贝(简)[恒格电子](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "genre": null,
+ "group": "神奇宝贝",
+ "id": "cn-4f9d5ceddd61",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "神奇宝贝"
+ },
+ "type": "original",
+ "vendor": "恒格电子",
+ "vendor_full": "",
+ "year": null
+}

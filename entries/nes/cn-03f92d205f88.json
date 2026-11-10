@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E0DEFC9B",
+   "name": "荣丰中英文学习卡(简)[荣丰](CN)[ETC](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "genre": null,
+ "group": "荣丰中英文学习卡",
+ "id": "cn-03f92d205f88",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "荣丰中英文学习卡"
+ },
+ "type": "hack",
+ "vendor": "荣丰",
+ "vendor_full": "",
+ "year": null
+}

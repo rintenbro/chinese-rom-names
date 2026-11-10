@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nds/cn-110fa2b276f6/title.png"
+ },
+ "files": [
+  {
+   "crc32": "42ADB527",
+   "name": "美少女麻将 封印九尾狐Remix 邪恶鬼文改版(JP)(鬼文&隼龙)(512Mb).nds",
+   "size": 34538832
+  }
+ ],
+ "genre": null,
+ "group": "美少女麻将 封印九尾狐Remix 邪恶鬼文改版",
+ "id": "cn-110fa2b276f6",
+ "layer": "self",
+ "original": null,
+ "platform": "nds",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "美少女麻将 封印九尾狐Remix 邪恶鬼文改版"
+ },
+ "type": "hack",
+ "vendor": "鬼文&隼龙",
+ "vendor_full": "",
+ "year": null
+}

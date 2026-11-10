@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "288A7A2F",
+   "name": "剑侠情缘(简)(修正版)(外星科技+星夜之幻)(8Mb).gbc",
+   "size": 1048576
+  }
+ ],
+ "genre": null,
+ "group": "剑侠情缘",
+ "id": "cn-deb5e3c1576f",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "剑侠情缘"
+ },
+ "type": "original",
+ "vendor": "外星科技+星夜之幻",
+ "vendor_full": "",
+ "year": null
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "26E9EE8F",
+   "name": "龙珠Z 舞空烈战 AI汉化版(简)(玩vr乒乓的汤姆)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Dragon Ball Z - Bukuu Ressen",
+ "id": "ver-nds-26e9ee8f",
+ "layer": "verified",
+ "original": {
+  "crc32": "9EEA277C",
+  "no_intro_name": "Dragon Ball Z - Bukuu Ressen (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Dragon Ball Z - Bukuu Ressen (Japan)",
+  "zh-Hans": "龙珠Z 舞空烈战 AI汉化版"
+ },
+ "vendor": "",
+ "version": ""
+}

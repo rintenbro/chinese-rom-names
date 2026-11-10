@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B99AB620",
+   "name": "蓝龙PLUS 不死机修正版(JP)(CG汉化组)(512Mb).nds",
+   "size": 65761356
+  }
+ ],
+ "group": "Blue Dragon Plus",
+ "id": "ver-nds-b99ab620",
+ "layer": "verified",
+ "original": {
+  "crc32": "C7B76136",
+  "no_intro_name": "Blue Dragon Plus (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Blue Dragon Plus (Japan)",
+  "zh-Hans": "蓝龙PLUS 不死机修正版"
+ },
+ "vendor": "CG汉化组",
+ "version": ""
+}

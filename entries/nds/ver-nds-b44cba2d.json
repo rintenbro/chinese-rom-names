@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B44CBA2D",
+   "name": "风之咏叹调的迷宫 080520(JP)(罗伊sd)(128Mb).nds",
+   "size": 16777216
+  }
+ ],
+ "group": "Dungeon of Windaria",
+ "id": "ver-nds-b44cba2d",
+ "layer": "verified",
+ "original": {
+  "crc32": "88854EEB",
+  "no_intro_name": "Dungeon of Windaria (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Dungeon of Windaria (Japan)",
+  "zh-Hans": "风之咏叹调的迷宫 080520"
+ },
+ "vendor": "",
+ "version": ""
+}

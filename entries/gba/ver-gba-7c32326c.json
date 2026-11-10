@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7C32326C",
+   "name": "塞尔达传说 - 缩小帽[天使汉化组](繁)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Zelda no Densetsu - Fushigi no Boushi",
+ "id": "ver-gba-7c32326c",
+ "layer": "verified",
+ "original": {
+  "crc32": "6CE771A5",
+  "no_intro_name": "Zelda no Densetsu - Fushigi no Boushi (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Zelda no Densetsu - Fushigi no Boushi (Japan)",
+  "zh-Hans": "塞尔达传说 - 缩小帽"
+ },
+ "vendor": "天使汉化组",
+ "version": ""
+}

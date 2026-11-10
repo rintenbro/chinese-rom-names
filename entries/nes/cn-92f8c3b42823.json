@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4C850AC8",
+   "name": "口袋怪兽2(简)[恒格电子](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "genre": null,
+ "group": "口袋怪兽2",
+ "id": "cn-92f8c3b42823",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "口袋怪兽2"
+ },
+ "type": "original",
+ "vendor": "恒格电子",
+ "vendor_full": "",
+ "year": null
+}

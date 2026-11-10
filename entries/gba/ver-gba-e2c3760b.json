@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E2C3760B",
+   "name": "心跳烹饪系列2 - 美味厨房 - 绝妙便当[恒星月](Beta)(简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Dokidoki Cooking Series 2 - Gourmet Kitchen - Suteki na Obentou",
+ "id": "ver-gba-e2c3760b",
+ "layer": "verified",
+ "original": {
+  "crc32": "08DFC956",
+  "no_intro_name": "Dokidoki Cooking Series 2 - Gourmet Kitchen - Suteki na Obentou (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Dokidoki Cooking Series 2 - Gourmet Kitchen - Suteki na Obentou (Japan)",
+  "zh-Hans": "心跳烹饪系列2 - 美味厨房 - 绝妙便当"
+ },
+ "vendor": "恒星月",
+ "version": ""
+}

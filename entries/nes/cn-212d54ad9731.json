@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3FA68B56",
+   "name": "真三国无双2(简)[奔升](JP)[SLG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "genre": null,
+ "group": "真三国无双2",
+ "id": "cn-212d54ad9731",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "真三国无双2"
+ },
+ "type": "original",
+ "vendor": "奔升",
+ "vendor_full": "",
+ "year": null
+}

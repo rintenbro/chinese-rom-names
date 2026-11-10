@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0CD241A5",
+   "name": "马里奥&路易RPG3(JP)(红帽子绿帽子临时汉化组)(1024Mb).nds",
+   "size": 94702592
+  }
+ ],
+ "group": "Mario & Luigi RPG 3!!!",
+ "id": "ver-nds-0cd241a5",
+ "layer": "verified",
+ "original": {
+  "crc32": "3E2094C1",
+  "no_intro_name": "Mario & Luigi RPG 3!!! (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Mario & Luigi RPG 3!!! (Japan)",
+  "zh-Hans": "马里奥&路易RPG3"
+ },
+ "vendor": "红帽子绿帽子临时汉化组",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5B489E88",
+   "name": "拿破仑(12.24最终版)[Advance-002](简)(JP)(72Mb).gba",
+   "size": 9437184
+  }
+ ],
+ "group": "Napoleon",
+ "id": "ver-gba-5b489e88",
+ "layer": "verified",
+ "original": {
+  "crc32": "FA016764",
+  "no_intro_name": "Napoleon (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Napoleon (Japan)",
+  "zh-Hans": "拿破仑"
+ },
+ "vendor": "Advance-002",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "292C2E97",
+   "name": "大金刚 - 摇摆之王[Flyeyes](简)(US)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "DK - King of Swing",
+ "id": "ver-gba-292c2e97",
+ "layer": "verified",
+ "original": {
+  "crc32": "D610B239",
+  "no_intro_name": "DK - King of Swing (USA)",
+  "region": "USA",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "DK - King of Swing (USA)",
+  "zh-Hans": "大金刚 - 摇摆之王"
+ },
+ "vendor": "Flyeyes",
+ "version": ""
+}

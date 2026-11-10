@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0082D267",
+   "name": "怪兽传说(US)(临时有爱汉化组)(512Mb).nds",
+   "size": 41288280
+  }
+ ],
+ "group": "Monster Tale",
+ "id": "ver-nds-0082d267",
+ "layer": "verified",
+ "original": {
+  "crc32": "7C200814",
+  "no_intro_name": "Monster Tale (USA)",
+  "region": "USA",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Monster Tale (USA)",
+  "zh-Hans": "怪兽传说"
+ },
+ "vendor": "临时有爱汉化组",
+ "version": ""
+}

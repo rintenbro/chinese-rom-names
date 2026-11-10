@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A686C438",
+   "name": "十面埋伏 英雄篇(简)(ankos+babypkzhu+taizou)(8Mb).gbc",
+   "size": 1048576
+  }
+ ],
+ "genre": null,
+ "group": "十面埋伏 英雄篇",
+ "id": "cn-95e6681c872a",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "十面埋伏 英雄篇"
+ },
+ "type": "original",
+ "vendor": "ankos+babypkzhu+taizou",
+ "vendor_full": "",
+ "year": null
+}

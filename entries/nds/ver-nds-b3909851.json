@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B3909851",
+   "name": "代号基亚斯 反叛的鲁鲁修(JP)(DN汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Code Geass - Hangyaku no Lelouch",
+ "id": "ver-nds-b3909851",
+ "layer": "verified",
+ "original": {
+  "crc32": "BF893742",
+  "no_intro_name": "Code Geass - Hangyaku no Lelouch (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Code Geass - Hangyaku no Lelouch (Japan)",
+  "zh-Hans": "代号基亚斯 反叛的鲁鲁修"
+ },
+ "vendor": "DN汉化组",
+ "version": ""
+}

@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "656965E7",
+   "name": "美少女梦工厂(繁)[圣谦](CN)[AVG](12Mb).unf",
+   "size": 1573019
+  }
+ ],
+ "genre": null,
+ "group": "美少女梦工厂",
+ "id": "cn-0f1338944fec",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "美少女梦工厂"
+ },
+ "type": "original",
+ "vendor": "圣谦",
+ "vendor_full": "",
+ "year": null
+}

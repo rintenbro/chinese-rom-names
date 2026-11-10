@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BD3B6A84",
+   "name": "目标！甲子园(JP)(APEX汉化组)(64Mb).nds",
+   "size": 8388608
+  }
+ ],
+ "group": "Mezase! Koushien",
+ "id": "ver-nds-bd3b6a84",
+ "layer": "verified",
+ "original": {
+  "crc32": "2C03851B",
+  "no_intro_name": "Mezase! Koushien (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Mezase! Koushien (Japan)",
+  "zh-Hans": "目标！甲子园"
+ },
+ "vendor": "APEX汉化组",
+ "version": ""
+}

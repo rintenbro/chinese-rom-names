@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F31B20AF",
+   "name": "异次元敌人[Wind Flowers](简)(US)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "CIMA - The Enemy",
+ "id": "ver-gba-f31b20af",
+ "layer": "verified",
+ "original": {
+  "crc32": "EBD928ED",
+  "no_intro_name": "CIMA - The Enemy (USA)",
+  "region": "USA",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "CIMA - The Enemy (USA)",
+  "zh-Hans": "异次元敌人"
+ },
+ "vendor": "Wind Flowers",
+ "version": ""
+}

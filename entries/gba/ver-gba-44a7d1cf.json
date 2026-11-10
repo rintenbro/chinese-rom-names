@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "44A7D1CF",
+   "name": "阴阳大战记 零式[Advance汉化组](v0.6)(简)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Onmyou Taisenki - Zeroshiki",
+ "id": "ver-gba-44a7d1cf",
+ "layer": "verified",
+ "original": {
+  "crc32": "66C29472",
+  "no_intro_name": "Onmyou Taisenki - Zeroshiki (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Onmyou Taisenki - Zeroshiki (Japan)",
+  "zh-Hans": "阴阳大战记 零式"
+ },
+ "vendor": "Advance汉化组",
+ "version": "v0.6"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D82FA025",
+   "name": "大战略DS(JP)(PGCG汉化组)(512Mb).nds",
+   "size": 40417204
+  }
+ ],
+ "group": "Daisenryaku DS - Great Strategy",
+ "id": "ver-nds-d82fa025",
+ "layer": "verified",
+ "original": {
+  "crc32": "899B5BFC",
+  "no_intro_name": "Daisenryaku DS - Great Strategy (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Daisenryaku DS - Great Strategy (Japan)",
+  "zh-Hans": "大战略DS"
+ },
+ "vendor": "PGCG汉化组",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FE1ADCA1",
+   "name": "火影忍者 - 最强忍者大结集2[CGP](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Naruto - Saikyou Ninja Daikesshuu 2",
+ "id": "ver-gba-fe1adca1",
+ "layer": "verified",
+ "original": {
+  "crc32": "B3D75CE1",
+  "no_intro_name": "Naruto - Saikyou Ninja Daikesshuu 2 (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Naruto - Saikyou Ninja Daikesshuu 2 (Japan)",
+  "zh-Hans": "火影忍者 - 最强忍者大结集2"
+ },
+ "vendor": "",
+ "version": ""
+}

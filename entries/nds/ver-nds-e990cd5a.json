@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E990CD5A",
+   "name": "钢之羽(简)(JP)(巴士汉化组)(512Mb).nds",
+   "size": 66870272
+  }
+ ],
+ "group": "Iron Feather",
+ "id": "ver-nds-e990cd5a",
+ "layer": "verified",
+ "original": {
+  "crc32": "337B8394",
+  "no_intro_name": "Iron Feather (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Iron Feather (Japan)",
+  "zh-Hans": "钢之羽"
+ },
+ "vendor": "巴士汉化组",
+ "version": ""
+}

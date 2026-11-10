@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5116A665",
+   "name": "神游 番茄酱王国大冒险[未发售](简)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Fanqiejiang Wangguo Da Maoxian",
+ "id": "ver-gba-5116a665",
+ "layer": "verified",
+ "original": {
+  "crc32": "5116A665",
+  "no_intro_name": "Fanqiejiang Wangguo Da Maoxian (China) (Proto)",
+  "region": "China",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Fanqiejiang Wangguo Da Maoxian (China) (Proto)",
+  "zh-Hans": "神游 番茄酱王国大冒险"
+ },
+ "vendor": "未发售",
+ "version": ""
+}

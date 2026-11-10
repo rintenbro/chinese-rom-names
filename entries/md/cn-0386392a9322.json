@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C24D063B",
+   "name": "大航海时代2(加强版)(v1.9F5修正2)(简繁)(意志之路)(32Mb).BIN",
+   "size": 4194304
+  }
+ ],
+ "genre": null,
+ "group": "大航海时代2",
+ "id": "cn-0386392a9322",
+ "layer": "self",
+ "original": null,
+ "platform": "md",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "大航海时代2"
+ },
+ "type": "hack",
+ "vendor": "未知",
+ "vendor_full": "",
+ "year": null
+}

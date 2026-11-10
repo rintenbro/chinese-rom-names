@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3EA4AE8B",
+   "name": "降魔灵符传 贰 黑屏修正版(简)(JP)(GV胜利汉化组)(512Mb).nds",
+   "size": 47374720
+  }
+ ],
+ "group": "Gouma Reifu Den Izuna Ni",
+ "id": "ver-nds-3ea4ae8b",
+ "layer": "verified",
+ "original": {
+  "crc32": "3D1DACE9",
+  "no_intro_name": "Gouma Reifu Den Izuna Ni (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Gouma Reifu Den Izuna Ni (Japan)",
+  "zh-Hans": "降魔灵符传 贰 黑屏修正版"
+ },
+ "vendor": "GV胜利汉化组",
+ "version": ""
+}

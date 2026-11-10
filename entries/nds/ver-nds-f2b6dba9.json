@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F2B6DBA9",
+   "name": "TAO 魔物之塔与魔法之卵(JP)(NdsBBS汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Tao - Mamono no Tou to Mahou no Tamago",
+ "id": "ver-nds-f2b6dba9",
+ "layer": "verified",
+ "original": {
+  "crc32": "D5C6F870",
+  "no_intro_name": "Tao - Mamono no Tou to Mahou no Tamago (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Tao - Mamono no Tou to Mahou no Tamago (Japan)",
+  "zh-Hans": "TAO 魔物之塔与魔法之卵"
+ },
+ "vendor": "NdsBBS汉化组",
+ "version": ""
+}

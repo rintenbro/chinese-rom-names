@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "835D80F9",
+   "name": "我爱海豚(繁)(JP)(的士汉化组)(256Mb).nds",
+   "size": 24059432
+  }
+ ],
+ "group": "I Love Dolphin",
+ "id": "ver-nds-835d80f9",
+ "layer": "verified",
+ "original": {
+  "crc32": "436471DF",
+  "no_intro_name": "I Love Dolphin (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "I Love Dolphin (Japan)",
+  "zh-Hans": "我爱海豚"
+ },
+ "vendor": "的士汉化组",
+ "version": ""
+}

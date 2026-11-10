@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C73B43AE",
+   "name": "幻想水浒传 黄道之轮(JP)(ACG汉化组)(-2048Mb).nds",
+   "size": 255324896
+  }
+ ],
+ "group": "Gensou Suikoden - Tierkreis",
+ "id": "ver-nds-c73b43ae",
+ "layer": "verified",
+ "original": {
+  "crc32": "C18565FE",
+  "no_intro_name": "Gensou Suikoden - Tierkreis (Japan)",
+  "region": "Japan",
+  "size": 268435456
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Gensou Suikoden - Tierkreis (Japan)",
+  "zh-Hans": "幻想水浒传 黄道之轮"
+ },
+ "vendor": "ACG汉化组",
+ "version": ""
+}

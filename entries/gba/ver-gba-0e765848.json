@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0E765848",
+   "name": "蜘蛛侠 - 纽约之战[Advance-005](简)(JP)(130.44Mb).gba",
+   "size": 17097216
+  }
+ ],
+ "group": "Spider-Man - Battle for New York",
+ "id": "ver-gba-0e765848",
+ "layer": "verified",
+ "original": {
+  "crc32": "AD2C404C",
+  "no_intro_name": "Spider-Man - Battle for New York (Europe) (En,Fr,De,Es,It)",
+  "region": "Europe",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Spider-Man - Battle for New York (Europe) (En,Fr,De,Es,It)",
+  "zh-Hans": "蜘蛛侠 - 纽约之战"
+ },
+ "vendor": "Advance-005",
+ "version": ""
+}

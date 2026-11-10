@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "30A2A180",
+   "name": "三国志DS3 汉化测试v13(简)(我也有梦想的foo)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Sangokushi DS 3",
+ "id": "ver-nds-30a2a180",
+ "layer": "verified",
+ "original": {
+  "crc32": "58E981CD",
+  "no_intro_name": "Sangokushi DS 3 (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Sangokushi DS 3 (Japan)",
+  "zh-Hans": "三国志DS3 汉化测试v13"
+ },
+ "vendor": "",
+ "version": ""
+}

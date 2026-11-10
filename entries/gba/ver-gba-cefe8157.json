@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CEFE8157",
+   "name": "超级机器人大战J[星组+罗伊SD](v1.0+乱码修正)(简)(JP)(132Mb).gba",
+   "size": 17183552
+  }
+ ],
+ "group": "Super Robot Taisen J",
+ "id": "ver-gba-cefe8157",
+ "layer": "verified",
+ "original": {
+  "crc32": "C956FD37",
+  "no_intro_name": "Super Robot Taisen J (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Super Robot Taisen J (Japan)",
+  "zh-Hans": "超级机器人大战J"
+ },
+ "vendor": "星组+罗伊SD",
+ "version": "v1.0"
+}

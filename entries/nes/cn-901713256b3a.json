@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "71BFEC8A",
+   "name": "台湾花牌麻雀(繁)[圣谦](CN)[TAB](0.37Mb).nes",
+   "size": 49168
+  }
+ ],
+ "genre": null,
+ "group": "台湾花牌麻雀",
+ "id": "cn-901713256b3a",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "台湾花牌麻雀"
+ },
+ "type": "original",
+ "vendor": "圣谦",
+ "vendor_full": "",
+ "year": null
+}

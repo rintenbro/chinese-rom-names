@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F2294B66",
+   "name": "蚂蚁王国 4.23(EU)(小黑屋汉化组)(128Mb).nds",
+   "size": 14176964
+  }
+ ],
+ "group": "Ant Nation",
+ "id": "ver-nds-f2294b66",
+ "layer": "verified",
+ "original": {
+  "crc32": "00F7A863",
+  "no_intro_name": "Ant Nation (Europe) (En,Fr,De,Es,It)",
+  "region": "Europe",
+  "size": 16777216
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Ant Nation (Europe) (En,Fr,De,Es,It)",
+  "zh-Hans": "蚂蚁王国 4.23"
+ },
+ "vendor": "小黑屋汉化组",
+ "version": ""
+}

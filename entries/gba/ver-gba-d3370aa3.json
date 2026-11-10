@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D3370AA3",
+   "name": "魔法假期[Advance汉化组](v1.1)(简)(96Mb).gba",
+   "size": 11764864
+  }
+ ],
+ "group": "Magical Vacation",
+ "id": "ver-gba-d3370aa3",
+ "layer": "verified",
+ "original": {
+  "crc32": "59CBE914",
+  "no_intro_name": "Magical Vacation (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Magical Vacation (Japan)",
+  "zh-Hans": "魔法假期"
+ },
+ "vendor": "Advance汉化组",
+ "version": "v1.1"
+}

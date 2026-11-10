@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DD5507E8",
+   "name": "口袋妖怪 - 红宝石[RSC汉化组](美版v1.2汉化+美版标题美术风格+中文名v2)(简)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Pokemon - Ruby Version",
+ "id": "ver-gba-dd5507e8",
+ "layer": "verified",
+ "original": {
+  "crc32": "F0815EE7",
+  "no_intro_name": "Pokemon - Ruby Version (USA, Europe)",
+  "region": "USA",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Pokemon - Ruby Version (USA, Europe)",
+  "zh-Hans": "口袋妖怪 - 红宝石"
+ },
+ "vendor": "RSC汉化组",
+ "version": ""
+}

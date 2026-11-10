@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "979D4A8E",
+   "name": "MXMDHTWO学习卡(简)[小天才](CN)[ETC](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "MXMDHTWO学习卡",
+ "id": "cn-f57ef9cbc7e0",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "MXMDHTWO学习卡"
+ },
+ "type": "hack",
+ "vendor": "小天才",
+ "vendor_full": "",
+ "year": null
+}

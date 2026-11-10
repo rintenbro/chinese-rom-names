@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DE9AAD2B",
+   "name": "重装机兵3(JP)(泛游系&游趣星&α聯合漢化組)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Metal Max 3",
+ "id": "ver-nds-de9aad2b",
+ "layer": "verified",
+ "original": {
+  "crc32": "03440034",
+  "no_intro_name": "Metal Max 3 (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Metal Max 3 (Japan)",
+  "zh-Hans": "重装机兵3"
+ },
+ "vendor": "泛游系&游趣星&α聯合漢化組",
+ "version": ""
+}

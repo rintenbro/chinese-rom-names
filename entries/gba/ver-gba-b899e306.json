@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B899E306",
+   "name": "召唤之夜 - 铸剑物语[SwordcraftStory](v1.0) (Fix)(简)(JP)(80Mb).gba",
+   "size": 10485760
+  }
+ ],
+ "group": "Summon Night - Craft Sword Monogatari",
+ "id": "ver-gba-b899e306",
+ "layer": "verified",
+ "original": {
+  "crc32": "A5D38236",
+  "no_intro_name": "Summon Night - Craft Sword Monogatari (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Summon Night - Craft Sword Monogatari (Japan)",
+  "zh-Hans": "召唤之夜 - 铸剑物语"
+ },
+ "vendor": "Fix / SwordcraftStory",
+ "version": "v1.0"
+}

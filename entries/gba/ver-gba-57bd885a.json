@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "57BD885A",
+   "name": "通灵王2[Advance汉化组](v1.0)(简)(145Mb).gba",
+   "size": 18986304
+  }
+ ],
+ "group": "Shaman King - Master of Spirits 2",
+ "id": "ver-gba-57bd885a",
+ "layer": "verified",
+ "original": {
+  "crc32": "201E3412",
+  "no_intro_name": "Shaman King - Master of Spirits 2 (USA)",
+  "region": "USA",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Shaman King - Master of Spirits 2 (USA)",
+  "zh-Hans": "通灵王2"
+ },
+ "vendor": "Advance汉化组",
+ "version": "v1.0"
+}

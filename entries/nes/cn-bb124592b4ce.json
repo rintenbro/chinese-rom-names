@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "301CE43A",
+   "name": "真本西游记(繁)[Asder](CN)[FTG](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "genre": null,
+ "group": "真本西游记",
+ "id": "cn-bb124592b4ce",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "真本西游记"
+ },
+ "type": "original",
+ "vendor": "Asder",
+ "vendor_full": "",
+ "year": null
+}

@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-7a6af965094f/title.png"
+ },
+ "files": [
+  {
+   "crc32": "DAE93148",
+   "name": "文字广场+排雷(简)[未知](CN)[PUZ](2Mb).unf",
+   "size": 262249
+  }
+ ],
+ "genre": null,
+ "group": "文字广场+排雷",
+ "id": "cn-7a6af965094f",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "文字广场+排雷"
+ },
+ "type": "hack",
+ "vendor": "未知",
+ "vendor_full": "",
+ "year": null
+}

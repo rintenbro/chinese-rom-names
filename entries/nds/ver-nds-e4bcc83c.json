@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E4BCC83C",
+   "name": "幽灵侦探 完美汉化仿原字体版(JP)(逆转ACE&TGB汉化工作室)(1024Mb).nds",
+   "size": 119654848
+  }
+ ],
+ "group": "Ghost Trick",
+ "id": "ver-nds-e4bcc83c",
+ "layer": "verified",
+ "original": {
+  "crc32": "105DDD9E",
+  "no_intro_name": "Ghost Trick (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Ghost Trick (Japan)",
+  "zh-Hans": "幽灵侦探 完美汉化仿原字体版"
+ },
+ "vendor": "逆转ACE&TGB汉化工作室",
+ "version": ""
+}

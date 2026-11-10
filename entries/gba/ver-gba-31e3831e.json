@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "31E3831E",
+   "name": "超级机器人大战R.gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Super Robot Taisen R",
+ "id": "ver-gba-31e3831e",
+ "layer": "verified",
+ "original": {
+  "crc32": "DF7F91BC",
+  "no_intro_name": "Super Robot Taisen R (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Super Robot Taisen R (Japan)",
+  "zh-Hans": "超级机器人大战R"
+ },
+ "vendor": "",
+ "version": ""
+}

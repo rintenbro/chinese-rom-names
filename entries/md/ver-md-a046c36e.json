@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A046C36E",
+   "name": "火枪英雄(2018新dump)(16Mb).bin",
+   "size": 2097152
+  }
+ ],
+ "group": "Huoqiang Yingxiong",
+ "id": "ver-md-a046c36e",
+ "layer": "verified",
+ "original": {
+  "crc32": "A046C36E",
+  "no_intro_name": "Huoqiang Yingxiong (China) (Pirate)",
+  "region": "China",
+  "size": 2097152
+ },
+ "platform": "md",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Huoqiang Yingxiong (China) (Pirate)",
+  "zh-Hans": "火枪英雄"
+ },
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "159FF629",
+   "name": "好狗狗星系(星际好狗)(v1.3)(官中)(简)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "genre": null,
+ "group": "好狗狗星系",
+ "id": "cn-a400d757e11c",
+ "layer": "self",
+ "original": null,
+ "platform": "gba",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "好狗狗星系"
+ },
+ "type": "original",
+ "vendor": "未知",
+ "vendor_full": "",
+ "year": null
+}

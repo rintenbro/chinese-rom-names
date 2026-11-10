@@ -1,0 +1,39 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3DB13F04",
+   "name": "口袋精灵 金(简)[火星电子+147201688](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  },
+  {
+   "crc32": "88A629EA",
+   "name": "口袋精灵 金(繁)[火星电子](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  },
+  {
+   "crc32": "A111E97D",
+   "name": "口袋精灵 金(解密版)(简)[外星科技+WXN](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "genre": null,
+ "group": "口袋精灵 金",
+ "id": "cn-11c9f39359bd",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "口袋精灵 金"
+ },
+ "type": "original",
+ "vendor": "火星电子+147201688",
+ "vendor_full": "",
+ "year": null
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "724DB1BA",
+   "name": "使命召唤4 现代战争 0.74(US)(Mobile)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Call of Duty 4 - Modern Warfare",
+ "id": "ver-nds-724db1ba",
+ "layer": "verified",
+ "original": {
+  "crc32": "E9DCBAFC",
+  "no_intro_name": "Call of Duty 4 - Modern Warfare (USA)",
+  "region": "USA",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Call of Duty 4 - Modern Warfare (USA)",
+  "zh-Hans": "使命召唤4 现代战争 0.74"
+ },
+ "vendor": "Mobile",
+ "version": ""
+}

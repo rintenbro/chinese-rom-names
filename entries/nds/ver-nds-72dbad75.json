@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "72DBAD75",
+   "name": "牧场物语 闪耀太阳与伙伴们 1.01 幼圆FIX(JP)(APEX汉化组)(512Mb).nds",
+   "size": 63106832
+  }
+ ],
+ "group": "Bokujou Monogatari - KiraKira Taiyou to Nakama-tachi",
+ "id": "ver-nds-72dbad75",
+ "layer": "verified",
+ "original": {
+  "crc32": "99EC5726",
+  "no_intro_name": "Bokujou Monogatari - KiraKira Taiyou to Nakama-tachi (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Bokujou Monogatari - KiraKira Taiyou to Nakama-tachi (Japan)",
+  "zh-Hans": "牧场物语 闪耀太阳与伙伴们 1.01 幼圆FIX"
+ },
+ "vendor": "APEX汉化组",
+ "version": ""
+}

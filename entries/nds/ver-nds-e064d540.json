@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E064D540",
+   "name": "超执刀2 全文本汉化版(JP)(joyful)(512Mb).nds",
+   "size": 56658204
+  }
+ ],
+ "group": "Kyuukyuu Kyuumei Caduceus 2",
+ "id": "ver-nds-e064d540",
+ "layer": "verified",
+ "original": {
+  "crc32": "41081D21",
+  "no_intro_name": "Kyuukyuu Kyuumei Caduceus 2 (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Kyuukyuu Kyuumei Caduceus 2 (Japan)",
+  "zh-Hans": "超执刀2 全文本汉化版"
+ },
+ "vendor": "joyful",
+ "version": ""
+}

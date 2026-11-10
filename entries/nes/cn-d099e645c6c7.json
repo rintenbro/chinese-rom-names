@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1C928C17",
+   "name": "拳霸4(繁)[恒格电子](JP)[SLG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "拳霸4",
+ "id": "cn-d099e645c6c7",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "拳霸4"
+ },
+ "type": "original",
+ "vendor": "恒格电子",
+ "vendor_full": "",
+ "year": null
+}

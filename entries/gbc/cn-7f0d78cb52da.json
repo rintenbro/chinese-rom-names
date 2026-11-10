@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5FF4F1FC",
+   "name": "幻灵游侠 (简) (外星科技).gbc",
+   "size": 1048576
+  }
+ ],
+ "genre": null,
+ "group": "幻灵游侠",
+ "id": "cn-7f0d78cb52da",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "幻灵游侠"
+ },
+ "type": "original",
+ "vendor": "未知",
+ "vendor_full": "",
+ "year": null
+}

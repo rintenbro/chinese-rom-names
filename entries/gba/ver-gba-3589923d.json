@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3589923D",
+   "name": "口袋妖怪 - 火红[口袋群星SP](v20120723-3)[简](US)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Pokemon - FireRed Version",
+ "id": "ver-gba-3589923d",
+ "layer": "verified",
+ "original": {
+  "crc32": "DD88761C",
+  "no_intro_name": "Pokemon - FireRed Version (USA, Europe)",
+  "region": "USA",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Pokemon - FireRed Version (USA, Europe)",
+  "zh-Hans": "口袋妖怪 - 火红"
+ },
+ "vendor": "v20120723-3 / 口袋群星SP",
+ "version": ""
+}

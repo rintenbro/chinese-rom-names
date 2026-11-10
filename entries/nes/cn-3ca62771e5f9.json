@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6126DB49",
+   "name": "龙珠英雄(简)[外星科技](JP)[SLG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "genre": null,
+ "group": "龙珠英雄",
+ "id": "cn-3ca62771e5f9",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "龙珠英雄"
+ },
+ "type": "original",
+ "vendor": "外星科技",
+ "vendor_full": "",
+ "year": null
+}

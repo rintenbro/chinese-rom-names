@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "55EA3899",
+   "name": "无限边境 超级机器人大战OG传奇(简)(JP)(ACG汉化组)(1024Mb).nds",
+   "size": 111948392
+  }
+ ],
+ "group": "Mugen no Frontier - Super Robot Taisen OG Saga",
+ "id": "ver-nds-55ea3899",
+ "layer": "verified",
+ "original": {
+  "crc32": "CF698077",
+  "no_intro_name": "Mugen no Frontier - Super Robot Taisen OG Saga (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Mugen no Frontier - Super Robot Taisen OG Saga (Japan)",
+  "zh-Hans": "无限边境 超级机器人大战OG传奇"
+ },
+ "vendor": "ACG汉化组",
+ "version": ""
+}

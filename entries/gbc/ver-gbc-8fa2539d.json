@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8FA2539D",
+   "name": "e时代热血格斗 (繁) (五合企业).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "e'Fighter HOT",
+ "id": "ver-gbc-8fa2539d",
+ "layer": "verified",
+ "original": {
+  "crc32": "8FA2539D",
+  "no_intro_name": "e'Fighter HOT (Taiwan) (En)",
+  "region": "Taiwan",
+  "size": 1048576
+ },
+ "platform": "gbc",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "e'Fighter HOT (Taiwan) (En)",
+  "zh-Hans": "e时代热血格斗"
+ },
+ "vendor": "",
+ "version": ""
+}

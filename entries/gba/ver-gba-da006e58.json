@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DA006E58",
+   "name": "沉默的遗迹 - 四狂神战记[盗版&唐晓东](繁)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Chinmoku no Iseki - Estpolis Gaiden",
+ "id": "ver-gba-da006e58",
+ "layer": "verified",
+ "original": {
+  "crc32": "2C00B4E6",
+  "no_intro_name": "Chinmoku no Iseki - Estpolis Gaiden (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Chinmoku no Iseki - Estpolis Gaiden (Japan)",
+  "zh-Hans": "沉默的遗迹 - 四狂神战记"
+ },
+ "vendor": "盗版&唐晓东",
+ "version": ""
+}

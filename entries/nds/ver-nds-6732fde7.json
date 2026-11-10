@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6732FDE7",
+   "name": "最终幻想3(繁)(US)(NdsBBS汉化组&NDSMAN&LevelUp&天幻网)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Final Fantasy III",
+ "id": "ver-nds-6732fde7",
+ "layer": "verified",
+ "original": {
+  "crc32": "27883409",
+  "no_intro_name": "Final Fantasy III (USA)",
+  "region": "USA",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Final Fantasy III (USA)",
+  "zh-Hans": "最终幻想3"
+ },
+ "vendor": "NdsBBS汉化组&NDSMAN&LevelUp&天幻网",
+ "version": ""
+}

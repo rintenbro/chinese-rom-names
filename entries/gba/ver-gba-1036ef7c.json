@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1036EF7C",
+   "name": "续我们的太阳 - 太阳少年加戈[TGB&逆转Ace&太阳少年](简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Zoku Bokura no Taiyou - Taiyou Shounen Django",
+ "id": "ver-gba-1036ef7c",
+ "layer": "verified",
+ "original": {
+  "crc32": "2804E589",
+  "no_intro_name": "Zoku Bokura no Taiyou - Taiyou Shounen Django (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Zoku Bokura no Taiyou - Taiyou Shounen Django (Japan)",
+  "zh-Hans": "续我们的太阳 - 太阳少年加戈"
+ },
+ "vendor": "TGB&逆转Ace&太阳少年",
+ "version": ""
+}

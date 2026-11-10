@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DAC70F46",
+   "name": "重装机兵2重制版 V0.99(JP)(metal max汉化联盟)(512Mb).nds",
+   "size": 67011632
+  }
+ ],
+ "group": "Metal Max 2 - Reloaded",
+ "id": "ver-nds-dac70f46",
+ "layer": "verified",
+ "original": {
+  "crc32": "4416E3EC",
+  "no_intro_name": "Metal Max 2 - Reloaded (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Metal Max 2 - Reloaded (Japan)",
+  "zh-Hans": "重装机兵2重制版 V0.99"
+ },
+ "vendor": "metal max汉化联盟",
+ "version": ""
+}

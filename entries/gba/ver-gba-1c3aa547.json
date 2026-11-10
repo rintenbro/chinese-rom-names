@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1C3AA547",
+   "name": "网球王子2004 - 时尚之银[天空联盟](简)(JP)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Tennis no Ouji-sama 2004 - Stylish Silver",
+ "id": "ver-gba-1c3aa547",
+ "layer": "verified",
+ "original": {
+  "crc32": "750D579D",
+  "no_intro_name": "Tennis no Ouji-sama 2004 - Stylish Silver (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Tennis no Ouji-sama 2004 - Stylish Silver (Japan)",
+  "zh-Hans": "网球王子2004 - 时尚之银"
+ },
+ "vendor": "天空联盟",
+ "version": ""
+}

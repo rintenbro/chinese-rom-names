@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DD521A4E",
+   "name": "游戏王 决斗怪兽6 专家版2[Advance汉化组](v1.1)(简)(144Mb).gba",
+   "size": 18951456
+  }
+ ],
+ "group": "Yu-Gi-Oh! Duel Monsters 6 Expert 2",
+ "id": "ver-gba-dd521a4e",
+ "layer": "verified",
+ "original": {
+  "crc32": "A7054D60",
+  "no_intro_name": "Yu-Gi-Oh! Duel Monsters 6 Expert 2 (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Yu-Gi-Oh! Duel Monsters 6 Expert 2 (Japan)",
+  "zh-Hans": "游戏王 决斗怪兽6 专家版2"
+ },
+ "vendor": "Advance汉化组",
+ "version": "v1.1"
+}

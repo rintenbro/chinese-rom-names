@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E7F9E8C7",
+   "name": "Hello_Kitty的帕库帕库&逻辑思维(JP)(李剑)(128Mb).nds",
+   "size": 16777216
+  }
+ ],
+ "group": "Hello Kitty no Paku Paku & Logic",
+ "id": "ver-nds-e7f9e8c7",
+ "layer": "verified",
+ "original": {
+  "crc32": "FF0F80DD",
+  "no_intro_name": "Hello Kitty no Paku Paku & Logic (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Hello Kitty no Paku Paku & Logic (Japan)",
+  "zh-Hans": "Hello_Kitty的帕库帕库&逻辑思维"
+ },
+ "vendor": "",
+ "version": ""
+}

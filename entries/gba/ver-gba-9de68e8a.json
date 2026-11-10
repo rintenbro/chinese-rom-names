@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9DE68E8A",
+   "name": "龙珠 - 大冒险[TGB](v2.172)(简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Dragon Ball - Advance Adventure",
+ "id": "ver-gba-9de68e8a",
+ "layer": "verified",
+ "original": {
+  "crc32": "8A06337A",
+  "no_intro_name": "Dragon Ball - Advance Adventure (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Dragon Ball - Advance Adventure (Japan)",
+  "zh-Hans": "龙珠 - 大冒险"
+ },
+ "vendor": "",
+ "version": "v2.172"
+}

@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F84D726C",
+   "name": "月影传说(简)(外星科技)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "genre": null,
+ "group": "月影传说",
+ "id": "cn-ae75bfd5a83f",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "月影传说"
+ },
+ "type": "original",
+ "vendor": "未知",
+ "vendor_full": "",
+ "year": null
+}

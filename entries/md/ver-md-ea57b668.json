@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "EA57B668",
+   "name": "吞食天地3 (简) (熊组繁转简)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Tunshi Tiandi III",
+ "id": "ver-md-ea57b668",
+ "layer": "verified",
+ "original": {
+  "crc32": "EA57B668",
+  "no_intro_name": "Tunshi Tiandi III (Taiwan) (Simplified)",
+  "region": "Taiwan",
+  "size": 2097152
+ },
+ "platform": "md",
+ "script": "简繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Tunshi Tiandi III (Taiwan) (Simplified)",
+  "zh-Hans": "吞食天地3"
+ },
+ "vendor": "",
+ "version": ""
+}

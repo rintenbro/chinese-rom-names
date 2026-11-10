@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "253EF788",
+   "name": "忘却的旋律[1d4444+CLARK.H](v1.0)(简)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Boukyaku no Senritsu",
+ "id": "ver-gba-253ef788",
+ "layer": "verified",
+ "original": {
+  "crc32": "128EDC4F",
+  "no_intro_name": "Boukyaku no Senritsu (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Boukyaku no Senritsu (Japan)",
+  "zh-Hans": "忘却的旋律"
+ },
+ "vendor": "1d4444+CLARK.H",
+ "version": "v1.0"
+}

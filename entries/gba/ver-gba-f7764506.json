@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F7764506",
+   "name": "网球王子 - 天才少年学院[PGCG](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Tennis no Ouji-sama - Genius Boys Academy",
+ "id": "ver-gba-f7764506",
+ "layer": "verified",
+ "original": {
+  "crc32": "DD244C9A",
+  "no_intro_name": "Tennis no Ouji-sama - Genius Boys Academy (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Tennis no Ouji-sama - Genius Boys Academy (Japan)",
+  "zh-Hans": "网球王子 - 天才少年学院"
+ },
+ "vendor": "",
+ "version": ""
+}

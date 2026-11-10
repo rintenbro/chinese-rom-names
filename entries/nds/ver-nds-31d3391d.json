@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "31D3391D",
+   "name": "冰上公主 完整剧情汉化版(JP)(APEX汉化组)(512Mb).nds",
+   "size": 58272880
+  }
+ ],
+ "group": "Princess on Ice",
+ "id": "ver-nds-31d3391d",
+ "layer": "verified",
+ "original": {
+  "crc32": "E0100D61",
+  "no_intro_name": "Princess on Ice (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Princess on Ice (Japan)",
+  "zh-Hans": "冰上公主 完整剧情汉化版"
+ },
+ "vendor": "APEX汉化组",
+ "version": ""
+}

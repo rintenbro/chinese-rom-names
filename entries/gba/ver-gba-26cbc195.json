@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "26CBC195",
+   "name": "恶魔城 - 晓月圆舞曲[九柳](繁)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Castlevania - Akatsuki no Minuet",
+ "id": "ver-gba-26cbc195",
+ "layer": "verified",
+ "original": {
+  "crc32": "284E3092",
+  "no_intro_name": "Castlevania - Akatsuki no Minuet (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Castlevania - Akatsuki no Minuet (Japan)",
+  "zh-Hans": "恶魔城 - 晓月圆舞曲"
+ },
+ "vendor": "九柳",
+ "version": ""
+}

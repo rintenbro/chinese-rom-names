@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F44AEFBB",
+   "name": "星之卡比超究极豪华版(KS)(可伸缩汉化组)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Hoshi no Kirby Ultra Super Deluxe",
+ "id": "ver-nds-f44aefbb",
+ "layer": "verified",
+ "original": {
+  "crc32": "46342D80",
+  "no_intro_name": "Hoshi no Kirby Ultra Super Deluxe (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Hoshi no Kirby Ultra Super Deluxe (Japan)",
+  "zh-Hans": "星之卡比超究极豪华版"
+ },
+ "vendor": "KS / 可伸缩汉化组",
+ "version": ""
+}

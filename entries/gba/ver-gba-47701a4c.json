@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "47701A4C",
+   "name": "三国志孔明传[Dangfer](完全汉化v1.0)(简)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Sangokushi - Koumeiden",
+ "id": "ver-gba-47701a4c",
+ "layer": "verified",
+ "original": {
+  "crc32": "765043FF",
+  "no_intro_name": "Sangokushi - Koumeiden (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Sangokushi - Koumeiden (Japan)",
+  "zh-Hans": "三国志孔明传"
+ },
+ "vendor": "Dangfer",
+ "version": "v1.0"
+}

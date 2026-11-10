@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3FDBCEEB",
+   "name": "龙珠Z - 舞空斗剧[PGCG](简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Dragon Ball Z - Bukuu Tougeki",
+ "id": "ver-gba-3fdbceeb",
+ "layer": "verified",
+ "original": {
+  "crc32": "6C0F0B86",
+  "no_intro_name": "Dragon Ball Z - Bukuu Tougeki (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Dragon Ball Z - Bukuu Tougeki (Japan)",
+  "zh-Hans": "龙珠Z - 舞空斗剧"
+ },
+ "vendor": "",
+ "version": ""
+}

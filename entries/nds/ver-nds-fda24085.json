@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FDA24085",
+   "name": "滑雪少年DS 派对(JP)(果冻汉化组)(512Mb).nds",
+   "size": 35471104
+  }
+ ],
+ "group": "Snowboard Kids Party",
+ "id": "ver-nds-fda24085",
+ "layer": "verified",
+ "original": {
+  "crc32": "B0757597",
+  "no_intro_name": "Snowboard Kids Party (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Snowboard Kids Party (Japan)",
+  "zh-Hans": "滑雪少年DS 派对"
+ },
+ "vendor": "果冻汉化组",
+ "version": ""
+}

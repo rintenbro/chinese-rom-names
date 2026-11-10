@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-a5d227b20c9a/title.png"
+ },
+ "files": [
+  {
+   "crc32": "8F533E07",
+   "name": "三国志五代 (繁) (星星科技).gbc",
+   "size": 2097152
+  }
+ ],
+ "genre": null,
+ "group": "三国志五代",
+ "id": "cn-a5d227b20c9a",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "三国志五代"
+ },
+ "type": "original",
+ "vendor": "未知",
+ "vendor_full": "",
+ "year": null
+}

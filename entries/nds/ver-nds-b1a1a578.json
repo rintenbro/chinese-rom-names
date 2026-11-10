@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B1A1A578",
+   "name": "樱兰高校男公关部DS 1.0(JP)(游戏饭饭汉化组)(2047.99Mb).nds",
+   "size": 253264424
+  }
+ ],
+ "group": "Ouran Koukou Host Club DS",
+ "id": "ver-nds-b1a1a578",
+ "layer": "verified",
+ "original": {
+  "crc32": "DCA518C9",
+  "no_intro_name": "Ouran Koukou Host Club DS (Japan)",
+  "region": "Japan",
+  "size": 268435456
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Ouran Koukou Host Club DS (Japan)",
+  "zh-Hans": "樱兰高校男公关部DS 1.0"
+ },
+ "vendor": "游戏饭饭汉化组",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "877DDB0E",
+   "name": "铁拳小子[1d4444](v1.0)(简)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Iron Kid",
+ "id": "ver-gba-877ddb0e",
+ "layer": "verified",
+ "original": {
+  "crc32": "326E7A8E",
+  "no_intro_name": "Iron Kid (Korea)",
+  "region": "Korea",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Iron Kid (Korea)",
+  "zh-Hans": "铁拳小子"
+ },
+ "vendor": "1d4444",
+ "version": "v1.0"
+}

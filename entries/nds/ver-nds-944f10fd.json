@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "944F10FD",
+   "name": "重装机兵 钢之季节(JP)(PGCG汉化组)(512Mb).nds",
+   "size": 61921832
+  }
+ ],
+ "group": "Metal Saga - Hagane no Kisetsu",
+ "id": "ver-nds-944f10fd",
+ "layer": "verified",
+ "original": {
+  "crc32": "09D9E5F1",
+  "no_intro_name": "Metal Saga - Hagane no Kisetsu (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Metal Saga - Hagane no Kisetsu (Japan)",
+  "zh-Hans": "重装机兵 钢之季节"
+ },
+ "vendor": "PGCG汉化组",
+ "version": ""
+}

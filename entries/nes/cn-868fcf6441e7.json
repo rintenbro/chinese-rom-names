@@ -1,0 +1,34 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-868fcf6441e7/title.png"
+ },
+ "files": [
+  {
+   "crc32": "B0C1CD73",
+   "name": "魔道士阴谋(v2)(修正版)(简)[外星科技+MS](JP)[SLG](4Mb).nes",
+   "size": 524304
+  },
+  {
+   "crc32": "EBAD56D9",
+   "name": "魔道士阴谋(修正版)(简)[外星科技+姜维第二](JP)[SLG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "魔道士阴谋",
+ "id": "cn-868fcf6441e7",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "魔道士阴谋"
+ },
+ "type": "original",
+ "vendor": "外星科技+MS",
+ "vendor_full": "",
+ "year": null
+}

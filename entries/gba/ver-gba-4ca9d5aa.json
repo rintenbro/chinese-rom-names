@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4CA9D5AA",
+   "name": "高级战争[千岛](简)(US)(37.76Mb).gba",
+   "size": 4949819
+  }
+ ],
+ "group": "Advance Wars",
+ "id": "ver-gba-4ca9d5aa",
+ "layer": "verified",
+ "original": {
+  "crc32": "DBEF116C",
+  "no_intro_name": "Advance Wars (USA)",
+  "region": "USA",
+  "size": 4194304
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Advance Wars (USA)",
+  "zh-Hans": "高级战争"
+ },
+ "vendor": "千岛",
+ "version": ""
+}

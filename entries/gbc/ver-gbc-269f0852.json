@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "269F0852",
+   "name": "古墓丽影 (简) (unknown).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Tomb Raider",
+ "id": "ver-gbc-269f0852",
+ "layer": "verified",
+ "original": {
+  "crc32": "269F0852",
+  "no_intro_name": "Tomb Raider (Taiwan)",
+  "region": "Taiwan",
+  "size": 4194304
+ },
+ "platform": "gbc",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Tomb Raider (Taiwan)",
+  "zh-Hans": "古墓丽影"
+ },
+ "vendor": "unknown",
+ "version": ""
+}

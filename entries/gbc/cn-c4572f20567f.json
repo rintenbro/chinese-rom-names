@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0E732071",
+   "name": "老夫子传奇 (繁) (新特奇).gbc",
+   "size": 4194304
+  }
+ ],
+ "genre": null,
+ "group": "老夫子传奇",
+ "id": "cn-c4572f20567f",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "老夫子传奇"
+ },
+ "type": "original",
+ "vendor": "未知",
+ "vendor_full": "",
+ "year": null
+}

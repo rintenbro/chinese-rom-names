@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5A83F2FF",
+   "name": "怪物召唤士[Fhz](Beta)(简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Monster Summoner",
+ "id": "ver-gba-5a83f2ff",
+ "layer": "verified",
+ "original": {
+  "crc32": "F8A085E2",
+  "no_intro_name": "Monster Summoner (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Monster Summoner (Japan)",
+  "zh-Hans": "怪物召唤士"
+ },
+ "vendor": "Fhz",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7DCBF8CC",
+   "name": "佐贺的超级阿嬷DS(JP)(ACG汉化组)(256Mb).nds",
+   "size": 31548500
+  }
+ ],
+ "group": "Saga no Gabai Baachan DS",
+ "id": "ver-nds-7dcbf8cc",
+ "layer": "verified",
+ "original": {
+  "crc32": "993E92BE",
+  "no_intro_name": "Saga no Gabai Baachan DS (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Saga no Gabai Baachan DS (Japan)",
+  "zh-Hans": "佐贺的超级阿嬷DS"
+ },
+ "vendor": "ACG汉化组",
+ "version": ""
+}

@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "655BFF9D",
+   "name": "仙剑奇侠传 (简) (Hitek).gbc",
+   "size": 4194304
+  }
+ ],
+ "genre": null,
+ "group": "仙剑奇侠传",
+ "id": "cn-170e904f61b1",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "仙剑奇侠传"
+ },
+ "type": "original",
+ "vendor": "Hitek",
+ "vendor_full": "",
+ "year": null
+}

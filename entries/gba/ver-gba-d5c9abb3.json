@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D5C9ABB3",
+   "name": "打野鸡2[廖永新](简)(US)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "Chicken Shoot 2",
+ "id": "ver-gba-d5c9abb3",
+ "layer": "verified",
+ "original": {
+  "crc32": "1DFE38C2",
+  "no_intro_name": "Chicken Shoot 2 (USA)",
+  "region": "USA",
+  "size": 4194304
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Chicken Shoot 2 (USA)",
+  "zh-Hans": "打野鸡2"
+ },
+ "vendor": "廖永新",
+ "version": ""
+}

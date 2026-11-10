@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E992BD81",
+   "name": "模拟人生2 生存游戏(JP)(SJF君)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Sims 2, The - Survival",
+ "id": "ver-nds-e992bd81",
+ "layer": "verified",
+ "original": {
+  "crc32": "22FD6CC4",
+  "no_intro_name": "Sims 2, The - Survival (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Sims 2, The - Survival (Japan)",
+  "zh-Hans": "模拟人生2 生存游戏"
+ },
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "ED901631",
+   "name": "牧场物语 精灵驿站(精灵电台) v1.1(简)(ADVANCE汉化组)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Bokujou Monogatari - Colobockle Station",
+ "id": "ver-nds-ed901631",
+ "layer": "verified",
+ "original": {
+  "crc32": "5A2DC942",
+  "no_intro_name": "Bokujou Monogatari - Colobockle Station (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Bokujou Monogatari - Colobockle Station (Japan)",
+  "zh-Hans": "牧场物语 精灵驿站 v1.1"
+ },
+ "vendor": "ADVANCE汉化组",
+ "version": ""
+}

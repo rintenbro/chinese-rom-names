@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "40F8C757",
+   "name": "世界树迷宫V2(JP)(ACG汉化组)(128Mb).nds",
+   "size": 16249632
+  }
+ ],
+ "group": "Sekaiju no Meikyuu",
+ "id": "ver-nds-40f8c757",
+ "layer": "verified",
+ "original": {
+  "crc32": "EB27DA6E",
+  "no_intro_name": "Sekaiju no Meikyuu (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Sekaiju no Meikyuu (Japan)",
+  "zh-Hans": "世界树迷宫V2"
+ },
+ "vendor": "ACG汉化组",
+ "version": ""
+}

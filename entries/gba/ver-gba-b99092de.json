@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B99092DE",
+   "name": "SD高达G世纪A[Advance汉化组](v1.4)(简)(144Mb).gba",
+   "size": 18973568
+  }
+ ],
+ "group": "SD Gundam G Generation Advance",
+ "id": "ver-gba-b99092de",
+ "layer": "verified",
+ "original": {
+  "crc32": "7DAF215C",
+  "no_intro_name": "SD Gundam G Generation Advance (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "SD Gundam G Generation Advance (Japan)",
+  "zh-Hans": "SD高达G世纪A"
+ },
+ "vendor": "Advance汉化组",
+ "version": "v1.4"
+}

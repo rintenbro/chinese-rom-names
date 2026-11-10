@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DECDF740",
+   "name": "欢乐淘气鼠 (繁) (川普科技)(4Mb).md",
+   "size": 524288
+  }
+ ],
+ "group": "Huanle Taoqi Shu - Smart Mouse",
+ "id": "ver-md-decdf740",
+ "layer": "verified",
+ "original": {
+  "crc32": "DECDF740",
+  "no_intro_name": "Huanle Taoqi Shu - Smart Mouse (Taiwan) (En)",
+  "region": "Taiwan",
+  "size": 524288
+ },
+ "platform": "md",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Huanle Taoqi Shu - Smart Mouse (Taiwan) (En)",
+  "zh-Hans": "欢乐淘气鼠"
+ },
+ "vendor": "",
+ "version": ""
+}

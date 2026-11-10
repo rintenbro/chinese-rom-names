@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "72724849",
+   "name": "强尼的脱出大作战(JP)(YYJoy汉化组)(64Mb).nds",
+   "size": 7440408
+  }
+ ],
+ "group": "Johnny no Dasshutsu Daisakusen",
+ "id": "ver-nds-72724849",
+ "layer": "verified",
+ "original": {
+  "crc32": "76B280BA",
+  "no_intro_name": "Johnny no Dasshutsu Daisakusen (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Johnny no Dasshutsu Daisakusen (Japan)",
+  "zh-Hans": "强尼的脱出大作战"
+ },
+ "vendor": "YYJoy汉化组",
+ "version": ""
+}

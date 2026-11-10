@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "51BFA615",
+   "name": "龙战士[Flyeyes](简)(US)(32.42Mb).gba",
+   "size": 4250264
+  }
+ ],
+ "group": "Breath of Fire",
+ "id": "ver-gba-51bfa615",
+ "layer": "verified",
+ "original": {
+  "crc32": "F06422A8",
+  "no_intro_name": "Breath of Fire (USA)",
+  "region": "USA",
+  "size": 4194304
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Breath of Fire (USA)",
+  "zh-Hans": "龙战士"
+ },
+ "vendor": "Flyeyes",
+ "version": ""
+}

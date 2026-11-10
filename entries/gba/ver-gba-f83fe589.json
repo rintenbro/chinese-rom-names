@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F83FE589",
+   "name": "饲养物语 我的兜虫[流星落月](v1.0)(简)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "Minna no Shiiku Series 1 - Boku no Kabutomushi",
+ "id": "ver-gba-f83fe589",
+ "layer": "verified",
+ "original": {
+  "crc32": "F83FE589",
+  "no_intro_name": "Minna no Shiiku Series 1 - Boku no Kabutomushi (Japan)",
+  "region": "Japan",
+  "size": 4194304
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Minna no Shiiku Series 1 - Boku no Kabutomushi (Japan)",
+  "zh-Hans": "饲养物语 我的兜虫"
+ },
+ "vendor": "流星落月",
+ "version": "v1.0"
+}

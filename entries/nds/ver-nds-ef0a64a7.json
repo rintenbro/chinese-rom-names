@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "EF0A64A7",
+   "name": "任天狗 腊肠犬(US)(YYJoy汉化组)(256Mb).nds",
+   "size": 29101036
+  }
+ ],
+ "group": "Nintendogs - Dachshund & Friends",
+ "id": "ver-nds-ef0a64a7",
+ "layer": "verified",
+ "original": {
+  "crc32": "370D3376",
+  "no_intro_name": "Nintendogs - Dachshund & Friends (USA)",
+  "region": "USA",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Nintendogs - Dachshund & Friends (USA)",
+  "zh-Hans": "任天狗 腊肠犬"
+ },
+ "vendor": "YYJoy汉化组",
+ "version": ""
+}

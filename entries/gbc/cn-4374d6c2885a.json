@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2D4753B3",
+   "name": "富甲三国(简)(外星科技+白粥与榨菜+星夜之幻+babypkzhu)(8Mb).gbc",
+   "size": 1048576
+  }
+ ],
+ "genre": null,
+ "group": "富甲三国",
+ "id": "cn-4374d6c2885a",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "富甲三国"
+ },
+ "type": "original",
+ "vendor": "外星科技+白粥与榨菜+星夜之幻+babypkzhu",
+ "vendor_full": "",
+ "year": null
+}

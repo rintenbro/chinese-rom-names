@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "219DECF9",
+   "name": "饿狼 (繁) (unknown).gbc",
+   "size": 1048576
+  }
+ ],
+ "genre": null,
+ "group": "饿狼",
+ "id": "cn-0968da4fd264",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "饿狼"
+ },
+ "type": "original",
+ "vendor": "unknown",
+ "vendor_full": "",
+ "year": null
+}

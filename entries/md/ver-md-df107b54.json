@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DF107B54",
+   "name": "爆笑三国 (简) (147201688繁转简)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Baoxiao Sanguo",
+ "id": "ver-md-df107b54",
+ "layer": "verified",
+ "original": {
+  "crc32": "DF107B54",
+  "no_intro_name": "Baoxiao Sanguo (Taiwan)",
+  "region": "Taiwan",
+  "size": 1048576
+ },
+ "platform": "md",
+ "script": "简繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Baoxiao Sanguo (Taiwan)",
+  "zh-Hans": "爆笑三国"
+ },
+ "vendor": "",
+ "version": ""
+}

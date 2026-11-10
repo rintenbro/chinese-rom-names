@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BC5DE3AC",
+   "name": "巫术神界 (简) (修正版) (小鬼混修正)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Wushu Shen Jie",
+ "id": "ver-md-bc5de3ac",
+ "layer": "verified",
+ "original": {
+  "crc32": "BC5DE3AC",
+  "no_intro_name": "Wushu Shen Jie (China) (Pirate)",
+  "region": "China",
+  "size": 1048576
+ },
+ "platform": "md",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Wushu Shen Jie (China) (Pirate)",
+  "zh-Hans": "巫术神界"
+ },
+ "vendor": "",
+ "version": ""
+}

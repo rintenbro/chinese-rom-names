@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2F8AC081",
+   "name": "格斗天王2003 (简) (广誉科技).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Capcom Fight 2003",
+ "id": "ver-gbc-2f8ac081",
+ "layer": "verified",
+ "original": {
+  "crc32": "2F8AC081",
+  "no_intro_name": "Capcom Fight 2003 (Hong Kong) (En)",
+  "region": "Hong Kong",
+  "size": 2097152
+ },
+ "platform": "gbc",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Capcom Fight 2003 (Hong Kong) (En)",
+  "zh-Hans": "格斗天王2003"
+ },
+ "vendor": "",
+ "version": ""
+}

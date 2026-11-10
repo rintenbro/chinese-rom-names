@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "107418D4",
+   "name": "模拟大楼SP[天空联盟](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Tower SP, The",
+ "id": "ver-gba-107418d4",
+ "layer": "verified",
+ "original": {
+  "crc32": "EC325C92",
+  "no_intro_name": "Tower SP, The (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Tower SP, The (Japan)",
+  "zh-Hans": "模拟大楼SP"
+ },
+ "vendor": "天空联盟",
+ "version": ""
+}

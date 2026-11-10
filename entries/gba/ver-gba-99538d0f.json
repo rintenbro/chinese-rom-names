@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "99538D0F",
+   "name": "口袋妖怪 - 绿宝石[漫游+TGB+口袋群星SP]2012典藏版(简)(US)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Pokemon - Emerald Version",
+ "id": "ver-gba-99538d0f",
+ "layer": "verified",
+ "original": {
+  "crc32": "1F1C08FB",
+  "no_intro_name": "Pokemon - Emerald Version (USA, Europe)",
+  "region": "USA",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Pokemon - Emerald Version (USA, Europe)",
+  "zh-Hans": "口袋妖怪 - 绿宝石2012典藏版"
+ },
+ "vendor": "漫游+TGB+口袋群星SP",
+ "version": ""
+}

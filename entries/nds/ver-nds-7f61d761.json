@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7F61D761",
+   "name": "大航海时代DS 0.94(JP)(APEX汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Daikoukai Jidai IV - Rota Nova",
+ "id": "ver-nds-7f61d761",
+ "layer": "verified",
+ "original": {
+  "crc32": "446D516B",
+  "no_intro_name": "Daikoukai Jidai IV - Rota Nova (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Daikoukai Jidai IV - Rota Nova (Japan)",
+  "zh-Hans": "大航海时代DS 0.94"
+ },
+ "vendor": "APEX汉化组",
+ "version": ""
+}

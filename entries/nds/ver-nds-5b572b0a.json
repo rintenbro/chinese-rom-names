@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5B572B0A",
+   "name": "泡泡龙方块DS(JP)(TGB汉化工作室)(128Mb).nds",
+   "size": 16777216
+  }
+ ],
+ "group": "Puzzle Bobble DS",
+ "id": "ver-nds-5b572b0a",
+ "layer": "verified",
+ "original": {
+  "crc32": "BC045E36",
+  "no_intro_name": "Puzzle Bobble DS (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Puzzle Bobble DS (Japan)",
+  "zh-Hans": "泡泡龙方块DS"
+ },
+ "vendor": "TGB汉化工作室",
+ "version": ""
+}

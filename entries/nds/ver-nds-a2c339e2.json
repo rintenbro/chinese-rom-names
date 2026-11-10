@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A2C339E2",
+   "name": "创世法典 全文本汉化版(JP)(水螅)(1024Mb).nds",
+   "size": 115568384
+  }
+ ],
+ "group": "Avalon Code",
+ "id": "ver-nds-a2c339e2",
+ "layer": "verified",
+ "original": {
+  "crc32": "3D35B3D4",
+  "no_intro_name": "Avalon Code (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Avalon Code (Japan)",
+  "zh-Hans": "创世法典 全文本汉化版"
+ },
+ "vendor": "",
+ "version": ""
+}

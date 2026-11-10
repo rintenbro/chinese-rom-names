@@ -1,0 +1,34 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "15345097",
+   "name": "英雄无敌(繁)[振华](JP)[SLG](4Mb).nes",
+   "size": 524304
+  },
+  {
+   "crc32": "BA5D37D2",
+   "name": "英雄无敌(繁)[未知](JP)[SLG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "英雄无敌",
+ "id": "cn-d7b38cd59170",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "英雄无敌"
+ },
+ "type": "original",
+ "vendor": "振华",
+ "vendor_full": "",
+ "year": null
+}

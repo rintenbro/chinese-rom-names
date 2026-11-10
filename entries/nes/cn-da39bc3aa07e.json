@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DFDEC378",
+   "name": "黄帝 涿鹿之战(简)[Asder](CN)[ACT](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "genre": null,
+ "group": "黄帝 涿鹿之战",
+ "id": "cn-da39bc3aa07e",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "黄帝 涿鹿之战"
+ },
+ "type": "original",
+ "vendor": "Asder",
+ "vendor_full": "",
+ "year": null
+}

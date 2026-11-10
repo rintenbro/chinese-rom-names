@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6E0FAB27",
+   "name": "银河战士 - 融合[Chrono](简)(US)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Metroid Fusion",
+ "id": "ver-gba-6e0fab27",
+ "layer": "verified",
+ "original": {
+  "crc32": "6C75479C",
+  "no_intro_name": "Metroid Fusion (USA)",
+  "region": "USA",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Metroid Fusion (USA)",
+  "zh-Hans": "银河战士 - 融合"
+ },
+ "vendor": "Chrono",
+ "version": ""
+}

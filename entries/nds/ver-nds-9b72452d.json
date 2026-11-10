@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9B72452D",
+   "name": "英雄战记 雷万丁 v20261001(简)(深邃天空+罗伊SD+小郑)(1024Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Eiyuu Senki - Laevatein",
+ "id": "ver-nds-9b72452d",
+ "layer": "verified",
+ "original": {
+  "crc32": "78C478F3",
+  "no_intro_name": "Eiyuu Senki - Laevatein (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Eiyuu Senki - Laevatein (Japan)",
+  "zh-Hans": "英雄战记 雷万丁 v20261001"
+ },
+ "vendor": "深邃天空+罗伊SD+小郑",
+ "version": ""
+}

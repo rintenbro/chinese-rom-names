@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E8E756CA",
+   "name": "神游 斯塔非的传说2[未发售](简)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Sitafei De Chuanshuo 2",
+ "id": "ver-gba-e8e756ca",
+ "layer": "verified",
+ "original": {
+  "crc32": "E8E756CA",
+  "no_intro_name": "Sitafei De Chuanshuo 2 (China) (Proto)",
+  "region": "China",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Sitafei De Chuanshuo 2 (China) (Proto)",
+  "zh-Hans": "神游 斯塔非的传说2"
+ },
+ "vendor": "未发售",
+ "version": ""
+}

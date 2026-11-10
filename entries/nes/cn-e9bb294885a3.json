@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-e9bb294885a3/title.png"
+ },
+ "files": [
+  {
+   "crc32": "E37600DA",
+   "name": "无尽的任务(简)[外星科技](JP)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "无尽的任务",
+ "id": "cn-e9bb294885a3",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "无尽的任务"
+ },
+ "type": "original",
+ "vendor": "外星科技",
+ "vendor_full": "",
+ "year": null
+}

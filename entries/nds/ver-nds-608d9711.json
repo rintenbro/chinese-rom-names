@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "608D9711",
+   "name": "RPG工具DS(JP)(章半仙)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "RPG Tsukuru DS",
+ "id": "ver-nds-608d9711",
+ "layer": "verified",
+ "original": {
+  "crc32": "40DEF56D",
+  "no_intro_name": "RPG Tsukuru DS (Japan) (NDSi Enhanced)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "RPG Tsukuru DS (Japan) (NDSi Enhanced)",
+  "zh-Hans": "RPG工具DS"
+ },
+ "vendor": "",
+ "version": ""
+}

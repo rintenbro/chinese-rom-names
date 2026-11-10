@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1B2DA05A",
+   "name": "流星洛克人 天马 完全汉化版v3(简)(电波人研究中心汉化组)(256Mb).nds",
+   "size": 33603352
+  }
+ ],
+ "group": "Ryuusei no Rockman - Pegasus",
+ "id": "ver-nds-1b2da05a",
+ "layer": "verified",
+ "original": {
+  "crc32": "7FFD36D3",
+  "no_intro_name": "Ryuusei no Rockman - Pegasus (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Ryuusei no Rockman - Pegasus (Japan)",
+  "zh-Hans": "流星洛克人 天马 完全汉化版v3"
+ },
+ "vendor": "电波人研究中心汉化组",
+ "version": ""
+}

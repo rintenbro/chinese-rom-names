@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-cf9d7144b076/title.png"
+ },
+ "files": [
+  {
+   "crc32": "56CEA40B",
+   "name": "仙剑神曲(简)[外星科技](JP)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "仙剑神曲",
+ "id": "cn-cf9d7144b076",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "仙剑神曲"
+ },
+ "type": "original",
+ "vendor": "外星科技",
+ "vendor_full": "",
+ "year": null
+}

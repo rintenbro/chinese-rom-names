@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D57F7B40",
+   "name": "神游 通勤一笔[未发售](简)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "Tongqin Yi Bi",
+ "id": "ver-gba-d57f7b40",
+ "layer": "verified",
+ "original": {
+  "crc32": "D57F7B40",
+  "no_intro_name": "Tongqin Yi Bi (China) (Proto)",
+  "region": "China",
+  "size": 4194304
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Tongqin Yi Bi (China) (Proto)",
+  "zh-Hans": "神游 通勤一笔"
+ },
+ "vendor": "未发售",
+ "version": ""
+}

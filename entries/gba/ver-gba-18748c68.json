@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "18748C68",
+   "name": "爆转陀螺2002 - 激战!组队决斗!!青龙之章 小龙篇[Fei Yun](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Bakuten Shoot Beyblade 2002 - Gekisen! Team Battle!! Seiryuu no Shou - Takao Hen",
+ "id": "ver-gba-18748c68",
+ "layer": "verified",
+ "original": {
+  "crc32": "8778B36A",
+  "no_intro_name": "Bakuten Shoot Beyblade 2002 - Gekisen! Team Battle!! Seiryuu no Shou - Takao Hen (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Bakuten Shoot Beyblade 2002 - Gekisen! Team Battle!! Seiryuu no Shou - Takao Hen (Japan)",
+  "zh-Hans": "爆转陀螺2002 - 激战!组队决斗!!青龙之章 小龙篇"
+ },
+ "vendor": "Fei Yun",
+ "version": ""
+}

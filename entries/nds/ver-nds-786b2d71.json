@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "786B2D71",
+   "name": "天元突破 红莲之眼 全文本汉化版(JP)(Play汉化组)(512Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Tengen Toppa Gurren Lagann",
+ "id": "ver-nds-786b2d71",
+ "layer": "verified",
+ "original": {
+  "crc32": "6EAC24B8",
+  "no_intro_name": "Tengen Toppa Gurren Lagann (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Tengen Toppa Gurren Lagann (Japan)",
+  "zh-Hans": "天元突破 红莲之眼 全文本汉化版"
+ },
+ "vendor": "Play汉化组",
+ "version": ""
+}

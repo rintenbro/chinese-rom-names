@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4B34AE8F",
+   "name": "通灵王 精神大师[Advance汉化组](v1.0)(简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Shaman King - Master of Spirits",
+ "id": "ver-gba-4b34ae8f",
+ "layer": "verified",
+ "original": {
+  "crc32": "4864B878",
+  "no_intro_name": "Shaman King - Master of Spirits (Europe) (En,Fr,De)",
+  "region": "Europe",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Shaman King - Master of Spirits (Europe) (En,Fr,De)",
+  "zh-Hans": "通灵王 精神大师"
+ },
+ "vendor": "Advance汉化组",
+ "version": "v1.0"
+}

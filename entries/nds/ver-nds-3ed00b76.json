@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3ED00B76",
+   "name": "世界树迷宫2 诸王的圣杯 个人汉化测试版(JP)(恶苗SeeDJ)(256Mb).nds",
+   "size": 24599104
+  }
+ ],
+ "group": "Sekaiju no Meikyuu II - Shoou no Seihai",
+ "id": "ver-nds-3ed00b76",
+ "layer": "verified",
+ "original": {
+  "crc32": "21BC5FBF",
+  "no_intro_name": "Sekaiju no Meikyuu II - Shoou no Seihai (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Sekaiju no Meikyuu II - Shoou no Seihai (Japan)",
+  "zh-Hans": "世界树迷宫2 诸王的圣杯 个人汉化测试版"
+ },
+ "vendor": "",
+ "version": ""
+}

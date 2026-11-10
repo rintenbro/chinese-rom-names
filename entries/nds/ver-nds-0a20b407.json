@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0A20B407",
+   "name": "下课后少年(繁)(JP)(linway)(512Mb).nds",
+   "size": 57454784
+  }
+ ],
+ "group": "Houkago Shounen",
+ "id": "ver-nds-0a20b407",
+ "layer": "verified",
+ "original": {
+  "crc32": "33456535",
+  "no_intro_name": "Houkago Shounen (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Houkago Shounen (Japan)",
+  "zh-Hans": "下课后少年"
+ },
+ "vendor": "linway",
+ "version": ""
+}

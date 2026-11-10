@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8BBBD866",
+   "name": "主题公园(EU)(YYJoy汉化组)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Theme Park",
+ "id": "ver-nds-8bbbd866",
+ "layer": "verified",
+ "original": {
+  "crc32": "E41DA1FF",
+  "no_intro_name": "Theme Park (Europe) (En,Ja,Fr,De,Es,It)",
+  "region": "Europe",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Theme Park (Europe) (En,Ja,Fr,De,Es,It)",
+  "zh-Hans": "主题公园"
+ },
+ "vendor": "YYJoy汉化组",
+ "version": ""
+}

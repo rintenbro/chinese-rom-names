@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2B57D287",
+   "name": "我的马场[Advance汉化组](AI汉化)(简)(70Mb).gba",
+   "size": 8490752
+  }
+ ],
+ "group": "Horsez",
+ "id": "ver-gba-2b57d287",
+ "layer": "verified",
+ "original": {
+  "crc32": "5B2B4452",
+  "no_intro_name": "Horsez (USA)",
+  "region": "USA",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Horsez (USA)",
+  "zh-Hans": "我的马场"
+ },
+ "vendor": "Advance汉化组",
+ "version": ""
+}

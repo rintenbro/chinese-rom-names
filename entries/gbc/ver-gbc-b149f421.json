@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B149F421",
+   "name": "冰河世纪II (繁) (新特奇).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Bingyuan Lixian Ji II",
+ "id": "ver-gbc-b149f421",
+ "layer": "verified",
+ "original": {
+  "crc32": "B149F421",
+  "no_intro_name": "Bingyuan Lixian Ji II (Taiwan)",
+  "region": "Taiwan",
+  "size": 2097152
+ },
+ "platform": "gbc",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Bingyuan Lixian Ji II (Taiwan)",
+  "zh-Hans": "冰河世纪II"
+ },
+ "vendor": "",
+ "version": ""
+}

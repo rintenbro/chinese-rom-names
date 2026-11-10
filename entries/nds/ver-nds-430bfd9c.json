@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "430BFD9C",
+   "name": "超操纵机器MG v1.0.1(简)(通用型柚子)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Chou Soujuu Mecha MG",
+ "id": "ver-nds-430bfd9c",
+ "layer": "verified",
+ "original": {
+  "crc32": "288F5E78",
+  "no_intro_name": "Chou Soujuu Mecha MG (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Chou Soujuu Mecha MG (Japan)",
+  "zh-Hans": "超操纵机器MG v1.0.1"
+ },
+ "vendor": "",
+ "version": ""
+}

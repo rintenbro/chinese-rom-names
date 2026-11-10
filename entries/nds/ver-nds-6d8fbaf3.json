@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6D8FBAF3",
+   "name": "使命召唤7 黑色行动 英文字幕+中文语音最终版(fciq配音小组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Call of Duty - Black Ops",
+ "id": "ver-nds-6d8fbaf3",
+ "layer": "verified",
+ "original": {
+  "crc32": "937820E7",
+  "no_intro_name": "Call of Duty - Black Ops (USA)",
+  "region": "USA",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Call of Duty - Black Ops (USA)",
+  "zh-Hans": "使命召唤7 黑色行动 英文字幕+中文语音最终版"
+ },
+ "vendor": "fciq配音小组",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "33D32543",
+   "name": "重装机兵2改 [菜单修正+超导虫死机修正][minasithil7](v1.1)(20180222)(简)(JP)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "Metal Max 2 Kai",
+ "id": "ver-gba-33d32543",
+ "layer": "verified",
+ "original": {
+  "crc32": "BC1FEAF0",
+  "no_intro_name": "Metal Max 2 Kai (Japan)",
+  "region": "Japan",
+  "size": 4194304
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Metal Max 2 Kai (Japan)",
+  "zh-Hans": "重装机兵2改"
+ },
+ "vendor": "minasithil7",
+ "version": "v1.1"
+}

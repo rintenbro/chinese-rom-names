@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3300553D",
+   "name": "三国志[Amonwang](繁)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Sangokushi",
+ "id": "ver-gba-3300553d",
+ "layer": "verified",
+ "original": {
+  "crc32": "F3D3C239",
+  "no_intro_name": "Sangokushi (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Sangokushi (Japan)",
+  "zh-Hans": "三国志"
+ },
+ "vendor": "Amonwang",
+ "version": ""
+}

@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "876BB45B",
+   "name": "无敌学习卡(简)[BiTe](CN)[ETC](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "无敌学习卡",
+ "id": "cn-b46405122062",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "无敌学习卡"
+ },
+ "type": "hack",
+ "vendor": "BiTe",
+ "vendor_full": "",
+ "year": null
+}

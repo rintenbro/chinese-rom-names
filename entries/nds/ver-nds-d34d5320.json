@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D34D5320",
+   "name": "冒险岛DS(简)(KS)(PLAY汉化组&兔友汉化组)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "MapleStory DS",
+ "id": "ver-nds-d34d5320",
+ "layer": "verified",
+ "original": {
+  "crc32": "985A9F45",
+  "no_intro_name": "MapleStory DS (Korea)",
+  "region": "Korea",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "MapleStory DS (Korea)",
+  "zh-Hans": "冒险岛DS"
+ },
+ "vendor": "KS / PLAY汉化组&兔友汉化组",
+ "version": ""
+}

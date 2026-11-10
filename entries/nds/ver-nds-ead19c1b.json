@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "EAD19C1B",
+   "name": "DS眼力训练(简)(US)(Hikki)(语音汉化fciq)(256Mb).nds",
+   "size": 32778176
+  }
+ ],
+ "group": "Flash Focus - Vision Training in Minutes a Day",
+ "id": "ver-nds-ead19c1b",
+ "layer": "verified",
+ "original": {
+  "crc32": "76540B07",
+  "no_intro_name": "Flash Focus - Vision Training in Minutes a Day (USA) (En,Fr,Es)",
+  "region": "USA",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Flash Focus - Vision Training in Minutes a Day (USA) (En,Fr,Es)",
+  "zh-Hans": "DS眼力训练"
+ },
+ "vendor": "Hikki",
+ "version": ""
+}

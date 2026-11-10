@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5DE78CF2",
+   "name": "超时空之轮V4(简)(JP)(有爱人士)(1024Mb).nds",
+   "size": 88449116
+  }
+ ],
+ "group": "Chrono Trigger",
+ "id": "ver-nds-5de78cf2",
+ "layer": "verified",
+ "original": {
+  "crc32": "D33AA850",
+  "no_intro_name": "Chrono Trigger (Japan) (En,Ja)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Chrono Trigger (Japan) (En,Ja)",
+  "zh-Hans": "超时空之轮V4"
+ },
+ "vendor": "",
+ "version": ""
+}

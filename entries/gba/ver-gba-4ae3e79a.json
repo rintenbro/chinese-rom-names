@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4AE3E79A",
+   "name": "棋魂2[吼吼吼2335](AI汉化)(简)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Hikaru no Go 2",
+ "id": "ver-gba-4ae3e79a",
+ "layer": "verified",
+ "original": {
+  "crc32": "04129A22",
+  "no_intro_name": "Hikaru no Go 2 (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Hikaru no Go 2 (Japan)",
+  "zh-Hans": "棋魂2"
+ },
+ "vendor": "吼吼吼2335",
+ "version": ""
+}

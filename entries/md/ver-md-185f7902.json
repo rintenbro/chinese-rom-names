@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "185F7902",
+   "name": "太阁立志传1 (繁) (永盛)(10Mb).md",
+   "size": 1310720
+  }
+ ],
+ "group": "Tai Ge Lizhi Chuan",
+ "id": "ver-md-185f7902",
+ "layer": "verified",
+ "original": {
+  "crc32": "185F7902",
+  "no_intro_name": "Tai Ge Lizhi Chuan (China) (Traditional) (Pirate)",
+  "region": "China",
+  "size": 1310720
+ },
+ "platform": "md",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Tai Ge Lizhi Chuan (China) (Traditional) (Pirate)",
+  "zh-Hans": "太阁立志传1"
+ },
+ "vendor": "",
+ "version": ""
+}

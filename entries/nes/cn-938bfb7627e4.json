@@ -1,0 +1,34 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-938bfb7627e4/title.png"
+ },
+ "files": [
+  {
+   "crc32": "1B47C2C0",
+   "name": "外星战士2(简)[外星科技+147201688](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  },
+  {
+   "crc32": "D45A7075",
+   "name": "外星战士2(繁)[外星科技](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "genre": null,
+ "group": "外星战士2",
+ "id": "cn-938bfb7627e4",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "外星战士2"
+ },
+ "type": "original",
+ "vendor": "外星科技+147201688",
+ "vendor_full": "",
+ "year": null
+}

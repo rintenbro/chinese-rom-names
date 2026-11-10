@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F28FF8B8",
+   "name": "魔女之路(繁)(JP)(兔友汉化组)(512Mb).nds",
+   "size": 66836804
+  }
+ ],
+ "group": "Majo ni Naru.",
+ "id": "ver-nds-f28ff8b8",
+ "layer": "verified",
+ "original": {
+  "crc32": "B0410486",
+  "no_intro_name": "Majo ni Naru. (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Majo ni Naru. (Japan)",
+  "zh-Hans": "魔女之路"
+ },
+ "vendor": "兔友汉化组",
+ "version": ""
+}

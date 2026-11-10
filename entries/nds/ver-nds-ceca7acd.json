@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CECA7ACD",
+   "name": "风雨传说(JP)(PGCG汉化组)(1024Mb).nds",
+   "size": 78789640
+  }
+ ],
+ "group": "Tales of the Tempest",
+ "id": "ver-nds-ceca7acd",
+ "layer": "verified",
+ "original": {
+  "crc32": "8B52BE99",
+  "no_intro_name": "Tales of the Tempest (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Tales of the Tempest (Japan)",
+  "zh-Hans": "风雨传说"
+ },
+ "vendor": "PGCG汉化组",
+ "version": ""
+}

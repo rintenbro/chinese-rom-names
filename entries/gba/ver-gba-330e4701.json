@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "330E4701",
+   "name": "模拟人生2[Advance汉化组](v1.0)(简)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Sims 2, The",
+ "id": "ver-gba-330e4701",
+ "layer": "verified",
+ "original": {
+  "crc32": "8B1BC7DF",
+  "no_intro_name": "Sims 2, The (USA, Europe) (En,Fr,De,Es,It,Nl)",
+  "region": "USA",
+  "size": 33554432
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Sims 2, The (USA, Europe) (En,Fr,De,Es,It,Nl)",
+  "zh-Hans": "模拟人生2"
+ },
+ "vendor": "Advance汉化组",
+ "version": "v1.0"
+}

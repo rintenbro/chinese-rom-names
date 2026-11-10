@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BEBB894A",
+   "name": "天才爷爷史上最强土下座 (v0.02)(BTYCJ)(简)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Zettaizetsumei Dangerous Jiisan - Shijou Saikyou no Dogeza",
+ "id": "ver-gba-bebb894a",
+ "layer": "verified",
+ "original": {
+  "crc32": "7DA6CC69",
+  "no_intro_name": "Zettaizetsumei Dangerous Jiisan - Shijou Saikyou no Dogeza (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Zettaizetsumei Dangerous Jiisan - Shijou Saikyou no Dogeza (Japan)",
+  "zh-Hans": "天才爷爷史上最强土下座"
+ },
+ "vendor": "BTYCJ",
+ "version": "v0.02"
+}

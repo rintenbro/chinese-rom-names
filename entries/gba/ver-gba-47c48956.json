@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "47C48956",
+   "name": "游戏王 双六的骰子[Advance汉化组](简)(80Mb).gba",
+   "size": 10562848
+  }
+ ],
+ "group": "Yu-Gi-Oh! - Sugoroku no Sugoroku",
+ "id": "ver-gba-47c48956",
+ "layer": "verified",
+ "original": {
+  "crc32": "8D52B3C5",
+  "no_intro_name": "Yu-Gi-Oh! - Sugoroku no Sugoroku (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Yu-Gi-Oh! - Sugoroku no Sugoroku (Japan)",
+  "zh-Hans": "游戏王 双六的骰子"
+ },
+ "vendor": "Advance汉化组",
+ "version": ""
+}

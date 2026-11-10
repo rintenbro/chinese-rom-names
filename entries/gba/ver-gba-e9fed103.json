@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E9FED103",
+   "name": "神游 转转棒[未发售](简)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "Zhuanzhuanbang",
+ "id": "ver-gba-e9fed103",
+ "layer": "verified",
+ "original": {
+  "crc32": "E9FED103",
+  "no_intro_name": "Zhuanzhuanbang (China) (Proto)",
+  "region": "China",
+  "size": 4194304
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Zhuanzhuanbang (China) (Proto)",
+  "zh-Hans": "神游 转转棒"
+ },
+ "vendor": "未发售",
+ "version": ""
+}

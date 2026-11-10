@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0DED39A4",
+   "name": "玩具商店(US)(星组)(128Mb).nds",
+   "size": 31663140
+  }
+ ],
+ "group": "Toy Shop Tycoon",
+ "id": "ver-nds-0ded39a4",
+ "layer": "verified",
+ "original": {
+  "crc32": "62D6E146",
+  "no_intro_name": "Toy Shop Tycoon (Europe) (En,Fr,De,Es,It,Pt)",
+  "region": "Europe",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Toy Shop Tycoon (Europe) (En,Fr,De,Es,It,Pt)",
+  "zh-Hans": "玩具商店"
+ },
+ "vendor": "",
+ "version": ""
+}

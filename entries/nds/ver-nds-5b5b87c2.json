@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5B5B87C2",
+   "name": "99滴眼泪(JP)(99滴眼泪全民汉化组)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "99 no Namida",
+ "id": "ver-nds-5b5b87c2",
+ "layer": "verified",
+ "original": {
+  "crc32": "C4DE9489",
+  "no_intro_name": "99 no Namida (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "99 no Namida (Japan)",
+  "zh-Hans": "99滴眼泪"
+ },
+ "vendor": "99滴眼泪全民汉化组",
+ "version": ""
+}

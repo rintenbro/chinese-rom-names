@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3C8F92BD",
+   "name": "征服太阳系+小管家(简)[小霸王](CN)[PUZ](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "征服太阳系+小管家",
+ "id": "cn-342b35a76530",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "征服太阳系+小管家"
+ },
+ "type": "original",
+ "vendor": "小霸王",
+ "vendor_full": "",
+ "year": null
+}

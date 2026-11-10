@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C516EA5B",
+   "name": "0110 - 超級機器人大戰A (v1.1) (簡) [WGF].gba",
+   "size": 8520332
+  }
+ ],
+ "group": "Super Robot Taisen A",
+ "id": "ver-gba-c516ea5b",
+ "layer": "verified",
+ "original": {
+  "crc32": "2F6E9788",
+  "no_intro_name": "Super Robot Taisen A (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Super Robot Taisen A (Japan)",
+  "zh-Hans": "超級機器人大戰A"
+ },
+ "vendor": "",
+ "version": "v1.1"
+}

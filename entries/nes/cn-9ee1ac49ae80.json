@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-9ee1ac49ae80/title.png"
+ },
+ "files": [
+  {
+   "crc32": "52C4F765",
+   "name": "街霸3(简)[天空联盟](CN)[FTG](5Mb).nes",
+   "size": 655376
+  }
+ ],
+ "genre": null,
+ "group": "街霸3",
+ "id": "cn-9ee1ac49ae80",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "街霸3"
+ },
+ "type": "original",
+ "vendor": "天空联盟",
+ "vendor_full": "",
+ "year": null
+}

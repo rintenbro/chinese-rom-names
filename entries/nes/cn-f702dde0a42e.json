@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6AD53E60",
+   "name": "三国志 蜀汉风云(简)[晶科泰](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "genre": null,
+ "group": "三国志 蜀汉风云",
+ "id": "cn-f702dde0a42e",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "三国志 蜀汉风云"
+ },
+ "type": "original",
+ "vendor": "晶科泰",
+ "vendor_full": "",
+ "year": null
+}

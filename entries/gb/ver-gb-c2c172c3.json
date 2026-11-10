@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C2C172C3",
+   "name": "龙行天下(繁)(Gowin)(1Mb).gb",
+   "size": 131072
+  }
+ ],
+ "group": "Long Xing Tianxia",
+ "id": "ver-gb-c2c172c3",
+ "layer": "verified",
+ "original": {
+  "crc32": "C2C172C3",
+  "no_intro_name": "Long Xing Tianxia (Taiwan)",
+  "region": "Taiwan",
+  "size": 131072
+ },
+ "platform": "gb",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Long Xing Tianxia (Taiwan)",
+  "zh-Hans": "龙行天下"
+ },
+ "vendor": "Gowin",
+ "version": ""
+}

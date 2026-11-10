@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D01323A6",
+   "name": "八龙珠(简)(修正版)(外星科技+星夜之幻+dhx)(8Mb).gbc",
+   "size": 1048576
+  }
+ ],
+ "genre": null,
+ "group": "八龙珠",
+ "id": "cn-f17431331b68",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "八龙珠"
+ },
+ "type": "original",
+ "vendor": "外星科技+星夜之幻+dhx",
+ "vendor_full": "",
+ "year": null
+}

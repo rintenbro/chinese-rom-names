@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5D9C4457",
+   "name": "魔幻三国志(简)[晶科泰](CN)[SLG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "魔幻三国志",
+ "id": "cn-ecb77d7ac56f",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "魔幻三国志"
+ },
+ "type": "original",
+ "vendor": "晶科泰",
+ "vendor_full": "",
+ "year": null
+}

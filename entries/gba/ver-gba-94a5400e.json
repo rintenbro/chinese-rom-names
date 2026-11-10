@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "94A5400E",
+   "name": "海贼王 - 棒球进行曲 - 海贼棒球[CGP](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "One Piece - Going Baseball - Kaizoku Yakyuu",
+ "id": "ver-gba-94a5400e",
+ "layer": "verified",
+ "original": {
+  "crc32": "0B77BCB8",
+  "no_intro_name": "One Piece - Going Baseball - Kaizoku Yakyuu (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "One Piece - Going Baseball - Kaizoku Yakyuu (Japan)",
+  "zh-Hans": "海贼王 - 棒球进行曲 - 海贼棒球"
+ },
+ "vendor": "",
+ "version": ""
+}

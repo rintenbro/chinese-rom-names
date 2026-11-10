@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7AEF4EDC",
+   "name": "火焰纹章 - 烈火之剑[狼组&火花天龙剑](Fix)(简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Fire Emblem - Rekka no Ken",
+ "id": "ver-gba-7aef4edc",
+ "layer": "verified",
+ "original": {
+  "crc32": "F0C10E72",
+  "no_intro_name": "Fire Emblem - Rekka no Ken (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Fire Emblem - Rekka no Ken (Japan)",
+  "zh-Hans": "火焰纹章 - 烈火之剑"
+ },
+ "vendor": "Fix / 狼组&火花天龙剑",
+ "version": ""
+}

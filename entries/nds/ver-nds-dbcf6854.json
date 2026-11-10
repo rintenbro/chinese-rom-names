@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DBCF6854",
+   "name": "窃国头脑战 信长之野望(JP)(打酱油汉化组)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Kunitori Zunou Battle - Nobunaga no Yabou",
+ "id": "ver-nds-dbcf6854",
+ "layer": "verified",
+ "original": {
+  "crc32": "091F201A",
+  "no_intro_name": "Kunitori Zunou Battle - Nobunaga no Yabou (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Kunitori Zunou Battle - Nobunaga no Yabou (Japan)",
+  "zh-Hans": "窃国头脑战 信长之野望"
+ },
+ "vendor": "打酱油汉化组",
+ "version": ""
+}

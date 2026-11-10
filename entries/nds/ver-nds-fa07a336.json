@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FA07A336",
+   "name": "任何地方都能用的DS家计本(JP)(E.Wings汉化组)(128Mb).nds",
+   "size": 14748167
+  }
+ ],
+ "group": "Dokodemo Raku Raku! - DS Kakeibo",
+ "id": "ver-nds-fa07a336",
+ "layer": "verified",
+ "original": {
+  "crc32": "14D95B15",
+  "no_intro_name": "Dokodemo Raku Raku! - DS Kakeibo (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Dokodemo Raku Raku! - DS Kakeibo (Japan)",
+  "zh-Hans": "任何地方都能用的DS家计本"
+ },
+ "vendor": "E.Wings汉化组",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A0B33824",
+   "name": "爱猫生活 正式版(JP)(自由汉化组)(512Mb).nds",
+   "size": 66889052
+  }
+ ],
+ "group": "Love Cat Life",
+ "id": "ver-nds-a0b33824",
+ "layer": "verified",
+ "original": {
+  "crc32": "BC5F58B2",
+  "no_intro_name": "Love Cat Life (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Love Cat Life (Japan)",
+  "zh-Hans": "爱猫生活 正式版"
+ },
+ "vendor": "自由汉化组",
+ "version": ""
+}

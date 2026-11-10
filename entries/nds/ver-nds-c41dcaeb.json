@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C41DCAEB",
+   "name": "西游记 金角·银角的阴谋(JP)(的士汉化组)(128Mb).nds",
+   "size": 15628368
+  }
+ ],
+ "group": "Saiyuuki Kinkaku Ginkaku no Inbou",
+ "id": "ver-nds-c41dcaeb",
+ "layer": "verified",
+ "original": {
+  "crc32": "AC197404",
+  "no_intro_name": "Saiyuuki Kinkaku Ginkaku no Inbou (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Saiyuuki Kinkaku Ginkaku no Inbou (Japan)",
+  "zh-Hans": "西游记 金角·银角的阴谋"
+ },
+ "vendor": "的士汉化组",
+ "version": ""
+}

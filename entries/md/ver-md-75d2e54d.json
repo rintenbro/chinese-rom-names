@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "75D2E54D",
+   "name": "蒙纳克皇族 - 最终战斗传说 (简) (永盛)(24Mb).md",
+   "size": 3145728
+  }
+ ],
+ "group": "Mengnake Huangzu - Zuizhong Zhandou Chuanshuo",
+ "id": "ver-md-75d2e54d",
+ "layer": "verified",
+ "original": {
+  "crc32": "75D2E54D",
+  "no_intro_name": "Mengnake Huangzu - Zuizhong Zhandou Chuanshuo (China) (Pirate)",
+  "region": "China",
+  "size": 3145728
+ },
+ "platform": "md",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Mengnake Huangzu - Zuizhong Zhandou Chuanshuo (China) (Pirate)",
+  "zh-Hans": "蒙纳克皇族 - 最终战斗传说"
+ },
+ "vendor": "",
+ "version": ""
+}

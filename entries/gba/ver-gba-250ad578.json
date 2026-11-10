@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "250AD578",
+   "name": "光明之魂[CGP](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Shining Soul",
+ "id": "ver-gba-250ad578",
+ "layer": "verified",
+ "original": {
+  "crc32": "521450D1",
+  "no_intro_name": "Shining Soul (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Shining Soul (Japan)",
+  "zh-Hans": "光明之魂"
+ },
+ "vendor": "",
+ "version": ""
+}

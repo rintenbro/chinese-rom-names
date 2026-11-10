@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DB3500EC",
+   "name": "三国志大战DS 汉化重润版(JP)(CG汉化组)(1024Mb).nds",
+   "size": 118694644
+  }
+ ],
+ "group": "Sangokushi Taisen DS",
+ "id": "ver-nds-db3500ec",
+ "layer": "verified",
+ "original": {
+  "crc32": "81CF7995",
+  "no_intro_name": "Sangokushi Taisen DS (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Sangokushi Taisen DS (Japan)",
+  "zh-Hans": "三国志大战DS 汉化重润版"
+ },
+ "vendor": "CG汉化组",
+ "version": ""
+}

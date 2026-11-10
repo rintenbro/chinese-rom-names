@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A3782B4B",
+   "name": "动感2000(简)[奔力](CN)[ETC](2Mb).unf",
+   "size": 262251
+  }
+ ],
+ "genre": null,
+ "group": "动感2000",
+ "id": "cn-90e36d01fa83",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "动感2000"
+ },
+ "type": "hack",
+ "vendor": "奔力",
+ "vendor_full": "",
+ "year": null
+}

@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "66887380",
+   "name": "火焰纹章外传(圣火徽章)(简)(外星科技+小弟+星夜之幻)(8Mb).gbc",
+   "size": 1048576
+  }
+ ],
+ "genre": null,
+ "group": "火焰纹章外传",
+ "id": "cn-6854b9b336d8",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "火焰纹章外传"
+ },
+ "type": "original",
+ "vendor": "外星科技+小弟+星夜之幻",
+ "vendor_full": "",
+ "year": null
+}

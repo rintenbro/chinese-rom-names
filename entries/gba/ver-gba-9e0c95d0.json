@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9E0C95D0",
+   "name": "大众软件系列 - 动物管理员[天使汉化组&漫游](繁)(JP)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "Minna no Soft Series - Zooo",
+ "id": "ver-gba-9e0c95d0",
+ "layer": "verified",
+ "original": {
+  "crc32": "72EB35E3",
+  "no_intro_name": "Minna no Soft Series - Zooo (Japan)",
+  "region": "Japan",
+  "size": 4194304
+ },
+ "platform": "gba",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Minna no Soft Series - Zooo (Japan)",
+  "zh-Hans": "大众软件系列 - 动物管理员"
+ },
+ "vendor": "天使汉化组&漫游",
+ "version": ""
+}

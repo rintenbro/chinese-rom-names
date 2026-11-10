@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0AC31872",
+   "name": "燃烧吧热血节奏之魂！押忍战斗！应援团2(简)(ACG汉化组X青文汉化组)(1024Mb).nds",
+   "size": 132488384
+  }
+ ],
+ "group": "Moero! Nekketsu Rhythm Damashii - Osu! Tatakae! Ouendan 2",
+ "id": "ver-nds-0ac31872",
+ "layer": "verified",
+ "original": {
+  "crc32": "68E3B021",
+  "no_intro_name": "Moero! Nekketsu Rhythm Damashii - Osu! Tatakae! Ouendan 2 (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Moero! Nekketsu Rhythm Damashii - Osu! Tatakae! Ouendan 2 (Japan)",
+  "zh-Hans": "燃烧吧热血节奏之魂！押忍战斗！应援团2"
+ },
+ "vendor": "ACG汉化组X青文汉化组",
+ "version": ""
+}

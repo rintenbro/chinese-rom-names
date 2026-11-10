@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4FF5B39D",
+   "name": "索尼克战斗[熊组](简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Sonic Battle",
+ "id": "ver-gba-4ff5b39d",
+ "layer": "verified",
+ "original": {
+  "crc32": "7305AC30",
+  "no_intro_name": "Sonic Battle (Japan) (En,Ja)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Sonic Battle (Japan) (En,Ja)",
+  "zh-Hans": "索尼克战斗"
+ },
+ "vendor": "熊组",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A6BCDE87",
+   "name": "马里奥篮球 3对3(US)(E.Wings汉化组)(512Mb).nds",
+   "size": 54418432
+  }
+ ],
+ "group": "Mario Hoops 3 on 3",
+ "id": "ver-nds-a6bcde87",
+ "layer": "verified",
+ "original": {
+  "crc32": "DC181C6E",
+  "no_intro_name": "Mario Hoops 3 on 3 (USA)",
+  "region": "USA",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Mario Hoops 3 on 3 (USA)",
+  "zh-Hans": "马里奥篮球 3对3"
+ },
+ "vendor": "E.Wings汉化组",
+ "version": ""
+}

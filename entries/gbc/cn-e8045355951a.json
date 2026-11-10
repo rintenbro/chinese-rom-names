@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "31F9E371",
+   "name": "路克英雄2 (繁) (广誉科技).gbc",
+   "size": 524288
+  }
+ ],
+ "genre": null,
+ "group": "路克英雄2",
+ "id": "cn-e8045355951a",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "路克英雄2"
+ },
+ "type": "original",
+ "vendor": "未知",
+ "vendor_full": "",
+ "year": null
+}

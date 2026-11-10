@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7167675F",
+   "name": "游戏王GX 精灵召唤者 全剧情汉化版(JP)(CG汉化组)(1024Mb).nds",
+   "size": 102192828
+  }
+ ],
+ "group": "Yu-Gi-Oh! Duel Monsters GX - Spirit Summoner",
+ "id": "ver-nds-7167675f",
+ "layer": "verified",
+ "original": {
+  "crc32": "F7AB755E",
+  "no_intro_name": "Yu-Gi-Oh! Duel Monsters GX - Spirit Summoner (Japan) (En,Ja)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Yu-Gi-Oh! Duel Monsters GX - Spirit Summoner (Japan) (En,Ja)",
+  "zh-Hans": "游戏王GX 精灵召唤者 全剧情汉化版"
+ },
+ "vendor": "CG汉化组",
+ "version": ""
+}

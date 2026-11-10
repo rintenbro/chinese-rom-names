@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "46977508",
+   "name": "侠客传奇(繁)[晶科泰](CN)[RPG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "genre": null,
+ "group": "侠客传奇",
+ "id": "cn-d8e7cd988be8",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "侠客传奇"
+ },
+ "type": "original",
+ "vendor": "晶科泰",
+ "vendor_full": "",
+ "year": null
+}

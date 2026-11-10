@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3DEDBADB",
+   "name": "踩地雷 编辑篇(繁)[圣谦](CN)[PUZ](0.31Mb).nes",
+   "size": 40976
+  }
+ ],
+ "genre": null,
+ "group": "踩地雷 编辑篇",
+ "id": "cn-e50e6bc47668",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "踩地雷 编辑篇"
+ },
+ "type": "original",
+ "vendor": "圣谦",
+ "vendor_full": "",
+ "year": null
+}

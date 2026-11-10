@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1BA9E005",
+   "name": "胜利11人DS(JP)(YYJoy汉化组)(512Mb).nds",
+   "size": 37902164
+  }
+ ],
+ "group": "World Soccer - Winning Eleven DS",
+ "id": "ver-nds-1ba9e005",
+ "layer": "verified",
+ "original": {
+  "crc32": "A4CAC320",
+  "no_intro_name": "World Soccer - Winning Eleven DS (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "World Soccer - Winning Eleven DS (Japan)",
+  "zh-Hans": "胜利11人DS"
+ },
+ "vendor": "YYJoy汉化组",
+ "version": ""
+}

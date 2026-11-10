@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "633F747F",
+   "name": "通勤一笔[Dna](简)(JP)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "Tsuukin Hitofude",
+ "id": "ver-gba-633f747f",
+ "layer": "verified",
+ "original": {
+  "crc32": "5A7E762B",
+  "no_intro_name": "Tsuukin Hitofude (Japan)",
+  "region": "Japan",
+  "size": 4194304
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Tsuukin Hitofude (Japan)",
+  "zh-Hans": "通勤一笔"
+ },
+ "vendor": "Dna",
+ "version": ""
+}

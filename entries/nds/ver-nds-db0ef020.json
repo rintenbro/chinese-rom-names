@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DB0EF020",
+   "name": "你的勇者(JP)(play汉化组)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Kimi no Yuusha",
+ "id": "ver-nds-db0ef020",
+ "layer": "verified",
+ "original": {
+  "crc32": "3D0E5310",
+  "no_intro_name": "Kimi no Yuusha (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Kimi no Yuusha (Japan)",
+  "zh-Hans": "你的勇者"
+ },
+ "vendor": "play汉化组",
+ "version": ""
+}

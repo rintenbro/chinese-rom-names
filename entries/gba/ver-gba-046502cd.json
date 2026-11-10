@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "046502CD",
+   "name": "游戏王! - 怪兽决斗8 破灭的大邪神[天使汉化组](简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Yu-Gi-Oh! Duel Monsters 8 - Hametsu no Daijashin",
+ "id": "ver-gba-046502cd",
+ "layer": "verified",
+ "original": {
+  "crc32": "681DAF1F",
+  "no_intro_name": "Yu-Gi-Oh! Duel Monsters 8 - Hametsu no Daijashin (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Yu-Gi-Oh! Duel Monsters 8 - Hametsu no Daijashin (Japan)",
+  "zh-Hans": "游戏王! - 怪兽决斗8 破灭的大邪神"
+ },
+ "vendor": "天使汉化组",
+ "version": ""
+}

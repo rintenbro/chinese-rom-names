@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "527628B2",
+   "name": "GT3职业概念锦标车赛[Iqueids](简)(JP)(62.09Mb).gba",
+   "size": 8138944
+  }
+ ],
+ "group": "GT Advance 3 - Pro Concept Racing",
+ "id": "ver-gba-527628b2",
+ "layer": "verified",
+ "original": {
+  "crc32": "03898E7F",
+  "no_intro_name": "GT Advance 3 - Pro Concept Racing (Europe)",
+  "region": "Europe",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "GT Advance 3 - Pro Concept Racing (Europe)",
+  "zh-Hans": "GT3职业概念锦标车赛"
+ },
+ "vendor": "Iqueids",
+ "version": ""
+}

@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-cf45833b356e/title.png"
+ },
+ "files": [
+  {
+   "crc32": "20D325C2",
+   "name": "扑克精灵(繁)[Idea-Tek](CN)[TAB](0.37Mb).nes",
+   "size": 49168
+  }
+ ],
+ "genre": null,
+ "group": "扑克精灵",
+ "id": "cn-cf45833b356e",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "扑克精灵"
+ },
+ "type": "original",
+ "vendor": "Idea-Tek",
+ "vendor_full": "",
+ "year": null
+}

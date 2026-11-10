@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9671647F",
+   "name": "超级机战学园 剧情汉化测试版(JP)(SOMA汉化组)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Supa Robo Gakuen",
+ "id": "ver-nds-9671647f",
+ "layer": "verified",
+ "original": {
+  "crc32": "B9CCD5BB",
+  "no_intro_name": "Supa Robo Gakuen (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Supa Robo Gakuen (Japan)",
+  "zh-Hans": "超级机战学园 剧情汉化测试版"
+ },
+ "vendor": "SOMA汉化组",
+ "version": ""
+}

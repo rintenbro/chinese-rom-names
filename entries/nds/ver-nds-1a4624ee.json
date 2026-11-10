@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1A4624EE",
+   "name": "卡坦岛(EU)(ACG汉化组)(128Mb).nds",
+   "size": 15790048
+  }
+ ],
+ "group": "Catan",
+ "id": "ver-nds-1a4624ee",
+ "layer": "verified",
+ "original": {
+  "crc32": "6BFC6439",
+  "no_intro_name": "Catan (Europe) (En,De)",
+  "region": "Europe",
+  "size": 16777216
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Catan (Europe) (En,De)",
+  "zh-Hans": "卡坦岛"
+ },
+ "vendor": "ACG汉化组",
+ "version": ""
+}

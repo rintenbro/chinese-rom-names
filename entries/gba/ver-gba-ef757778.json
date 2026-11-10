@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "EF757778",
+   "name": "超级机器人大战D[天才GK](繁)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Super Robot Taisen D",
+ "id": "ver-gba-ef757778",
+ "layer": "verified",
+ "original": {
+  "crc32": "EFB45117",
+  "no_intro_name": "Super Robot Taisen D (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Super Robot Taisen D (Japan)",
+  "zh-Hans": "超级机器人大战D"
+ },
+ "vendor": "天才GK",
+ "version": ""
+}

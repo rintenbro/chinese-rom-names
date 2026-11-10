@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9E5BF931",
+   "name": "双重记忆(繁)(JP)(PGCG汉化组)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Another Code - Futatsu no Kioku",
+ "id": "ver-nds-9e5bf931",
+ "layer": "verified",
+ "original": {
+  "crc32": "EC861AB2",
+  "no_intro_name": "Another Code - Futatsu no Kioku (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Another Code - Futatsu no Kioku (Japan)",
+  "zh-Hans": "双重记忆"
+ },
+ "vendor": "PGCG汉化组",
+ "version": ""
+}

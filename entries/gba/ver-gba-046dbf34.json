@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "046DBF34",
+   "name": "洛克人Zero 3[零组](繁)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Megaman Zero 3",
+ "id": "ver-gba-046dbf34",
+ "layer": "verified",
+ "original": {
+  "crc32": "B099577F",
+  "no_intro_name": "Megaman Zero 3 (Europe)",
+  "region": "Europe",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Megaman Zero 3 (Europe)",
+  "zh-Hans": "洛克人Zero 3"
+ },
+ "vendor": "零组",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9C3CEA66",
+   "name": "有罪X无罪(v20210328)(简)(JP)(有罪×无罪汉化组)(192Mb).nds",
+   "size": 22256676
+  }
+ ],
+ "group": "Saibanin Suiri Game - Yuuzai x Muzai",
+ "id": "ver-nds-9c3cea66",
+ "layer": "verified",
+ "original": {
+  "crc32": "0FE8AAA1",
+  "no_intro_name": "Saibanin Suiri Game - Yuuzai x Muzai (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Saibanin Suiri Game - Yuuzai x Muzai (Japan)",
+  "zh-Hans": "有罪X无罪"
+ },
+ "vendor": "有罪×无罪汉化组",
+ "version": "v20210328"
+}

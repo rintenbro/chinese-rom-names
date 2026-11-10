@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7DA1FEFC",
+   "name": "口袋妖怪 – 叶绿[口袋群星SP+情人](v20120407)(繁)(US)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Pokemon - LeafGreen Version",
+ "id": "ver-gba-7da1fefc",
+ "layer": "verified",
+ "original": {
+  "crc32": "D69C96CC",
+  "no_intro_name": "Pokemon - LeafGreen Version (USA, Europe)",
+  "region": "USA",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Pokemon - LeafGreen Version (USA, Europe)",
+  "zh-Hans": "口袋妖怪 – 叶绿"
+ },
+ "vendor": "口袋群星SP+情人",
+ "version": "v20120407"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7A48267E",
+   "name": "天使之翼 激斗的轨迹(JP)(ACG汉化组)(1024Mb).nds",
+   "size": 131168828
+  }
+ ],
+ "group": "Captain Tsubasa - Gekitou no Kiseki",
+ "id": "ver-nds-7a48267e",
+ "layer": "verified",
+ "original": {
+  "crc32": "A4288C40",
+  "no_intro_name": "Captain Tsubasa - Gekitou no Kiseki (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Captain Tsubasa - Gekitou no Kiseki (Japan)",
+  "zh-Hans": "天使之翼 激斗的轨迹"
+ },
+ "vendor": "ACG汉化组",
+ "version": ""
+}

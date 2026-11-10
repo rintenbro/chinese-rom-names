@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2A04C259",
+   "name": "天外魔境2 万字丸(繁)(JP)(Advance汉化组)(1024Mb).nds",
+   "size": 128110592
+  }
+ ],
+ "group": "Tengai Makyou II - Manji Maru",
+ "id": "ver-nds-2a04c259",
+ "layer": "verified",
+ "original": {
+  "crc32": "0DF79A80",
+  "no_intro_name": "Tengai Makyou II - Manji Maru (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Tengai Makyou II - Manji Maru (Japan)",
+  "zh-Hans": "天外魔境2 万字丸"
+ },
+ "vendor": "Advance汉化组",
+ "version": ""
+}

@@ -1,0 +1,34 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-48f72705a322/title.png"
+ },
+ "files": [
+  {
+   "crc32": "13A90E80",
+   "name": "勇者斗恶龙5(v0100382)(简)[外星科技](JP)[RPG](2Mb).nes",
+   "size": 262160
+  },
+  {
+   "crc32": "6E5DD18A",
+   "name": "勇者斗恶龙5(v0100382)(繁)[外星科技](JP)[RPG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "genre": null,
+ "group": "勇者斗恶龙5",
+ "id": "cn-48f72705a322",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "勇者斗恶龙5"
+ },
+ "type": "original",
+ "vendor": "外星科技",
+ "vendor_full": "",
+ "year": null
+}

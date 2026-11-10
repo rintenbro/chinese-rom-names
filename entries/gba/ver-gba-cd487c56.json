@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CD487C56",
+   "name": "幽灵陷阱[云山](完全汉化版)(简)(JP)(72Mb).gba",
+   "size": 9122848
+  }
+ ],
+ "group": "Ghost Trap",
+ "id": "ver-gba-cd487c56",
+ "layer": "verified",
+ "original": {
+  "crc32": "81EA54E2",
+  "no_intro_name": "Ghost Trap (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Ghost Trap (Japan)",
+  "zh-Hans": "幽灵陷阱"
+ },
+ "vendor": "云山",
+ "version": ""
+}

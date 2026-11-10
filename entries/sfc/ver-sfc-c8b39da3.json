@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C8B39DA3",
+   "name": "新热血硬派 国夫的挽歌(热血少女ZERO)(简)(官中)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "River City Girls Zero",
+ "id": "ver-sfc-c8b39da3",
+ "layer": "verified",
+ "original": {
+  "crc32": "C8B39DA3",
+  "no_intro_name": "River City Girls Zero (World) (Zh-Hans) (Steam)",
+  "region": "World",
+  "size": 4194304
+ },
+ "platform": "sfc",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "River City Girls Zero (World) (Zh-Hans) (Steam)",
+  "zh-Hans": "新热血硬派 国夫的挽歌"
+ },
+ "vendor": "",
+ "version": ""
+}

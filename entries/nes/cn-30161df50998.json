@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0AEC3279",
+   "name": "新英雄传(繁)[南晶科技](CN)[RPG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "genre": null,
+ "group": "新英雄传",
+ "id": "cn-30161df50998",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "新英雄传"
+ },
+ "type": "original",
+ "vendor": "南晶科技",
+ "vendor_full": "",
+ "year": null
+}

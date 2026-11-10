@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8D63220F",
+   "name": "认知码学习(v1.0)(简)[小霸王](CN)[ETC](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "认知码学习",
+ "id": "cn-b520a71141a0",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "认知码学习"
+ },
+ "type": "original",
+ "vendor": "小霸王",
+ "vendor_full": "",
+ "year": null
+}

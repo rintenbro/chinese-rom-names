@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8F96B796",
+   "name": "侏罗纪3 (繁) (unknown)(4Mb).gb",
+   "size": 524288
+  }
+ ],
+ "genre": null,
+ "group": "侏罗纪3",
+ "id": "cn-41974257503c",
+ "layer": "self",
+ "original": null,
+ "platform": "gb",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "侏罗纪3"
+ },
+ "type": "original",
+ "vendor": "unknown",
+ "vendor_full": "",
+ "year": null
+}

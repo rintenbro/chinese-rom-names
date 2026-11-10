@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3BAB9BCE",
+   "name": "心灵泡泡(US)(3DM飞速汉化组)(256Mb).nds",
+   "size": 33547348
+  }
+ ],
+ "group": "Soul Bubbles",
+ "id": "ver-nds-3bab9bce",
+ "layer": "verified",
+ "original": {
+  "crc32": "4192FA85",
+  "no_intro_name": "Soul Bubbles (USA) (En,Fr,De,Es,It)",
+  "region": "USA",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Soul Bubbles (USA) (En,Fr,De,Es,It)",
+  "zh-Hans": "心灵泡泡"
+ },
+ "vendor": "3DM飞速汉化组",
+ "version": ""
+}

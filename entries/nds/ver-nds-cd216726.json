@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CD216726",
+   "name": "日本冰上曲棍球协会公认 大家的冰壶DS 文本汉化版(JP)(野次馬)(128Mb).nds",
+   "size": 16777216
+  }
+ ],
+ "group": "Nihon Curling Kyoukai Kounin - Minna no DS Curling",
+ "id": "ver-nds-cd216726",
+ "layer": "verified",
+ "original": {
+  "crc32": "FB302534",
+  "no_intro_name": "Nihon Curling Kyoukai Kounin - Minna no DS Curling (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Nihon Curling Kyoukai Kounin - Minna no DS Curling (Japan)",
+  "zh-Hans": "日本冰上曲棍球协会公认 大家的冰壶DS 文本汉化版"
+ },
+ "vendor": "",
+ "version": ""
+}

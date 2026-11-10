@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "10F447F0",
+   "name": "彩虹战士 (繁) (Gowin)(1Mb).gb",
+   "size": 131072
+  }
+ ],
+ "genre": null,
+ "group": "彩虹战士",
+ "id": "cn-ad292dd83f04",
+ "layer": "self",
+ "original": null,
+ "platform": "gb",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "彩虹战士"
+ },
+ "type": "original",
+ "vendor": "Gowin",
+ "vendor_full": "",
+ "year": null
+}

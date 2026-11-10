@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-abc1688111c4/title.png"
+ },
+ "files": [
+  {
+   "crc32": "079C98E9",
+   "name": "英汉词典2(简)[未知](CN)[ETC](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "英汉词典2",
+ "id": "cn-abc1688111c4",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "英汉词典2"
+ },
+ "type": "hack",
+ "vendor": "未知",
+ "vendor_full": "",
+ "year": null
+}

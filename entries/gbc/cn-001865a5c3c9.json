@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-001865a5c3c9/title.png"
+ },
+ "files": [
+  {
+   "crc32": "3E6213A0",
+   "name": "光明力量 - 诸神之遗产 (繁) (天才小子).gbc",
+   "size": 1048576
+  }
+ ],
+ "genre": null,
+ "group": "光明力量 - 诸神之遗产",
+ "id": "cn-001865a5c3c9",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "光明力量 - 诸神之遗产"
+ },
+ "type": "original",
+ "vendor": "未知",
+ "vendor_full": "",
+ "year": null
+}

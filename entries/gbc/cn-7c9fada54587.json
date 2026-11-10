@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-7c9fada54587/title.png"
+ },
+ "files": [
+  {
+   "crc32": "B9CF45B3",
+   "name": "天之痕(简)(dhx)(32Mb).gb",
+   "size": 4194304
+  }
+ ],
+ "genre": null,
+ "group": "天之痕",
+ "id": "cn-7c9fada54587",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "天之痕"
+ },
+ "type": "original",
+ "vendor": "dhx",
+ "vendor_full": "",
+ "year": null
+}

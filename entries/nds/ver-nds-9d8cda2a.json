@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9D8CDA2A",
+   "name": "绘图(EU)(xedftxz)(64Mb).nds",
+   "size": 8199752
+  }
+ ],
+ "group": "Pic Pic",
+ "id": "ver-nds-9d8cda2a",
+ "layer": "verified",
+ "original": {
+  "crc32": "867B2364",
+  "no_intro_name": "Pic Pic (Europe)",
+  "region": "Europe",
+  "size": 8388608
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Pic Pic (Europe)",
+  "zh-Hans": "绘图"
+ },
+ "vendor": "xedftxz",
+ "version": ""
+}

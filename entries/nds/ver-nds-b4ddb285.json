@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B4DDB285",
+   "name": "超级机战学园 AI汉化v20261001(简)(MissyQAQ)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Supa Robo Gakuen",
+ "id": "ver-nds-b4ddb285",
+ "layer": "verified",
+ "original": {
+  "crc32": "B9CCD5BB",
+  "no_intro_name": "Supa Robo Gakuen (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Supa Robo Gakuen (Japan)",
+  "zh-Hans": "超级机战学园 AI汉化v20261001"
+ },
+ "vendor": "MissyQAQ",
+ "version": ""
+}

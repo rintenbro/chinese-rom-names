@@ -1,0 +1,54 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2E6ECB70",
+   "name": "小霸王中英文电脑学习卡(v1.1)(简)[小霸王](CN)[ETC](2Mb).nes",
+   "size": 262160
+  },
+  {
+   "crc32": "03175BD5",
+   "name": "小霸王中英文电脑学习卡(v3.0)(简)[小霸王](CN)[ETC](4Mb).nes",
+   "size": 524304
+  },
+  {
+   "crc32": "8149A776",
+   "name": "小霸王中英文电脑学习卡(v4.0)(简)[小霸王](CN)[ETC](8Mb).nes",
+   "size": 1048592
+  },
+  {
+   "crc32": "9AB55EDC",
+   "name": "小霸王中英文电脑学习卡(v5.0)(简)[小霸王](CN)[ETC](8Mb).nes",
+   "size": 1048592
+  },
+  {
+   "crc32": "949A0269",
+   "name": "小霸王中英文电脑学习卡(v6+)(简)[小霸王](CN)[ETC](4Mb).nes",
+   "size": 524304
+  },
+  {
+   "crc32": "8F21E75A",
+   "name": "小霸王中英文电脑学习卡(v6.0)(简)[小霸王](CN)[ETC](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "小霸王中英文电脑学习卡",
+ "id": "cn-73f84c7a696d",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "小霸王中英文电脑学习卡"
+ },
+ "type": "hack",
+ "vendor": "小霸王",
+ "vendor_full": "",
+ "year": null
+}

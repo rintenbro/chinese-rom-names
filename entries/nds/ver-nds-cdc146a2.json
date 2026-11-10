@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CDC146A2",
+   "name": "勇者斗恶龙怪兽篇 joker2 专家版(JP)(ACG汉化组)(-2048Mb).nds",
+   "size": 174228028
+  }
+ ],
+ "group": "Dragon Quest Monsters - Joker 2 - Professional",
+ "id": "ver-nds-cdc146a2",
+ "layer": "verified",
+ "original": {
+  "crc32": "16DE7317",
+  "no_intro_name": "Dragon Quest Monsters - Joker 2 - Professional (Japan)",
+  "region": "Japan",
+  "size": 268435456
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Dragon Quest Monsters - Joker 2 - Professional (Japan)",
+  "zh-Hans": "勇者斗恶龙怪兽篇 joker2 专家版"
+ },
+ "vendor": "ACG汉化组",
+ "version": ""
+}

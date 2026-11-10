@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-5e31e1a2ebbb/title.png"
+ },
+ "files": [
+  {
+   "crc32": "6A497FC8",
+   "name": "成吉思汗(简)[外星科技](JP)[SLG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "成吉思汗",
+ "id": "cn-5e31e1a2ebbb",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "成吉思汗"
+ },
+ "type": "original",
+ "vendor": "外星科技",
+ "vendor_full": "",
+ "year": null
+}

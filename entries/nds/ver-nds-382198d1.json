@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "382198D1",
+   "name": "超级机器人大战L v1.1(繁)(星组)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Super Robot Taisen L",
+ "id": "ver-nds-382198d1",
+ "layer": "verified",
+ "original": {
+  "crc32": "1D040BE8",
+  "no_intro_name": "Super Robot Taisen L (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Super Robot Taisen L (Japan)",
+  "zh-Hans": "超级机器人大战L v1.1"
+ },
+ "vendor": "",
+ "version": ""
+}

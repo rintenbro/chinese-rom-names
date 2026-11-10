@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F4641711",
+   "name": "忍者神龟2[D商+yy小龙虾](256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Renzhe Shen Gui 2",
+ "id": "ver-gba-f4641711",
+ "layer": "verified",
+ "original": {
+  "crc32": "F4641711",
+  "no_intro_name": "Renzhe Shen Gui 2 (Taiwan)",
+  "region": "Taiwan",
+  "size": 33554432
+ },
+ "platform": "gba",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Renzhe Shen Gui 2 (Taiwan)",
+  "zh-Hans": "忍者神龟2"
+ },
+ "vendor": "D商+yy小龙虾",
+ "version": ""
+}

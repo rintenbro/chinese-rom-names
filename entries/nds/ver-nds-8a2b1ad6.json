@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8A2B1AD6",
+   "name": "侦探神宫寺三郎DS 不灭的心 AI汉化(简)(Xzonn)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Tantei Jinguuji Saburou DS - Kienai Kokoro",
+ "id": "ver-nds-8a2b1ad6",
+ "layer": "verified",
+ "original": {
+  "crc32": "8322BBE8",
+  "no_intro_name": "Tantei Jinguuji Saburou DS - Kienai Kokoro (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Tantei Jinguuji Saburou DS - Kienai Kokoro (Japan)",
+  "zh-Hans": "侦探神宫寺三郎DS 不灭的心 AI"
+ },
+ "vendor": "Xzonn",
+ "version": ""
+}

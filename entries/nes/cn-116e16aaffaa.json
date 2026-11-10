@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-116e16aaffaa/title.png"
+ },
+ "files": [
+  {
+   "crc32": "30D6A114",
+   "name": "上古神殿(简)[外星科技](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "genre": null,
+ "group": "上古神殿",
+ "id": "cn-116e16aaffaa",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "上古神殿"
+ },
+ "type": "original",
+ "vendor": "外星科技",
+ "vendor_full": "",
+ "year": null
+}

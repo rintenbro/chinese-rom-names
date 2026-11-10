@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "32383BFA",
+   "name": "超执刀 无头版(繁)(JP)(A9VG)(128Mb).nds",
+   "size": 16777216
+  }
+ ],
+ "group": "Chou Shittou Caduceus",
+ "id": "ver-nds-32383bfa",
+ "layer": "verified",
+ "original": {
+  "crc32": "7A5EFCC4",
+  "no_intro_name": "Chou Shittou Caduceus (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "nds",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Chou Shittou Caduceus (Japan)",
+  "zh-Hans": "超执刀 无头版"
+ },
+ "vendor": "A9VG",
+ "version": ""
+}

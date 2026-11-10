@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BBDC1A67",
+   "name": "熊姬和她的伙伴们(JP)(指尖奶茶应援会&扑家)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Kumatanchi",
+ "id": "ver-nds-bbdc1a67",
+ "layer": "verified",
+ "original": {
+  "crc32": "08678139",
+  "no_intro_name": "Kumatanchi (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Kumatanchi (Japan)",
+  "zh-Hans": "熊姬和她的伙伴们"
+ },
+ "vendor": "指尖奶茶应援会&扑家",
+ "version": ""
+}

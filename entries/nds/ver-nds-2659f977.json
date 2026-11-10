@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2659F977",
+   "name": "美少女麻将3 Remix(繁)(JP)(HACC)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Idol Janshi Suchie-Pai III Remix",
+ "id": "ver-nds-2659f977",
+ "layer": "verified",
+ "original": {
+  "crc32": "1B29743F",
+  "no_intro_name": "Idol Janshi Suchie-Pai III Remix (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Idol Janshi Suchie-Pai III Remix (Japan)",
+  "zh-Hans": "美少女麻将3 Remix"
+ },
+ "vendor": "HACC",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2C0935F9",
+   "name": "谋略的未来 第一二章文本汉化版(JP)(运筹帷幄汉化委员会)(512Mb).nds",
+   "size": 63070176
+  }
+ ],
+ "group": "Saihai no Yukue",
+ "id": "ver-nds-2c0935f9",
+ "layer": "verified",
+ "original": {
+  "crc32": "6ADFBB12",
+  "no_intro_name": "Saihai no Yukue (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Saihai no Yukue (Japan)",
+  "zh-Hans": "谋略的未来 第一二章文本汉化版"
+ },
+ "vendor": "",
+ "version": ""
+}

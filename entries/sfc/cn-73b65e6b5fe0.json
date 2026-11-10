@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8FDD6ECE",
+   "name": "梦想家 (简) (Beta)(UTunnels)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "genre": null,
+ "group": "梦想家",
+ "id": "cn-73b65e6b5fe0",
+ "layer": "self",
+ "original": null,
+ "platform": "sfc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "梦想家"
+ },
+ "type": "original",
+ "vendor": "UTunnels",
+ "vendor_full": "",
+ "year": null
+}

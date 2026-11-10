@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3E9E010C",
+   "name": "水浒风云传 (繁) (Never Ending Soft Team)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Shuihu Fengyun Zhuan",
+ "id": "ver-md-3e9e010c",
+ "layer": "verified",
+ "original": {
+  "crc32": "3E9E010C",
+  "no_intro_name": "Shuihu Fengyun Zhuan (Taiwan)",
+  "region": "Taiwan",
+  "size": 2097152
+ },
+ "platform": "md",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Shuihu Fengyun Zhuan (Taiwan)",
+  "zh-Hans": "水浒风云传"
+ },
+ "vendor": "Never Ending Soft Team",
+ "version": ""
+}

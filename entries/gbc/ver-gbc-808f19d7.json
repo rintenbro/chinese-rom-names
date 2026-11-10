@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "808F19D7",
+   "name": "火焰之纹章外传 - 光与暗的轮回 (繁) (SKOB).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Shenghuo Jiangmo Lu Waizhuan - Guang Yu An De Lunhui",
+ "id": "ver-gbc-808f19d7",
+ "layer": "verified",
+ "original": {
+  "crc32": "808F19D7",
+  "no_intro_name": "Shenghuo Jiangmo Lu Waizhuan - Guang Yu An De Lunhui (Taiwan)",
+  "region": "Taiwan",
+  "size": 2097152
+ },
+ "platform": "gbc",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Shenghuo Jiangmo Lu Waizhuan - Guang Yu An De Lunhui (Taiwan)",
+  "zh-Hans": "火焰之纹章外传 - 光与暗的轮回"
+ },
+ "vendor": "SKOB",
+ "version": ""
+}

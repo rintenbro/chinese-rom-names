@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C8B18C7E",
+   "name": "超级机器人大战D[张老批](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Super Robot Taisen D",
+ "id": "ver-gba-c8b18c7e",
+ "layer": "verified",
+ "original": {
+  "crc32": "EFB45117",
+  "no_intro_name": "Super Robot Taisen D (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Super Robot Taisen D (Japan)",
+  "zh-Hans": "超级机器人大战D"
+ },
+ "vendor": "张老批",
+ "version": ""
+}

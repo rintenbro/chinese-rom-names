@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2B72BE13",
+   "name": "合金弹头7(简)(JP)(ACG汉化组)(512Mb).nds",
+   "size": 64825440
+  }
+ ],
+ "group": "Metal Slug 7",
+ "id": "ver-nds-2b72be13",
+ "layer": "verified",
+ "original": {
+  "crc32": "89F4BBA2",
+  "no_intro_name": "Metal Slug 7 (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Metal Slug 7 (Japan)",
+  "zh-Hans": "合金弹头7"
+ },
+ "vendor": "ACG汉化组",
+ "version": ""
+}

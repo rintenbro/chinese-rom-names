@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "29AEFB21",
+   "name": "结界师 黑芒楼袭来 最终版(JP)(OREZERO)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Kekkaishi - Kokubourou Shuurai",
+ "id": "ver-nds-29aefb21",
+ "layer": "verified",
+ "original": {
+  "crc32": "94CFCAF3",
+  "no_intro_name": "Kekkaishi - Kokubourou Shuurai (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Kekkaishi - Kokubourou Shuurai (Japan)",
+  "zh-Hans": "结界师 黑芒楼袭来 最终版"
+ },
+ "vendor": "OREZERO",
+ "version": ""
+}

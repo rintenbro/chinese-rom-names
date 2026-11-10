@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F22938AF",
+   "name": "最终幻想战略版Advance[熊组+啪嗒啪嗒](美版完全汉化v1.1)(简)(US)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Final Fantasy Tactics Advance",
+ "id": "ver-gba-f22938af",
+ "layer": "verified",
+ "original": {
+  "crc32": "5645E56C",
+  "no_intro_name": "Final Fantasy Tactics Advance (USA)",
+  "region": "USA",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Final Fantasy Tactics Advance (USA)",
+  "zh-Hans": "最终幻想战略版Advance"
+ },
+ "vendor": "熊组+啪嗒啪嗒",
+ "version": "v1.1"
+}

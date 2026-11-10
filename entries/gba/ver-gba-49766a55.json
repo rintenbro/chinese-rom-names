@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "49766A55",
+   "name": "数码宝贝赛车[Advance汉化组](v1.0)(简)(80Mb).gba",
+   "size": 10562848
+  }
+ ],
+ "group": "Digimon Racing",
+ "id": "ver-gba-49766a55",
+ "layer": "verified",
+ "original": {
+  "crc32": "C50468A8",
+  "no_intro_name": "Digimon Racing (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Digimon Racing (Japan)",
+  "zh-Hans": "数码宝贝赛车"
+ },
+ "vendor": "Advance汉化组",
+ "version": "v1.0"
+}

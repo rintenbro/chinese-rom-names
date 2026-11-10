@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CA3569E1",
+   "name": "口袋妖怪 银灵(JP)(ACG汉化组)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Pocket Monsters - SoulSilver",
+ "id": "ver-nds-ca3569e1",
+ "layer": "verified",
+ "original": {
+  "crc32": "CC4C2BEF",
+  "no_intro_name": "Pocket Monsters - SoulSilver (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Pocket Monsters - SoulSilver (Japan)",
+  "zh-Hans": "口袋妖怪 银灵"
+ },
+ "vendor": "ACG汉化组",
+ "version": ""
+}

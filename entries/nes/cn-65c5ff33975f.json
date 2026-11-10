@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6FE19076",
+   "name": "夜明珠(繁)[外星科技](CN)[FTG](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "genre": null,
+ "group": "夜明珠",
+ "id": "cn-65c5ff33975f",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "夜明珠"
+ },
+ "type": "original",
+ "vendor": "外星科技",
+ "vendor_full": "",
+ "year": null
+}

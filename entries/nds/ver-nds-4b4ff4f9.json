@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4B4FF4F9",
+   "name": "思乡之风(繁)V2(JP)(chienchihfeng)(1024Mb).nds",
+   "size": 119486512
+  }
+ ],
+ "group": "Nostalgeo no Kaze",
+ "id": "ver-nds-4b4ff4f9",
+ "layer": "verified",
+ "original": {
+  "crc32": "96CF5544",
+  "no_intro_name": "Nostalgeo no Kaze (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Nostalgeo no Kaze (Japan)",
+  "zh-Hans": "思乡之风V2"
+ },
+ "vendor": "chienchihfeng",
+ "version": ""
+}

@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-5cdbde16bb37/title.png"
+ },
+ "files": [
+  {
+   "crc32": "A7B53474",
+   "name": "风之谷II (简) (新特奇).gbc",
+   "size": 4194304
+  }
+ ],
+ "genre": null,
+ "group": "风之谷II",
+ "id": "cn-5cdbde16bb37",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "风之谷II"
+ },
+ "type": "original",
+ "vendor": "未知",
+ "vendor_full": "",
+ "year": null
+}

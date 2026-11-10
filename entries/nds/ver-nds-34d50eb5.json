@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "34D50EB5",
+   "name": "名侦探柯南 侦探力训练 0.99(JP)(E.Wings汉化组)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Meitantei Conan - Tantei Ryoku Trainer",
+ "id": "ver-nds-34d50eb5",
+ "layer": "verified",
+ "original": {
+  "crc32": "AC0F9B04",
+  "no_intro_name": "Meitantei Conan - Tantei Ryoku Trainer (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Meitantei Conan - Tantei Ryoku Trainer (Japan)",
+  "zh-Hans": "名侦探柯南 侦探力训练 0.99"
+ },
+ "vendor": "E.Wings汉化组",
+ "version": ""
+}

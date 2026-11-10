@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8D24CCF3",
+   "name": "悟空降魔录 齐天大圣篇(繁)(D商+瓜瓜龙)(8Mb).gbc",
+   "size": 1048576
+  }
+ ],
+ "genre": null,
+ "group": "悟空降魔录 齐天大圣篇",
+ "id": "cn-31708eafff0f",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "悟空降魔录 齐天大圣篇"
+ },
+ "type": "original",
+ "vendor": "D商+瓜瓜龙",
+ "vendor_full": "",
+ "year": null
+}

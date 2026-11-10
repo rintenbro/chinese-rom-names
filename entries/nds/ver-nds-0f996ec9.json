@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0F996EC9",
+   "name": "沙迦2秘宝传说(JP)(兔友汉化组)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "SaGa 2 - Hihou Densetsu - Goddess of Destiny",
+ "id": "ver-nds-0f996ec9",
+ "layer": "verified",
+ "original": {
+  "crc32": "F47920FB",
+  "no_intro_name": "SaGa 2 - Hihou Densetsu - Goddess of Destiny (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "SaGa 2 - Hihou Densetsu - Goddess of Destiny (Japan)",
+  "zh-Hans": "沙迦2秘宝传说"
+ },
+ "vendor": "兔友汉化组",
+ "version": ""
+}

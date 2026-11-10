@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-e90b62f9dd7f/title.png"
+ },
+ "files": [
+  {
+   "crc32": "8687B626",
+   "name": "女神的救赎(简)[外星科技](JP)[RPG](5Mb).nes",
+   "size": 655376
+  }
+ ],
+ "genre": null,
+ "group": "女神的救赎",
+ "id": "cn-e90b62f9dd7f",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "女神的救赎"
+ },
+ "type": "original",
+ "vendor": "外星科技",
+ "vendor_full": "",
+ "year": null
+}

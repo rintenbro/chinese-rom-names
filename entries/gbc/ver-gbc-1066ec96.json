@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1066EC96",
+   "name": "新光明与黑暗 (繁) (新特奇).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Shenghuo Jiangmo Lu Waizhuan",
+ "id": "ver-gbc-1066ec96",
+ "layer": "verified",
+ "original": {
+  "crc32": "1066EC96",
+  "no_intro_name": "Shenghuo Jiangmo Lu Waizhuan (Taiwan)",
+  "region": "Taiwan",
+  "size": 2097152
+ },
+ "platform": "gbc",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Shenghuo Jiangmo Lu Waizhuan (Taiwan)",
+  "zh-Hans": "新光明与黑暗"
+ },
+ "vendor": "",
+ "version": ""
+}

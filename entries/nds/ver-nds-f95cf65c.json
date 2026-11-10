@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F95CF65C",
+   "name": "爆漫王 漫画家之道 剧情汉化(简)(罗伊SD)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Bakuman. - Mangaka e no Michi",
+ "id": "ver-nds-f95cf65c",
+ "layer": "verified",
+ "original": {
+  "crc32": "F871A469",
+  "no_intro_name": "Bakuman. - Mangaka e no Michi (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Bakuman. - Mangaka e no Michi (Japan)",
+  "zh-Hans": "爆漫王 漫画家之道 剧情"
+ },
+ "vendor": "",
+ "version": ""
+}

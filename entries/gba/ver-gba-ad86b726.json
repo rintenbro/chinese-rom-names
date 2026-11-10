@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AD86B726",
+   "name": "火焰纹章 - 圣魔之光石[狼组+火花天龙剑+李采叶叶](汉化+中文语音2.0)(简)(JP)(136Mb).gba",
+   "size": 17928212
+  }
+ ],
+ "group": "Fire Emblem - Seima no Kouseki",
+ "id": "ver-gba-ad86b726",
+ "layer": "verified",
+ "original": {
+  "crc32": "9D76826F",
+  "no_intro_name": "Fire Emblem - Seima no Kouseki (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Fire Emblem - Seima no Kouseki (Japan)",
+  "zh-Hans": "火焰纹章 - 圣魔之光石"
+ },
+ "vendor": "狼组+火花天龙剑+李采叶叶",
+ "version": ""
+}

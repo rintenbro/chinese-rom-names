@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "670C6CD6",
+   "name": "倚天传说(简)[小霸王](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "genre": null,
+ "group": "倚天传说",
+ "id": "cn-376d045b2028",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "倚天传说"
+ },
+ "type": "original",
+ "vendor": "小霸王",
+ "vendor_full": "",
+ "year": null
+}

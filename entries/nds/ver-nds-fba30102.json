@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FBA30102",
+   "name": "绿野仙踪奇遇记(繁)V2 桃乐丝版(JP)(akairyusei)(1024Mb).nds",
+   "size": 115952128
+  }
+ ],
+ "group": "Riz-Zoawd",
+ "id": "ver-nds-fba30102",
+ "layer": "verified",
+ "original": {
+  "crc32": "E4EBCB29",
+  "no_intro_name": "Riz-Zoawd (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Riz-Zoawd (Japan)",
+  "zh-Hans": "绿野仙踪奇遇记V2 桃乐丝版"
+ },
+ "vendor": "akairyusei",
+ "version": ""
+}

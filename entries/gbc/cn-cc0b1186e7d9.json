@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C88E25A6",
+   "name": "特殊部队2001 (繁) (unknown).gbc",
+   "size": 1048576
+  }
+ ],
+ "genre": null,
+ "group": "特殊部队2001",
+ "id": "cn-cc0b1186e7d9",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "特殊部队2001"
+ },
+ "type": "original",
+ "vendor": "unknown",
+ "vendor_full": "",
+ "year": null
+}

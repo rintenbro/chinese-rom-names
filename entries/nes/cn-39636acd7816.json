@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-39636acd7816/title.png"
+ },
+ "files": [
+  {
+   "crc32": "BB2D6175",
+   "name": "五号特工队(简)[南通科技](JP)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "genre": null,
+ "group": "五号特工队",
+ "id": "cn-39636acd7816",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "五号特工队"
+ },
+ "type": "hack",
+ "vendor": "南通科技",
+ "vendor_full": "",
+ "year": null
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "26E7A705",
+   "name": "舞之刃 - 闪光[PGCG](简)(JP)(64.08Mb).gba",
+   "size": 8400392
+  }
+ ],
+ "group": "Dancing Sword - Senkou",
+ "id": "ver-gba-26e7a705",
+ "layer": "verified",
+ "original": {
+  "crc32": "E2316D47",
+  "no_intro_name": "Dancing Sword - Senkou (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Dancing Sword - Senkou (Japan)",
+  "zh-Hans": "舞之刃 - 闪光"
+ },
+ "vendor": "",
+ "version": ""
+}

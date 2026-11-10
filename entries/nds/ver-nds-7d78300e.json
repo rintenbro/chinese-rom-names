@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7D78300E",
+   "name": "龙珠DS2 突击！红缎带军(简)别字修正版(JP)(兔友汉化组)(512Mb).nds",
+   "size": 60716544
+  }
+ ],
+ "group": "Dragon Ball DS 2 - Totsugeki! Red Ribbon Gun",
+ "id": "ver-nds-7d78300e",
+ "layer": "verified",
+ "original": {
+  "crc32": "9533A649",
+  "no_intro_name": "Dragon Ball DS 2 - Totsugeki! Red Ribbon Gun (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Dragon Ball DS 2 - Totsugeki! Red Ribbon Gun (Japan)",
+  "zh-Hans": "龙珠DS2 突击！红缎带军别字修正版"
+ },
+ "vendor": "兔友汉化组",
+ "version": ""
+}

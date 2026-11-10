@@ -1,0 +1,34 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B4AAE3E6",
+   "name": "大话西游(简)[南晶科技](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  },
+  {
+   "crc32": "B54C14E6",
+   "name": "大话西游(繁)[火星电子](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "大话西游",
+ "id": "cn-5ef91e6ed782",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "大话西游"
+ },
+ "type": "original",
+ "vendor": "南晶科技",
+ "vendor_full": "",
+ "year": null
+}

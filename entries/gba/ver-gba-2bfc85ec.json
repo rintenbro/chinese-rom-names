@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2BFC85EC",
+   "name": "忍者神龟[Leaf](简)(US)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Teenage Mutant Ninja Turtles",
+ "id": "ver-gba-2bfc85ec",
+ "layer": "verified",
+ "original": {
+  "crc32": "F6C36783",
+  "no_intro_name": "Teenage Mutant Ninja Turtles (USA)",
+  "region": "USA",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Teenage Mutant Ninja Turtles (USA)",
+  "zh-Hans": "忍者神龟"
+ },
+ "vendor": "Leaf",
+ "version": ""
+}

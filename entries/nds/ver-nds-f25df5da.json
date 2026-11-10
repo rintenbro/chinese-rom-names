@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F25DF5DA",
+   "name": "SD高达G世纪DS(简)(废柴君驾到)(256Mb).nds",
+   "size": 30324584
+  }
+ ],
+ "group": "SD Gundam G Generation DS",
+ "id": "ver-nds-f25df5da",
+ "layer": "verified",
+ "original": {
+  "crc32": "F0EF3C40",
+  "no_intro_name": "SD Gundam G Generation DS (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "SD Gundam G Generation DS (Japan)",
+  "zh-Hans": "SD高达G世纪DS"
+ },
+ "vendor": "",
+ "version": ""
+}

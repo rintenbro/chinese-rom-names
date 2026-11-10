@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CDB2D045",
+   "name": "波斯王子 - 时之沙[Flyeyes&灰米&恒星月](简)(US)(64.85Mb).gba",
+   "size": 8500224
+  }
+ ],
+ "group": "Prince of Persia - The Sands of Time",
+ "id": "ver-gba-cdb2d045",
+ "layer": "verified",
+ "original": {
+  "crc32": "0C043BA6",
+  "no_intro_name": "Prince of Persia - The Sands of Time (USA) (En,Fr,Es)",
+  "region": "USA",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Prince of Persia - The Sands of Time (USA) (En,Fr,Es)",
+  "zh-Hans": "波斯王子 - 时之沙"
+ },
+ "vendor": "Flyeyes&灰米&恒星月",
+ "version": ""
+}

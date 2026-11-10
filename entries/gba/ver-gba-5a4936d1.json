@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5A4936D1",
+   "name": "机械化军队 - Mech Platoon[Flyeyes](简)(US)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Mech Platoon",
+ "id": "ver-gba-5a4936d1",
+ "layer": "verified",
+ "original": {
+  "crc32": "769FDE96",
+  "no_intro_name": "Mech Platoon (USA)",
+  "region": "USA",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Mech Platoon (USA)",
+  "zh-Hans": "机械化军队 - Mech Platoon"
+ },
+ "vendor": "Flyeyes",
+ "version": ""
+}

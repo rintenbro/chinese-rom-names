@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0CC44BCE",
+   "name": "逆转裁判 复苏的逆转 全文本汉化体验版+图片汉化+中文配音(JP)(逆转ACE+fciq)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Gyakuten Saiban - Yomigaeru Gyakuten",
+ "id": "ver-nds-0cc44bce",
+ "layer": "verified",
+ "original": {
+  "crc32": "1C725545",
+  "no_intro_name": "Gyakuten Saiban - Yomigaeru Gyakuten (Japan) (En,Ja)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Gyakuten Saiban - Yomigaeru Gyakuten (Japan) (En,Ja)",
+  "zh-Hans": "逆转裁判 复苏的逆转 全文本汉化体验版+图片"
+ },
+ "vendor": "逆转ACE+fciq",
+ "version": ""
+}

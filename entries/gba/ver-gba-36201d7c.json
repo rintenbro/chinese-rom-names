@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "36201D7C",
+   "name": "神游 马力欧卡丁车 超级赛道[未发售](简)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Maliou Kadingche - Chaoji Saidao",
+ "id": "ver-gba-36201d7c",
+ "layer": "verified",
+ "original": {
+  "crc32": "36201D7C",
+  "no_intro_name": "Maliou Kadingche - Chaoji Saidao (China) (Proto)",
+  "region": "China",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Maliou Kadingche - Chaoji Saidao (China) (Proto)",
+  "zh-Hans": "神游 马力欧卡丁车 超级赛道"
+ },
+ "vendor": "未发售",
+ "version": ""
+}

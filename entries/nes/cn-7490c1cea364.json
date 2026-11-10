@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "36E6E590",
+   "name": "黑暗之蛊(繁)[火星电子](CN)[AVG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "黑暗之蛊",
+ "id": "cn-7490c1cea364",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "黑暗之蛊"
+ },
+ "type": "original",
+ "vendor": "火星电子",
+ "vendor_full": "",
+ "year": null
+}

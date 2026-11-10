@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7407B7B9",
+   "name": "幽游白书5(繁)[卡圣](CN)[FTG](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "genre": null,
+ "group": "幽游白书5",
+ "id": "cn-d379364f3fd3",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "幽游白书5"
+ },
+ "type": "original",
+ "vendor": "卡圣",
+ "vendor_full": "",
+ "year": null
+}

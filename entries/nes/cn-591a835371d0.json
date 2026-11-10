@@ -1,0 +1,34 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B1AE3A4B",
+   "name": "爆笑三国(简)[外星科技+147201688](CN)[SLG](8Mb).nes",
+   "size": 1048592
+  },
+  {
+   "crc32": "7DA2D1C9",
+   "name": "爆笑三国(繁)[外星科技](CN)[SLG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "genre": null,
+ "group": "爆笑三国",
+ "id": "cn-591a835371d0",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "爆笑三国"
+ },
+ "type": "original",
+ "vendor": "外星科技+147201688",
+ "vendor_full": "",
+ "year": null
+}

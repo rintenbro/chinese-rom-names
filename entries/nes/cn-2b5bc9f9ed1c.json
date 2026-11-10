@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "ACB2F470",
+   "name": "趣味成语屋+马步迷阵(简)[小霸王](CN)[PUZ](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "genre": null,
+ "group": "趣味成语屋+马步迷阵",
+ "id": "cn-2b5bc9f9ed1c",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "趣味成语屋+马步迷阵"
+ },
+ "type": "original",
+ "vendor": "小霸王",
+ "vendor_full": "",
+ "year": null
+}

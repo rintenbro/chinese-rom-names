@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FA57734E",
+   "name": "格兰蒂亚(简)[酷哥电子](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "genre": null,
+ "group": "格兰蒂亚",
+ "id": "cn-17e45c54dded",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "格兰蒂亚"
+ },
+ "type": "original",
+ "vendor": "酷哥电子",
+ "vendor_full": "",
+ "year": null
+}

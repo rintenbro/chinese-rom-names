@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BA1A5528",
+   "name": "高速卡片战斗 卡片英雄(JP)(的士汉化组)(512Mb).nds",
+   "size": 60931264
+  }
+ ],
+ "group": "Kousoku Card Battle - Card Hero",
+ "id": "ver-nds-ba1a5528",
+ "layer": "verified",
+ "original": {
+  "crc32": "6F1E3C0E",
+  "no_intro_name": "Kousoku Card Battle - Card Hero (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Kousoku Card Battle - Card Hero (Japan)",
+  "zh-Hans": "高速卡片战斗 卡片英雄"
+ },
+ "vendor": "的士汉化组",
+ "version": ""
+}

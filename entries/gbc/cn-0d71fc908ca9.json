@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-0d71fc908ca9/title.png"
+ },
+ "files": [
+  {
+   "crc32": "3A08C8EB",
+   "name": "口袋妖怪 - 蓝宝石 (繁) (新特奇).gbc",
+   "size": 4194304
+  }
+ ],
+ "genre": null,
+ "group": "口袋妖怪 - 蓝宝石",
+ "id": "cn-0d71fc908ca9",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "口袋妖怪 - 蓝宝石"
+ },
+ "type": "original",
+ "vendor": "未知",
+ "vendor_full": "",
+ "year": null
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "041AA362",
+   "name": "兽神演武DS 剧情汉化(简)(罗伊SD)(512Mb).nds",
+   "size": 54448904
+  }
+ ],
+ "group": "Juushin Enbu DS",
+ "id": "ver-nds-041aa362",
+ "layer": "verified",
+ "original": {
+  "crc32": "A868EE60",
+  "no_intro_name": "Juushin Enbu DS (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Juushin Enbu DS (Japan)",
+  "zh-Hans": "兽神演武DS 剧情"
+ },
+ "vendor": "",
+ "version": ""
+}

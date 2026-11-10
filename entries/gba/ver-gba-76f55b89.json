@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "76F55B89",
+   "name": "恶魔城 - 月之轮回[施珂昱+ASH自由](2024汉化修正版)(简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Akumajou Dracula - Circle of the Moon",
+ "id": "ver-gba-76f55b89",
+ "layer": "verified",
+ "original": {
+  "crc32": "F3E41D73",
+  "no_intro_name": "Akumajou Dracula - Circle of the Moon (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Akumajou Dracula - Circle of the Moon (Japan)",
+  "zh-Hans": "恶魔城 - 月之轮回"
+ },
+ "vendor": "施珂昱+ASH自由",
+ "version": ""
+}

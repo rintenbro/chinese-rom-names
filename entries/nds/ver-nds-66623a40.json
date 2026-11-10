@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "66623A40",
+   "name": "麻将霸王DS 测试版(JP)(WGF)(64Mb).nds",
+   "size": 16777216
+  }
+ ],
+ "group": "Mahjong Haou DS Special",
+ "id": "ver-nds-66623a40",
+ "layer": "verified",
+ "original": {
+  "crc32": "019180E8",
+  "no_intro_name": "Mahjong Haou DS Special (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Mahjong Haou DS Special (Japan)",
+  "zh-Hans": "麻将霸王DS 测试版"
+ },
+ "vendor": "WGF",
+ "version": ""
+}

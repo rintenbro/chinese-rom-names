@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7D43CA4B",
+   "name": "数独游戏10000问(JP)(的士汉化组)(128Mb).nds",
+   "size": 13756456
+  }
+ ],
+ "group": "Nanpure 10000 Mon",
+ "id": "ver-nds-7d43ca4b",
+ "layer": "verified",
+ "original": {
+  "crc32": "908D3404",
+  "no_intro_name": "Nanpure 10000 Mon (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Nanpure 10000 Mon (Japan)",
+  "zh-Hans": "数独游戏10000问"
+ },
+ "vendor": "的士汉化组",
+ "version": ""
+}

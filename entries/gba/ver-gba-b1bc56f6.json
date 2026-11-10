@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B1BC56F6",
+   "name": "口袋妖怪 - 红宝石[口袋妖怪网](386)(简)(JP)(64.58Mb).gba",
+   "size": 8465528
+  }
+ ],
+ "group": "Pocket Monsters - Ruby",
+ "id": "ver-gba-b1bc56f6",
+ "layer": "verified",
+ "original": {
+  "crc32": "CEE9471A",
+  "no_intro_name": "Pocket Monsters - Ruby (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Pocket Monsters - Ruby (Japan)",
+  "zh-Hans": "口袋妖怪 - 红宝石"
+ },
+ "vendor": "",
+ "version": ""
+}

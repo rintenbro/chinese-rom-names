@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "98692187",
+   "name": "怪物守护者[Advance汉化组](简)(128Mb).gba",
+   "size": 13708576
+  }
+ ],
+ "group": "Monster Guardians",
+ "id": "ver-gba-98692187",
+ "layer": "verified",
+ "original": {
+  "crc32": "93815CDE",
+  "no_intro_name": "Monster Guardians (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Monster Guardians (Japan)",
+  "zh-Hans": "怪物守护者"
+ },
+ "vendor": "Advance汉化组",
+ "version": ""
+}

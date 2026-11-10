@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "29CA5AE1",
+   "name": "新我们的太阳 - 逆袭的萨巴塔[TGB&逆转Ace & 太阳少年爱好者汉化组](v20160622)(简)(JP)(128Mb)(含阳光补丁).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Shin Bokura no Taiyou - Gyakushuu no Sabata",
+ "id": "ver-gba-29ca5ae1",
+ "layer": "verified",
+ "original": {
+  "crc32": "AF453162",
+  "no_intro_name": "Shin Bokura no Taiyou - Gyakushuu no Sabata (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Shin Bokura no Taiyou - Gyakushuu no Sabata (Japan)",
+  "zh-Hans": "新我们的太阳 - 逆袭的萨巴塔"
+ },
+ "vendor": "TGB&逆转Ace & 太阳少年爱好者汉化组",
+ "version": "v20160622"
+}

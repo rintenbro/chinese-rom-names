@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "50A1E9A9",
+   "name": "饿狼2003 (简) (新特奇).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Elang 2003 - Mark of the Wolfs",
+ "id": "ver-gbc-50a1e9a9",
+ "layer": "verified",
+ "original": {
+  "crc32": "50A1E9A9",
+  "no_intro_name": "Elang 2003 - Mark of the Wolfs (Taiwan) (En)",
+  "region": "Taiwan",
+  "size": 1048576
+ },
+ "platform": "gbc",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Elang 2003 - Mark of the Wolfs (Taiwan) (En)",
+  "zh-Hans": "饿狼2003"
+ },
+ "vendor": "",
+ "version": ""
+}

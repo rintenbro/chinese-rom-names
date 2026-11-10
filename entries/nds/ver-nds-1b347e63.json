@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1B347E63",
+   "name": "噗哟噗哟7(JP)(兔友汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Puyo Puyo 7",
+ "id": "ver-nds-1b347e63",
+ "layer": "verified",
+ "original": {
+  "crc32": "A6B06082",
+  "no_intro_name": "Puyo Puyo 7 (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Puyo Puyo 7 (Japan)",
+  "zh-Hans": "噗哟噗哟7"
+ },
+ "vendor": "兔友汉化组",
+ "version": ""
+}

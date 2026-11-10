@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9B0ADE8E",
+   "name": "无名英雄 木马的咆哮 全文本繁体汉化版(JP)(唐啸)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Unknown Soldier - Mokuba no Houkou",
+ "id": "ver-nds-9b0ade8e",
+ "layer": "verified",
+ "original": {
+  "crc32": "3B9D1332",
+  "no_intro_name": "Unknown Soldier - Mokuba no Houkou (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Unknown Soldier - Mokuba no Houkou (Japan)",
+  "zh-Hans": "无名英雄 木马的咆哮 全文本繁体汉化版"
+ },
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-7760cd983efe/title.png"
+ },
+ "files": [
+  {
+   "crc32": "6FB6E261",
+   "name": "冰原历险记II (繁) (新特奇).gbc",
+   "size": 4194304
+  }
+ ],
+ "genre": null,
+ "group": "冰原历险记II",
+ "id": "cn-7760cd983efe",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "冰原历险记II"
+ },
+ "type": "original",
+ "vendor": "未知",
+ "vendor_full": "",
+ "year": null
+}

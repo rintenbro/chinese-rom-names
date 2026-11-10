@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1EDBB8ED",
+   "name": "索尼克Advance[狂细胞](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Sonic Advance",
+ "id": "ver-gba-1edbb8ed",
+ "layer": "verified",
+ "original": {
+  "crc32": "5F512223",
+  "no_intro_name": "Sonic Advance (Japan) (En,Ja)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Sonic Advance (Japan) (En,Ja)",
+  "zh-Hans": "索尼克Advance"
+ },
+ "vendor": "狂细胞",
+ "version": ""
+}

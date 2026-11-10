@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "863F59D1",
+   "name": "人鱼恋曲 - Pichi Pichi Pitch[千岛&叶子](简)(JP)(136.33Mb).gba",
+   "size": 17870147
+  }
+ ],
+ "group": "Mermaid Melody - Pichi Pichi Pitch",
+ "id": "ver-gba-863f59d1",
+ "layer": "verified",
+ "original": {
+  "crc32": "63F72589",
+  "no_intro_name": "Mermaid Melody - Pichi Pichi Pitch (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Mermaid Melody - Pichi Pichi Pitch (Japan)",
+  "zh-Hans": "人鱼恋曲 - Pichi Pichi Pitch"
+ },
+ "vendor": "千岛&叶子",
+ "version": ""
+}

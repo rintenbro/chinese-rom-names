@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "52E992F3",
+   "name": "电梯大战 - 旧&新[天使汉化组](繁)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Elevator Action - Old & New",
+ "id": "ver-gba-52e992f3",
+ "layer": "verified",
+ "original": {
+  "crc32": "2D88526A",
+  "no_intro_name": "Elevator Action - Old & New (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Elevator Action - Old & New (Japan)",
+  "zh-Hans": "电梯大战 - 旧&新"
+ },
+ "vendor": "天使汉化组",
+ "version": ""
+}

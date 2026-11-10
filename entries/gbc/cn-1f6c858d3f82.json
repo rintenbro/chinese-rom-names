@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-1f6c858d3f82/title.png"
+ },
+ "files": [
+  {
+   "crc32": "AA04B4FE",
+   "name": "超级火枪英雄2(简)(dhx)(8Mb).gbc",
+   "size": 1048576
+  }
+ ],
+ "genre": null,
+ "group": "超级火枪英雄2",
+ "id": "cn-1f6c858d3f82",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "超级火枪英雄2"
+ },
+ "type": "original",
+ "vendor": "dhx",
+ "vendor_full": "",
+ "year": null
+}

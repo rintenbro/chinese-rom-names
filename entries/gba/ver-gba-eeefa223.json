@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "EEEFA223",
+   "name": "三国志[盗版](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Sangokushi",
+ "id": "ver-gba-eeefa223",
+ "layer": "verified",
+ "original": {
+  "crc32": "F3D3C239",
+  "no_intro_name": "Sangokushi (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Sangokushi (Japan)",
+  "zh-Hans": "三国志"
+ },
+ "vendor": "盗版",
+ "version": ""
+}

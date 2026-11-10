@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "022E63B3",
+   "name": "怪盗卢梭(繁)(JP)(Advance)(752Mb).nds",
+   "size": 98006180
+  }
+ ],
+ "group": "Kaitou Rousseau",
+ "id": "ver-nds-022e63b3",
+ "layer": "verified",
+ "original": {
+  "crc32": "FAF05535",
+  "no_intro_name": "Kaitou Rousseau (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Kaitou Rousseau (Japan)",
+  "zh-Hans": "怪盗卢梭"
+ },
+ "vendor": "Advance",
+ "version": ""
+}

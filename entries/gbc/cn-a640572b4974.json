@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-a640572b4974/title.png"
+ },
+ "files": [
+  {
+   "crc32": "1DD1D080",
+   "name": "古惑狼II (繁) (新特奇).gbc",
+   "size": 4194304
+  }
+ ],
+ "genre": null,
+ "group": "古惑狼II",
+ "id": "cn-a640572b4974",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "古惑狼II"
+ },
+ "type": "original",
+ "vendor": "未知",
+ "vendor_full": "",
+ "year": null
+}

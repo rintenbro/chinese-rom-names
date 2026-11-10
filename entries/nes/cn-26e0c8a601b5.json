@@ -1,0 +1,34 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A3CE34D4",
+   "name": "水浒神兽(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  },
+  {
+   "crc32": "956BE788",
+   "name": "水浒神兽(简)[外星科技](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "genre": null,
+ "group": "水浒神兽",
+ "id": "cn-26e0c8a601b5",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "水浒神兽"
+ },
+ "type": "original",
+ "vendor": "南晶科技",
+ "vendor_full": "",
+ "year": null
+}

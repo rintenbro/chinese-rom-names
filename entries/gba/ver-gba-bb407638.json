@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BB407638",
+   "name": "王国之心 - 记忆之链[狼组&天幻网](小字体紧凑)(简)(JP)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Kingdom Hearts - Chain of Memories",
+ "id": "ver-gba-bb407638",
+ "layer": "verified",
+ "original": {
+  "crc32": "8D5A0D84",
+  "no_intro_name": "Kingdom Hearts - Chain of Memories (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Kingdom Hearts - Chain of Memories (Japan)",
+  "zh-Hans": "王国之心 - 记忆之链"
+ },
+ "vendor": "狼组&天幻网",
+ "version": ""
+}

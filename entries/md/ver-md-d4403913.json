@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D4403913",
+   "name": "冒险小子 (繁) (三协资讯)(4Mb).md",
+   "size": 524288
+  }
+ ],
+ "group": "Adventurous Boy - Maoxian Xiaozi",
+ "id": "ver-md-d4403913",
+ "layer": "verified",
+ "original": {
+  "crc32": "D4403913",
+  "no_intro_name": "Adventurous Boy - Maoxian Xiaozi (Taiwan) (En)",
+  "region": "Taiwan",
+  "size": 524288
+ },
+ "platform": "md",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Adventurous Boy - Maoxian Xiaozi (Taiwan) (En)",
+  "zh-Hans": "冒险小子"
+ },
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A1BC2392",
+   "name": "爆走卡车传说 黑(JP)(星组)(512Mb).nds",
+   "size": 35918084
+  }
+ ],
+ "group": "Bakusou Dekotora Densetsu Black",
+ "id": "ver-nds-a1bc2392",
+ "layer": "verified",
+ "original": {
+  "crc32": "E124C9AE",
+  "no_intro_name": "Bakusou Dekotora Densetsu Black (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Bakusou Dekotora Densetsu Black (Japan)",
+  "zh-Hans": "爆走卡车传说 黑"
+ },
+ "vendor": "",
+ "version": ""
+}

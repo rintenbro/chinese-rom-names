@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0350E8E4",
+   "name": "圈套DS：神隐的官邸(JP)([ACG汉化组])(512Mb).nds",
+   "size": 38657180
+  }
+ ],
+ "group": "Trick - DS Ban - Kakushigami no Sumu Yakata",
+ "id": "ver-nds-0350e8e4",
+ "layer": "verified",
+ "original": {
+  "crc32": "F36BC8F3",
+  "no_intro_name": "Trick - DS Ban - Kakushigami no Sumu Yakata (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Trick - DS Ban - Kakushigami no Sumu Yakata (Japan)",
+  "zh-Hans": "圈套DS：神隐的官邸"
+ },
+ "vendor": "[ACG汉化组",
+ "version": ""
+}

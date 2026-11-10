@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6604A79E",
+   "name": "一门英杰 - 杨家将 (繁) (三协资讯)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Yimen Yinglie - Yangjia Jiang",
+ "id": "ver-md-6604a79e",
+ "layer": "verified",
+ "original": {
+  "crc32": "6604A79E",
+  "no_intro_name": "Yimen Yinglie - Yangjia Jiang (Taiwan)",
+  "region": "Taiwan",
+  "size": 2097152
+ },
+ "platform": "md",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Yimen Yinglie - Yangjia Jiang (Taiwan)",
+  "zh-Hans": "一门英杰 - 杨家将"
+ },
+ "vendor": "",
+ "version": ""
+}

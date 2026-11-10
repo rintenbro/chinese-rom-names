@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CBCA5D4B",
+   "name": "狼与香辛料 我与霍罗的一年 1.00(JP)(夏空汉化组)(1024Mb).nds",
+   "size": 107229715
+  }
+ ],
+ "group": "Ookami to Koushinryou - Boku to Holo no Ichinen",
+ "id": "ver-nds-cbca5d4b",
+ "layer": "verified",
+ "original": {
+  "crc32": "9E4800E2",
+  "no_intro_name": "Ookami to Koushinryou - Boku to Holo no Ichinen (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Ookami to Koushinryou - Boku to Holo no Ichinen (Japan)",
+  "zh-Hans": "狼与香辛料 我与霍罗的一年 1.00"
+ },
+ "vendor": "夏空汉化组",
+ "version": ""
+}

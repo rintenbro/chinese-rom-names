@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D320D5D3",
+   "name": "港都少年 (简) (永盛)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Gang Du Shaonian",
+ "id": "ver-md-d320d5d3",
+ "layer": "verified",
+ "original": {
+  "crc32": "D320D5D3",
+  "no_intro_name": "Gang Du Shaonian (China) (Pirate)",
+  "region": "China",
+  "size": 1048576
+ },
+ "platform": "md",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Gang Du Shaonian (China) (Pirate)",
+  "zh-Hans": "港都少年"
+ },
+ "vendor": "",
+ "version": ""
+}

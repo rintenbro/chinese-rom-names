@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "026BC4BD",
+   "name": "新牧场物语 符文工房2 中文语音汉化修正版(JP)(SOMA&游戏饭饭汉化组)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Rune Factory 2",
+ "id": "ver-nds-026bc4bd",
+ "layer": "verified",
+ "original": {
+  "crc32": "2F56C269",
+  "no_intro_name": "Rune Factory 2 (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Rune Factory 2 (Japan)",
+  "zh-Hans": "新牧场物语 符文工房2 中文语音汉化修正版"
+ },
+ "vendor": "SOMA&游戏饭饭汉化组",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "64D95432",
+   "name": "万能先生的泡妞生活 夜晚把妹实战篇 6.18修正版(JP)(星组)(256Mb).nds",
+   "size": 33058096
+  }
+ ],
+ "group": "Dekiru Otoko no Mote Life - Yoru no Mote Jissen Hen",
+ "id": "ver-nds-64d95432",
+ "layer": "verified",
+ "original": {
+  "crc32": "F1C016E4",
+  "no_intro_name": "Dekiru Otoko no Mote Life - Yoru no Mote Jissen Hen (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Dekiru Otoko no Mote Life - Yoru no Mote Jissen Hen (Japan)",
+  "zh-Hans": "万能先生的泡妞生活 夜晚把妹实战篇 6.18修正版"
+ },
+ "vendor": "",
+ "version": ""
+}

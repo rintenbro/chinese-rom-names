@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0D9C98A5",
+   "name": "海因兹 沃尔夫教授的重力大挑战(简)(EU)(宇宙世纪的风、干饭、艾罗卡逊)(128Mb).nds",
+   "size": 16777216
+  }
+ ],
+ "group": "Professor Heinz Wolff's Gravity",
+ "id": "ver-nds-0d9c98a5",
+ "layer": "verified",
+ "original": {
+  "crc32": "8904537F",
+  "no_intro_name": "Professor Heinz Wolff's Gravity (Europe) (En,Fr,De,Es,It)",
+  "region": "Europe",
+  "size": 16777216
+ },
+ "platform": "nds",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Professor Heinz Wolff's Gravity (Europe) (En,Fr,De,Es,It)",
+  "zh-Hans": "海因兹 沃尔夫教授的重力大挑战"
+ },
+ "vendor": "",
+ "version": ""
+}

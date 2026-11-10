@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-5109c03fcb44/title.png"
+ },
+ "files": [
+  {
+   "crc32": "1BE919AD",
+   "name": "沙罗曼蛇 仿街机(大字体)(简)[高伟](JP)[STG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "genre": null,
+ "group": "沙罗曼蛇 仿街机",
+ "id": "cn-5109c03fcb44",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "沙罗曼蛇 仿街机"
+ },
+ "type": "hack",
+ "vendor": "高伟",
+ "vendor_full": "",
+ "year": null
+}

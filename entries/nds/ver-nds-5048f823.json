@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5048F823",
+   "name": "马里奥赛车DS(繁)(JP)(廖小强)(256Mb).nds",
+   "size": 23007900
+  }
+ ],
+ "group": "Mario Kart DS",
+ "id": "ver-nds-5048f823",
+ "layer": "verified",
+ "original": {
+  "crc32": "226E8DB6",
+  "no_intro_name": "Mario Kart DS (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Mario Kart DS (Japan)",
+  "zh-Hans": "马里奥赛车DS"
+ },
+ "vendor": "",
+ "version": ""
+}

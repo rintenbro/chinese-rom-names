@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "384DF288",
+   "name": "约束之地 - 利维艾拉[PromisedLand](v1.05)[繁](JP)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Riviera - Yakusoku no Chi Riviera",
+ "id": "ver-gba-384df288",
+ "layer": "verified",
+ "original": {
+  "crc32": "F73B840F",
+  "no_intro_name": "Riviera - Yakusoku no Chi Riviera (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Riviera - Yakusoku no Chi Riviera (Japan)",
+  "zh-Hans": "约束之地 - 利维艾拉"
+ },
+ "vendor": "PromisedLand",
+ "version": "v1.05"
+}

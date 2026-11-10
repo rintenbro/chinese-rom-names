@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "429FAF0A",
+   "name": "皇室血裔 (繁) (永盛)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Huangshi Xue Yi",
+ "id": "ver-md-429faf0a",
+ "layer": "verified",
+ "original": {
+  "crc32": "429FAF0A",
+  "no_intro_name": "Huangshi Xue Yi (China) (Pirate)",
+  "region": "China",
+  "size": 1048576
+ },
+ "platform": "md",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Huangshi Xue Yi (China) (Pirate)",
+  "zh-Hans": "皇室血裔"
+ },
+ "vendor": "",
+ "version": ""
+}

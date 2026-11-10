@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "09C44DC9",
+   "name": "逆转裁判[Jpgmfan&逆转Ace](简)(JP)(66.41Mb).gba",
+   "size": 8705280
+  }
+ ],
+ "group": "Gyakuten Saiban",
+ "id": "ver-gba-09c44dc9",
+ "layer": "verified",
+ "original": {
+  "crc32": "C88F0952",
+  "no_intro_name": "Gyakuten Saiban (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Gyakuten Saiban (Japan)",
+  "zh-Hans": "逆转裁判"
+ },
+ "vendor": "Jpgmfan&逆转Ace",
+ "version": ""
+}

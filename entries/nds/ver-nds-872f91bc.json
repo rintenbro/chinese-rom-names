@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "872F91BC",
+   "name": "病院惊魂(繁)(US)(dream75421)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Dementium - The Ward",
+ "id": "ver-nds-872f91bc",
+ "layer": "verified",
+ "original": {
+  "crc32": "6D03B8BA",
+  "no_intro_name": "Dementium - The Ward (USA)",
+  "region": "USA",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Dementium - The Ward (USA)",
+  "zh-Hans": "病院惊魂"
+ },
+ "vendor": "dream75421",
+ "version": ""
+}

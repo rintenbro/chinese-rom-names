@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AD3C969D",
+   "name": "Hello Kitty的熊猫运动场(JP)(CROSSTZCW&卡融)(128Mb).nds",
+   "size": 16777216
+  }
+ ],
+ "group": "Hello Kitty no Panda Sports Stadium",
+ "id": "ver-nds-ad3c969d",
+ "layer": "verified",
+ "original": {
+  "crc32": "DBEF19AB",
+  "no_intro_name": "Hello Kitty no Panda Sports Stadium (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Hello Kitty no Panda Sports Stadium (Japan)",
+  "zh-Hans": "Hello Kitty的熊猫运动场"
+ },
+ "vendor": "CROSSTZCW&卡融",
+ "version": ""
+}

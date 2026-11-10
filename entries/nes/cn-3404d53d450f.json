@@ -1,0 +1,34 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-3404d53d450f/title.png"
+ },
+ "files": [
+  {
+   "crc32": "FE6B9B2F",
+   "name": "怪物制造者1(修正版)(简)[外星科技+zxc987123835](JP)[RPG](4Mb).nes",
+   "size": 524304
+  },
+  {
+   "crc32": "AA58F511",
+   "name": "怪物制造者1(简)[外星科技](JP)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "怪物制造者1",
+ "id": "cn-3404d53d450f",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "怪物制造者1"
+ },
+ "type": "original",
+ "vendor": "外星科技+zxc987123835",
+ "vendor_full": "",
+ "year": null
+}

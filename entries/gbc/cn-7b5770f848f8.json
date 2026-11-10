@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "49EE9F30",
+   "name": "口袋妖怪卡片版2 - GR团参上! (繁) (修正版) (unknown).gbc",
+   "size": 2097152
+  }
+ ],
+ "genre": null,
+ "group": "口袋妖怪卡片版2 - GR团参上!",
+ "id": "cn-7b5770f848f8",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "口袋妖怪卡片版2 - GR团参上!"
+ },
+ "type": "original",
+ "vendor": "unknown",
+ "vendor_full": "",
+ "year": null
+}

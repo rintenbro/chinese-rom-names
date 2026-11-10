@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gba/cn-2d6511723123/title.png"
+ },
+ "files": [
+  {
+   "crc32": "555DD98F",
+   "name": "洛克人ZX4[广誉科技+Dangfer](fix2)(繁)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "genre": null,
+ "group": "洛克人ZX4",
+ "id": "cn-2d6511723123",
+ "layer": "self",
+ "original": null,
+ "platform": "gba",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "洛克人ZX4"
+ },
+ "type": "original",
+ "vendor": "fix2 广誉科技+Dangfer",
+ "vendor_full": "",
+ "year": null
+}

@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "509B2EA1",
+   "name": "镜花缘(简)[外星科技](CN)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "genre": null,
+ "group": "镜花缘",
+ "id": "cn-f0ad7217b277",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "镜花缘"
+ },
+ "type": "original",
+ "vendor": "外星科技",
+ "vendor_full": "",
+ "year": null
+}

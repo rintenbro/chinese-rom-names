@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "419B9424",
+   "name": "少年游侠(简)[外星科技](CN)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "genre": null,
+ "group": "少年游侠",
+ "id": "cn-22dbbd638d49",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "少年游侠"
+ },
+ "type": "original",
+ "vendor": "外星科技",
+ "vendor_full": "",
+ "year": null
+}

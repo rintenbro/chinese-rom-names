@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1455BE8A",
+   "name": "北欧女神 负罪者 V2(JP)(ACG汉化组)(1024Mb).nds",
+   "size": 149251048
+  }
+ ],
+ "group": "Valkyrie Profile - Toga o Seou Mono",
+ "id": "ver-nds-1455be8a",
+ "layer": "verified",
+ "original": {
+  "crc32": "48656730",
+  "no_intro_name": "Valkyrie Profile - Toga o Seou Mono (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Valkyrie Profile - Toga o Seou Mono (Japan)",
+  "zh-Hans": "北欧女神 负罪者 V2"
+ },
+ "vendor": "ACG汉化组",
+ "version": ""
+}

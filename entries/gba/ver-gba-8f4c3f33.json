@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8F4C3F33",
+   "name": "携带电兽2 - 力量版[盗版&Gymzatan](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Keitai Denjuu Telefang 2 - Power",
+ "id": "ver-gba-8f4c3f33",
+ "layer": "verified",
+ "original": {
+  "crc32": "44DB280E",
+  "no_intro_name": "Keitai Denjuu Telefang 2 - Power (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Keitai Denjuu Telefang 2 - Power (Japan)",
+  "zh-Hans": "携带电兽2 - 力量版"
+ },
+ "vendor": "盗版&Gymzatan",
+ "version": ""
+}

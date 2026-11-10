@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C48E291F",
+   "name": "黄金太阳 - 开启的封印[CGP&Elffinal](简)(JP)(70.62Mb).gba",
+   "size": 9256960
+  }
+ ],
+ "group": "Ougon no Taiyou - Hirakareshi Fuuin",
+ "id": "ver-gba-c48e291f",
+ "layer": "verified",
+ "original": {
+  "crc32": "FB96D9DE",
+  "no_intro_name": "Ougon no Taiyou - Hirakareshi Fuuin (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Ougon no Taiyou - Hirakareshi Fuuin (Japan)",
+  "zh-Hans": "黄金太阳 - 开启的封印"
+ },
+ "vendor": "CGP&Elffinal",
+ "version": ""
+}

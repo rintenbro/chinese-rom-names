@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "805BF754",
+   "name": "PDA (繁) (Infocolor).gbc",
+   "size": 262144
+  }
+ ],
+ "genre": null,
+ "group": "PDA",
+ "id": "cn-3e578ae66864",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "PDA"
+ },
+ "type": "original",
+ "vendor": "Infocolor",
+ "vendor_full": "",
+ "year": null
+}

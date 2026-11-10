@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0BA8BB72",
+   "name": "最终幻想(简)(修正版)(外星科技+星夜之幻)(8Mb).gbc",
+   "size": 1048576
+  }
+ ],
+ "genre": null,
+ "group": "最终幻想",
+ "id": "cn-c222c478d296",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "最终幻想"
+ },
+ "type": "original",
+ "vendor": "外星科技+星夜之幻",
+ "vendor_full": "",
+ "year": null
+}

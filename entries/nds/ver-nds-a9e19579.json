@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A9E19579",
+   "name": "动物园大亨2 DS(JP)(YOME汉化组)(128Mb).nds",
+   "size": 16777216
+  }
+ ],
+ "group": "Zoo Tycoon 2",
+ "id": "ver-nds-a9e19579",
+ "layer": "verified",
+ "original": {
+  "crc32": "16188A7B",
+  "no_intro_name": "Zoo Tycoon 2 (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Zoo Tycoon 2 (Japan)",
+  "zh-Hans": "动物园大亨2 DS"
+ },
+ "vendor": "YOME汉化组",
+ "version": ""
+}

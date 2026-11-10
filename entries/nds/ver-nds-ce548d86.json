@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CE548D86",
+   "name": "勇者斗恶龙 怪兽篇 Joker 测试版(US)(ACG汉化组)(1024Mb).nds",
+   "size": 87745124
+  }
+ ],
+ "group": "Dragon Quest Monsters - Joker",
+ "id": "ver-nds-ce548d86",
+ "layer": "verified",
+ "original": {
+  "crc32": "48C6C7D3",
+  "no_intro_name": "Dragon Quest Monsters - Joker (USA)",
+  "region": "USA",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Dragon Quest Monsters - Joker (USA)",
+  "zh-Hans": "勇者斗恶龙 怪兽篇 Joker 测试版"
+ },
+ "vendor": "ACG汉化组",
+ "version": ""
+}

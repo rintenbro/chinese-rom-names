@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "02C1AB97",
+   "name": "名侦探柯南 - 被狙击的侦探[漫游&熊组&名侦探柯南事务所](繁)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Meitantei Conan - Nerawareta Tantei",
+ "id": "ver-gba-02c1ab97",
+ "layer": "verified",
+ "original": {
+  "crc32": "5F9C7A4A",
+  "no_intro_name": "Meitantei Conan - Nerawareta Tantei (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Meitantei Conan - Nerawareta Tantei (Japan)",
+  "zh-Hans": "名侦探柯南 - 被狙击的侦探"
+ },
+ "vendor": "漫游&熊组&名侦探柯南事务所",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B2F18328",
+   "name": "大航海时代1 (繁) (TCT)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Da Hanghai Shidai",
+ "id": "ver-md-b2f18328",
+ "layer": "verified",
+ "original": {
+  "crc32": "B2F18328",
+  "no_intro_name": "Da Hanghai Shidai (Taiwan) (Pirate)",
+  "region": "Taiwan",
+  "size": 1048576
+ },
+ "platform": "md",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Da Hanghai Shidai (Taiwan) (Pirate)",
+  "zh-Hans": "大航海时代1"
+ },
+ "vendor": "TCT",
+ "version": ""
+}

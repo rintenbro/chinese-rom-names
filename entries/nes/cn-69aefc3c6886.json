@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C0BBEF37",
+   "name": "启智屋A(简)[小霸王](CN)[PUZ](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "genre": null,
+ "group": "启智屋A",
+ "id": "cn-69aefc3c6886",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "启智屋A"
+ },
+ "type": "original",
+ "vendor": "小霸王",
+ "vendor_full": "",
+ "year": null
+}

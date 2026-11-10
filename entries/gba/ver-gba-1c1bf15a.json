@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1C1BF15A",
+   "name": "游戏王! - 怪兽决斗国际版2[天使汉化组](简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Yu-Gi-Oh! Duel Monsters International 2",
+ "id": "ver-gba-1c1bf15a",
+ "layer": "verified",
+ "original": {
+  "crc32": "6DCFB879",
+  "no_intro_name": "Yu-Gi-Oh! Duel Monsters International 2 (Japan) (En,Ja)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Yu-Gi-Oh! Duel Monsters International 2 (Japan) (En,Ja)",
+  "zh-Hans": "游戏王! - 怪兽决斗国际版2"
+ },
+ "vendor": "天使汉化组",
+ "version": ""
+}

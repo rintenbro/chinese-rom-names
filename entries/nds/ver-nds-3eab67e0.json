@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3EAB67E0",
+   "name": "山脊赛车 DS(US)(不败之神)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Ridge Racer DS",
+ "id": "ver-nds-3eab67e0",
+ "layer": "verified",
+ "original": {
+  "crc32": "0AD5A96F",
+  "no_intro_name": "Ridge Racer DS (USA, Europe)",
+  "region": "USA",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Ridge Racer DS (USA, Europe)",
+  "zh-Hans": "山脊赛车 DS"
+ },
+ "vendor": "",
+ "version": ""
+}

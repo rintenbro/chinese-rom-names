@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FEF3CD45",
+   "name": "虎门硝烟(繁)[酷哥电子](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "虎门硝烟",
+ "id": "cn-513233c140df",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "虎门硝烟"
+ },
+ "type": "original",
+ "vendor": "酷哥电子",
+ "vendor_full": "",
+ "year": null
+}

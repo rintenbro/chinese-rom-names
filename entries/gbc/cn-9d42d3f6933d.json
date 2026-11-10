@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "ED67ADAC",
+   "name": "王族天堂(繁)(新特奇)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "genre": null,
+ "group": "王族天堂",
+ "id": "cn-9d42d3f6933d",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "王族天堂"
+ },
+ "type": "original",
+ "vendor": "未知",
+ "vendor_full": "",
+ "year": null
+}

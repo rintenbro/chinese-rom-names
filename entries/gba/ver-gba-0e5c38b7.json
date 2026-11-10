@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0E5C38B7",
+   "name": "神游之极速零式未来赛车[神游](简)(JP)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "Jisu F-Zero Weilai Saiche",
+ "id": "ver-gba-0e5c38b7",
+ "layer": "verified",
+ "original": {
+  "crc32": "0E5C38B7",
+  "no_intro_name": "Jisu F-Zero Weilai Saiche (China)",
+  "region": "China",
+  "size": 4194304
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Jisu F-Zero Weilai Saiche (China)",
+  "zh-Hans": "神游之极速零式未来赛车"
+ },
+ "vendor": "神游",
+ "version": ""
+}

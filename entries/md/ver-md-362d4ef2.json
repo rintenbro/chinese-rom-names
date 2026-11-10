@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "362D4EF2",
+   "name": "新光明与黑暗3 - 古代封印 (简) (永盛)(24Mb).md",
+   "size": 3145728
+  }
+ ],
+ "group": "Xin Guangming Yu Heian III - Gudai Fengyin",
+ "id": "ver-md-362d4ef2",
+ "layer": "verified",
+ "original": {
+  "crc32": "362D4EF2",
+  "no_intro_name": "Xin Guangming Yu Heian III - Gudai Fengyin (China) (Pirate)",
+  "region": "China",
+  "size": 3145728
+ },
+ "platform": "md",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Xin Guangming Yu Heian III - Gudai Fengyin (China) (Pirate)",
+  "zh-Hans": "新光明与黑暗3 - 古代封印"
+ },
+ "vendor": "",
+ "version": ""
+}

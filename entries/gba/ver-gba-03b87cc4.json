@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "03B87CC4",
+   "name": "淘金者[TGB](简)(JP)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "Lode Runner",
+ "id": "ver-gba-03b87cc4",
+ "layer": "verified",
+ "original": {
+  "crc32": "3E2CF3FF",
+  "no_intro_name": "Lode Runner (Japan)",
+  "region": "Japan",
+  "size": 4194304
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Lode Runner (Japan)",
+  "zh-Hans": "淘金者"
+ },
+ "vendor": "",
+ "version": ""
+}

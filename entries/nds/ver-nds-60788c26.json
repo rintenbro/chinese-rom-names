@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "60788C26",
+   "name": "立体绘图方块(JP)(APEX汉化组)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Rittai Picross",
+ "id": "ver-nds-60788c26",
+ "layer": "verified",
+ "original": {
+  "crc32": "04CD8DF2",
+  "no_intro_name": "Rittai Picross (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Rittai Picross (Japan)",
+  "zh-Hans": "立体绘图方块"
+ },
+ "vendor": "APEX汉化组",
+ "version": ""
+}

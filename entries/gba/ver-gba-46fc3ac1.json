@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "46FC3AC1",
+   "name": "花火大会Advance[TGB](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Don-chan Puzzle - Hanabi de Doon! Advance",
+ "id": "ver-gba-46fc3ac1",
+ "layer": "verified",
+ "original": {
+  "crc32": "500922E8",
+  "no_intro_name": "Don-chan Puzzle - Hanabi de Doon! Advance (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Don-chan Puzzle - Hanabi de Doon! Advance (Japan)",
+  "zh-Hans": "花火大会Advance"
+ },
+ "vendor": "",
+ "version": ""
+}

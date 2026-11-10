@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8F3047FF",
+   "name": "头文字D 另一个故事[Advance汉化组](v1.0)(简)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Initial D - Another Stage",
+ "id": "ver-gba-8f3047ff",
+ "layer": "verified",
+ "original": {
+  "crc32": "23110A94",
+  "no_intro_name": "Initial D - Another Stage (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Initial D - Another Stage (Japan)",
+  "zh-Hans": "头文字D 另一个故事"
+ },
+ "vendor": "Advance汉化组",
+ "version": "v1.0"
+}

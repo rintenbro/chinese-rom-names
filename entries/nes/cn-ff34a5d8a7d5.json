@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C86938D0",
+   "name": "奔力电脑学习机(简)[奔力](CN)[ETC](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "genre": null,
+ "group": "奔力电脑学习机",
+ "id": "cn-ff34a5d8a7d5",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "奔力电脑学习机"
+ },
+ "type": "hack",
+ "vendor": "奔力",
+ "vendor_full": "",
+ "year": null
+}

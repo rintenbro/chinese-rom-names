@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F3F99E31",
+   "name": "马里奥赛车 - 超级巡回赛[漫游](简)(US)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "Mario Kart - Super Circuit",
+ "id": "ver-gba-f3f99e31",
+ "layer": "verified",
+ "original": {
+  "crc32": "ED316E37",
+  "no_intro_name": "Mario Kart - Super Circuit (USA)",
+  "region": "USA",
+  "size": 4194304
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Mario Kart - Super Circuit (USA)",
+  "zh-Hans": "马里奥赛车 - 超级巡回赛"
+ },
+ "vendor": "漫游",
+ "version": ""
+}

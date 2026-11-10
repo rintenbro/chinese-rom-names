@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AB280F22",
+   "name": "中国娃娃向前冲完美版(KS)(CROSSZTC)(512Mb).nds",
+   "size": 39623224
+  }
+ ],
+ "group": "Pucca - Power Up",
+ "id": "ver-nds-ab280f22",
+ "layer": "verified",
+ "original": {
+  "crc32": "ABB7CFD0",
+  "no_intro_name": "Pucca - Power Up (Korea)",
+  "region": "Korea",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Pucca - Power Up (Korea)",
+  "zh-Hans": "中国娃娃向前冲完美版"
+ },
+ "vendor": "KS / CROSSZTC",
+ "version": ""
+}

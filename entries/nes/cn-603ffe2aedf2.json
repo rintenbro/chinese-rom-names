@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "07FC7C4D",
+   "name": "有声词霸(简)[小霸王](CN)[ETC](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "genre": null,
+ "group": "有声词霸",
+ "id": "cn-603ffe2aedf2",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "有声词霸"
+ },
+ "type": "original",
+ "vendor": "小霸王",
+ "vendor_full": "",
+ "year": null
+}

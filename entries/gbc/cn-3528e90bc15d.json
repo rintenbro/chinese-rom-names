@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-3528e90bc15d/title.png"
+ },
+ "files": [
+  {
+   "crc32": "15A4B4EC",
+   "name": "獅子王 (繁) (新特奇).gbc",
+   "size": 2097152
+  }
+ ],
+ "genre": null,
+ "group": "獅子王",
+ "id": "cn-3528e90bc15d",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "獅子王"
+ },
+ "type": "original",
+ "vendor": "未知",
+ "vendor_full": "",
+ "year": null
+}

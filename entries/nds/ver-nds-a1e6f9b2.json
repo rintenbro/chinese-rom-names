@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A1E6F9B2",
+   "name": "影之传说2(JP)(巴士汉化组)(256Mb).nds",
+   "size": 25275776
+  }
+ ],
+ "group": "Kage no Densetsu - The Legend of Kage 2",
+ "id": "ver-nds-a1e6f9b2",
+ "layer": "verified",
+ "original": {
+  "crc32": "C124B4D3",
+  "no_intro_name": "Kage no Densetsu - The Legend of Kage 2 (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Kage no Densetsu - The Legend of Kage 2 (Japan)",
+  "zh-Hans": "影之传说2"
+ },
+ "vendor": "巴士汉化组",
+ "version": ""
+}

@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "10CB82A3",
+   "name": "圣兽物语 - 神龙传说 (繁) (广誉科技).gbc",
+   "size": 1048576
+  }
+ ],
+ "genre": null,
+ "group": "圣兽物语 - 神龙传说",
+ "id": "cn-acaa385222b2",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "圣兽物语 - 神龙传说"
+ },
+ "type": "original",
+ "vendor": "未知",
+ "vendor_full": "",
+ "year": null
+}

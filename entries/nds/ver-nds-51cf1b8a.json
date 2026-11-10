@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "51CF1B8A",
+   "name": "猿猿DS(JP)(飞云)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Saru Saru DS",
+ "id": "ver-nds-51cf1b8a",
+ "layer": "verified",
+ "original": {
+  "crc32": "86E91CCA",
+  "no_intro_name": "Saru Saru DS (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Saru Saru DS (Japan)",
+  "zh-Hans": "猿猿DS"
+ },
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D2E81611",
+   "name": "最终幻想3(简)PGCG(JP)(PGCG汉化组)(1024Mb).nds",
+   "size": 101486220
+  }
+ ],
+ "group": "Final Fantasy III",
+ "id": "ver-nds-d2e81611",
+ "layer": "verified",
+ "original": {
+  "crc32": "54B95690",
+  "no_intro_name": "Final Fantasy III (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Final Fantasy III (Japan)",
+  "zh-Hans": "最终幻想3PGCG"
+ },
+ "vendor": "PGCG汉化组",
+ "version": ""
+}

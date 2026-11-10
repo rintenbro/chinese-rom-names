@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B1FB1B8D",
+   "name": "绿野仙踪奇遇记 V1(简)(JP)(PG工房汉化组)(1024Mb).nds",
+   "size": 115951676
+  }
+ ],
+ "group": "Riz-Zoawd",
+ "id": "ver-nds-b1fb1b8d",
+ "layer": "verified",
+ "original": {
+  "crc32": "E4EBCB29",
+  "no_intro_name": "Riz-Zoawd (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Riz-Zoawd (Japan)",
+  "zh-Hans": "绿野仙踪奇遇记 V1"
+ },
+ "vendor": "PG工房汉化组",
+ "version": ""
+}

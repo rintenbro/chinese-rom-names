@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7473AE95",
+   "name": "突击队 钢铁灾难(简)(aikika)(512Mb).nds",
+   "size": 44756636
+  }
+ ],
+ "group": "Commando - Steel Disaster",
+ "id": "ver-nds-7473ae95",
+ "layer": "verified",
+ "original": {
+  "crc32": "9701E9EF",
+  "no_intro_name": "Commando - Steel Disaster (USA) (En,Fr,Es)",
+  "region": "USA",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Commando - Steel Disaster (USA) (En,Fr,Es)",
+  "zh-Hans": "突击队 钢铁灾难"
+ },
+ "vendor": "aikika",
+ "version": ""
+}

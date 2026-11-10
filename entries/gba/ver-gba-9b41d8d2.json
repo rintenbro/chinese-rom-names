@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9B41D8D2",
+   "name": "龙珠Z – 布欧的愤怒[Advance汉化组](v1.2)(简)(JP)(72Mb).gba",
+   "size": 9437184
+  }
+ ],
+ "group": "Dragon Ball Z - Buu's Fury",
+ "id": "ver-gba-9b41d8d2",
+ "layer": "verified",
+ "original": {
+  "crc32": "01C1707F",
+  "no_intro_name": "Dragon Ball Z - Buu's Fury (USA)",
+  "region": "USA",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Dragon Ball Z - Buu's Fury (USA)",
+  "zh-Hans": "龙珠Z – 布欧的愤怒"
+ },
+ "vendor": "Advance汉化组",
+ "version": "v1.2"
+}

@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-d3d1d6926388/title.png"
+ },
+ "files": [
+  {
+   "crc32": "FF62BD18",
+   "name": "学习Windows 2000(简)[未知](CN)[ETC](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "学习Windows 2000",
+ "id": "cn-d3d1d6926388",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "学习Windows 2000"
+ },
+ "type": "hack",
+ "vendor": "未知",
+ "vendor_full": "",
+ "year": null
+}

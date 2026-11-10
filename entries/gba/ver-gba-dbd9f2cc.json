@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DBD9F2CC",
+   "name": "魔法气泡[Flyeyes&TGB](简)(US)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Puyo Pop",
+ "id": "ver-gba-dbd9f2cc",
+ "layer": "verified",
+ "original": {
+  "crc32": "0901BE49",
+  "no_intro_name": "Puyo Pop (USA) (En,Ja)",
+  "region": "USA",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Puyo Pop (USA) (En,Ja)",
+  "zh-Hans": "魔法气泡"
+ },
+ "vendor": "Flyeyes&TGB",
+ "version": ""
+}

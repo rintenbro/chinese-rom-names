@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0811CD0E",
+   "name": "太阁立志传1 (简) (小召)(10Mb).md",
+   "size": 1310720
+  }
+ ],
+ "group": "Tai Ge Lizhi Chuan",
+ "id": "ver-md-0811cd0e",
+ "layer": "verified",
+ "original": {
+  "crc32": "0811CD0E",
+  "no_intro_name": "Tai Ge Lizhi Chuan (China) (Simplified) (Pirate)",
+  "region": "China",
+  "size": 1310720
+ },
+ "platform": "md",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Tai Ge Lizhi Chuan (China) (Simplified) (Pirate)",
+  "zh-Hans": "太阁立志传1"
+ },
+ "vendor": "",
+ "version": ""
+}

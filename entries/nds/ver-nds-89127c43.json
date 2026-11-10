@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "89127C43",
+   "name": "红线DS(JP)(☆翼之梦☆推倒美男游戏汉化组)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Akai Ito DS",
+ "id": "ver-nds-89127c43",
+ "layer": "verified",
+ "original": {
+  "crc32": "AE7E2FC0",
+  "no_intro_name": "Akai Ito DS (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Akai Ito DS (Japan)",
+  "zh-Hans": "红线DS"
+ },
+ "vendor": "☆翼之梦☆推倒美男游戏汉化组",
+ "version": ""
+}

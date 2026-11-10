@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "33670BC2",
+   "name": "英雄剑II (简) (Hitek).gbc",
+   "size": 2097152
+  }
+ ],
+ "genre": null,
+ "group": "英雄剑II",
+ "id": "cn-edf8ce90bf69",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "英雄剑II"
+ },
+ "type": "original",
+ "vendor": "Hitek",
+ "vendor_full": "",
+ "year": null
+}

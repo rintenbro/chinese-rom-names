@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "EE0F2C32",
+   "name": "八德中英文电脑学习卡(v3.1)(简)[八德](CN)[ETC](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "八德中英文电脑学习卡",
+ "id": "cn-621413b6176c",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "八德中英文电脑学习卡"
+ },
+ "type": "hack",
+ "vendor": "八德",
+ "vendor_full": "",
+ "year": null
+}

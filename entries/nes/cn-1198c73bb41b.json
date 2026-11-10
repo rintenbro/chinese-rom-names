@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "30755957",
+   "name": "小学语文达标乐园(简)[小霸王](CN)[ETC](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "genre": null,
+ "group": "小学语文达标乐园",
+ "id": "cn-1198c73bb41b",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "小学语文达标乐园"
+ },
+ "type": "original",
+ "vendor": "小霸王",
+ "vendor_full": "",
+ "year": null
+}

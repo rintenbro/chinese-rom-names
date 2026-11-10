@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7C4515A2",
+   "name": "怪物守护者[PGCG](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Monster Guardians",
+ "id": "ver-gba-7c4515a2",
+ "layer": "verified",
+ "original": {
+  "crc32": "93815CDE",
+  "no_intro_name": "Monster Guardians (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Monster Guardians (Japan)",
+  "zh-Hans": "怪物守护者"
+ },
+ "vendor": "",
+ "version": ""
+}

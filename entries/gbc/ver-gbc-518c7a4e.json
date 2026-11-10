@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "518C7A4E",
+   "name": "百万大富翁 - 金版 (繁) (广誉科技)(CN)(8Mb).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Baiwan Dafuweng - Jin Ban",
+ "id": "ver-gbc-518c7a4e",
+ "layer": "verified",
+ "original": {
+  "crc32": "518C7A4E",
+  "no_intro_name": "Baiwan Dafuweng - Jin Ban (Taiwan)",
+  "region": "Taiwan",
+  "size": 1048576
+ },
+ "platform": "gbc",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Baiwan Dafuweng - Jin Ban (Taiwan)",
+  "zh-Hans": "百万大富翁 - 金版"
+ },
+ "vendor": "",
+ "version": ""
+}

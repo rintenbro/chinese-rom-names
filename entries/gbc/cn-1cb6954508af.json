@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "02747BCF",
+   "name": "吞食天地 - 赤壁之战 (繁) (新特奇).gbc",
+   "size": 2097152
+  }
+ ],
+ "genre": null,
+ "group": "吞食天地 - 赤壁之战",
+ "id": "cn-1cb6954508af",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "吞食天地 - 赤壁之战"
+ },
+ "type": "original",
+ "vendor": "未知",
+ "vendor_full": "",
+ "year": null
+}

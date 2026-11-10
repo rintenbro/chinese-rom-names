@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "EC6FBB3F",
+   "name": "刑警J.B. 哈罗德事件簿 杀人俱乐部(JP)(GV胜利汉化组)(128Mb).nds",
+   "size": 15849008
+  }
+ ],
+ "group": "Keiji J.B. Harold no Jikenbo - Murder Club",
+ "id": "ver-nds-ec6fbb3f",
+ "layer": "verified",
+ "original": {
+  "crc32": "110AE018",
+  "no_intro_name": "Keiji J.B. Harold no Jikenbo - Murder Club (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Keiji J.B. Harold no Jikenbo - Murder Club (Japan)",
+  "zh-Hans": "刑警J.B. 哈罗德事件簿 杀人俱乐部"
+ },
+ "vendor": "GV胜利汉化组",
+ "version": ""
+}

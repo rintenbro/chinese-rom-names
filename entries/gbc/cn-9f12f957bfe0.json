@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C8CBB920",
+   "name": "新射雕英雄传 (繁) (天才小子).gbc",
+   "size": 1048576
+  }
+ ],
+ "genre": null,
+ "group": "新射雕英雄传",
+ "id": "cn-9f12f957bfe0",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "新射雕英雄传"
+ },
+ "type": "original",
+ "vendor": "未知",
+ "vendor_full": "",
+ "year": null
+}

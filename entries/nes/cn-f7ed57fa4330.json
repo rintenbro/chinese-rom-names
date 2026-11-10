@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-f7ed57fa4330/title.png"
+ },
+ "files": [
+  {
+   "crc32": "8323E8BC",
+   "name": "大唐风云4(简)[恒格电子](JP)[SLG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "大唐风云4",
+ "id": "cn-f7ed57fa4330",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "大唐风云4"
+ },
+ "type": "original",
+ "vendor": "恒格电子",
+ "vendor_full": "",
+ "year": null
+}

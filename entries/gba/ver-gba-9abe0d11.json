@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9ABE0D11",
+   "name": "指环王 第三纪元[Advance汉化组](v1.0)(简)(168Mb).gba",
+   "size": 22097184
+  }
+ ],
+ "group": "Lord of the Rings, The - The Third Age",
+ "id": "ver-gba-9abe0d11",
+ "layer": "verified",
+ "original": {
+  "crc32": "2DEF3656",
+  "no_intro_name": "Lord of the Rings, The - The Third Age (USA, Europe) (En,Fr,De,Es,It)",
+  "region": "USA",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Lord of the Rings, The - The Third Age (USA, Europe) (En,Fr,De,Es,It)",
+  "zh-Hans": "指环王 第三纪元"
+ },
+ "vendor": "Advance汉化组",
+ "version": "v1.0"
+}

@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-4e52f0b28556/title.png"
+ },
+ "files": [
+  {
+   "crc32": "38009413",
+   "name": "铁血联盟(简)[恒格电子](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "genre": null,
+ "group": "铁血联盟",
+ "id": "cn-4e52f0b28556",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "铁血联盟"
+ },
+ "type": "original",
+ "vendor": "恒格电子",
+ "vendor_full": "",
+ "year": null
+}

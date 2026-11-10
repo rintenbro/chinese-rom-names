@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "365B30FA",
+   "name": "陨石大战修正版(JP)(陨石大战临时有爱汉化组)(512Mb).nds",
+   "size": 65847328
+  }
+ ],
+ "group": "Meteos",
+ "id": "ver-nds-365b30fa",
+ "layer": "verified",
+ "original": {
+  "crc32": "138556D1",
+  "no_intro_name": "Meteos (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Meteos (Japan)",
+  "zh-Hans": "陨石大战修正版"
+ },
+ "vendor": "陨石大战临时有爱汉化组",
+ "version": ""
+}

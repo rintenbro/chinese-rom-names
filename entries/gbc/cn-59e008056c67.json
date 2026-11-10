@@ -1,0 +1,34 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-59e008056c67/title.png"
+ },
+ "files": [
+  {
+   "crc32": "8907AD00",
+   "name": "重装机兵 (简) (外星科技).gbc",
+   "size": 2097152
+  },
+  {
+   "crc32": "7175F80A",
+   "name": "重装机兵 (繁) (新特奇).gbc",
+   "size": 2097152
+  }
+ ],
+ "genre": null,
+ "group": "重装机兵",
+ "id": "cn-59e008056c67",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "重装机兵"
+ },
+ "type": "original",
+ "vendor": "未知",
+ "vendor_full": "",
+ "year": null
+}

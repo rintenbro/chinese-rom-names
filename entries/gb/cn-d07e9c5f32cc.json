@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "275947F5",
+   "name": "瓜瓜火龙 (繁) (Gowin)(0.5Mb).gb",
+   "size": 65536
+  }
+ ],
+ "genre": null,
+ "group": "瓜瓜火龙",
+ "id": "cn-d07e9c5f32cc",
+ "layer": "self",
+ "original": null,
+ "platform": "gb",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "瓜瓜火龙"
+ },
+ "type": "original",
+ "vendor": "Gowin",
+ "vendor_full": "",
+ "year": null
+}

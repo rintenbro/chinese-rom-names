@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3F589993",
+   "name": "快乐比奇3 地球战士(解密版)(繁)[外星科技+WXN](CN)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "快乐比奇3 地球战士",
+ "id": "cn-47607ec9907d",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "快乐比奇3 地球战士"
+ },
+ "type": "original",
+ "vendor": "外星科技+WXN",
+ "vendor_full": "",
+ "year": null
+}

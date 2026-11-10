@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B69D90B5",
+   "name": "圣石小子 光与暗的大决战2[Advance汉化组](v0.3)(简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Groove Adventure Rave - Hikari to Yami no Daikessen 2",
+ "id": "ver-gba-b69d90b5",
+ "layer": "verified",
+ "original": {
+  "crc32": "006F9150",
+  "no_intro_name": "Groove Adventure Rave - Hikari to Yami no Daikessen 2 (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Groove Adventure Rave - Hikari to Yami no Daikessen 2 (Japan)",
+  "zh-Hans": "圣石小子 光与暗的大决战2"
+ },
+ "vendor": "Advance汉化组",
+ "version": "v0.3"
+}

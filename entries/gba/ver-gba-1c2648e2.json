@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1C2648E2",
+   "name": "热血物语EX2007[chenstack][v0.5](简)(JP)(64Mb).gba",
+   "size": 5623072
+  }
+ ],
+ "group": "Downtown - Nekketsu Monogatari EX",
+ "id": "ver-gba-1c2648e2",
+ "layer": "verified",
+ "original": {
+  "crc32": "32E9A0BD",
+  "no_intro_name": "Downtown - Nekketsu Monogatari EX (Japan)",
+  "region": "Japan",
+  "size": 4194304
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Downtown - Nekketsu Monogatari EX (Japan)",
+  "zh-Hans": "热血物语EX2007"
+ },
+ "vendor": "chenstack",
+ "version": "v0.5"
+}

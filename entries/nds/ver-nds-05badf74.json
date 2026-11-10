@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "05BADF74",
+   "name": "口袋妖怪(精灵宝可梦) 钻石 官译修正版v2.1.1(简)(JP)(YYJoy汉化组+Xzonn)(1024Mb).NDS",
+   "size": 67108864
+  }
+ ],
+ "group": "Pocket Monsters - Diamond",
+ "id": "ver-nds-05badf74",
+ "layer": "verified",
+ "original": {
+  "crc32": "AE2DB9A9",
+  "no_intro_name": "Pocket Monsters - Diamond (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Pocket Monsters - Diamond (Japan)",
+  "zh-Hans": "口袋妖怪 钻石 官译修正版v2.1.1"
+ },
+ "vendor": "YYJoy汉化组+Xzonn",
+ "version": ""
+}

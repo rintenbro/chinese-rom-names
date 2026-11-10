@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3E6AA331",
+   "name": "迷宫制造者 魔法铲和小勇者(繁)(JP)(dream75421)(512Mb).nds",
+   "size": 41430568
+  }
+ ],
+ "group": "Dungeon Maker - Mahou no Shovel to Chiisana Yuusha",
+ "id": "ver-nds-3e6aa331",
+ "layer": "verified",
+ "original": {
+  "crc32": "45E4E96E",
+  "no_intro_name": "Dungeon Maker - Mahou no Shovel to Chiisana Yuusha (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Dungeon Maker - Mahou no Shovel to Chiisana Yuusha (Japan)",
+  "zh-Hans": "迷宫制造者 魔法铲和小勇者"
+ },
+ "vendor": "dream75421",
+ "version": ""
+}

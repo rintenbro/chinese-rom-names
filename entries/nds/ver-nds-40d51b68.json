@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "40D51B68",
+   "name": "口袋妖怪 白2 V2(JP)(ACG汉化组&口袋群星SP)(0Mb).nds",
+   "size": 319947776
+  }
+ ],
+ "group": "Pocket Monsters - White 2",
+ "id": "ver-nds-40d51b68",
+ "layer": "verified",
+ "original": {
+  "crc32": "A9833314",
+  "no_intro_name": "Pocket Monsters - White 2 (Japan) (Rev 1) (NDSi Enhanced)",
+  "region": "Japan",
+  "size": 536870912
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Pocket Monsters - White 2 (Japan) (Rev 1) (NDSi Enhanced)",
+  "zh-Hans": "口袋妖怪 白2 V2"
+ },
+ "vendor": "ACG汉化组&口袋群星SP",
+ "version": ""
+}

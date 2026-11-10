@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "635BC929",
+   "name": "迷你四驱ds(JP)(gansyun)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Mini Yonku DS",
+ "id": "ver-nds-635bc929",
+ "layer": "verified",
+ "original": {
+  "crc32": "96FD65F6",
+  "no_intro_name": "Mini Yonku DS (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Mini Yonku DS (Japan)",
+  "zh-Hans": "迷你四驱ds"
+ },
+ "vendor": "gansyun",
+ "version": ""
+}

@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F39BECF2",
+   "name": "仓库世家+动脑筋(简)[小霸王](CN)[PUZ](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "仓库世家+动脑筋",
+ "id": "cn-00adc1a96ed2",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "仓库世家+动脑筋"
+ },
+ "type": "original",
+ "vendor": "小霸王",
+ "vendor_full": "",
+ "year": null
+}

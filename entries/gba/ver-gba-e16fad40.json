@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E16FAD40",
+   "name": "妹妹公主 - RePure[PGCG](繁)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Sister Princess - RePure",
+ "id": "ver-gba-e16fad40",
+ "layer": "verified",
+ "original": {
+  "crc32": "6845C671",
+  "no_intro_name": "Sister Princess - RePure (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Sister Princess - RePure (Japan)",
+  "zh-Hans": "妹妹公主 - RePure"
+ },
+ "vendor": "",
+ "version": ""
+}

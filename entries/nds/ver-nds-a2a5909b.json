@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A2A5909B",
+   "name": "太鼓达人DS 以触摸来敲鼓！(JP)(空气&漫游汉化组)(256Mb).nds",
+   "size": 32304320
+  }
+ ],
+ "group": "Taiko no Tatsujin DS - Touch de Dokodon!",
+ "id": "ver-nds-a2a5909b",
+ "layer": "verified",
+ "original": {
+  "crc32": "B4F1FBAD",
+  "no_intro_name": "Taiko no Tatsujin DS - Touch de Dokodon! (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Taiko no Tatsujin DS - Touch de Dokodon! (Japan)",
+  "zh-Hans": "太鼓达人DS 以触摸来敲鼓！"
+ },
+ "vendor": "空气&漫游汉化组",
+ "version": ""
+}

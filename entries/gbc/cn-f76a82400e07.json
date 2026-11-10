@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D40A87E7",
+   "name": "魔兽争霸3 - 混乱之劫 (繁) (unknown).gbc",
+   "size": 2097152
+  }
+ ],
+ "genre": null,
+ "group": "魔兽争霸3 - 混乱之劫",
+ "id": "cn-f76a82400e07",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "魔兽争霸3 - 混乱之劫"
+ },
+ "type": "original",
+ "vendor": "unknown",
+ "vendor_full": "",
+ "year": null
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4081C04D",
+   "name": "双截龙Advance[天使汉化组](简)(JP)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "Double Dragon Advance",
+ "id": "ver-gba-4081c04d",
+ "layer": "verified",
+ "original": {
+  "crc32": "A3330E8F",
+  "no_intro_name": "Double Dragon Advance (Japan)",
+  "region": "Japan",
+  "size": 4194304
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Double Dragon Advance (Japan)",
+  "zh-Hans": "双截龙Advance"
+ },
+ "vendor": "天使汉化组",
+ "version": ""
+}

@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-83b27bacef04/title.png"
+ },
+ "files": [
+  {
+   "crc32": "0E7B265B",
+   "name": "龙珠Z 强袭！撒亚人(香港译名版)(繁)[外星科技+Lirdrepus](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "genre": null,
+ "group": "龙珠Z 强袭！撒亚人",
+ "id": "cn-83b27bacef04",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "龙珠Z 强袭！撒亚人"
+ },
+ "type": "original",
+ "vendor": "外星科技+Lirdrepus",
+ "vendor_full": "",
+ "year": null
+}

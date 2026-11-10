@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CFD10EF1",
+   "name": "口袋妖怪 - 绿宝石[漫游+TGB+口袋群星SP+小电](2024官译修正)(简)(US)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Pokemon - Emerald Version",
+ "id": "ver-gba-cfd10ef1",
+ "layer": "verified",
+ "original": {
+  "crc32": "1F1C08FB",
+  "no_intro_name": "Pokemon - Emerald Version (USA, Europe)",
+  "region": "USA",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Pokemon - Emerald Version (USA, Europe)",
+  "zh-Hans": "口袋妖怪 - 绿宝石"
+ },
+ "vendor": "漫游+TGB+口袋群星SP+小电",
+ "version": ""
+}

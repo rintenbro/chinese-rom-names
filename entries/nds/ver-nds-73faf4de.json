@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "73FAF4DE",
+   "name": "马里奥聚会DS AI汉化v33(简)(神无缥缈)(192Mb).nds",
+   "size": 23211208
+  }
+ ],
+ "group": "Mario Party DS",
+ "id": "ver-nds-73faf4de",
+ "layer": "verified",
+ "original": {
+  "crc32": "4FFC3B2F",
+  "no_intro_name": "Mario Party DS (USA)",
+  "region": "USA",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Mario Party DS (USA)",
+  "zh-Hans": "马里奥聚会DS AI汉化v33"
+ },
+ "vendor": "",
+ "version": ""
+}

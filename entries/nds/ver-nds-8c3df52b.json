@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8C3DF52B",
+   "name": "节奏天国 黄金版 英文语音汉化版(US)(远离汉化组)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Rhythm Heaven",
+ "id": "ver-nds-8c3df52b",
+ "layer": "verified",
+ "original": {
+  "crc32": "13C65089",
+  "no_intro_name": "Rhythm Heaven (USA)",
+  "region": "USA",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Rhythm Heaven (USA)",
+  "zh-Hans": "节奏天国 黄金版 英文语音汉化版"
+ },
+ "vendor": "远离汉化组",
+ "version": ""
+}

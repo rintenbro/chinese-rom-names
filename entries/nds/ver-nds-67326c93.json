@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "67326C93",
+   "name": "主题公园DS(JP)(YYJoy汉化组)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Theme Park DS",
+ "id": "ver-nds-67326c93",
+ "layer": "verified",
+ "original": {
+  "crc32": "2932EACC",
+  "no_intro_name": "Theme Park DS (Japan) (En,Ja,Fr,De,Es,It)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Theme Park DS (Japan) (En,Ja,Fr,De,Es,It)",
+  "zh-Hans": "主题公园DS"
+ },
+ "vendor": "YYJoy汉化组",
+ "version": ""
+}

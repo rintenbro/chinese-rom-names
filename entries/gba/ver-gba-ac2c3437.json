@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AC2C3437",
+   "name": "千年家族[Stephen+江户城子](简)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Sennen Kazoku",
+ "id": "ver-gba-ac2c3437",
+ "layer": "verified",
+ "original": {
+  "crc32": "A2F6976C",
+  "no_intro_name": "Sennen Kazoku (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Sennen Kazoku (Japan)",
+  "zh-Hans": "千年家族"
+ },
+ "vendor": "Stephen+江户城子",
+ "version": ""
+}

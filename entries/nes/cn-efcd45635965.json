@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AC9214B3",
+   "name": "疯狂鸡蛋仔(简)[外星科技](CN)[ETC](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "genre": null,
+ "group": "疯狂鸡蛋仔",
+ "id": "cn-efcd45635965",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "疯狂鸡蛋仔"
+ },
+ "type": "original",
+ "vendor": "外星科技",
+ "vendor_full": "",
+ "year": null
+}

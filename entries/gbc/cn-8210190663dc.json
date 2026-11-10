@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A8E0C474",
+   "name": "疯狂大富翁(繁)(v1.0修复)(广誉科技+Stephen)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "genre": null,
+ "group": "疯狂大富翁",
+ "id": "cn-8210190663dc",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "疯狂大富翁"
+ },
+ "type": "original",
+ "vendor": "广誉科技+Stephen",
+ "vendor_full": "",
+ "year": null
+}

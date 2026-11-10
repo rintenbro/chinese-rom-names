@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DEAD9991",
+   "name": "塞尔达传说 - 缩小帽[CGP](简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Legend of Zelda, The - The Minish Cap",
+ "id": "ver-gba-dead9991",
+ "layer": "verified",
+ "original": {
+  "crc32": "E8637292",
+  "no_intro_name": "Legend of Zelda, The - The Minish Cap (Europe) (En,Fr,De,Es,It)",
+  "region": "Europe",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Legend of Zelda, The - The Minish Cap (Europe) (En,Fr,De,Es,It)",
+  "zh-Hans": "塞尔达传说 - 缩小帽"
+ },
+ "vendor": "",
+ "version": ""
+}

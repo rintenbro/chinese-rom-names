@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "01E74D21",
+   "name": "我们的太阳 - 太阳动作RPG[TGB](简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Bokura no Taiyou - Taiyou Action RPG",
+ "id": "ver-gba-01e74d21",
+ "layer": "verified",
+ "original": {
+  "crc32": "A09C0807",
+  "no_intro_name": "Bokura no Taiyou - Taiyou Action RPG (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Bokura no Taiyou - Taiyou Action RPG (Japan)",
+  "zh-Hans": "我们的太阳 - 太阳动作RPG"
+ },
+ "vendor": "",
+ "version": ""
+}

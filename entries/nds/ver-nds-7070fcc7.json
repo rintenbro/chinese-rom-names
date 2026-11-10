@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7070FCC7",
+   "name": "从今开始的DS卡路里指南(JP)(E.Wings汉化组)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Kyou kara DS - Calorie Navi",
+ "id": "ver-nds-7070fcc7",
+ "layer": "verified",
+ "original": {
+  "crc32": "88A969E7",
+  "no_intro_name": "Kyou kara DS - Calorie Navi (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Kyou kara DS - Calorie Navi (Japan)",
+  "zh-Hans": "从今开始的DS卡路里指南"
+ },
+ "vendor": "E.Wings汉化组",
+ "version": ""
+}

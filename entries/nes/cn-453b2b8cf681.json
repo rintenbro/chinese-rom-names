@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5ECD24EB",
+   "name": "宠物小精灵4(简)[酷哥电子](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "genre": null,
+ "group": "宠物小精灵4",
+ "id": "cn-453b2b8cf681",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "宠物小精灵4"
+ },
+ "type": "original",
+ "vendor": "酷哥电子",
+ "vendor_full": "",
+ "year": null
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "333D1B4F",
+   "name": "超写真麻雀同窗会[Rom的传人](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Super Real Mahjong Dousoukai",
+ "id": "ver-gba-333d1b4f",
+ "layer": "verified",
+ "original": {
+  "crc32": "9E90456B",
+  "no_intro_name": "Super Real Mahjong Dousoukai (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Super Real Mahjong Dousoukai (Japan)",
+  "zh-Hans": "超写真麻雀同窗会"
+ },
+ "vendor": "Rom的传人",
+ "version": ""
+}

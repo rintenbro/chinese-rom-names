@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E42D67BC",
+   "name": "地道战(繁)[外星科技](CN)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "地道战",
+ "id": "cn-ebd9b2c1141b",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "地道战"
+ },
+ "type": "original",
+ "vendor": "外星科技",
+ "vendor_full": "",
+ "year": null
+}

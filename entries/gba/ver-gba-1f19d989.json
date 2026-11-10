@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1F19D989",
+   "name": "火焰纹章 - 封印之剑[狼组&火花天龙剑](v20060906)(简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Fire Emblem - Fuuin no Tsurugi",
+ "id": "ver-gba-1f19d989",
+ "layer": "verified",
+ "original": {
+  "crc32": "D38763E1",
+  "no_intro_name": "Fire Emblem - Fuuin no Tsurugi (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Fire Emblem - Fuuin no Tsurugi (Japan)",
+  "zh-Hans": "火焰纹章 - 封印之剑"
+ },
+ "vendor": "狼组&火花天龙剑",
+ "version": "v20060906"
+}

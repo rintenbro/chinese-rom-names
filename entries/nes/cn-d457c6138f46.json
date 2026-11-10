@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9BC5A38F",
+   "name": "扑克麻雀(繁)[圣谦](CN)[TAB](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "genre": null,
+ "group": "扑克麻雀",
+ "id": "cn-d457c6138f46",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "扑克麻雀"
+ },
+ "type": "original",
+ "vendor": "圣谦",
+ "vendor_full": "",
+ "year": null
+}

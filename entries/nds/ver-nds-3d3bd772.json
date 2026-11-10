@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3D3BD772",
+   "name": "泡泡龙 双重射击 1.1(US)(星组)(128Mb).nds",
+   "size": 13479688
+  }
+ ],
+ "group": "Bubble Bobble - Double Shot",
+ "id": "ver-nds-3d3bd772",
+ "layer": "verified",
+ "original": {
+  "crc32": "9DFDA3CA",
+  "no_intro_name": "Bubble Bobble - Double Shot (USA) (En,Fr,Es)",
+  "region": "USA",
+  "size": 16777216
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Bubble Bobble - Double Shot (USA) (En,Fr,Es)",
+  "zh-Hans": "泡泡龙 双重射击 1.1"
+ },
+ "vendor": "",
+ "version": ""
+}

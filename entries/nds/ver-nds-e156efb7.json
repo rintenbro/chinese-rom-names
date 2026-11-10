@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E156EFB7",
+   "name": "我的战斗机V6 完美版(JP)(摸摸DS团)(128Mb).nds",
+   "size": 9943354
+  }
+ ],
+ "group": "Ore no Sentouki",
+ "id": "ver-nds-e156efb7",
+ "layer": "verified",
+ "original": {
+  "crc32": "D3AD00B7",
+  "no_intro_name": "Ore no Sentouki (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Ore no Sentouki (Japan)",
+  "zh-Hans": "我的战斗机V6 完美版"
+ },
+ "vendor": "",
+ "version": ""
+}

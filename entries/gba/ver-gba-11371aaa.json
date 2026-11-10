@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "11371AAA",
+   "name": "正邪幻想史Zero[Apex](v20071012)(简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Black Matrix Zero",
+ "id": "ver-gba-11371aaa",
+ "layer": "verified",
+ "original": {
+  "crc32": "2B2AFA2E",
+  "no_intro_name": "Black Matrix Zero (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Black Matrix Zero (Japan)",
+  "zh-Hans": "正邪幻想史Zero"
+ },
+ "vendor": "Apex",
+ "version": "v20071012"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "107CBF61",
+   "name": "忍者武雷传说 (繁) (永盛)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Renzhe Wu lei Chuanshuo",
+ "id": "ver-md-107cbf61",
+ "layer": "verified",
+ "original": {
+  "crc32": "107CBF61",
+  "no_intro_name": "Renzhe Wu lei Chuanshuo (China) (Pirate)",
+  "region": "China",
+  "size": 1048576
+ },
+ "platform": "md",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Renzhe Wu lei Chuanshuo (China) (Pirate)",
+  "zh-Hans": "忍者武雷传说"
+ },
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "48033CD5",
+   "name": "降魔灵符传(繁)(JP)(nhlay)(256Mb).nds",
+   "size": 25905728
+  }
+ ],
+ "group": "Gouma Reifu Den Izuna",
+ "id": "ver-nds-48033cd5",
+ "layer": "verified",
+ "original": {
+  "crc32": "0279E1FF",
+  "no_intro_name": "Gouma Reifu Den Izuna (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Gouma Reifu Den Izuna (Japan)",
+  "zh-Hans": "降魔灵符传"
+ },
+ "vendor": "nhlay",
+ "version": ""
+}

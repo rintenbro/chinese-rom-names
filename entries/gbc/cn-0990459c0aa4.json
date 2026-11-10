@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-0990459c0aa4/title.png"
+ },
+ "files": [
+  {
+   "crc32": "1159836B",
+   "name": "超人特攻队(繁)(新特奇)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "genre": null,
+ "group": "超人特攻队",
+ "id": "cn-0990459c0aa4",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "超人特攻队"
+ },
+ "type": "original",
+ "vendor": "未知",
+ "vendor_full": "",
+ "year": null
+}

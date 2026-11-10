@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7D146C18",
+   "name": "召唤之夜 - 铸剑物语 2[啪嗒啪嗒](v1.0)[繁](JP)(136.31Mb).gba",
+   "size": 17867653
+  }
+ ],
+ "group": "Summon Night - Craft Sword Monogatari 2",
+ "id": "ver-gba-7d146c18",
+ "layer": "verified",
+ "original": {
+  "crc32": "8CD98F6F",
+  "no_intro_name": "Summon Night - Craft Sword Monogatari 2 (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Summon Night - Craft Sword Monogatari 2 (Japan)",
+  "zh-Hans": "召唤之夜 - 铸剑物语 2"
+ },
+ "vendor": "啪嗒啪嗒",
+ "version": "v1.0"
+}

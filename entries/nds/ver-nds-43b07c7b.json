@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "43B07C7B",
+   "name": "园艺妈妈(US)(flyeyes)(256Mb).nds",
+   "size": 28591680
+  }
+ ],
+ "group": "Gardening Mama",
+ "id": "ver-nds-43b07c7b",
+ "layer": "verified",
+ "original": {
+  "crc32": "525802E5",
+  "no_intro_name": "Gardening Mama (USA)",
+  "region": "USA",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Gardening Mama (USA)",
+  "zh-Hans": "园艺妈妈"
+ },
+ "vendor": "flyeyes",
+ "version": ""
+}

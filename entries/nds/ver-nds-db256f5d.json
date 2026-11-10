@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DB256F5D",
+   "name": "茶犬的房间DS(JP)(PGCG汉化组)(128Mb).nds",
+   "size": 16777216
+  }
+ ],
+ "group": "Ochaken no Heya DS",
+ "id": "ver-nds-db256f5d",
+ "layer": "verified",
+ "original": {
+  "crc32": "386278B6",
+  "no_intro_name": "Ochaken no Heya DS (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Ochaken no Heya DS (Japan)",
+  "zh-Hans": "茶犬的房间DS"
+ },
+ "vendor": "PGCG汉化组",
+ "version": ""
+}

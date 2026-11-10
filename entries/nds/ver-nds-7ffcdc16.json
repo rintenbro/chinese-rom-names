@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7FFCDC16",
+   "name": "喷射脉冲 1.02(JP)(PGCG汉化组)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Jet Impulse",
+ "id": "ver-nds-7ffcdc16",
+ "layer": "verified",
+ "original": {
+  "crc32": "921AE94F",
+  "no_intro_name": "Jet Impulse (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Jet Impulse (Japan)",
+  "zh-Hans": "喷射脉冲 1.02"
+ },
+ "vendor": "PGCG汉化组",
+ "version": ""
+}

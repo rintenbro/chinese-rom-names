@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F5319E32",
+   "name": "拳皇EX2 - 咆哮之血[qqgba](简)(JP)(63.29Mb).gba",
+   "size": 8296720
+  }
+ ],
+ "group": "King of Fighters EX 2, The - Howling Blood",
+ "id": "ver-gba-f5319e32",
+ "layer": "verified",
+ "original": {
+  "crc32": "DC5BEACD",
+  "no_intro_name": "King of Fighters EX 2, The - Howling Blood (Japan) (Rev 1)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "King of Fighters EX 2, The - Howling Blood (Japan) (Rev 1)",
+  "zh-Hans": "拳皇EX2 - 咆哮之血"
+ },
+ "vendor": "qqgba",
+ "version": ""
+}

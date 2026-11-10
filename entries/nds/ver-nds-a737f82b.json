@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A737F82B",
+   "name": "美丽水族馆DS 灯鱼·孔雀鱼·天使鱼(简)(JP)(GV胜利汉化组)(64Mb).nds",
+   "size": 8388608
+  }
+ ],
+ "group": "Kokoro ga Uruou - Birei Aquarium DS - Tetra, Guppy, Angelfish",
+ "id": "ver-nds-a737f82b",
+ "layer": "verified",
+ "original": {
+  "crc32": "B7D408EE",
+  "no_intro_name": "Kokoro ga Uruou - Birei Aquarium DS - Tetra, Guppy, Angelfish (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "nds",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Kokoro ga Uruou - Birei Aquarium DS - Tetra, Guppy, Angelfish (Japan)",
+  "zh-Hans": "美丽水族馆DS 灯鱼·孔雀鱼·天使鱼"
+ },
+ "vendor": "GV胜利汉化组",
+ "version": ""
+}

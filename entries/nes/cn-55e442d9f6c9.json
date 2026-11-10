@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D8B4EFD9",
+   "name": "上海大亨(简)[外星科技](CN)[TAB](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "上海大亨",
+ "id": "cn-55e442d9f6c9",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "上海大亨"
+ },
+ "type": "original",
+ "vendor": "外星科技",
+ "vendor_full": "",
+ "year": null
+}

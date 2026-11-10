@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "65419541",
+   "name": "死神DS 追逐苍天的命运 全文本汉化(JP)(DN汉化组)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Bleach DS - Souten ni Kakeru Unmei",
+ "id": "ver-nds-65419541",
+ "layer": "verified",
+ "original": {
+  "crc32": "C54255B0",
+  "no_intro_name": "Bleach DS - Souten ni Kakeru Unmei (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Bleach DS - Souten ni Kakeru Unmei (Japan)",
+  "zh-Hans": "死神DS 追逐苍天的命运 全文本"
+ },
+ "vendor": "DN汉化组",
+ "version": ""
+}

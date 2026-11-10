@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3400EAD1",
+   "name": "CT特种部队2重返战壕[Advance-008](简)(JP)(32Mb).gba",
+   "size": 8512288
+  }
+ ],
+ "group": "CT Special Forces 2 - Back in the Trenches",
+ "id": "ver-gba-3400ead1",
+ "layer": "verified",
+ "original": {
+  "crc32": "D2B58A33",
+  "no_intro_name": "CT Special Forces 2 - Back in the Trenches (USA) (En,Fr,De,Es,It,Nl)",
+  "region": "USA",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "CT Special Forces 2 - Back in the Trenches (USA) (En,Fr,De,Es,It,Nl)",
+  "zh-Hans": "CT特种部队2重返战壕"
+ },
+ "vendor": "Advance-008",
+ "version": ""
+}

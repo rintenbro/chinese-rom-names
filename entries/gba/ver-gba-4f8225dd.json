@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4F8225DD",
+   "name": "机械化军队 - Mech Platoon[Xiahongbo](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Kikaika Guntai - Mech Platoon",
+ "id": "ver-gba-4f8225dd",
+ "layer": "verified",
+ "original": {
+  "crc32": "A2FA4248",
+  "no_intro_name": "Kikaika Guntai - Mech Platoon (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Kikaika Guntai - Mech Platoon (Japan)",
+  "zh-Hans": "机械化军队 - Mech Platoon"
+ },
+ "vendor": "Xiahongbo",
+ "version": ""
+}

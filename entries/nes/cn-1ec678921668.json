@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E6525B05",
+   "name": "龙魂 新的传说(繁)[Nineswords](JP)[STG](6Mb).nes",
+   "size": 786464
+  }
+ ],
+ "genre": null,
+ "group": "龙魂 新的传说",
+ "id": "cn-1ec678921668",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "龙魂 新的传说"
+ },
+ "type": "hack",
+ "vendor": "Nineswords",
+ "vendor_full": "",
+ "year": null
+}

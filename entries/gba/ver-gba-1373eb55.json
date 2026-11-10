@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1373EB55",
+   "name": "我是航空管制员[熊组](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Boku wa Koukuu Kanseikan",
+ "id": "ver-gba-1373eb55",
+ "layer": "verified",
+ "original": {
+  "crc32": "5E3B163E",
+  "no_intro_name": "Boku wa Koukuu Kanseikan (Japan) (Rev 1)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Boku wa Koukuu Kanseikan (Japan) (Rev 1)",
+  "zh-Hans": "我是航空管制员"
+ },
+ "vendor": "熊组",
+ "version": ""
+}

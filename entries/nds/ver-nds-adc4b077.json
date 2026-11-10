@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "ADC4B077",
+   "name": "死于七日(JP)(盒动力)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Nanashi no Geemu",
+ "id": "ver-nds-adc4b077",
+ "layer": "verified",
+ "original": {
+  "crc32": "057D0B3F",
+  "no_intro_name": "Nanashi no Geemu (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Nanashi no Geemu (Japan)",
+  "zh-Hans": "死于七日"
+ },
+ "vendor": "",
+ "version": ""
+}

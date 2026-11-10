@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "68CDC536",
+   "name": "天空机器人 飞向CODA(JP)(猫犬协奏曲吧吧友汉化组)(512Mb).nds",
+   "size": 57154516
+  }
+ ],
+ "group": "Solatorobo - Sorekara Coda e",
+ "id": "ver-nds-68cdc536",
+ "layer": "verified",
+ "original": {
+  "crc32": "BE951CEA",
+  "no_intro_name": "Solatorobo - Sorekara Coda e (Japan) (NDSi Enhanced)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Solatorobo - Sorekara Coda e (Japan) (NDSi Enhanced)",
+  "zh-Hans": "天空机器人 飞向CODA"
+ },
+ "vendor": "猫犬协奏曲吧吧友汉化组",
+ "version": ""
+}

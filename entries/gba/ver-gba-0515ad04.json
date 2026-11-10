@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0515AD04",
+   "name": "简单说英文 - 初级篇1[Lirdrepus](繁)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "EZ-Talk - Shokyuu Hen 1",
+ "id": "ver-gba-0515ad04",
+ "layer": "verified",
+ "original": {
+  "crc32": "D256F6F7",
+  "no_intro_name": "EZ-Talk - Shokyuu Hen 1 (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "EZ-Talk - Shokyuu Hen 1 (Japan)",
+  "zh-Hans": "简单说英文 - 初级篇1"
+ },
+ "vendor": "Lirdrepus",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4D3F6F46",
+   "name": "触摸游戏派对(JP)(星组汉化组)(128Mb).nds",
+   "size": 16777216
+  }
+ ],
+ "group": "Touch Game Party",
+ "id": "ver-nds-4d3f6f46",
+ "layer": "verified",
+ "original": {
+  "crc32": "DE730DAC",
+  "no_intro_name": "Touch Game Party (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Touch Game Party (Japan)",
+  "zh-Hans": "触摸游戏派对"
+ },
+ "vendor": "星组汉化组",
+ "version": ""
+}

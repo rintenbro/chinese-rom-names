@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1254893A",
+   "name": "名侦探柯南 苍蓝宝石的轮舞曲(JP)(ACG汉化组)(512Mb).nds",
+   "size": 45988600
+  }
+ ],
+ "group": "Meitantei Conan - Aoki Houseki no Rondo",
+ "id": "ver-nds-1254893a",
+ "layer": "verified",
+ "original": {
+  "crc32": "0F5A1BEC",
+  "no_intro_name": "Meitantei Conan - Aoki Houseki no Rondo (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Meitantei Conan - Aoki Houseki no Rondo (Japan)",
+  "zh-Hans": "名侦探柯南 苍蓝宝石的轮舞曲"
+ },
+ "vendor": "ACG汉化组",
+ "version": ""
+}

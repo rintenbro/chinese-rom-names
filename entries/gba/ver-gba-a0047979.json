@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A0047979",
+   "name": "幻想传说[千岛&叶子](简)(JP)(66.62Mb).gba",
+   "size": 8732672
+  }
+ ],
+ "group": "Tales of Phantasia",
+ "id": "ver-gba-a0047979",
+ "layer": "verified",
+ "original": {
+  "crc32": "D08819C1",
+  "no_intro_name": "Tales of Phantasia (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Tales of Phantasia (Japan)",
+  "zh-Hans": "幻想传说"
+ },
+ "vendor": "千岛&叶子",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1AEB0413",
+   "name": "熊猫先生日记(JP)(ACG汉化组)(256Mb).nds",
+   "size": 29929984
+  }
+ ],
+ "group": "Panda-san Nikki",
+ "id": "ver-nds-1aeb0413",
+ "layer": "verified",
+ "original": {
+  "crc32": "66B78C60",
+  "no_intro_name": "Panda-san Nikki (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Panda-san Nikki (Japan)",
+  "zh-Hans": "熊猫先生日记"
+ },
+ "vendor": "ACG汉化组",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "21814A36",
+   "name": "火影忍者RPG 被继承的火之意志[树熊类](汉化公测版)(简)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Naruto RPG - Uketsugareshi Hi no Ishi",
+ "id": "ver-gba-21814a36",
+ "layer": "verified",
+ "original": {
+  "crc32": "C036D0F0",
+  "no_intro_name": "Naruto RPG - Uketsugareshi Hi no Ishi (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Naruto RPG - Uketsugareshi Hi no Ishi (Japan)",
+  "zh-Hans": "火影忍者RPG 被继承的火之意志"
+ },
+ "vendor": "树熊类",
+ "version": ""
+}

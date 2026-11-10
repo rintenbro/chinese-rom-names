@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0C4230E7",
+   "name": "口袋妖怪 - 蓝宝石[RSC汉化组](美版v1.2汉化+日版标题美术风格+中文名v2)(简)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Pocket Monsters - Sapphire",
+ "id": "ver-gba-0c4230e7",
+ "layer": "verified",
+ "original": {
+  "crc32": "FD1EEB78",
+  "no_intro_name": "Pocket Monsters - Sapphire (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Pocket Monsters - Sapphire (Japan)",
+  "zh-Hans": "口袋妖怪 - 蓝宝石"
+ },
+ "vendor": "RSC汉化组",
+ "version": ""
+}

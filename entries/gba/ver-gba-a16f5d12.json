@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A16F5D12",
+   "name": "轻松玩欢乐足球[Hyopo](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Calciobit",
+ "id": "ver-gba-a16f5d12",
+ "layer": "verified",
+ "original": {
+  "crc32": "498443DA",
+  "no_intro_name": "Calciobit (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Calciobit (Japan)",
+  "zh-Hans": "轻松玩欢乐足球"
+ },
+ "vendor": "Hyopo",
+ "version": ""
+}

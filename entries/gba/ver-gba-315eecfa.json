@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "315EECFA",
+   "name": "外星原始人[Advance汉化组](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Alien Hominid",
+ "id": "ver-gba-315eecfa",
+ "layer": "verified",
+ "original": {
+  "crc32": "DFF47236",
+  "no_intro_name": "Alien Hominid (Europe) (En,Fr,De,Es,It)",
+  "region": "Europe",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Alien Hominid (Europe) (En,Fr,De,Es,It)",
+  "zh-Hans": "外星原始人"
+ },
+ "vendor": "Advance汉化组",
+ "version": ""
+}

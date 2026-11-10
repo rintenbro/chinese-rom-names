@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "92A27799",
+   "name": "新超级马里奥兄弟(US)(PGCG汉化组)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "New Super Mario Bros.",
+ "id": "ver-nds-92a27799",
+ "layer": "verified",
+ "original": {
+  "crc32": "0197576A",
+  "no_intro_name": "New Super Mario Bros. (USA, Australia)",
+  "region": "USA",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "New Super Mario Bros. (USA, Australia)",
+  "zh-Hans": "新超级马里奥兄弟"
+ },
+ "vendor": "PGCG汉化组",
+ "version": ""
+}

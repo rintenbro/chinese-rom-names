@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3FB8346C",
+   "name": "洛克人Zero 4[天使汉化组](简)(JP)(136Mb).gba",
+   "size": 17825792
+  }
+ ],
+ "group": "Rockman Zero 4",
+ "id": "ver-gba-3fb8346c",
+ "layer": "verified",
+ "original": {
+  "crc32": "ECE42D0E",
+  "no_intro_name": "Rockman Zero 4 (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Rockman Zero 4 (Japan)",
+  "zh-Hans": "洛克人Zero 4"
+ },
+ "vendor": "天使汉化组",
+ "version": ""
+}

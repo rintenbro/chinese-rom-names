@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "54DD72B7",
+   "name": "大神传 小小太阳(JP)(ACG汉化组)(1024Mb).nds",
+   "size": 117446236
+  }
+ ],
+ "group": "Okamiden - Chiisaki Taiyou",
+ "id": "ver-nds-54dd72b7",
+ "layer": "verified",
+ "original": {
+  "crc32": "C4283623",
+  "no_intro_name": "Okamiden - Chiisaki Taiyou (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Okamiden - Chiisaki Taiyou (Japan)",
+  "zh-Hans": "大神传 小小太阳"
+ },
+ "vendor": "ACG汉化组",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3F3781CC",
+   "name": "召唤之夜 - 铸剑物语 - 起源之石[啪嗒啪嗒+yggdra](v1.1+修复卡顿+男主绿猫立绘名字修正)[繁](JP)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Summon Night - Craft Sword Monogatari - Hajimari no Ishi",
+ "id": "ver-gba-3f3781cc",
+ "layer": "verified",
+ "original": {
+  "crc32": "12AFAE5D",
+  "no_intro_name": "Summon Night - Craft Sword Monogatari - Hajimari no Ishi (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "gba",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Summon Night - Craft Sword Monogatari - Hajimari no Ishi (Japan)",
+  "zh-Hans": "召唤之夜 - 铸剑物语 - 起源之石"
+ },
+ "vendor": "啪嗒啪嗒+yggdra",
+ "version": "v1.1"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7733436F",
+   "name": "牧场物语 - 矿石镇的伙伴们 女孩篇[Middle333](Beta) (繁)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Bokujou Monogatari - Mineral Town no Nakama-tachi for Girl",
+ "id": "ver-gba-7733436f",
+ "layer": "verified",
+ "original": {
+  "crc32": "7C26672F",
+  "no_intro_name": "Bokujou Monogatari - Mineral Town no Nakama-tachi for Girl (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Bokujou Monogatari - Mineral Town no Nakama-tachi for Girl (Japan)",
+  "zh-Hans": "牧场物语 - 矿石镇的伙伴们 女孩篇"
+ },
+ "vendor": "Middle333",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8C82E4A7",
+   "name": "绘心教室DS(简)(JP)(百度绘心教室吧)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Egokoro Kyoushitsu DS",
+ "id": "ver-nds-8c82e4a7",
+ "layer": "verified",
+ "original": {
+  "crc32": "7002B985",
+  "no_intro_name": "Egokoro Kyoushitsu DS (Japan) (NDSi Enhanced)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "简",
+ "source": "no-intro",
+ "titles": {
+  "en": "Egokoro Kyoushitsu DS (Japan) (NDSi Enhanced)",
+  "zh-Hans": "绘心教室DS"
+ },
+ "vendor": "",
+ "version": ""
+}

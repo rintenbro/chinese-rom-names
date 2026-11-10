@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-fb8d09a3ac72/title.png"
+ },
+ "files": [
+  {
+   "crc32": "5F2472AD",
+   "name": "数码暴龙 - 水晶版II (繁) (新特奇).gbc",
+   "size": 4194304
+  }
+ ],
+ "genre": null,
+ "group": "数码暴龙 - 水晶版II",
+ "id": "cn-fb8d09a3ac72",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "数码暴龙 - 水晶版II"
+ },
+ "type": "original",
+ "vendor": "未知",
+ "vendor_full": "",
+ "year": null
+}

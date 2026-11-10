@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "62FA094B",
+   "name": "孙子兵法DS 文言汉化(繁)(罗伊SD)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Sonshi no Heihou DS",
+ "id": "ver-nds-62fa094b",
+ "layer": "verified",
+ "original": {
+  "crc32": "EDF0449F",
+  "no_intro_name": "Sonshi no Heihou DS (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Sonshi no Heihou DS (Japan)",
+  "zh-Hans": "孙子兵法DS 文言"
+ },
+ "vendor": "",
+ "version": ""
+}

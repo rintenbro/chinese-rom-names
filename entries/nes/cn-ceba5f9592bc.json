@@ -1,0 +1,29 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-ceba5f9592bc/title.png"
+ },
+ "files": [
+  {
+   "crc32": "41F56A3B",
+   "name": "八宝奇珠(简)[外星科技](JP)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "八宝奇珠",
+ "id": "cn-ceba5f9592bc",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "八宝奇珠"
+ },
+ "type": "original",
+ "vendor": "外星科技",
+ "vendor_full": "",
+ "year": null
+}

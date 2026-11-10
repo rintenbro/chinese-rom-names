@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1D0CEA4D",
+   "name": "恶魔城 - 白夜协奏曲[盗版&Hbs](繁)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Castlevania - Byakuya no Concerto",
+ "id": "ver-gba-1d0cea4d",
+ "layer": "verified",
+ "original": {
+  "crc32": "379B3248",
+  "no_intro_name": "Castlevania - Byakuya no Concerto (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "繁",
+ "source": "no-intro",
+ "titles": {
+  "en": "Castlevania - Byakuya no Concerto (Japan)",
+  "zh-Hans": "恶魔城 - 白夜协奏曲"
+ },
+ "vendor": "盗版&Hbs",
+ "version": ""
+}

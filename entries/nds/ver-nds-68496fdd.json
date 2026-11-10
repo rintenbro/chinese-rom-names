@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "68496FDD",
+   "name": "思乡之风 简体中文修正版(JP)(ACG汉化组)(1024Mb).nds",
+   "size": 119486512
+  }
+ ],
+ "group": "Nostalgeo no Kaze",
+ "id": "ver-nds-68496fdd",
+ "layer": "verified",
+ "original": {
+  "crc32": "96CF5544",
+  "no_intro_name": "Nostalgeo no Kaze (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Nostalgeo no Kaze (Japan)",
+  "zh-Hans": "思乡之风 简体中文修正版"
+ },
+ "vendor": "ACG汉化组",
+ "version": ""
+}

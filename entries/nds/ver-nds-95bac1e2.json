@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "95BAC1E2",
+   "name": "口袋妖怪(精灵宝可梦) 黑2(V5+DSi增强AP+全文本官译V5)(JP)(ACG汉化组+口袋群星SP+天涯+Desaix)(4096Mb).nds",
+   "size": 536870912
+  }
+ ],
+ "group": "Pocket Monsters - Black 2",
+ "id": "ver-nds-95bac1e2",
+ "layer": "verified",
+ "original": {
+  "crc32": "29C68B2B",
+  "no_intro_name": "Pocket Monsters - Black 2 (Japan) (Rev 1) (NDSi Enhanced)",
+  "region": "Japan",
+  "size": 536870912
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Pocket Monsters - Black 2 (Japan) (Rev 1) (NDSi Enhanced)",
+  "zh-Hans": "口袋妖怪 黑2"
+ },
+ "vendor": "V5+DSi增强AP+全文本官译V5 / ACG汉化组+口袋群星SP+天涯+Desaix",
+ "version": ""
+}

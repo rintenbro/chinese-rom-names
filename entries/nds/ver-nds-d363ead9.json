@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D363EAD9",
+   "name": "沙迦3 时空之霸者 黑暗和光明(JP)(ACG汉化组)(1024Mb).nds",
+   "size": 121211432
+  }
+ ],
+ "group": "SaGa 3 - Jikuu no Hasha - Shadow or Light",
+ "id": "ver-nds-d363ead9",
+ "layer": "verified",
+ "original": {
+  "crc32": "D0C79AE7",
+  "no_intro_name": "SaGa 3 - Jikuu no Hasha - Shadow or Light (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "SaGa 3 - Jikuu no Hasha - Shadow or Light (Japan)",
+  "zh-Hans": "沙迦3 时空之霸者 黑暗和光明"
+ },
+ "vendor": "ACG汉化组",
+ "version": ""
+}

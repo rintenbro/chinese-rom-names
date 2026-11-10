@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "41978EB0",
+   "name": "犬神家一族(JP)(ACG汉化组)(256Mb).nds",
+   "size": 30505920
+  }
+ ],
+ "group": "Inugamike no Ichizoku",
+ "id": "ver-nds-41978eb0",
+ "layer": "verified",
+ "original": {
+  "crc32": "D467C061",
+  "no_intro_name": "Inugamike no Ichizoku (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "source": "no-intro",
+ "titles": {
+  "en": "Inugamike no Ichizoku (Japan)",
+  "zh-Hans": "犬神家一族"
+ },
+ "vendor": "ACG汉化组",
+ "version": ""
+}
