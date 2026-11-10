@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "477DDAEF",
+   "name": "哥斯拉 怪兽大乱斗[Advance汉化组](简)(48Mb).gba",
+   "size": 5319968
+  }
+ ],
+ "group": "Gojira - Kaijuu Dairantou Advance",
+ "id": "ver-gba-477ddaef",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "3157A4FC",
+  "no_intro_name": "Gojira - Kaijuu Dairantou Advance (Japan)",
+  "region": "Japan",
+  "size": 4194304
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "AG4J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Gojira - Kaijuu Dairantou Advance (Japan)",
+  "zh-Hans": "哥斯拉 怪兽大乱斗"
+ },
+ "vendor": "Advance汉化组",
+ "version": ""
+}

@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "55094BB4",
+   "name": "阿拉蕾(JP)(CG汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Dr. Slump Arale-chan",
+ "id": "ver-nds-55094bb4",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "06582677",
+  "no_intro_name": "Dr. Slump Arale-chan (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "YDSJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Dr. Slump Arale-chan (Japan)",
+  "zh-Hans": "阿拉蕾"
+ },
+ "vendor": "CG汉化组",
+ "version": ""
+}

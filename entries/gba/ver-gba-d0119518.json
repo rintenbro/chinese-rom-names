@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D0119518",
+   "name": "武器种族传说 被封印的诗歌[Advance汉化组 ](v1.2)(简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Erementar Gerad - Tozasareshi Uta",
+ "id": "ver-gba-d0119518",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "8C1AFCA4",
+  "no_intro_name": "Erementar Gerad - Tozasareshi Uta (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "BEJJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Erementar Gerad - Tozasareshi Uta (Japan)",
+  "zh-Hans": "武器种族传说 被封印的诗歌"
+ },
+ "vendor": "Advance汉化组",
+ "version": "v1.2"
+}

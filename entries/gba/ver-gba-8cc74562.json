@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8CC74562",
+   "name": "洛克人EXE6 麒麟对战(电脑兽格莱伽)[太阳少年&洛克人EXE6爱好者汉化组](简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Rockman EXE 6 - Dennoujuu Gregar",
+ "id": "ver-gba-8cc74562",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "6285918A",
+  "no_intro_name": "Rockman EXE 6 - Dennoujuu Gregar (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "BR5J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Rockman EXE 6 - Dennoujuu Gregar (Japan)",
+  "zh-Hans": "洛克人EXE6 麒麟对战"
+ },
+ "vendor": "太阳少年&洛克人EXE6爱好者汉化组",
+ "version": ""
+}

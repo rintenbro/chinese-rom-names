@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "30D3A7F4",
+   "name": "三国志3 (繁) (官方中文版)(KOEI)(12Mb).sfc",
+   "size": 1572864
+  }
+ ],
+ "group": "Sangokushi III",
+ "id": "ver-sfc-30d3a7f4",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "30D3A7F4",
+  "no_intro_name": "Sangokushi III (Hong Kong)",
+  "region": "Hong Kong",
+  "size": 1572864
+ },
+ "platform": "sfc",
+ "script": "繁",
+ "serial": "",
+ "source": "no-intro",
+ "titles": {
+  "en": "Sangokushi III (Hong Kong)",
+  "zh-Hans": "三国志3"
+ },
+ "vendor": "KOEI",
+ "version": ""
+}

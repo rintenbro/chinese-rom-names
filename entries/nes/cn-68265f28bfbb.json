@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-68265f28bfbb/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "1ABE8EAA",
+   "name": "大侠客 楚留香(简)[火星电子](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "genre": null,
+ "group": "大侠客 楚留香",
+ "id": "cn-68265f28bfbb",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "大侠客 楚留香"
+ },
+ "type": "original",
+ "vendor": "火星电子",
+ "vendor_full": "",
+ "year": null
+}

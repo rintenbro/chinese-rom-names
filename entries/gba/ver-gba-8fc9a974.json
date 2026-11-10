@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8FC9A974",
+   "name": "最终幻想战略版Advance[熊组+yggdra+S1的小伙伴们](汉化移植美版v0.2.5测试版)(简)(US)(88Mb).gba",
+   "size": 11604020
+  }
+ ],
+ "group": "Final Fantasy Tactics Advance",
+ "id": "ver-gba-8fc9a974",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "5645E56C",
+  "no_intro_name": "Final Fantasy Tactics Advance (USA)",
+  "region": "USA",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "AFXE",
+ "source": "no-intro",
+ "titles": {
+  "en": "Final Fantasy Tactics Advance (USA)",
+  "zh-Hans": "最终幻想战略版Advance"
+ },
+ "vendor": "熊组+yggdra+S1的小伙伴们",
+ "version": "v0.2.5"
+}

@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CBB48D26",
+   "name": "口袋妖怪 - 红宝石[模拟天下](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Pocket Monsters - Ruby",
+ "id": "ver-gba-cbb48d26",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "CEE9471A",
+  "no_intro_name": "Pocket Monsters - Ruby (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "AXVJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Pocket Monsters - Ruby (Japan)",
+  "zh-Hans": "口袋妖怪 - 红宝石"
+ },
+ "vendor": "模拟天下",
+ "version": ""
+}

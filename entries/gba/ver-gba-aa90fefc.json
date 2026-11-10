@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AA90FEFC",
+   "name": "马里奥赛车Advance[TGB](简)(JP)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "Mario Kart Advance",
+ "id": "ver-gba-aa90fefc",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "30E99FCD",
+  "no_intro_name": "Mario Kart Advance (Japan)",
+  "region": "Japan",
+  "size": 4194304
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "AMKJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Mario Kart Advance (Japan)",
+  "zh-Hans": "马里奥赛车Advance"
+ },
+ "vendor": "",
+ "version": ""
+}

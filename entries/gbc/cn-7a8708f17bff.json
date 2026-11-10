@@ -1,0 +1,33 @@
+{
+ "aliases": [
+  "Timer Monster (China) [CHT]"
+ ],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-7a8708f17bff/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "CA02413B",
+   "name": "时空星兽 (繁) (广誉科技).gbc",
+   "size": 2097152
+  }
+ ],
+ "genre": null,
+ "group": "时空星兽",
+ "id": "cn-7a8708f17bff",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "时空星兽"
+ },
+ "type": "original",
+ "vendor": "",
+ "vendor_full": "",
+ "year": null
+}

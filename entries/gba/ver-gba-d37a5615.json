@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D37A5615",
+   "name": "徽章战士G 锹甲版[Advance汉化组](v1.0)(简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Medarot G - Kuwagata",
+ "id": "ver-gba-d37a5615",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "14E3EBCC",
+  "no_intro_name": "Medarot G - Kuwagata (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "AGIJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Medarot G - Kuwagata (Japan)",
+  "zh-Hans": "徽章战士G 锹甲版"
+ },
+ "vendor": "Advance汉化组",
+ "version": "v1.0"
+}

@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "083DFA72",
+   "name": "阿拉伯迷情 1.0(JP)(翼之梦汉化组)(2047.99Mb).nds",
+   "size": 268435456
+  }
+ ],
+ "group": "Arabians Lost - The Engagement on Desert",
+ "id": "ver-nds-083dfa72",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "802060F1",
+  "no_intro_name": "Arabians Lost - The Engagement on Desert (Japan)",
+  "region": "Japan",
+  "size": 268435456
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "BALJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Arabians Lost - The Engagement on Desert (Japan)",
+  "zh-Hans": "阿拉伯迷情 1.0"
+ },
+ "vendor": "翼之梦汉化组",
+ "version": ""
+}

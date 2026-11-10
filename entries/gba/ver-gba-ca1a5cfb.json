@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CA1A5CFB",
+   "name": "龙战士2[飞越无尽暗空](测试)[简](US)(35.99Mb).gba",
+   "size": 4718584
+  }
+ ],
+ "group": "Breath of Fire II",
+ "id": "ver-gba-ca1a5cfb",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "6F098DA3",
+  "no_intro_name": "Breath of Fire II (USA)",
+  "region": "USA",
+  "size": 4194304
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "AB2E",
+ "source": "no-intro",
+ "titles": {
+  "en": "Breath of Fire II (USA)",
+  "zh-Hans": "龙战士2"
+ },
+ "vendor": "飞越无尽暗空",
+ "version": ""
+}

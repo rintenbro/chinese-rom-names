@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-af508c80a95c/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "828FE536",
+   "name": "地狱神探(简)[恒格电子](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "genre": null,
+ "group": "地狱神探",
+ "id": "cn-af508c80a95c",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "地狱神探"
+ },
+ "type": "original",
+ "vendor": "恒格电子",
+ "vendor_full": "",
+ "year": null
+}

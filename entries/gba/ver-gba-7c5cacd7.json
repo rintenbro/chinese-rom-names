@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7C5CACD7",
+   "name": "侵略者[阿渊](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Invader",
+ "id": "ver-gba-7c5cacd7",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "A94D6058",
+  "no_intro_name": "Invader (Europe)",
+  "region": "Europe",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "AIVP",
+ "source": "no-intro",
+ "titles": {
+  "en": "Invader (Europe)",
+  "zh-Hans": "侵略者"
+ },
+ "vendor": "阿渊",
+ "version": ""
+}

@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FE623ED4",
+   "name": "火影忍者RPG3 灵兽VS木叶小队 汉化测试版v36(简)(巴沙卡)(480Mb).nds",
+   "size": 61997716
+  }
+ ],
+ "group": "Naruto RPG 3 - Reijuu vs Konoha Shoutai",
+ "id": "ver-nds-fe623ed4",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "62E6BB46",
+  "no_intro_name": "Naruto RPG 3 - Reijuu vs Konoha Shoutai (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "简",
+ "serial": "ANTJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Naruto RPG 3 - Reijuu vs Konoha Shoutai (Japan)",
+  "zh-Hans": "火影忍者RPG3 灵兽VS木叶小队 汉化测试版v36"
+ },
+ "vendor": "",
+ "version": ""
+}

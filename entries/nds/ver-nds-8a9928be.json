@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8A9928BE",
+   "name": "使命召唤4 现代战争(US)(巴士汉化组)(512Mb).nds",
+   "size": 64492576
+  }
+ ],
+ "group": "Call of Duty 4 - Modern Warfare",
+ "id": "ver-nds-8a9928be",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "E9DCBAFC",
+  "no_intro_name": "Call of Duty 4 - Modern Warfare (USA)",
+  "region": "USA",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "YCOE",
+ "source": "no-intro",
+ "titles": {
+  "en": "Call of Duty 4 - Modern Warfare (USA)",
+  "zh-Hans": "使命召唤4 现代战争"
+ },
+ "vendor": "巴士汉化组",
+ "version": ""
+}

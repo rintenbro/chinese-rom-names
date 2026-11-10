@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E5715AD5",
+   "name": "孔雀王2 - 幻影城 (简) (永盛)(4Mb).md",
+   "size": 524288
+  }
+ ],
+ "group": "Kongque Wang 2 - Huanying Cheng",
+ "id": "ver-md-e5715ad5",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "E5715AD5",
+  "no_intro_name": "Kongque Wang 2 - Huanying Cheng (China) (Pirate)",
+  "region": "China",
+  "size": 524288
+ },
+ "platform": "md",
+ "script": "简",
+ "serial": "00004017-00",
+ "source": "no-intro",
+ "titles": {
+  "en": "Kongque Wang 2 - Huanying Cheng (China) (Pirate)",
+  "zh-Hans": "孔雀王2 - 幻影城"
+ },
+ "vendor": "",
+ "version": ""
+}

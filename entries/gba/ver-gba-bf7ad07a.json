@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BF7AD07A",
+   "name": "学校创造A[罗伊SD](简)(70Mb).gba",
+   "size": 8461736
+  }
+ ],
+ "group": "Gakkou o Tsukurou!! Advance",
+ "id": "ver-gba-bf7ad07a",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "6EB70422",
+  "no_intro_name": "Gakkou o Tsukurou!! Advance (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "AYSJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Gakkou o Tsukurou!! Advance (Japan)",
+  "zh-Hans": "学校创造A"
+ },
+ "vendor": "罗伊SD",
+ "version": ""
+}

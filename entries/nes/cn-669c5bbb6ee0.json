@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-669c5bbb6ee0/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "4CF0C2CD",
+   "name": "悟空斗剧(简)[恒格电子](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "genre": null,
+ "group": "悟空斗剧",
+ "id": "cn-669c5bbb6ee0",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "悟空斗剧"
+ },
+ "type": "original",
+ "vendor": "恒格电子",
+ "vendor_full": "",
+ "year": null
+}

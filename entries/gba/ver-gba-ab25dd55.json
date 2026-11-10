@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AB25DD55",
+   "name": "饲养物语3 我的兜虫与锹虫[Advance汉化组](v1.0)(简)(96Mb).gba",
+   "size": 11611424
+  }
+ ],
+ "group": "Minna no Shiiku Series - Boku no Kabuto, Kuwagata",
+ "id": "ver-gba-ab25dd55",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "20E296A6",
+  "no_intro_name": "Minna no Shiiku Series - Boku no Kabuto, Kuwagata (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "BKKJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Minna no Shiiku Series - Boku no Kabuto, Kuwagata (Japan)",
+  "zh-Hans": "饲养物语3 我的兜虫与锹虫"
+ },
+ "vendor": "Advance汉化组",
+ "version": "v1.0"
+}

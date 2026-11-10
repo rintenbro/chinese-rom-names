@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-c0661cda9ccb/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "5D07E348",
+   "name": "风云(简)[外星科技](CN)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "genre": null,
+ "group": "风云",
+ "id": "cn-c0661cda9ccb",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "风云"
+ },
+ "type": "original",
+ "vendor": "外星科技",
+ "vendor_full": "福州外星电脑科技有限公司 / Waixing Science & Technology（WAIXING COMPUTER SCIENCE & TECHNOLOGY CO.,LTD）",
+ "year": null
+}

@@ -1,0 +1,33 @@
+{
+ "aliases": [
+  "Ambush from Ten Sides - Dragonslayer Chapter (China) [CHT]"
+ ],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-4f2311c16ec3/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "A8F20133",
+   "name": "十面埋伏 - 屠龙篇 (繁) (天才小子).gbc",
+   "size": 1048576
+  }
+ ],
+ "genre": null,
+ "group": "十面埋伏 - 屠龙篇",
+ "id": "cn-4f2311c16ec3",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "十面埋伏 - 屠龙篇"
+ },
+ "type": "original",
+ "vendor": "",
+ "vendor_full": "",
+ "year": null
+}

@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "ED975FAD",
+   "name": "记忆之日3 预览版(JP)(有爱人士)(256Mb).nds",
+   "size": 23085404
+  }
+ ],
+ "group": "Days of Memories 3",
+ "id": "ver-nds-ed975fad",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "76B78312",
+  "no_intro_name": "Days of Memories 3 (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "C63J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Days of Memories 3 (Japan)",
+  "zh-Hans": "记忆之日3 预览版"
+ },
+ "vendor": "",
+ "version": ""
+}

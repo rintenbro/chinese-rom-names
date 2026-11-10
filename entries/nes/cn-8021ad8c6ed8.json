@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-8021ad8c6ed8/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "BBB47A39",
+   "name": "数独四合一(简)[未知](CN)[PUZ](1.5Mb).unf",
+   "size": 196702
+  }
+ ],
+ "genre": null,
+ "group": "数独四合一",
+ "id": "cn-8021ad8c6ed8",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "数独四合一"
+ },
+ "type": "hack",
+ "vendor": "",
+ "vendor_full": "",
+ "year": null
+}

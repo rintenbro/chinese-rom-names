@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "EA4C0ED2",
+   "name": "主题公园(US)(YYJoy汉化组)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Theme Park",
+ "id": "ver-nds-ea4c0ed2",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "6C26EFAE",
+  "no_intro_name": "Theme Park (USA) (En,Ja,Fr,De,Es,It)",
+  "region": "USA",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "A8QE",
+ "source": "no-intro",
+ "titles": {
+  "en": "Theme Park (USA) (En,Ja,Fr,De,Es,It)",
+  "zh-Hans": "主题公园"
+ },
+ "vendor": "YYJoy汉化组",
+ "version": ""
+}

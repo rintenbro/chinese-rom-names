@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9E432925",
+   "name": "伊苏2 DS 1.1(JP)(joyful)(512Mb).nds",
+   "size": 66408184
+  }
+ ],
+ "group": "Ys II DS",
+ "id": "ver-nds-9e432925",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "7DD50994",
+  "no_intro_name": "Ys II DS (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "AYEJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Ys II DS (Japan)",
+  "zh-Hans": "伊苏2 DS 1.1"
+ },
+ "vendor": "joyful",
+ "version": ""
+}

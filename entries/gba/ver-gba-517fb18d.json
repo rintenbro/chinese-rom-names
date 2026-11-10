@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "517FB18D",
+   "name": "神游 摇摆森喜刚[未发售](简)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Yaobai Senxigang",
+ "id": "ver-gba-517fb18d",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "517FB18D",
+  "no_intro_name": "Yaobai Senxigang (China) (Proto)",
+  "region": "China",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "BBKC",
+ "source": "no-intro",
+ "titles": {
+  "en": "Yaobai Senxigang (China) (Proto)",
+  "zh-Hans": "神游 摇摆森喜刚"
+ },
+ "vendor": "未发售",
+ "version": ""
+}

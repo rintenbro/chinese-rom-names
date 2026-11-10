@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7C161C48",
+   "name": "成吉思汗2 - 元朝秘史之苍狼与白鹿 (繁) (SKOB)(10Mb).md",
+   "size": 1310720
+  }
+ ],
+ "group": "Chengjisihan II - Yuanchao Mishi Zhi Canglang Yu Bailu",
+ "id": "ver-md-7c161c48",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "7C161C48",
+  "no_intro_name": "Chengjisihan II - Yuanchao Mishi Zhi Canglang Yu Bailu (China) (Pirate)",
+  "region": "China",
+  "size": 1310720
+ },
+ "platform": "md",
+ "script": "繁",
+ "serial": "T-76103-00",
+ "source": "no-intro",
+ "titles": {
+  "en": "Chengjisihan II - Yuanchao Mishi Zhi Canglang Yu Bailu (China) (Pirate)",
+  "zh-Hans": "成吉思汗2 - 元朝秘史之苍狼与白鹿"
+ },
+ "vendor": "SKOB",
+ "version": ""
+}

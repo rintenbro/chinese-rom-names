@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9DFA497B",
+   "name": "超热血高校 国夫君躲避球部 1.1(axi)(64Mb).nds",
+   "size": 8388608
+  }
+ ],
+ "group": "Chou Nekketsu Koukou Kunio-kun - Dodgeball-bu",
+ "id": "ver-nds-9dfa497b",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "53C3D27E",
+  "no_intro_name": "Chou Nekketsu Koukou Kunio-kun - Dodgeball-bu (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "YD5J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Chou Nekketsu Koukou Kunio-kun - Dodgeball-bu (Japan)",
+  "zh-Hans": "超热血高校 国夫君躲避球部 1.1"
+ },
+ "vendor": "axi",
+ "version": ""
+}

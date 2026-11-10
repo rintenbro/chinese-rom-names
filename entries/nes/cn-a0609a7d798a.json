@@ -1,0 +1,36 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-a0609a7d798a/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "4E7D8C47",
+   "name": "超级五笔汉卡(v1)(简)[科王](CN)[ETC](4Mb).nes",
+   "size": 524304
+  },
+  {
+   "crc32": "E6EB490F",
+   "name": "超级五笔汉卡(v2)(简)[科王](CN)[ETC](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "超级五笔汉卡",
+ "id": "cn-a0609a7d798a",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "超级五笔汉卡"
+ },
+ "type": "hack",
+ "vendor": "科王",
+ "vendor_full": "",
+ "year": null
+}

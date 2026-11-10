@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "47F86A61",
+   "name": "仓鼠天堂Advanchu[yybray](v0.9)(简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Hamster Paradise Advanchu",
+ "id": "ver-gba-47f86a61",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "902BEFB0",
+  "no_intro_name": "Hamster Paradise Advanchu (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "AHAJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Hamster Paradise Advanchu (Japan)",
+  "zh-Hans": "仓鼠天堂Advanchu"
+ },
+ "vendor": "yybray",
+ "version": "v0.9"
+}

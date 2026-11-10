@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C3000305",
+   "name": "简单说英文 - 初级篇2[Lirdrepus](繁)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "EZ-Talk - Shokyuu Hen 2",
+ "id": "ver-gba-c3000305",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "38D91A54",
+  "no_intro_name": "EZ-Talk - Shokyuu Hen 2 (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "繁",
+ "serial": "A23J",
+ "source": "no-intro",
+ "titles": {
+  "en": "EZ-Talk - Shokyuu Hen 2 (Japan)",
+  "zh-Hans": "简单说英文 - 初级篇2"
+ },
+ "vendor": "Lirdrepus",
+ "version": ""
+}

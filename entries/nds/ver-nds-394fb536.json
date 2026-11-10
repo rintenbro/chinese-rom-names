@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "394FB536",
+   "name": "生存之子 迷失深蓝2(简)(JP)(巴士汉化组&PGCG汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Survival Kids - Lost in Blue 2",
+ "id": "ver-nds-394fb536",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "8B5516F8",
+  "no_intro_name": "Survival Kids - Lost in Blue 2 (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "简",
+ "serial": "AL2J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Survival Kids - Lost in Blue 2 (Japan)",
+  "zh-Hans": "生存之子 迷失深蓝2"
+ },
+ "vendor": "巴士汉化组&PGCG汉化组",
+ "version": ""
+}

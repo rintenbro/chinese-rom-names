@@ -1,0 +1,33 @@
+{
+ "aliases": [
+  "Magic Ball (China) [CHT]"
+ ],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gb/cn-e4bcd74aecfb/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "0AF9089E",
+   "name": "魔法球 (繁) (Gowin)(1Mb).gb",
+   "size": 131072
+  }
+ ],
+ "genre": null,
+ "group": "魔法球",
+ "id": "cn-e4bcd74aecfb",
+ "layer": "self",
+ "original": null,
+ "platform": "gb",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "魔法球"
+ },
+ "type": "original",
+ "vendor": "Gowin",
+ "vendor_full": "",
+ "year": null
+}

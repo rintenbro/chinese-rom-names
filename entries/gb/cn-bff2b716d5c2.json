@@ -1,0 +1,33 @@
+{
+ "aliases": [
+  "Story of Lasama (China) [CHT]"
+ ],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "985FCC24",
+   "name": "拉萨玛传奇 (繁) (Gowin)(0.5Mb).gb",
+   "size": 65536
+  }
+ ],
+ "genre": null,
+ "group": "拉萨玛传奇",
+ "id": "cn-bff2b716d5c2",
+ "layer": "self",
+ "original": null,
+ "platform": "gb",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "拉萨玛传奇"
+ },
+ "type": "original",
+ "vendor": "Gowin",
+ "vendor_full": "",
+ "year": null
+}

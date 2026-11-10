@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A129AC90",
+   "name": "口袋妖怪(精灵宝可梦) 珍珠 官译修正版v2.1.1(简)(JP)(YYJoy汉化组+Xzonn)(1024Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Pocket Monsters - Pearl",
+ "id": "ver-nds-a129ac90",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "50DD7518",
+  "no_intro_name": "Pocket Monsters - Pearl (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "简",
+ "serial": "APAJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Pocket Monsters - Pearl (Japan)",
+  "zh-Hans": "口袋妖怪 珍珠 官译修正版v2.1.1"
+ },
+ "vendor": "YYJoy汉化组+Xzonn",
+ "version": ""
+}

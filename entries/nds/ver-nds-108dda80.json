@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "108DDA80",
+   "name": "网球王子2005 Crystal Drive v1.1(简)(微光不微光)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Tennis no Ouji-sama 2005 - Crystal Drive",
+ "id": "ver-nds-108dda80",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "CCF40226",
+  "no_intro_name": "Tennis no Ouji-sama 2005 - Crystal Drive (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "简",
+ "serial": "ATOJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Tennis no Ouji-sama 2005 - Crystal Drive (Japan)",
+  "zh-Hans": "网球王子2005 Crystal Drive v1.1"
+ },
+ "vendor": "",
+ "version": ""
+}

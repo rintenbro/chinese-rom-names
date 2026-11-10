@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-94548a8921a2/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "11228624",
+   "name": "百变小樱(D商+星夜之幻)(8Mb).gbc",
+   "size": 1048576
+  }
+ ],
+ "genre": null,
+ "group": "百变小樱",
+ "id": "cn-94548a8921a2",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "百变小樱"
+ },
+ "type": "original",
+ "vendor": "D商+星夜之幻",
+ "vendor_full": "",
+ "year": null
+}

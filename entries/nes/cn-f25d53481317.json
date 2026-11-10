@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-f25d53481317/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "FF514CFC",
+   "name": "踩地雷 对战篇(繁)[圣谦](CN)[PUZ](0.31Mb).nes",
+   "size": 40976
+  }
+ ],
+ "genre": "PUZ",
+ "group": "踩地雷 对战篇",
+ "id": "cn-f25d53481317",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "踩地雷 对战篇"
+ },
+ "type": "original",
+ "vendor": "圣谦",
+ "vendor_full": "聖謙企業股份有限公司 / Thin Chen Enterprise (Sachen)",
+ "year": "1989"
+}

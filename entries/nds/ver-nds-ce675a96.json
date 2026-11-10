@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CE675A96",
+   "name": "太空侵略者EX2(JP)(ACG汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Space Invaders Extreme 2",
+ "id": "ver-nds-ce675a96",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "0ABB2A6F",
+  "no_intro_name": "Space Invaders Extreme 2 (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "CV8J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Space Invaders Extreme 2 (Japan)",
+  "zh-Hans": "太空侵略者EX2"
+ },
+ "vendor": "ACG汉化组",
+ "version": ""
+}

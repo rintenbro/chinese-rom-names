@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "30FDF5CF",
+   "name": "弧光之源(繁)(JP)(dream75421)(1024Mb).nds",
+   "size": 117496736
+  }
+ ],
+ "group": "Luminous Arc",
+ "id": "ver-nds-30fdf5cf",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "9ED016F7",
+  "no_intro_name": "Luminous Arc (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "繁",
+ "serial": "ANIJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Luminous Arc (Japan)",
+  "zh-Hans": "弧光之源"
+ },
+ "vendor": "dream75421",
+ "version": ""
+}

@@ -1,0 +1,33 @@
+{
+ "aliases": [
+  "Xian Dan Chao Ren - Ultraman (China) [CHT]"
+ ],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-c4611e45533d/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "FDA80268",
+   "name": "咸蛋超人(繁)(新特奇)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "genre": null,
+ "group": "咸蛋超人",
+ "id": "cn-c4611e45533d",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "咸蛋超人"
+ },
+ "type": "original",
+ "vendor": "",
+ "vendor_full": "",
+ "year": null
+}

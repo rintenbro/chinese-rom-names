@@ -1,0 +1,33 @@
+{
+ "aliases": [
+  "Bomberman II (China) [CHT]"
+ ],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-357e83554185/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "558A0FE0",
+   "name": "疯狂阿给2 (繁) (新特奇).gbc",
+   "size": 1048576
+  }
+ ],
+ "genre": null,
+ "group": "疯狂阿给2",
+ "id": "cn-357e83554185",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "疯狂阿给2"
+ },
+ "type": "original",
+ "vendor": "",
+ "vendor_full": "",
+ "year": null
+}

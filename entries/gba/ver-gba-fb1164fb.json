@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FB1164FB",
+   "name": "星之卡比 - 梦之泉[伤雪&Sody](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Hoshi no Kirby - Yume no Izumi Deluxe",
+ "id": "ver-gba-fb1164fb",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "C55A3C2C",
+  "no_intro_name": "Hoshi no Kirby - Yume no Izumi Deluxe (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "A7KJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Hoshi no Kirby - Yume no Izumi Deluxe (Japan)",
+  "zh-Hans": "星之卡比 - 梦之泉"
+ },
+ "vendor": "伤雪&Sody",
+ "version": ""
+}

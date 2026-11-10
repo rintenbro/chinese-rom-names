@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C04876F6",
+   "name": "CT特种部队3-生化恐怖[Advance][v1.1](简)(JP)(32Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "CT Special Forces 3 - Bioterror",
+ "id": "ver-gba-c04876f6",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "7DC40EDA",
+  "no_intro_name": "CT Special Forces 3 - Bioterror (Europe) (En,Fr,De,Es,It,Nl)",
+  "region": "Europe",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "BC3P",
+ "source": "no-intro",
+ "titles": {
+  "en": "CT Special Forces 3 - Bioterror (Europe) (En,Fr,De,Es,It,Nl)",
+  "zh-Hans": "CT特种部队3-生化恐怖"
+ },
+ "vendor": "Advance",
+ "version": "v1.1"
+}

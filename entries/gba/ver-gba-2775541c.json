@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2775541C",
+   "name": "荣誉勋章 – 渗透者[盗版&Kunlunshen](简)(UE)(128Mb)(去拖慢版).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Medal of Honor - Infiltrator",
+ "id": "ver-gba-2775541c",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "F23150A4",
+  "no_intro_name": "Medal of Honor - Infiltrator (USA, Europe) (En,Fr,De)",
+  "region": "USA",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "BMHE",
+ "source": "no-intro",
+ "titles": {
+  "en": "Medal of Honor - Infiltrator (USA, Europe) (En,Fr,De)",
+  "zh-Hans": "荣誉勋章 – 渗透者"
+ },
+ "vendor": "UE / 盗版&Kunlunshen",
+ "version": ""
+}

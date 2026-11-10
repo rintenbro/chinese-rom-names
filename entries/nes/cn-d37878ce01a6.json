@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-d37878ce01a6/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "BD420302",
+   "name": "荣誉勋章(简)[外星科技](JP)[AVG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "荣誉勋章",
+ "id": "cn-d37878ce01a6",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "荣誉勋章"
+ },
+ "type": "original",
+ "vendor": "外星科技",
+ "vendor_full": "福州外星电脑科技有限公司 / Waixing Science & Technology（WAIXING COMPUTER SCIENCE & TECHNOLOGY CO.,LTD）",
+ "year": null
+}

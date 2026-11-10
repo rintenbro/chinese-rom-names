@@ -1,0 +1,36 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-7d06cf2076eb/title.png"
+ },
+ "description": "《七龙珠》是外星科技在红白机上发行的角色扮演游戏，以《龙珠》为题材。玩家操控主角在各地冒险，通过与居民对话推进剧情、在回合制战斗中成长，卡带内容与文本均为中文重新制作。",
+ "description_source": "ai",
+ "files": [
+  {
+   "crc32": "08278D88",
+   "name": "七龙珠(简)[外星科技](JP)[RPG](6Mb).nes",
+   "size": 786448
+  },
+  {
+   "crc32": "F4CC848F",
+   "name": "七龙珠(繁)[小铭电脑](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "genre": null,
+ "group": "七龙珠",
+ "id": "cn-7d06cf2076eb",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "七龙珠"
+ },
+ "type": "original",
+ "vendor": "外星科技",
+ "vendor_full": "",
+ "year": null
+}

@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FCE9DB0B",
+   "name": "益智同伴DS 作画拼图同伴(JP)(ACG汉化组)(128Mb).nds",
+   "size": 12473408
+  }
+ ],
+ "group": "Puzzle Mate DS - Oekaki Mate",
+ "id": "ver-nds-fce9db0b",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "2E6C453C",
+  "no_intro_name": "Puzzle Mate DS - Oekaki Mate (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "YX9J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Puzzle Mate DS - Oekaki Mate (Japan)",
+  "zh-Hans": "益智同伴DS 作画拼图同伴"
+ },
+ "vendor": "ACG汉化组",
+ "version": ""
+}

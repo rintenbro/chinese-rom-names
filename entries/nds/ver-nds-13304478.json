@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "13304478",
+   "name": "新彩虹岛(JP)(PGCG汉化组)(128Mb).nds",
+   "size": 16777216
+  }
+ ],
+ "group": "New Rainbow Islands",
+ "id": "ver-nds-13304478",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "80DB7665",
+  "no_intro_name": "New Rainbow Islands (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "ARIJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "New Rainbow Islands (Japan)",
+  "zh-Hans": "新彩虹岛"
+ },
+ "vendor": "PGCG汉化组",
+ "version": ""
+}

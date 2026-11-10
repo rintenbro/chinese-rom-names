@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7C229741",
+   "name": "超级躲避球Advance[天使汉化组](繁)(US)(40Mb).gba",
+   "size": 5242880
+  }
+ ],
+ "group": "Super Dodge Ball Advance",
+ "id": "ver-gba-7c229741",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "1D31DC6B",
+  "no_intro_name": "Super Dodge Ball Advance (USA)",
+  "region": "USA",
+  "size": 4194304
+ },
+ "platform": "gba",
+ "script": "繁",
+ "serial": "ADFE",
+ "source": "no-intro",
+ "titles": {
+  "en": "Super Dodge Ball Advance (USA)",
+  "zh-Hans": "超级躲避球Advance"
+ },
+ "vendor": "天使汉化组",
+ "version": ""
+}

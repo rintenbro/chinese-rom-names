@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AF107D15",
+   "name": "流星洛克人 雄狮 完全汉化版v3(简)(电波人研究中心汉化组)(256Mb).nds",
+   "size": 33603348
+  }
+ ],
+ "group": "Ryuusei no Rockman - Leo",
+ "id": "ver-nds-af107d15",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "EA4F4898",
+  "no_intro_name": "Ryuusei no Rockman - Leo (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "简",
+ "serial": "A6BJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Ryuusei no Rockman - Leo (Japan)",
+  "zh-Hans": "流星洛克人 雄狮 完全汉化版v3"
+ },
+ "vendor": "电波人研究中心汉化组",
+ "version": ""
+}

@@ -1,0 +1,33 @@
+{
+ "aliases": [
+  "Thunderbolt Fighting Plane (World) (QUByte Classics)"
+ ],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-88918e197190/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "CE1813C9",
+   "name": "雷电2(繁)[三协资讯](CN)[STG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "genre": null,
+ "group": "雷电2",
+ "id": "cn-88918e197190",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "雷电2"
+ },
+ "type": "original",
+ "vendor": "三协资讯",
+ "vendor_full": "",
+ "year": null
+}

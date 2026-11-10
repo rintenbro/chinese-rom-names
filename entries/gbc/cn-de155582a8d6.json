@@ -1,0 +1,33 @@
+{
+ "aliases": [
+  "Tiger A Dragon (China) [CHS]"
+ ],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-de155582a8d6/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "933513A6",
+   "name": "卧虎藏龙 (简) (Gowin).gbc",
+   "size": 2097152
+  }
+ ],
+ "genre": null,
+ "group": "卧虎藏龙",
+ "id": "cn-de155582a8d6",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "卧虎藏龙"
+ },
+ "type": "original",
+ "vendor": "Gowin",
+ "vendor_full": "",
+ "year": null
+}

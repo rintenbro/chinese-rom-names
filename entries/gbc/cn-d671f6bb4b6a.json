@@ -1,0 +1,33 @@
+{
+ "aliases": [
+  "Water Margin (China) [CHT]"
+ ],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-d671f6bb4b6a/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "33BF192C",
+   "name": "水浒传 - 群魔风云录 (简) (Hitek).gbc",
+   "size": 1048576
+  }
+ ],
+ "genre": null,
+ "group": "水浒传 - 群魔风云录",
+ "id": "cn-d671f6bb4b6a",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "水浒传 - 群魔风云录"
+ },
+ "type": "original",
+ "vendor": "Hitek",
+ "vendor_full": "",
+ "year": null
+}

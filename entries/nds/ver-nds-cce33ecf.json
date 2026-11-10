@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CCE33ECF",
+   "name": "紫音之王(JP)(E.Wings汉化组)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Shion no Ou - The Flowers of Hard Blood",
+ "id": "ver-nds-cce33ecf",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "E027DD17",
+  "no_intro_name": "Shion no Ou - The Flowers of Hard Blood (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "YYNJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Shion no Ou - The Flowers of Hard Blood (Japan)",
+  "zh-Hans": "紫音之王"
+ },
+ "vendor": "E.Wings汉化组",
+ "version": ""
+}

@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "279082B2",
+   "name": "星球大战前线 精英舰队 简体汉化+中文配音(20220829最终修正版)(fciq汉化配音小组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Star Wars - Battlefront - Elite Squadron",
+ "id": "ver-nds-279082b2",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "223E3C87",
+  "no_intro_name": "Star Wars - Battlefront - Elite Squadron (Europe) (En,Fr)",
+  "region": "Europe",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "简",
+ "serial": "CSWP",
+ "source": "no-intro",
+ "titles": {
+  "en": "Star Wars - Battlefront - Elite Squadron (Europe) (En,Fr)",
+  "zh-Hans": "星球大战前线 精英舰队"
+ },
+ "vendor": "",
+ "version": ""
+}

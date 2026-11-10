@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1A993838",
+   "name": "卧虎藏龙[廖永新](简)(US)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Crouching Tiger, Hidden Dragon",
+ "id": "ver-gba-1a993838",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "579BA507",
+  "no_intro_name": "Crouching Tiger, Hidden Dragon (USA) (En,Fr,Es)",
+  "region": "USA",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "AQDE",
+ "source": "no-intro",
+ "titles": {
+  "en": "Crouching Tiger, Hidden Dragon (USA) (En,Fr,Es)",
+  "zh-Hans": "卧虎藏龙"
+ },
+ "vendor": "廖永新",
+ "version": ""
+}

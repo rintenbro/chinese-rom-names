@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DF4580F9",
+   "name": "上海(JP)(TGB汉化工作室)(64Mb).nds",
+   "size": 7289484
+  }
+ ],
+ "group": "Shanghai",
+ "id": "ver-nds-df4580f9",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "A5E4356C",
+  "no_intro_name": "Shanghai (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "AS8J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Shanghai (Japan)",
+  "zh-Hans": "上海"
+ },
+ "vendor": "TGB汉化工作室",
+ "version": ""
+}

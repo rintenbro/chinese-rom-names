@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-1198c73bb41b/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "30755957",
+   "name": "小学语文达标乐园(简)[小霸王](CN)[ETC](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "genre": null,
+ "group": "小学语文达标乐园",
+ "id": "cn-1198c73bb41b",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "小学语文达标乐园"
+ },
+ "type": "original",
+ "vendor": "小霸王",
+ "vendor_full": "中山市小霸王电子工业公司 / Subor（小霸王文化发展有限公司）",
+ "year": null
+}

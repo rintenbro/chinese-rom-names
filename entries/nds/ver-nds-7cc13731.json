@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7CC13731",
+   "name": "马里奥与索尼克在北京奥运会 1.01(JP)(APEX汉化组)(1024Mb).nds",
+   "size": 107301108
+  }
+ ],
+ "group": "Mario & Sonic at Beijing Olympic",
+ "id": "ver-nds-7cc13731",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "D77C92C5",
+  "no_intro_name": "Mario & Sonic at Beijing Olympic (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "AY9J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Mario & Sonic at Beijing Olympic (Japan)",
+  "zh-Hans": "马里奥与索尼克在北京奥运会 1.01"
+ },
+ "vendor": "APEX汉化组",
+ "version": ""
+}

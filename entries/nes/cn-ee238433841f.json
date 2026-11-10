@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-ee238433841f/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "84E364DB",
+   "name": "匹诺槽的复苏(简)[外星科技](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "匹诺槽的复苏",
+ "id": "cn-ee238433841f",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "匹诺槽的复苏"
+ },
+ "type": "original",
+ "vendor": "外星科技",
+ "vendor_full": "福州外星电脑科技有限公司 / Waixing Science & Technology（WAIXING COMPUTER SCIENCE & TECHNOLOGY CO.,LTD）",
+ "year": null
+}

@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "95E8874E",
+   "name": "龙珠Z - 悟空的遗产[Advance汉化组](简)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Dragon Ball Z - The Legacy of Goku",
+ "id": "ver-gba-95e8874e",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "D47CCFF4",
+  "no_intro_name": "Dragon Ball Z - The Legacy of Goku (USA)",
+  "region": "USA",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "ALGE",
+ "source": "no-intro",
+ "titles": {
+  "en": "Dragon Ball Z - The Legacy of Goku (USA)",
+  "zh-Hans": "龙珠Z - 悟空的遗产"
+ },
+ "vendor": "Advance汉化组",
+ "version": ""
+}

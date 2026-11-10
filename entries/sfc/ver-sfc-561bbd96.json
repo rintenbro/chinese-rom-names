@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "561BBD96",
+   "name": "十六张麻将 - 星座女郎篇 (繁) (官方中文版)(不明)(4Mb).sfc",
+   "size": 524288
+  }
+ ],
+ "group": "16 Zhang Mahjong II - Xingzuo Nulang Pian",
+ "id": "ver-sfc-561bbd96",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "561BBD96",
+  "no_intro_name": "16 Zhang Mahjong II - Xingzuo Nulang Pian (Hong Kong)",
+  "region": "Hong Kong",
+  "size": 524288
+ },
+ "platform": "sfc",
+ "script": "繁",
+ "serial": "",
+ "source": "no-intro",
+ "titles": {
+  "en": "16 Zhang Mahjong II - Xingzuo Nulang Pian (Hong Kong)",
+  "zh-Hans": "十六张麻将 - 星座女郎篇"
+ },
+ "vendor": "不明",
+ "version": ""
+}

@@ -1,0 +1,33 @@
+{
+ "aliases": [
+  "Shen Diao Qi Xia (China) [CHS]"
+ ],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-d4b313a531e2/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "65855423",
+   "name": "神雕奇侠(简)(修正版)(外星科技+白粥与榨菜+星夜之幻+babypkzhu).gbc",
+   "size": 2097152
+  }
+ ],
+ "genre": null,
+ "group": "神雕奇侠",
+ "id": "cn-d4b313a531e2",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "神雕奇侠"
+ },
+ "type": "original",
+ "vendor": "外星科技+白粥与榨菜+星夜之幻+babypkzhu",
+ "vendor_full": "福州外星电脑科技有限公司 / Waixing Science & Technology（WAIXING COMPUTER SCIENCE & TECHNOLOGY CO.,LTD）",
+ "year": null
+}

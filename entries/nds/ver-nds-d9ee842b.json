@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D9EE842B",
+   "name": "必杀功夫汉字龙(JP)(打酱油汉化组)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Hissatsu Kung Fu - Kanji Dragon",
+ "id": "ver-nds-d9ee842b",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "361943C2",
+  "no_intro_name": "Hissatsu Kung Fu - Kanji Dragon (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "AEJJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Hissatsu Kung Fu - Kanji Dragon (Japan)",
+  "zh-Hans": "必杀功夫汉字龙"
+ },
+ "vendor": "打酱油汉化组",
+ "version": ""
+}

@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B7FE5AE8",
+   "name": "怪盗卢梭(简)(JP)(Advance)(752Mb).nds",
+   "size": 98006180
+  }
+ ],
+ "group": "Kaitou Rousseau",
+ "id": "ver-nds-b7fe5ae8",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "FAF05535",
+  "no_intro_name": "Kaitou Rousseau (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "简",
+ "serial": "ARSJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Kaitou Rousseau (Japan)",
+  "zh-Hans": "怪盗卢梭"
+ },
+ "vendor": "Advance",
+ "version": ""
+}

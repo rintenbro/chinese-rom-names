@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4B02EE94",
+   "name": "役满麻将DS(JP)(E.Wings汉化组)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Yakuman DS",
+ "id": "ver-nds-4b02ee94",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "925E2F90",
+  "no_intro_name": "Yakuman DS (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "AMJJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Yakuman DS (Japan)",
+  "zh-Hans": "役满麻将DS"
+ },
+ "vendor": "E.Wings汉化组",
+ "version": ""
+}

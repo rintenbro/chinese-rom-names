@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FFABBE7A",
+   "name": "游戏王! - 世界冠军锦标赛2004[PGCG&Nrw](简)(US)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Yu-Gi-Oh! - World Championship Tournament 2004",
+ "id": "ver-gba-ffabbe7a",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "69B6F229",
+  "no_intro_name": "Yu-Gi-Oh! - World Championship Tournament 2004 (USA) (En,Ja,Fr,De,Es,It)",
+  "region": "USA",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "BYWE",
+ "source": "no-intro",
+ "titles": {
+  "en": "Yu-Gi-Oh! - World Championship Tournament 2004 (USA) (En,Ja,Fr,De,Es,It)",
+  "zh-Hans": "游戏王! - 世界冠军锦标赛2004"
+ },
+ "vendor": "PGCG&Nrw",
+ "version": ""
+}

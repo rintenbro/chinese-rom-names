@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1078C438",
+   "name": "风来的西林DS(JP)(星组)(128Mb).nds",
+   "size": 50331648
+  }
+ ],
+ "group": "Fushigi no Dungeon - Fuurai no Shiren DS",
+ "id": "ver-nds-1078c438",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "A901BCD5",
+  "no_intro_name": "Fushigi no Dungeon - Fuurai no Shiren DS (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "AFUJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Fushigi no Dungeon - Fuurai no Shiren DS (Japan)",
+  "zh-Hans": "风来的西林DS"
+ },
+ "vendor": "",
+ "version": ""
+}

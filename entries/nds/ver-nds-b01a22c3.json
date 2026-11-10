@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B01A22C3",
+   "name": "逆转裁判4 完美汉化(简)(JP)(逆转ACE)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Gyakuten Saiban 4",
+ "id": "ver-nds-b01a22c3",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "34721814",
+  "no_intro_name": "Gyakuten Saiban 4 (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "简",
+ "serial": "AGCJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Gyakuten Saiban 4 (Japan)",
+  "zh-Hans": "逆转裁判4 完美"
+ },
+ "vendor": "",
+ "version": ""
+}

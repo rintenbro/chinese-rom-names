@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-f80493d82738/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "D1AA8CDA",
+   "name": "霍元甲(简)[南晶科技](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "霍元甲",
+ "id": "cn-f80493d82738",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "霍元甲"
+ },
+ "type": "original",
+ "vendor": "南晶科技",
+ "vendor_full": "深圳市南晶科技有限公司 / ShenZhen Nanjing Technology",
+ "year": null
+}

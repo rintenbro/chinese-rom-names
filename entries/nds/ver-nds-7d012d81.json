@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7D012D81",
+   "name": "元气史莱姆2 菜单汉化版(JP)(XEDFTXZ)(512Mb).nds",
+   "size": 52895860
+  }
+ ],
+ "group": "Slime Morimori Dragon Quest 2 - Daisensha to Shippo Dan",
+ "id": "ver-nds-7d012d81",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "3609BEE9",
+  "no_intro_name": "Slime Morimori Dragon Quest 2 - Daisensha to Shippo Dan (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "ADQJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Slime Morimori Dragon Quest 2 - Daisensha to Shippo Dan (Japan)",
+  "zh-Hans": "元气史莱姆2 菜单汉化版"
+ },
+ "vendor": "XEDFTXZ",
+ "version": ""
+}

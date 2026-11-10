@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "14A87B75",
+   "name": "神游之超级马里欧2[神游](简)(JP)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "Chaoji Maliou 2",
+ "id": "ver-gba-14a87b75",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "14A87B75",
+  "no_intro_name": "Chaoji Maliou 2 (China)",
+  "region": "China",
+  "size": 4194304
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "AMAC",
+ "source": "no-intro",
+ "titles": {
+  "en": "Chaoji Maliou 2 (China)",
+  "zh-Hans": "神游之超级马里欧2"
+ },
+ "vendor": "神游",
+ "version": ""
+}

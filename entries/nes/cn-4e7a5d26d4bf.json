@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-4e7a5d26d4bf/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "C9644F6C",
+   "name": "魔兽世界 恶魔猎人(简)[南晶科技](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "genre": null,
+ "group": "魔兽世界 恶魔猎人",
+ "id": "cn-4e7a5d26d4bf",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "魔兽世界 恶魔猎人"
+ },
+ "type": "original",
+ "vendor": "南晶科技",
+ "vendor_full": "深圳市南晶科技有限公司 / ShenZhen Nanjing Technology",
+ "year": null
+}

@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "57F6D616",
+   "name": "绘图方块DS(JP)(Snow_Young)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Picross DS",
+ "id": "ver-nds-57f6d616",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "1666C9AE",
+  "no_intro_name": "Picross DS (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "AXPJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Picross DS (Japan)",
+  "zh-Hans": "绘图方块DS"
+ },
+ "vendor": "Snow_Young",
+ "version": ""
+}

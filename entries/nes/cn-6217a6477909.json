@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-6217a6477909/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "1DC6AC62",
+   "name": "齐天大圣(简)[南晶科技](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "齐天大圣",
+ "id": "cn-6217a6477909",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "齐天大圣"
+ },
+ "type": "original",
+ "vendor": "南晶科技",
+ "vendor_full": "深圳市南晶科技有限公司 / ShenZhen Nanjing Technology",
+ "year": null
+}

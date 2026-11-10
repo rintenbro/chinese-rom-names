@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-952dde98b745/title.png"
+ },
+ "description": "《数码战队2》是南晶科技在红白机上发行的角色扮演游戏。作品以数码宝贝为题材，玩家培养数码兽，在迷宫中战斗并促使其进化。游戏以中文界面呈现，操作与菜单针对掌机规模作了简化。",
+ "description_source": "ai",
+ "files": [
+  {
+   "crc32": "9442FEFF",
+   "name": "数码战队2(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "genre": null,
+ "group": "数码战队2",
+ "id": "cn-952dde98b745",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "数码战队2"
+ },
+ "type": "original",
+ "vendor": "南晶科技",
+ "vendor_full": "深圳市南晶科技有限公司 / ShenZhen Nanjing Technology",
+ "year": null
+}

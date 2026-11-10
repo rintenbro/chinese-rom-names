@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "78C5FDAB",
+   "name": "陆行鸟大陆[0.1汉化测试版].gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Chocobo Land - A Game of Dice",
+ "id": "ver-gba-78c5fdab",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "D4F8152E",
+  "no_intro_name": "Chocobo Land - A Game of Dice (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "未标注",
+ "serial": "A5BJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Chocobo Land - A Game of Dice (Japan)",
+  "zh-Hans": "陆行鸟大陆"
+ },
+ "vendor": "",
+ "version": ""
+}

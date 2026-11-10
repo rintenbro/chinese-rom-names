@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-a7b10d04803b/title.png"
+ },
+ "description": "《荆轲新传》是晶科泰在红白机上发行的角色扮演游戏。作品以战国末年的刺客荆轲为主角，玩家在城镇与野外探索、与敌人战斗，逐步推进刺秦的剧情，界面与人物对白均为中文。",
+ "description_source": "ai",
+ "files": [
+  {
+   "crc32": "1DA8104A",
+   "name": "荆轲新传(繁)[晶科泰](CN)[RPG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "genre": null,
+ "group": "荆轲新传",
+ "id": "cn-a7b10d04803b",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "荆轲新传"
+ },
+ "type": "original",
+ "vendor": "晶科泰",
+ "vendor_full": "",
+ "year": null
+}

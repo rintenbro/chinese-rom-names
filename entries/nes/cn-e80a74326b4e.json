@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-e80a74326b4e/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "1FA6583A",
+   "name": "英雄源义经传奇(简)[恒格电子](JP)[RPG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "genre": null,
+ "group": "英雄源义经传奇",
+ "id": "cn-e80a74326b4e",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "英雄源义经传奇"
+ },
+ "type": "original",
+ "vendor": "恒格电子",
+ "vendor_full": "",
+ "year": null
+}

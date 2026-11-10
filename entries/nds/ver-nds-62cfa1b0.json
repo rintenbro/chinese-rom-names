@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "62CFA1B0",
+   "name": "勇者斗恶龙4 被引导的人们(简)(JP)(巴士汉化组)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Dragon Quest IV - Michibikareshi Mono-tachi",
+ "id": "ver-nds-62cfa1b0",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "3257B207",
+  "no_intro_name": "Dragon Quest IV - Michibikareshi Mono-tachi (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "简",
+ "serial": "YIVJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Dragon Quest IV - Michibikareshi Mono-tachi (Japan)",
+  "zh-Hans": "勇者斗恶龙4 被引导的人们"
+ },
+ "vendor": "巴士汉化组",
+ "version": ""
+}

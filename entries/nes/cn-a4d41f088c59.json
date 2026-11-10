@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-a4d41f088c59/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "A7F6CCA9",
+   "name": "幽灵列车(简)[外星科技](JP)[AVG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "幽灵列车",
+ "id": "cn-a4d41f088c59",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "幽灵列车"
+ },
+ "type": "original",
+ "vendor": "外星科技",
+ "vendor_full": "福州外星电脑科技有限公司 / Waixing Science & Technology（WAIXING COMPUTER SCIENCE & TECHNOLOGY CO.,LTD）",
+ "year": null
+}

@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5574B73E",
+   "name": "神游 马力欧与路易吉RPG[未发售](简)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Maliou Yu Luyiji RPG",
+ "id": "ver-gba-5574b73e",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "5574B73E",
+  "no_intro_name": "Maliou Yu Luyiji RPG (China) (Proto)",
+  "region": "China",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "A88C",
+ "source": "no-intro",
+ "titles": {
+  "en": "Maliou Yu Luyiji RPG (China) (Proto)",
+  "zh-Hans": "神游 马力欧与路易吉RPG"
+ },
+ "vendor": "未发售",
+ "version": ""
+}

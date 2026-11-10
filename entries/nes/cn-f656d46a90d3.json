@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-f656d46a90d3/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "683E900F",
+   "name": "太空战士5(繁)[火星电子](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "太空战士5",
+ "id": "cn-f656d46a90d3",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "太空战士5"
+ },
+ "type": "original",
+ "vendor": "火星电子",
+ "vendor_full": "",
+ "year": null
+}

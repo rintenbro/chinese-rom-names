@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "652A2EBE",
+   "name": "X战警[D商](256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "X Zhan Jing",
+ "id": "ver-gba-652a2ebe",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "652A2EBE",
+  "no_intro_name": "X Zhan Jing (Taiwan)",
+  "region": "Taiwan",
+  "size": 33554432
+ },
+ "platform": "gba",
+ "script": "未标注",
+ "serial": "",
+ "source": "no-intro",
+ "titles": {
+  "en": "X Zhan Jing (Taiwan)",
+  "zh-Hans": "X战警"
+ },
+ "vendor": "D商",
+ "version": ""
+}

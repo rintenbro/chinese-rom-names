@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "762B851C",
+   "name": "马里奥高尔夫 巡回赛[童心宜人](AI汉化v1.1)(简)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Mario Golf - Advance Tour",
+ "id": "ver-gba-762b851c",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "D56C2E54",
+  "no_intro_name": "Mario Golf - Advance Tour (USA)",
+  "region": "USA",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "BMGE",
+ "source": "no-intro",
+ "titles": {
+  "en": "Mario Golf - Advance Tour (USA)",
+  "zh-Hans": "马里奥高尔夫 巡回赛"
+ },
+ "vendor": "童心宜人",
+ "version": "v1.1"
+}

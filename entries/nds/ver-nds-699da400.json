@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "699DA400",
+   "name": "三国志DS 2(繁)(JP)(星组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Sangokushi DS 2",
+ "id": "ver-nds-699da400",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "F47B0B37",
+  "no_intro_name": "Sangokushi DS 2 (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "繁",
+ "serial": "A3FJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Sangokushi DS 2 (Japan)",
+  "zh-Hans": "三国志DS 2"
+ },
+ "vendor": "",
+ "version": ""
+}

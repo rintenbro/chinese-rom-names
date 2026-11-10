@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DB3CC958",
+   "name": "圣石小子 光与暗的大决战[Advance汉化组](v0.4)(简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Groove Adventure Rave - Hikari to Yami no Daikessen",
+ "id": "ver-gba-db3cc958",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "E7421B14",
+  "no_intro_name": "Groove Adventure Rave - Hikari to Yami no Daikessen (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "ARVJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Groove Adventure Rave - Hikari to Yami no Daikessen (Japan)",
+  "zh-Hans": "圣石小子 光与暗的大决战"
+ },
+ "vendor": "Advance汉化组",
+ "version": "v0.4"
+}

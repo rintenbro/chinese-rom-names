@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "39C15743",
+   "name": "风来的西林5 命运塔与命运的骰子(JP)(ACG汉化组)(512Mb).nds",
+   "size": 64630288
+  }
+ ],
+ "group": "Fushigi no Dungeon - Fuurai no Shiren 5 - Fortune Tower to Unmei no Dice",
+ "id": "ver-nds-39c15743",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "83AC95E9",
+  "no_intro_name": "Fushigi no Dungeon - Fuurai no Shiren 5 - Fortune Tower to Unmei no Dice (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "B5FJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Fushigi no Dungeon - Fuurai no Shiren 5 - Fortune Tower to Unmei no Dice (Japan)",
+  "zh-Hans": "风来的西林5 命运塔与命运的骰子"
+ },
+ "vendor": "ACG汉化组",
+ "version": ""
+}

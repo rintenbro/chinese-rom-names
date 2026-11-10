@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-8aa46f54c429/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "FE57718F",
+   "name": "四川麻雀 制服篇(简)[圣谦](CN)[TAB](0.75Mb).nes",
+   "size": 98320
+  }
+ ],
+ "genre": null,
+ "group": "四川麻雀 制服篇",
+ "id": "cn-8aa46f54c429",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "四川麻雀 制服篇"
+ },
+ "type": "original",
+ "vendor": "圣谦",
+ "vendor_full": "聖謙企業股份有限公司 / Thin Chen Enterprise (Sachen)",
+ "year": "1990"
+}

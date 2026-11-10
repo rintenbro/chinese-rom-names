@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CD001EA5",
+   "name": "洛克人 ZX(JP)([洛克人ZX汉化组])(512Mb).nds",
+   "size": 66565632
+  }
+ ],
+ "group": "Rockman ZX",
+ "id": "ver-nds-cd001ea5",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "B577BBE0",
+  "no_intro_name": "Rockman ZX (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "ARZJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Rockman ZX (Japan)",
+  "zh-Hans": "洛克人 ZX"
+ },
+ "vendor": "[洛克人ZX汉化组",
+ "version": ""
+}

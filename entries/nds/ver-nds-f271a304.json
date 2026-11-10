@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F271A304",
+   "name": "口袋妖怪 钻石(繁)1.1.0(JP)(YYJoy汉化组)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Pocket Monsters - Diamond",
+ "id": "ver-nds-f271a304",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "AE2DB9A9",
+  "no_intro_name": "Pocket Monsters - Diamond (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "繁",
+ "serial": "ADAJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Pocket Monsters - Diamond (Japan)",
+  "zh-Hans": "口袋妖怪 钻石1.1.0"
+ },
+ "vendor": "YYJoy汉化组",
+ "version": ""
+}

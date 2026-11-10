@@ -1,0 +1,33 @@
+{
+ "aliases": [
+  "Journey to the West - Sun WuKong (China) [CHT]"
+ ],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-ac30ced339f6/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "552715DC",
+   "name": "西游记 - 孙悟空 (繁) (广誉科技).gbc",
+   "size": 524288
+  }
+ ],
+ "genre": null,
+ "group": "西游记 - 孙悟空",
+ "id": "cn-ac30ced339f6",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "西游记 - 孙悟空"
+ },
+ "type": "original",
+ "vendor": "",
+ "vendor_full": "",
+ "year": null
+}

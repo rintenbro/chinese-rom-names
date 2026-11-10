@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-4b788b10aafa/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "869EE221",
+   "name": "中国兔宝宝(繁)[JY Company](CN)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "中国兔宝宝",
+ "id": "cn-4b788b10aafa",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "中国兔宝宝"
+ },
+ "type": "original",
+ "vendor": "JY Company",
+ "vendor_full": "",
+ "year": null
+}

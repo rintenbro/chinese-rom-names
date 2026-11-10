@@ -1,0 +1,33 @@
+{
+ "aliases": [
+  "Super Richman (China) [CHT]"
+ ],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-cd23db591f3f/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "126A0D1D",
+   "name": "超级大富豪(繁)(外星科技+babypkzhu+星夜之幻)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "genre": null,
+ "group": "超级大富豪",
+ "id": "cn-cd23db591f3f",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "超级大富豪"
+ },
+ "type": "original",
+ "vendor": "外星科技+babypkzhu+星夜之幻",
+ "vendor_full": "福州外星电脑科技有限公司 / Waixing Science & Technology（WAIXING COMPUTER SCIENCE & TECHNOLOGY CO.,LTD）",
+ "year": null
+}

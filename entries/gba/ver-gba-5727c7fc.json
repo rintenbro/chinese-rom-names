@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5727C7FC",
+   "name": "降世神通 最后的气宗[Advance汉化组](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Avatar - The Last Airbender",
+ "id": "ver-gba-5727c7fc",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "946787C0",
+  "no_intro_name": "Avatar - The Last Airbender (USA)",
+  "region": "USA",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "BQZE",
+ "source": "no-intro",
+ "titles": {
+  "en": "Avatar - The Last Airbender (USA)",
+  "zh-Hans": "降世神通 最后的气宗"
+ },
+ "vendor": "Advance汉化组",
+ "version": ""
+}

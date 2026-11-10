@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/md/cn-5d25703322ee/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "F6C2CFF2",
+   "name": "姬麻将之麻将情人 (繁) (修正版) (Nemesis_c修正)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "genre": null,
+ "group": "姬麻将之麻将情人",
+ "id": "cn-5d25703322ee",
+ "layer": "self",
+ "original": null,
+ "platform": "md",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "姬麻将之麻将情人"
+ },
+ "type": "original",
+ "vendor": "",
+ "vendor_full": "",
+ "year": null
+}

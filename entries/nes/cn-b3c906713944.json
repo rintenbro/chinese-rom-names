@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-b3c906713944/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "4A34F1A8",
+   "name": "图形推理+智力拼图(简)[先锋卡通](CN)[PUZ](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "图形推理+智力拼图",
+ "id": "cn-b3c906713944",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "图形推理+智力拼图"
+ },
+ "type": "hack",
+ "vendor": "先锋卡通",
+ "vendor_full": "",
+ "year": null
+}

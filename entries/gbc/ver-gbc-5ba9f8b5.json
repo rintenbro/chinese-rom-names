@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5BA9F8B5",
+   "name": "数码暴龙2 - 5 (繁) (Yong Yong).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Shuma Baolong 02 5",
+ "id": "ver-gbc-5ba9f8b5",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "5BA9F8B5",
+  "no_intro_name": "Shuma Baolong 02 5 (Taiwan)",
+  "region": "Taiwan",
+  "size": 1048576
+ },
+ "platform": "gbc",
+ "script": "繁",
+ "serial": "",
+ "source": "no-intro",
+ "titles": {
+  "en": "Shuma Baolong 02 5 (Taiwan)",
+  "zh-Hans": "数码暴龙2 - 5"
+ },
+ "vendor": "Yong Yong",
+ "version": ""
+}

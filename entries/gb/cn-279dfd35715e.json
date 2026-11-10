@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gb/cn-279dfd35715e/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "74FBBDC2",
+   "name": "悟空外传 - 激斗篇 (繁) (修正版) (unknown)(4Mb).gb",
+   "size": 524288
+  }
+ ],
+ "genre": null,
+ "group": "悟空外传 - 激斗篇",
+ "id": "cn-279dfd35715e",
+ "layer": "self",
+ "original": null,
+ "platform": "gb",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "悟空外传 - 激斗篇"
+ },
+ "type": "original",
+ "vendor": "",
+ "vendor_full": "",
+ "year": null
+}

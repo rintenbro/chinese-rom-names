@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B558D6D3",
+   "name": "终结者3机器的崛起[oldgba](AI汉化v20261006)(简)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Terminator 3 - Rise of the Machines",
+ "id": "ver-gba-b558d6d3",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "16C3CAC3",
+  "no_intro_name": "Terminator 3 - Rise of the Machines (Europe) (En,Fr,De,Es,It)",
+  "region": "Europe",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "AO3P",
+ "source": "no-intro",
+ "titles": {
+  "en": "Terminator 3 - Rise of the Machines (Europe) (En,Fr,De,Es,It)",
+  "zh-Hans": "终结者3机器的崛起"
+ },
+ "vendor": "oldgba",
+ "version": "v20261006"
+}

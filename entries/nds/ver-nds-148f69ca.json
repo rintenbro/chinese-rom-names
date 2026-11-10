@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "148F69CA",
+   "name": "恋爱布丁 恋爱大冒险！(JP)(SOMA汉化组)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Koisuru Purin! - Koi wa Daibouken! Dr. Kanmi no Yabou!",
+ "id": "ver-nds-148f69ca",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "6E912283",
+  "no_intro_name": "Koisuru Purin! - Koi wa Daibouken! Dr. Kanmi no Yabou! (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "CIPJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Koisuru Purin! - Koi wa Daibouken! Dr. Kanmi no Yabou! (Japan)",
+  "zh-Hans": "恋爱布丁 恋爱大冒险！"
+ },
+ "vendor": "SOMA汉化组",
+ "version": ""
+}

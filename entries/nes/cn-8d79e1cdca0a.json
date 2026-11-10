@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-8d79e1cdca0a/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "5998245D",
+   "name": "超级魂93(简)[烟山软件](CN)[ACT](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "genre": null,
+ "group": "超级魂93",
+ "id": "cn-8d79e1cdca0a",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "超级魂93"
+ },
+ "type": "hack",
+ "vendor": "烟山软件",
+ "vendor_full": "",
+ "year": null
+}

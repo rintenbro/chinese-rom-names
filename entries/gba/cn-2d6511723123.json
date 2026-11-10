@@ -1,0 +1,34 @@
+{
+ "aliases": [
+  "Rockman & Crystal (USA) (Unl)",
+  "Zook Man ZX4 (Taiwan) (Unl)"
+ ],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "description": "《洛克人ZX4》是广誉科技在 Game Boy Advance 上发行的动作游戏，沿用《洛克人》系列的横版玩法。玩家操控主角闯关、击败头目并夺取其能力，用新武器打开后续路线。",
+ "description_source": "ai",
+ "files": [
+  {
+   "crc32": "555DD98F",
+   "name": "洛克人ZX4[广誉科技+Dangfer](fix2)(繁)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "genre": null,
+ "group": "洛克人ZX4",
+ "id": "cn-2d6511723123",
+ "layer": "self",
+ "original": null,
+ "platform": "gba",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "洛克人ZX4"
+ },
+ "type": "original",
+ "vendor": "",
+ "vendor_full": "",
+ "year": null
+}

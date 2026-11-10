@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BF81CA12",
+   "name": "口袋实况棒球5[星组](繁)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Power Pro Kun Pocket 5",
+ "id": "ver-gba-bf81ca12",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "06F0F8D4",
+  "no_intro_name": "Power Pro Kun Pocket 5 (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "繁",
+ "serial": "A5PJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Power Pro Kun Pocket 5 (Japan)",
+  "zh-Hans": "口袋实况棒球5"
+ },
+ "vendor": "星组",
+ "version": ""
+}

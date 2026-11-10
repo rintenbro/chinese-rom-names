@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-0f27561f48d2/title.png"
+ },
+ "description": "《龙珠》是南晶科技在红白机上发行的角色扮演游戏。作品以《龙珠》为题材，玩家操控主角在各地冒险，与强敌战斗并提升实力。作品以卡带形式发行，内容与文本均为中文重新制作。",
+ "description_source": "ai",
+ "files": [
+  {
+   "crc32": "BB7C2B77",
+   "name": "龙珠(简)[南晶科技](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "genre": null,
+ "group": "龙珠",
+ "id": "cn-0f27561f48d2",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "龙珠"
+ },
+ "type": "original",
+ "vendor": "南晶科技",
+ "vendor_full": "深圳市南晶科技有限公司 / ShenZhen Nanjing Technology",
+ "year": null
+}

@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "90C47709",
+   "name": "闪电十一人(JP)(CG汉化组)(1024Mb).nds",
+   "size": 130540604
+  }
+ ],
+ "group": "Inazuma Eleven",
+ "id": "ver-nds-90c47709",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "EDCFA217",
+  "no_intro_name": "Inazuma Eleven (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "YEEJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Inazuma Eleven (Japan)",
+  "zh-Hans": "闪电十一人"
+ },
+ "vendor": "CG汉化组",
+ "version": ""
+}

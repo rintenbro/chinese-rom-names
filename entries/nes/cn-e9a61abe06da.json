@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-e9a61abe06da/title.png"
+ },
+ "description": "《口袋怪兽 白玉版》是晶科泰在红白机上发行的角色扮演游戏。作品以收集与培养怪兽为核心，玩家在野外捕捉怪兽、培养并使其进化，挑战道馆与对手。作品以卡带形式发行，内容与文本均为中文重新制作。",
+ "description_source": "ai",
+ "files": [
+  {
+   "crc32": "3F55CDD9",
+   "name": "口袋怪兽 白玉版(简)[晶科泰](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "genre": null,
+ "group": "口袋怪兽 白玉版",
+ "id": "cn-e9a61abe06da",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "口袋怪兽 白玉版"
+ },
+ "type": "original",
+ "vendor": "晶科泰",
+ "vendor_full": "",
+ "year": null
+}

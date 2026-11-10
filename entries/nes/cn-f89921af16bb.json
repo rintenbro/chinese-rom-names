@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-f89921af16bb/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "76F83BAD",
+   "name": "少林武者(简)[圣谦](CN)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "genre": null,
+ "group": "少林武者",
+ "id": "cn-f89921af16bb",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "少林武者"
+ },
+ "type": "original",
+ "vendor": "圣谦",
+ "vendor_full": "聖謙企業股份有限公司 / Thin Chen Enterprise (Sachen)",
+ "year": "1989"
+}

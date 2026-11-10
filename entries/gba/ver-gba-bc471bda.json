@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BC471BDA",
+   "name": "螺旋破坏者 - 轰振钻子[天使汉化组](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Screw Breaker - Goushin DoriRureRo",
+ "id": "ver-gba-bc471bda",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "B17532EE",
+  "no_intro_name": "Screw Breaker - Goushin DoriRureRo (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "V49J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Screw Breaker - Goushin DoriRureRo (Japan)",
+  "zh-Hans": "螺旋破坏者 - 轰振钻子"
+ },
+ "vendor": "天使汉化组",
+ "version": ""
+}

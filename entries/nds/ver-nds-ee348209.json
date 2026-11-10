@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "EE348209",
+   "name": "龙珠DS 1.0(JP)(集中营汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Dragon Ball DS",
+ "id": "ver-nds-ee348209",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "4472F77A",
+  "no_intro_name": "Dragon Ball DS (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "CG7J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Dragon Ball DS (Japan)",
+  "zh-Hans": "龙珠DS 1.0"
+ },
+ "vendor": "集中营汉化组",
+ "version": ""
+}

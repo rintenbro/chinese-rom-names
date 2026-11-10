@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F40ECE8A",
+   "name": "夺宝猎人(JP)(Lamer汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Cross Treasures",
+ "id": "ver-nds-f40ece8a",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "44109EE3",
+  "no_intro_name": "Cross Treasures (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "BDNJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Cross Treasures (Japan)",
+  "zh-Hans": "夺宝猎人"
+ },
+ "vendor": "Lamer汉化组",
+ "version": ""
+}

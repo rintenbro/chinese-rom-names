@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-54721202d6b4/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "5D2DCB3C",
+   "name": "明珠口袋怪兽III (繁) (星星科技).gbc",
+   "size": 4194304
+  }
+ ],
+ "genre": null,
+ "group": "明珠口袋怪兽III",
+ "id": "cn-54721202d6b4",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "明珠口袋怪兽III"
+ },
+ "type": "original",
+ "vendor": "",
+ "vendor_full": "",
+ "year": null
+}

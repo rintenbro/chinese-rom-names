@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "48A10F39",
+   "name": "堆积木(JP)(的士汉化组)(512Mb).nds",
+   "size": 35462688
+  }
+ ],
+ "group": "Tsunde Tsumikiss",
+ "id": "ver-nds-48a10f39",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "A3EF641B",
+  "no_intro_name": "Tsunde Tsumikiss (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "YTMJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Tsunde Tsumikiss (Japan)",
+  "zh-Hans": "堆积木"
+ },
+ "vendor": "的士汉化组",
+ "version": ""
+}

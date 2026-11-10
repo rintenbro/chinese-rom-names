@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7BD6349D",
+   "name": "天外魔境 青之天外[Chyt+大水杯](修正版v20261008)[简](JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Oriental Blue - Ao no Tengai",
+ "id": "ver-gba-7bd6349d",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "05E80ECC",
+  "no_intro_name": "Oriental Blue - Ao no Tengai (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "AORJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Oriental Blue - Ao no Tengai (Japan)",
+  "zh-Hans": "天外魔境 青之天外"
+ },
+ "vendor": "Chyt+大水杯",
+ "version": "v20261008"
+}

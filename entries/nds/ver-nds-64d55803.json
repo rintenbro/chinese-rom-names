@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "64D55803",
+   "name": "口袋妖怪(精灵宝可梦) 白金 官译修正版v2.1.1(简)(JP)(ACG汉化组+Xzonn)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Pocket Monsters - Platinum",
+ "id": "ver-nds-64d55803",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "BE130BC9",
+  "no_intro_name": "Pocket Monsters - Platinum (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "简",
+ "serial": "CPUJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Pocket Monsters - Platinum (Japan)",
+  "zh-Hans": "口袋妖怪 白金 官译修正版v2.1.1"
+ },
+ "vendor": "ACG汉化组+Xzonn",
+ "version": ""
+}

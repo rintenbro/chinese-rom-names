@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "182E7F9B",
+   "name": "魔法封神[luke2122](AI汉化公测v1.0)(简)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Magical Houshin",
+ "id": "ver-gba-182e7f9b",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "70123550",
+  "no_intro_name": "Magical Houshin (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "AJOJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Magical Houshin (Japan)",
+  "zh-Hans": "魔法封神"
+ },
+ "vendor": "luke2122",
+ "version": "v1.0"
+}

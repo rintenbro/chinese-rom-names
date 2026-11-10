@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "89C919BC",
+   "name": "1211 - Rockman ZX - Advent (Japan).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Rockman ZX - Advent",
+ "id": "ver-nds-89c919bc",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "89C919BC",
+  "no_intro_name": "Rockman ZX - Advent (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "YZXJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Rockman ZX - Advent (Japan)",
+  "zh-Hans": "Rockman ZX - Advent"
+ },
+ "vendor": "Japan",
+ "version": ""
+}

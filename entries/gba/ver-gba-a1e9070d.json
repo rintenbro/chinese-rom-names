@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A1E9070D",
+   "name": "地球冒险3(Mother3)[漫游+空气+少年不知愁](v1.2汉化补完版)(简)(JP)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Mother 3",
+ "id": "ver-gba-a1e9070d",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "42AC9CB9",
+  "no_intro_name": "Mother 3 (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "A3UJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Mother 3 (Japan)",
+  "zh-Hans": "地球冒险3"
+ },
+ "vendor": "Mother3 / 漫游+空气+少年不知愁",
+ "version": ""
+}

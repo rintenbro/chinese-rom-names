@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6B576393",
+   "name": "口袋妖怪 - 红宝石[RSC汉化组](美版v1.2汉化+日版标题美术风格+中文名v2)(简)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Pocket Monsters - Ruby",
+ "id": "ver-gba-6b576393",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "CEE9471A",
+  "no_intro_name": "Pocket Monsters - Ruby (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "AXVJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Pocket Monsters - Ruby (Japan)",
+  "zh-Hans": "口袋妖怪 - 红宝石"
+ },
+ "vendor": "RSC汉化组",
+ "version": ""
+}

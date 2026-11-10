@@ -1,0 +1,33 @@
+{
+ "aliases": [
+  "Top Billionaire (China) [CHT]"
+ ],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/md/cn-8d8652f8f3ef/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "0CACD325",
+   "name": "超级大富豪 (繁) (未知)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "genre": null,
+ "group": "超级大富豪",
+ "id": "cn-8d8652f8f3ef",
+ "layer": "self",
+ "original": null,
+ "platform": "md",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "超级大富豪"
+ },
+ "type": "original",
+ "vendor": "",
+ "vendor_full": "",
+ "year": null
+}

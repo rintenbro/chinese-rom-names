@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D97D4156",
+   "name": "神游之超级马力欧世界[神游](简)(JP)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "Chaoji Maliou Shijie",
+ "id": "ver-gba-d97d4156",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "D97D4156",
+  "no_intro_name": "Chaoji Maliou Shijie (China)",
+  "region": "China",
+  "size": 4194304
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "AA2C",
+ "source": "no-intro",
+ "titles": {
+  "en": "Chaoji Maliou Shijie (China)",
+  "zh-Hans": "神游之超级马力欧世界"
+ },
+ "vendor": "神游",
+ "version": ""
+}

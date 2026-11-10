@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "569DDF9D",
+   "name": "ASH 远古封印之炎 V2(繁)(JP)(巴士汉化组)(2047.99Mb).nds",
+   "size": 258405508
+  }
+ ],
+ "group": "ASH - Archaic Sealed Heat",
+ "id": "ver-nds-569ddf9d",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "3890DE2E",
+  "no_intro_name": "ASH - Archaic Sealed Heat (Japan)",
+  "region": "Japan",
+  "size": 268435456
+ },
+ "platform": "nds",
+ "script": "繁",
+ "serial": "YASJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "ASH - Archaic Sealed Heat (Japan)",
+  "zh-Hans": "ASH 远古封印之炎 V2"
+ },
+ "vendor": "巴士汉化组",
+ "version": ""
+}

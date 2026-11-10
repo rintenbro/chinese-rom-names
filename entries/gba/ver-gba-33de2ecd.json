@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "33DE2ECD",
+   "name": "热血物语EX[空气](简)(US)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "River City Ransom EX",
+ "id": "ver-gba-33de2ecd",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "8686436E",
+  "no_intro_name": "River City Ransom EX (USA)",
+  "region": "USA",
+  "size": 4194304
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "BDTE",
+ "source": "no-intro",
+ "titles": {
+  "en": "River City Ransom EX (USA)",
+  "zh-Hans": "热血物语EX"
+ },
+ "vendor": "空气",
+ "version": ""
+}

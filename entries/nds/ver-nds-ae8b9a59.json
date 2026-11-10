@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AE8B9A59",
+   "name": "勇者斗恶龙6 幻之大地 非传统汉化试玩版(第二轮)(JP)(河马)(1024Mb).nds",
+   "size": 115596224
+  }
+ ],
+ "group": "Dragon Quest VI - Maboroshi no Daichi",
+ "id": "ver-nds-ae8b9a59",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "83691430",
+  "no_intro_name": "Dragon Quest VI - Maboroshi no Daichi (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "YVIJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Dragon Quest VI - Maboroshi no Daichi (Japan)",
+  "zh-Hans": "勇者斗恶龙6 幻之大地 非传统汉化试玩版"
+ },
+ "vendor": "",
+ "version": ""
+}

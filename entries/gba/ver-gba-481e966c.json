@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "481E966C",
+   "name": "机动人 机器人的攻击[Advance汉化组](v20251211)(简)(40Mb).gba",
+   "size": 4351616
+  }
+ ],
+ "group": "Action Man - Robot Atak",
+ "id": "ver-gba-481e966c",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "D07214A2",
+  "no_intro_name": "Action Man - Robot Atak (Europe) (En,Fr,De,Es,It)",
+  "region": "Europe",
+  "size": 4194304
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "BACP",
+ "source": "no-intro",
+ "titles": {
+  "en": "Action Man - Robot Atak (Europe) (En,Fr,De,Es,It)",
+  "zh-Hans": "机动人 机器人的攻击"
+ },
+ "vendor": "Advance汉化组",
+ "version": "v20251211"
+}

@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-14bbee19476b/title.png"
+ },
+ "description": "《三国志 曹操传》是南晶科技在红白机上发行的策略角色扮演游戏。玩家扮演曹操，在战役地图上调度部队、招募武将，通过一场场回合制战斗推进统一进程，剧情与界面均以中文呈现。",
+ "description_source": "ai",
+ "files": [
+  {
+   "crc32": "7FC65695",
+   "name": "三国志 曹操传(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "genre": null,
+ "group": "三国志 曹操传",
+ "id": "cn-14bbee19476b",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "三国志 曹操传"
+ },
+ "type": "original",
+ "vendor": "南晶科技",
+ "vendor_full": "深圳市南晶科技有限公司 / ShenZhen Nanjing Technology",
+ "year": null
+}

@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D0466AFA",
+   "name": "超级马里奥弹珠台[天使汉化组&漫游](繁)(JP)(64.81Mb).gba",
+   "size": 8495104
+  }
+ ],
+ "group": "Super Mario Ball",
+ "id": "ver-gba-d0466afa",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "7EB4A336",
+  "no_intro_name": "Super Mario Ball (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "繁",
+ "serial": "BMVJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Super Mario Ball (Japan)",
+  "zh-Hans": "超级马里奥弹珠台"
+ },
+ "vendor": "天使汉化组&漫游",
+ "version": ""
+}

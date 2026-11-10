@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "69F599B5",
+   "name": "三国志 - 孔明传[天空联盟&廖永新](繁)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Sangokushi - Koumeiden",
+ "id": "ver-gba-69f599b5",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "765043FF",
+  "no_intro_name": "Sangokushi - Koumeiden (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "繁",
+ "serial": "B3QJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Sangokushi - Koumeiden (Japan)",
+  "zh-Hans": "三国志 - 孔明传"
+ },
+ "vendor": "天空联盟&廖永新",
+ "version": ""
+}

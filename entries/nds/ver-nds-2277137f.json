@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2277137F",
+   "name": "电子浮游生物(EU)(heroboy)(128Mb).nds",
+   "size": 16777216
+  }
+ ],
+ "group": "Electroplankton",
+ "id": "ver-nds-2277137f",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "90F8CA7B",
+  "no_intro_name": "Electroplankton (Europe) (En,Fr,De,Es,It)",
+  "region": "Europe",
+  "size": 16777216
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "ATIP",
+ "source": "no-intro",
+ "titles": {
+  "en": "Electroplankton (Europe) (En,Fr,De,Es,It)",
+  "zh-Hans": "电子浮游生物"
+ },
+ "vendor": "heroboy",
+ "version": ""
+}

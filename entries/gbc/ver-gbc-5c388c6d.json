@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5C388C6D",
+   "name": "恶魔城DX (繁) (新特奇).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Emo Cheng DX",
+ "id": "ver-gbc-5c388c6d",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "5C388C6D",
+  "no_intro_name": "Emo Cheng DX (Taiwan)",
+  "region": "Taiwan",
+  "size": 4194304
+ },
+ "platform": "gbc",
+ "script": "繁",
+ "serial": "",
+ "source": "no-intro",
+ "titles": {
+  "en": "Emo Cheng DX (Taiwan)",
+  "zh-Hans": "恶魔城DX"
+ },
+ "vendor": "",
+ "version": ""
+}

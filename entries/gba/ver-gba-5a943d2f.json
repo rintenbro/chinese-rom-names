@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5A943D2F",
+   "name": "口袋妖怪 - 叶绿[口袋群星SP+洛水惊鸿](2024官译修正v20241120)(简)(US)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Pokemon - LeafGreen Version",
+ "id": "ver-gba-5a943d2f",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "D69C96CC",
+  "no_intro_name": "Pokemon - LeafGreen Version (USA, Europe)",
+  "region": "USA",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "BPGE",
+ "source": "no-intro",
+ "titles": {
+  "en": "Pokemon - LeafGreen Version (USA, Europe)",
+  "zh-Hans": "口袋妖怪 - 叶绿"
+ },
+ "vendor": "口袋群星SP+洛水惊鸿",
+ "version": "v20241120"
+}

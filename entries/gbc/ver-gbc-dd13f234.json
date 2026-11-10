@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DD13F234",
+   "name": "口袋妖怪GO!GO!GO! (繁) (unknown).gbc",
+   "size": 524288
+  }
+ ],
+ "group": "Monster Go! Go! Go!!",
+ "id": "ver-gbc-dd13f234",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "DD13F234",
+  "no_intro_name": "Monster Go! Go! Go!! (Taiwan) (En)",
+  "region": "Taiwan",
+  "size": 524288
+ },
+ "platform": "gbc",
+ "script": "繁",
+ "serial": "",
+ "source": "no-intro",
+ "titles": {
+  "en": "Monster Go! Go! Go!! (Taiwan) (En)",
+  "zh-Hans": "口袋妖怪GO!GO!GO!"
+ },
+ "vendor": "unknown",
+ "version": ""
+}

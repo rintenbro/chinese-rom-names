@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "869E9441",
+   "name": "噬魂师 美杜莎的阴谋 文本汉化版(繁)(JP)(zzz5655)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Soul Eater - Medusa no Inbou",
+ "id": "ver-nds-869e9441",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "151439BC",
+  "no_intro_name": "Soul Eater - Medusa no Inbou (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "繁",
+ "serial": "CSEJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Soul Eater - Medusa no Inbou (Japan)",
+  "zh-Hans": "噬魂师 美杜莎的阴谋 文本汉化版"
+ },
+ "vendor": "zzz5655",
+ "version": ""
+}

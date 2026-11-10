@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "37A77647",
+   "name": "爱丽丝梦游仙境(US)(兔友汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Alice in Wonderland",
+ "id": "ver-nds-37a77647",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "731611C9",
+  "no_intro_name": "Alice in Wonderland (USA) (En,Fr,Es) (NDSi Enhanced)",
+  "region": "USA",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "VALE",
+ "source": "no-intro",
+ "titles": {
+  "en": "Alice in Wonderland (USA) (En,Fr,Es) (NDSi Enhanced)",
+  "zh-Hans": "爱丽丝梦游仙境"
+ },
+ "vendor": "兔友汉化组",
+ "version": ""
+}

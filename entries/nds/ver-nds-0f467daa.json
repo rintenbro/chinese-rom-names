@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0F467DAA",
+   "name": "来自深渊(简)(JP)(HOho汉化组)(256Mb).nds",
+   "size": 25019944
+  }
+ ],
+ "group": "From the Abyss",
+ "id": "ver-nds-0f467daa",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "F22B1164",
+  "no_intro_name": "From the Abyss (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "简",
+ "serial": "YVSJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "From the Abyss (Japan)",
+  "zh-Hans": "来自深渊"
+ },
+ "vendor": "HOho汉化组",
+ "version": ""
+}

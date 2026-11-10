@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9CB49022",
+   "name": "怪物召唤士[星组](v1.0)(简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Monster Summoner",
+ "id": "ver-gba-9cb49022",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "F8A085E2",
+  "no_intro_name": "Monster Summoner (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "A3NJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Monster Summoner (Japan)",
+  "zh-Hans": "怪物召唤士"
+ },
+ "vendor": "星组",
+ "version": "v1.0"
+}

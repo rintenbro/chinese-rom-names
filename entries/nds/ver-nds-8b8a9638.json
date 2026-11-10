@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8B8A9638",
+   "name": "起司猫小叽的幸福生活 到这里来吧 大体字版(JP)(玛娜汉化组&星组)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Chi's Sweet Home - Chi ga Ouchi ni Yatte Kita",
+ "id": "ver-nds-8b8a9638",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "AD607DF9",
+  "no_intro_name": "Chi's Sweet Home - Chi ga Ouchi ni Yatte Kita (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "CSHJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Chi's Sweet Home - Chi ga Ouchi ni Yatte Kita (Japan)",
+  "zh-Hans": "起司猫小叽的幸福生活 到这里来吧 大体字版"
+ },
+ "vendor": "玛娜汉化组&星组",
+ "version": ""
+}

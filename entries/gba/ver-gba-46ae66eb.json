@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "46AE66EB",
+   "name": "蜘蛛侠 - 密斯特里奥的威胁[天使汉化组](v20060306) (繁)(JP)(64.5Mb).gba",
+   "size": 8454144
+  }
+ ],
+ "group": "Spider-Man - Mysterio no Kyoui",
+ "id": "ver-gba-46ae66eb",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "F8125C4B",
+  "no_intro_name": "Spider-Man - Mysterio no Kyoui (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "繁",
+ "serial": "ASEJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Spider-Man - Mysterio no Kyoui (Japan)",
+  "zh-Hans": "蜘蛛侠 - 密斯特里奥的威胁"
+ },
+ "vendor": "天使汉化组",
+ "version": "v20060306"
+}

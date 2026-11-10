@@ -1,0 +1,33 @@
+{
+ "aliases": [
+  "Special Forces - Plan A (China) [CHS]"
+ ],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "C13653C5",
+   "name": "特种部队 A计划(简)(外星科技+白粥与榨菜+星夜之幻+babypkzhu)(8Mb).gbc",
+   "size": 1048576
+  }
+ ],
+ "genre": null,
+ "group": "特种部队 A计划",
+ "id": "cn-e9f4b81661e9",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "特种部队 A计划"
+ },
+ "type": "original",
+ "vendor": "外星科技+白粥与榨菜+星夜之幻+babypkzhu",
+ "vendor_full": "福州外星电脑科技有限公司 / Waixing Science & Technology（WAIXING COMPUTER SCIENCE & TECHNOLOGY CO.,LTD）",
+ "year": null
+}

@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0A1F4E9A",
+   "name": "逆转裁判3[CGP](v1.02)(简)(JP)(82.1Mb).gba",
+   "size": 10761500
+  }
+ ],
+ "group": "Gyakuten Saiban 3",
+ "id": "ver-gba-0a1f4e9a",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "51B6CF22",
+  "no_intro_name": "Gyakuten Saiban 3 (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "A3JJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Gyakuten Saiban 3 (Japan)",
+  "zh-Hans": "逆转裁判3"
+ },
+ "vendor": "",
+ "version": "v1.02"
+}

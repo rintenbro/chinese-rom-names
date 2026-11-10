@@ -1,0 +1,41 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-28c648885a84/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "59C6DDB7",
+   "name": "学生电脑(简)[小视霸](CN)[ETC](4Mb).nes",
+   "size": 524304
+  },
+  {
+   "crc32": "6082419A",
+   "name": "学生电脑(简)[未知](CN)[ETC](4Mb).nes",
+   "size": 524304
+  },
+  {
+   "crc32": "C2C1AA29",
+   "name": "学生电脑(简)[高昇达](CN)[ETC](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "学生电脑",
+ "id": "cn-28c648885a84",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "学生电脑"
+ },
+ "type": "hack",
+ "vendor": "小视霸",
+ "vendor_full": "",
+ "year": null
+}

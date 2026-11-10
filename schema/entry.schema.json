@@ -1,0 +1,207 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "Chinese ROM name mapping entry",
+ "type": "object",
+ "required": [
+  "id",
+  "layer",
+  "platform",
+  "group",
+  "titles",
+  "files",
+  "source"
+ ],
+ "properties": {
+  "id": {
+   "type": "string",
+   "pattern": "^(ver|cn)-[0-9a-z-]+$"
+  },
+  "layer": {
+   "enum": [
+    "verified",
+    "self"
+   ]
+  },
+  "platform": {
+   "enum": [
+    "nes",
+    "sfc",
+    "gb",
+    "gbc",
+    "gba",
+    "nds",
+    "md"
+   ]
+  },
+  "group": {
+   "type": "string",
+   "description": "作品组：同一作品的中文条目归组用"
+  },
+  "titles": {
+   "type": "object",
+   "required": [
+    "zh-Hans"
+   ],
+   "properties": {
+    "zh-Hans": {
+     "type": "string"
+    },
+    "zh-Hant": {
+     "type": "string"
+    },
+    "en": {
+     "type": "string",
+     "description": "No-Intro 标准名（verified 层必填）"
+    }
+   }
+  },
+  "vendor": {
+   "type": "string",
+   "description": "汉化组，多组用 \"/\" 分隔"
+  },
+  "version": {
+   "type": "string",
+   "description": "汉化版本号，如 v1.2"
+  },
+  "script": {
+   "enum": [
+    "简",
+    "繁",
+    "简繁",
+    ""
+   ]
+  },
+  "aliases": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   }
+  },
+  "year": {
+   "type": [
+    "integer",
+    "null"
+   ]
+  },
+  "genre": {
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  "type": {
+   "enum": [
+    "original",
+    "hack"
+   ]
+  },
+  "files": {
+   "type": "array",
+   "minItems": 1,
+   "items": {
+    "type": "object",
+    "required": [
+     "name",
+     "crc32",
+     "size"
+    ],
+    "properties": {
+     "name": {
+      "type": "string"
+     },
+     "crc32": {
+      "type": "string",
+      "pattern": "^[0-9A-F]{8}$"
+     },
+     "size": {
+      "type": "integer",
+      "minimum": 1
+     }
+    }
+   }
+  },
+  "original": {
+   "type": [
+    "object",
+    "null"
+   ],
+   "properties": {
+    "no_intro_name": {
+     "type": "string"
+    },
+    "region": {
+     "type": "string"
+    },
+    "crc32": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "size": {
+     "type": [
+      "integer",
+      "null"
+     ]
+    }
+   }
+  },
+  "source": {
+   "enum": [
+    "no-intro",
+    "community"
+   ]
+  },
+  "assets": {
+   "type": "object",
+   "properties": {
+    "box": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "title": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "snap": {
+     "type": "array",
+     "items": {
+      "type": "string"
+     }
+    }
+   }
+  },
+  "notes": {
+   "type": "string"
+  },
+  "match": {
+   "enum": [
+    "crc",
+    "game_code",
+    "version"
+   ],
+   "description": "verified 层依据：整文件 CRC / 卡带头游戏码 / dat 版本号+容量"
+  },
+  "serial": {
+   "type": "string",
+   "description": "GBA/NDS 游戏码，如 ASRJ"
+  },
+  "description": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "中文简介"
+  },
+  "description_source": {
+   "type": [
+    "string",
+    "null"
+   ]
+  }
+ }
+}

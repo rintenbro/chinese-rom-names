@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A8A463ED",
+   "name": "合金弹头7(繁) 完全汉化版080719(JP)(罗伊SD)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Metal Slug 7",
+ "id": "ver-nds-a8a463ed",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "89F4BBA2",
+  "no_intro_name": "Metal Slug 7 (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "繁",
+ "serial": "YM7J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Metal Slug 7 (Japan)",
+  "zh-Hans": "合金弹头7 完全汉化版080719"
+ },
+ "vendor": "",
+ "version": ""
+}

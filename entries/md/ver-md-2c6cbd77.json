@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2C6CBD77",
+   "name": "阿Q连环泡 (繁) (全崴资讯)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Ah Q Lianhuan Pao",
+ "id": "ver-md-2c6cbd77",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "2C6CBD77",
+  "no_intro_name": "Ah Q Lianhuan Pao (Taiwan)",
+  "region": "Taiwan",
+  "size": 1048576
+ },
+ "platform": "md",
+ "script": "繁",
+ "serial": "G-3051",
+ "source": "no-intro",
+ "titles": {
+  "en": "Ah Q Lianhuan Pao (Taiwan)",
+  "zh-Hans": "阿Q连环泡"
+ },
+ "vendor": "",
+ "version": ""
+}

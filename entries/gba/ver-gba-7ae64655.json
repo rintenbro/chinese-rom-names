@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7AE64655",
+   "name": "重装机兵2改 [菜单修正][zymgundam](v1.1) (20110828)(简)(JP)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "Metal Max 2 Kai",
+ "id": "ver-gba-7ae64655",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "BC1FEAF0",
+  "no_intro_name": "Metal Max 2 Kai (Japan)",
+  "region": "Japan",
+  "size": 4194304
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "A9TJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Metal Max 2 Kai (Japan)",
+  "zh-Hans": "重装机兵2改"
+ },
+ "vendor": "zymgundam",
+ "version": "v1.1"
+}

@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-1a289ed81555/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "F09B5D92",
+   "name": "挖地雷(简)[未知](CN)[PUZ](0.25Mb).nes",
+   "size": 32784
+  }
+ ],
+ "genre": null,
+ "group": "挖地雷",
+ "id": "cn-1a289ed81555",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "挖地雷"
+ },
+ "type": "original",
+ "vendor": "",
+ "vendor_full": "",
+ "year": null
+}

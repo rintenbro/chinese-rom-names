@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5774A96E",
+   "name": "哈姆太郎4 - 七彩虹大行进[天幻汉化组][简](JP)(64.75Mb).gba",
+   "size": 8486912
+  }
+ ],
+ "group": "Tottoko Hamutarou 4 - Nijiiro Daikoushin Dechu",
+ "id": "ver-gba-5774a96e",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "1B6E5617",
+  "no_intro_name": "Tottoko Hamutarou 4 - Nijiiro Daikoushin Dechu (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "A84J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Tottoko Hamutarou 4 - Nijiiro Daikoushin Dechu (Japan)",
+  "zh-Hans": "哈姆太郎4 - 七彩虹大行进"
+ },
+ "vendor": "天幻汉化组",
+ "version": ""
+}

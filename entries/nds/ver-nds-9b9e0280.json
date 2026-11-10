@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9B9E0280",
+   "name": "塞尔达传说 幻影沙漏 修正版(繁)(JP)(巴士汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Zelda no Densetsu - Mugen no Sunadokei",
+ "id": "ver-nds-9b9e0280",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "430A9713",
+  "no_intro_name": "Zelda no Densetsu - Mugen no Sunadokei (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "繁",
+ "serial": "AZEJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Zelda no Densetsu - Mugen no Sunadokei (Japan)",
+  "zh-Hans": "塞尔达传说 幻影沙漏 修正版"
+ },
+ "vendor": "巴士汉化组",
+ "version": ""
+}

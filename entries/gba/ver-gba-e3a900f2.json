@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E3A900F2",
+   "name": "海贼王[廖永新](简)(US)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "One Piece",
+ "id": "ver-gba-e3a900f2",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "7D2CF2A1",
+  "no_intro_name": "One Piece (USA)",
+  "region": "USA",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "BONE",
+ "source": "no-intro",
+ "titles": {
+  "en": "One Piece (USA)",
+  "zh-Hans": "海贼王"
+ },
+ "vendor": "廖永新",
+ "version": ""
+}

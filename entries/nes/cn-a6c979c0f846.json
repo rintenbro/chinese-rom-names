@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-a6c979c0f846/title.png"
+ },
+ "description": "《西游记后传》是外星科技在红白机上发行的角色扮演游戏。作品取材《西游记》，玩家护送取经队伍西行，沿途与妖魔鬼怪战斗。整体采用像素画面，关卡数量与难度随流程逐步提高。",
+ "description_source": "ai",
+ "files": [
+  {
+   "crc32": "1AF098CC",
+   "name": "西游记后传(简)[外星科技](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "genre": null,
+ "group": "西游记后传",
+ "id": "cn-a6c979c0f846",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "西游记后传"
+ },
+ "type": "original",
+ "vendor": "外星科技",
+ "vendor_full": "福州外星电脑科技有限公司 / Waixing Science & Technology（WAIXING COMPUTER SCIENCE & TECHNOLOGY CO.,LTD）",
+ "year": null
+}

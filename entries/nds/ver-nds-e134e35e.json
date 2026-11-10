@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E134E35E",
+   "name": "乐高大战 简、正、英三语版(US)(陨石大战临时有爱汉化组之乐高大战临时有爱汉化小分队)(1024Mb).nds",
+   "size": 123296808
+  }
+ ],
+ "group": "LEGO Battles",
+ "id": "ver-nds-e134e35e",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "00BB6D1E",
+  "no_intro_name": "LEGO Battles (USA) (En,Fr,Es)",
+  "region": "USA",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "C5SE",
+ "source": "no-intro",
+ "titles": {
+  "en": "LEGO Battles (USA) (En,Fr,Es)",
+  "zh-Hans": "乐高大战 简、正、英三语版"
+ },
+ "vendor": "陨石大战临时有爱汉化组之乐高大战临时有爱汉化小分队",
+ "version": ""
+}

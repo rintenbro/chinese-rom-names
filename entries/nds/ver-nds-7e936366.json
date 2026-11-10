@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7E936366",
+   "name": "巴哈姆特之血 V2(简)(JP)(小黑屋汉化组)(512Mb).nds",
+   "size": 62083800
+  }
+ ],
+ "group": "Blood of Bahamut",
+ "id": "ver-nds-7e936366",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "1306A2ED",
+  "no_intro_name": "Blood of Bahamut (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "简",
+ "serial": "CYJJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Blood of Bahamut (Japan)",
+  "zh-Hans": "巴哈姆特之血 V2"
+ },
+ "vendor": "小黑屋汉化组",
+ "version": ""
+}

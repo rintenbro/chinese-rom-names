@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-cecc5443a36d/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "BA3F83D7",
+   "name": "时尚跳舞机(简)[丰利](CN)[ETC](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "时尚跳舞机",
+ "id": "cn-cecc5443a36d",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "时尚跳舞机"
+ },
+ "type": "original",
+ "vendor": "丰利",
+ "vendor_full": "",
+ "year": null
+}

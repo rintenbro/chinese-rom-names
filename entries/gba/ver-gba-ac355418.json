@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AC355418",
+   "name": "数码怪兽 - 红宝石版[D商](64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Shuma Guaishou - Hongbaoshi Ban",
+ "id": "ver-gba-ac355418",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "AC355418",
+  "no_intro_name": "Shuma Guaishou - Hongbaoshi Ban (Taiwan)",
+  "region": "Taiwan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "未标注",
+ "serial": "",
+ "source": "no-intro",
+ "titles": {
+  "en": "Shuma Guaishou - Hongbaoshi Ban (Taiwan)",
+  "zh-Hans": "数码怪兽 - 红宝石版"
+ },
+ "vendor": "D商",
+ "version": ""
+}

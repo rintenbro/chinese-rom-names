@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "635068E5",
+   "name": "名侦探柯南 消失的博士与找错之塔 0.9(繁)(JP)(千皓)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Meitantei Conan - Kieta Hakase to Machigai Sagashi no Tou",
+ "id": "ver-nds-635068e5",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "5196BE67",
+  "no_intro_name": "Meitantei Conan - Kieta Hakase to Machigai Sagashi no Tou (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "繁",
+ "serial": "YC7J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Meitantei Conan - Kieta Hakase to Machigai Sagashi no Tou (Japan)",
+  "zh-Hans": "名侦探柯南 消失的博士与找错之塔 0.9"
+ },
+ "vendor": "",
+ "version": ""
+}

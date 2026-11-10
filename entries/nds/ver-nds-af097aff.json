@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AF097AFF",
+   "name": "病院惊魂(简)(US)(空气汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Dementium - The Ward",
+ "id": "ver-nds-af097aff",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "6D03B8BA",
+  "no_intro_name": "Dementium - The Ward (USA)",
+  "region": "USA",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "简",
+ "serial": "YDTE",
+ "source": "no-intro",
+ "titles": {
+  "en": "Dementium - The Ward (USA)",
+  "zh-Hans": "病院惊魂"
+ },
+ "vendor": "空气汉化组",
+ "version": ""
+}

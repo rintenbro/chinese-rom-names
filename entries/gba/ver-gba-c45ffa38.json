@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C45FFA38",
+   "name": "口袋妖怪 - 蓝宝石[RSC汉化组](美版v1.2汉化+美版标题美术风格+中文名v2)(简)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Pokemon - Sapphire Version",
+ "id": "ver-gba-c45ffa38",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "554DEDC4",
+  "no_intro_name": "Pokemon - Sapphire Version (USA, Europe)",
+  "region": "USA",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "AXPE",
+ "source": "no-intro",
+ "titles": {
+  "en": "Pokemon - Sapphire Version (USA, Europe)",
+  "zh-Hans": "口袋妖怪 - 蓝宝石"
+ },
+ "vendor": "RSC汉化组",
+ "version": ""
+}

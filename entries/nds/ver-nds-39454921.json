@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "39454921",
+   "name": "淘金者(JP)(TGB汉化工作室)(64Mb).nds",
+   "size": 7166800
+  }
+ ],
+ "group": "Lode Runner",
+ "id": "ver-nds-39454921",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "5E9756CE",
+  "no_intro_name": "Lode Runner (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "ALRJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Lode Runner (Japan)",
+  "zh-Hans": "淘金者"
+ },
+ "vendor": "TGB汉化工作室",
+ "version": ""
+}

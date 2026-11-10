@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3D5589C3",
+   "name": "勇者斗恶龙5 天空的新娘 完美典藏汉化版(JP)(NdsBBS&DQGAME汉化组)(1024Mb).nds",
+   "size": 102888008
+  }
+ ],
+ "group": "Dragon Quest V - Tenkuu no Hanayome",
+ "id": "ver-nds-3d5589c3",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "154A8ADA",
+  "no_intro_name": "Dragon Quest V - Tenkuu no Hanayome (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "YV5J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Dragon Quest V - Tenkuu no Hanayome (Japan)",
+  "zh-Hans": "勇者斗恶龙5 天空的新娘 完美典藏汉化版"
+ },
+ "vendor": "NdsBBS&DQGAME汉化组",
+ "version": ""
+}

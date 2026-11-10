@@ -1,0 +1,33 @@
+{
+ "aliases": [
+  "San Goku Shi - Act C (China) [CHT]"
+ ],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-1cb6954508af/title.png"
+ },
+ "description": "《吞食天地 赤壁之战》是 Game Boy Color 上的中文角色扮演游戏，取材《三国演义》。玩家扮演蜀汉阵营的武将，在城镇间行军、招募同伴，以回合制战斗重现赤壁之战前后的故事。",
+ "description_source": "ai",
+ "files": [
+  {
+   "crc32": "02747BCF",
+   "name": "吞食天地 - 赤壁之战 (繁) (新特奇).gbc",
+   "size": 2097152
+  }
+ ],
+ "genre": null,
+ "group": "吞食天地 - 赤壁之战",
+ "id": "cn-1cb6954508af",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "吞食天地 - 赤壁之战"
+ },
+ "type": "original",
+ "vendor": "",
+ "vendor_full": "",
+ "year": null
+}

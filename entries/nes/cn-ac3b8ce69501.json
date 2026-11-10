@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-ac3b8ce69501/title.png"
+ },
+ "description": "《口袋水晶》是南晶科技在红白机上发行的角色扮演游戏。作品以收集与培养怪兽为核心，玩家在野外捕捉怪兽、培养并使其进化，挑战道馆与对手。作品以卡带形式发行，内容与文本均为中文重新制作。",
+ "description_source": "ai",
+ "files": [
+  {
+   "crc32": "4DBCFE35",
+   "name": "口袋水晶(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "genre": null,
+ "group": "口袋水晶",
+ "id": "cn-ac3b8ce69501",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "口袋水晶"
+ },
+ "type": "original",
+ "vendor": "南晶科技",
+ "vendor_full": "深圳市南晶科技有限公司 / ShenZhen Nanjing Technology",
+ "year": null
+}

@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2F318D09",
+   "name": "拳皇EX - 新血[qqgba](简)(JP)(64.2Mb).gba",
+   "size": 8415616
+  }
+ ],
+ "group": "King of Fighters EX, The - NeoBlood",
+ "id": "ver-gba-2f318d09",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "0814C78D",
+  "no_intro_name": "King of Fighters EX, The - NeoBlood (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "AKOJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "King of Fighters EX, The - NeoBlood (Japan)",
+  "zh-Hans": "拳皇EX - 新血"
+ },
+ "vendor": "qqgba",
+ "version": ""
+}

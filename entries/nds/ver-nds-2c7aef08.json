@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2C7AEF08",
+   "name": "勇者斗恶龙怪兽篇 joker2(JP)(ACG汉化组)(1024Mb).nds",
+   "size": 115316284
+  }
+ ],
+ "group": "Dragon Quest Monsters - Joker 2",
+ "id": "ver-nds-2c7aef08",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "D5A37B7E",
+  "no_intro_name": "Dragon Quest Monsters - Joker 2 (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "CJRJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Dragon Quest Monsters - Joker 2 (Japan)",
+  "zh-Hans": "勇者斗恶龙怪兽篇 joker2"
+ },
+ "vendor": "ACG汉化组",
+ "version": ""
+}

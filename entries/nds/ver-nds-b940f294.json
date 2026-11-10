@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B940F294",
+   "name": "流星洛克人3 黑色王牌 完全汉化版v2(简)(电波人研究中心汉化组)(256Mb).nds",
+   "size": 27258676
+  }
+ ],
+ "group": "Ryuusei no Rockman 3 - Black Ace",
+ "id": "ver-nds-b940f294",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "B1E3225D",
+  "no_intro_name": "Ryuusei no Rockman 3 - Black Ace (Japan) (Rev 1)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "简",
+ "serial": "CRBJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Ryuusei no Rockman 3 - Black Ace (Japan) (Rev 1)",
+  "zh-Hans": "流星洛克人3 黑色王牌 完全汉化版v2"
+ },
+ "vendor": "电波人研究中心汉化组",
+ "version": ""
+}

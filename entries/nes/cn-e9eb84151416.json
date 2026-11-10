@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "D2C415F0",
+   "name": "超级贪吃蛇(简)[菜菜学堂](CN)[ACT](0.43Mb).nes",
+   "size": 57360
+  }
+ ],
+ "genre": null,
+ "group": "超级贪吃蛇",
+ "id": "cn-e9eb84151416",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "超级贪吃蛇"
+ },
+ "type": "original",
+ "vendor": "菜菜学堂",
+ "vendor_full": "",
+ "year": null
+}

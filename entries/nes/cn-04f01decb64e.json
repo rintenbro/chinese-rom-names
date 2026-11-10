@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-04f01decb64e/title.png"
+ },
+ "description": "《乱世三国》是南晶科技在红白机上发行的策略游戏。作品以三国时期为背景，玩家在各地招募武将、发展城池，与诸侯交战并逐步扩张势力。作品以卡带形式发行，内容与文本均为中文重新制作。",
+ "description_source": "ai",
+ "files": [
+  {
+   "crc32": "628D05F3",
+   "name": "乱世三国(简)[南晶科技](CN)[SLG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "乱世三国",
+ "id": "cn-04f01decb64e",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "乱世三国"
+ },
+ "type": "original",
+ "vendor": "南晶科技",
+ "vendor_full": "深圳市南晶科技有限公司 / ShenZhen Nanjing Technology",
+ "year": null
+}

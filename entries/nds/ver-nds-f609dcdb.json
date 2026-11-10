@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F609DCDB",
+   "name": "重装机兵3 道具汉化版(JP)(RME工房)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Metal Max 3",
+ "id": "ver-nds-f609dcdb",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "03440034",
+  "no_intro_name": "Metal Max 3 (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "BM9J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Metal Max 3 (Japan)",
+  "zh-Hans": "重装机兵3 道具汉化版"
+ },
+ "vendor": "",
+ "version": ""
+}

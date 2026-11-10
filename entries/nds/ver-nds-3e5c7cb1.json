@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3E5C7CB1",
+   "name": "忍者龙剑传 龙剑 修正版(JP)(巴士汉化组)(1024Mb).nds",
+   "size": 130503780
+  }
+ ],
+ "group": "Ninja Gaiden - Dragon Sword",
+ "id": "ver-nds-3e5c7cb1",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "5EF61EB8",
+  "no_intro_name": "Ninja Gaiden - Dragon Sword (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "YNGJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Ninja Gaiden - Dragon Sword (Japan)",
+  "zh-Hans": "忍者龙剑传 龙剑 修正版"
+ },
+ "vendor": "巴士汉化组",
+ "version": ""
+}

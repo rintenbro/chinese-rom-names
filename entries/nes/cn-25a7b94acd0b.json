@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "description": "《龙珠Z外传 撒亚人灭绝计划》是外星科技+Lirdrepus在红白机上发行的角色扮演游戏。作品以《龙珠》为题材，玩家操控主角在各地冒险，与强敌战斗并提升实力。游戏以中文界面呈现，操作与菜单针对掌机规模作了简化。",
+ "description_source": "ai",
+ "files": [
+  {
+   "crc32": "B57A62C7",
+   "name": "龙珠Z外传 撒亚人灭绝计划(v0.97)(香港译名版)(繁)[外星科技+Lirdrepus](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "genre": null,
+ "group": "龙珠Z外传 撒亚人灭绝计划",
+ "id": "cn-25a7b94acd0b",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "龙珠Z外传 撒亚人灭绝计划"
+ },
+ "type": "original",
+ "vendor": "外星科技+Lirdrepus",
+ "vendor_full": "福州外星电脑科技有限公司 / Waixing Science & Technology（WAIXING COMPUTER SCIENCE & TECHNOLOGY CO.,LTD）",
+ "year": null
+}

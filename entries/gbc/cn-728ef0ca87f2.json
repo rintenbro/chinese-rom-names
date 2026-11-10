@@ -1,0 +1,33 @@
+{
+ "aliases": [
+  "Wai Xing Tan Xian Zhi Xing Qiu Da Zhan (China) [CHT]"
+ ],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-728ef0ca87f2/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "21F84BF8",
+   "name": "外星探险之星球大战(繁)(新特奇)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "genre": null,
+ "group": "外星探险之星球大战",
+ "id": "cn-728ef0ca87f2",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "外星探险之星球大战"
+ },
+ "type": "original",
+ "vendor": "",
+ "vendor_full": "",
+ "year": null
+}

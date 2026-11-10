@@ -1,0 +1,39 @@
+{
+ "aliases": [
+  "Shui Hu Shen Shou (China) [CHT]",
+  "Shui Hu Shen Shou (China) [CHS]"
+ ],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "description": "《水浒神兽》是 Game Boy Color 上的中文角色扮演游戏。作品取材《水浒传》的一百零八将，玩家在城镇与野外之间探索、招募同伴并与敌人战斗，沿着梁山聚义的线索逐步推进剧情。",
+ "description_source": "ai",
+ "files": [
+  {
+   "crc32": "F59C89A5",
+   "name": "水浒神兽(简)(广誉科技)(8Mb).gbc",
+   "size": 2097152
+  },
+  {
+   "crc32": "60A745B7",
+   "name": "水浒神兽(繁)(广誉科技)(8Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "genre": null,
+ "group": "水浒神兽",
+ "id": "cn-d51159fb51a4",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "水浒神兽"
+ },
+ "type": "original",
+ "vendor": "",
+ "vendor_full": "",
+ "year": null
+}

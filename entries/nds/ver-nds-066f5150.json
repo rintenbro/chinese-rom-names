@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "066F5150",
+   "name": "夺宝猎人 修正&英文道具(JP)(Lamer汉化组&维希)(512Mb).nds",
+   "size": 49835436
+  }
+ ],
+ "group": "Cross Treasures",
+ "id": "ver-nds-066f5150",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "44109EE3",
+  "no_intro_name": "Cross Treasures (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "BDNJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Cross Treasures (Japan)",
+  "zh-Hans": "夺宝猎人 修正&英文道具"
+ },
+ "vendor": "Lamer汉化组&维希",
+ "version": ""
+}

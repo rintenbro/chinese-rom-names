@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6F67DFC6",
+   "name": "数码暴龙2 - 4 (繁) (Yong Yong).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Shuma Baolong 02 4",
+ "id": "ver-gbc-6f67dfc6",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "6F67DFC6",
+  "no_intro_name": "Shuma Baolong 02 4 (China)",
+  "region": "China",
+  "size": 1048576
+ },
+ "platform": "gbc",
+ "script": "繁",
+ "serial": "",
+ "source": "no-intro",
+ "titles": {
+  "en": "Shuma Baolong 02 4 (China)",
+  "zh-Hans": "数码暴龙2 - 4"
+ },
+ "vendor": "Yong Yong",
+ "version": ""
+}

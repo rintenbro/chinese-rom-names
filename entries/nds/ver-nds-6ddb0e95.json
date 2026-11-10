@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6DDB0E95",
+   "name": "梦幻游戏DS 序章汉化版(JP)(安倍晶)(2047.99Mb).nds",
+   "size": 224854428
+  }
+ ],
+ "group": "Fushigi Yuugi DS",
+ "id": "ver-nds-6ddb0e95",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "991E4757",
+  "no_intro_name": "Fushigi Yuugi DS (Japan)",
+  "region": "Japan",
+  "size": 268435456
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "BF4J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Fushigi Yuugi DS (Japan)",
+  "zh-Hans": "梦幻游戏DS 序章汉化版"
+ },
+ "vendor": "",
+ "version": ""
+}

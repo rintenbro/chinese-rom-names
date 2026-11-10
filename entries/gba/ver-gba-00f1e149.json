@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "00F1E149",
+   "name": "网球王子2003 - 冰蓝[Kiny](简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Tennis no Ouji-sama 2003 - Cool Blue",
+ "id": "ver-gba-00f1e149",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "9F7FC898",
+  "no_intro_name": "Tennis no Ouji-sama 2003 - Cool Blue (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "A9LJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Tennis no Ouji-sama 2003 - Cool Blue (Japan)",
+  "zh-Hans": "网球王子2003 - 冰蓝"
+ },
+ "vendor": "Kiny",
+ "version": ""
+}

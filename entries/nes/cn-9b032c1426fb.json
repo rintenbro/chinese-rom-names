@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-9b032c1426fb/title.png"
+ },
+ "description": "《龙珠Z 超武斗传5》是Rex在红白机上发行的动作游戏。作品以《龙珠》为题材，玩家操控主角在各地冒险，与强敌战斗并提升实力。作品以卡带形式发行，内容与文本均为中文重新制作。",
+ "description_source": "ai",
+ "files": [
+  {
+   "crc32": "1EEB3092",
+   "name": "龙珠Z 超武斗传5(可选语言版)(繁)[Rex](CN)[ACT](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "genre": null,
+ "group": "龙珠Z 超武斗传5",
+ "id": "cn-9b032c1426fb",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "龙珠Z 超武斗传5"
+ },
+ "type": "original",
+ "vendor": "Rex",
+ "vendor_full": "",
+ "year": null
+}

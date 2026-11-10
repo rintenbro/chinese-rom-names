@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "07D9E841",
+   "name": "口袋妖怪(精灵宝可梦) 金心(JP)(ACG汉化组)(繁)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Pocket Monsters - HeartGold",
+ "id": "ver-nds-07d9e841",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "FC7D8F28",
+  "no_intro_name": "Pocket Monsters - HeartGold (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "繁",
+ "serial": "IPKJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Pocket Monsters - HeartGold (Japan)",
+  "zh-Hans": "口袋妖怪 金心"
+ },
+ "vendor": "ACG汉化组",
+ "version": ""
+}

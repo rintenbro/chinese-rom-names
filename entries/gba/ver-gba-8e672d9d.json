@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8E672D9D",
+   "name": "牧场物语 - 矿石镇的伙伴们[CGP+模拟天下+矿石镇+熊2猫3](v1.7最终修正v20250103)[简](JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Bokujou Monogatari - Mineral Town no Nakama-tachi",
+ "id": "ver-gba-8e672d9d",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "09185657",
+  "no_intro_name": "Bokujou Monogatari - Mineral Town no Nakama-tachi (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "A4NJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Bokujou Monogatari - Mineral Town no Nakama-tachi (Japan)",
+  "zh-Hans": "牧场物语 - 矿石镇的伙伴们"
+ },
+ "vendor": "CGP+模拟天下+矿石镇+熊2猫3",
+ "version": "v1.7"
+}

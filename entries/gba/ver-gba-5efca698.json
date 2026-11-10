@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5EFCA698",
+   "name": "模拟人生 上流社会[Beq+TGB+jumzhu](打电话死机修正版)(简)(UE)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Urbz, The - Sims in the City",
+ "id": "ver-gba-5efca698",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "8B3330BB",
+  "no_intro_name": "Urbz, The - Sims in the City (USA, Europe) (En,Fr,De,Es,It,Nl)",
+  "region": "USA",
+  "size": 33554432
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "BOCE",
+ "source": "no-intro",
+ "titles": {
+  "en": "Urbz, The - Sims in the City (USA, Europe) (En,Fr,De,Es,It,Nl)",
+  "zh-Hans": "模拟人生 上流社会"
+ },
+ "vendor": "UE / Beq+TGB+jumzhu",
+ "version": ""
+}

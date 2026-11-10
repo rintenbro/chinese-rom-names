@@ -1,0 +1,36 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-8dc8fef8c95b/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "A2932A68",
+   "name": "混沌世界(修正版)(简)[外星科技+Vanyogin](JP)[RPG](7Mb).nes",
+   "size": 917520
+  },
+  {
+   "crc32": "2153A74A",
+   "name": "混沌世界(简)[外星科技](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "genre": null,
+ "group": "混沌世界",
+ "id": "cn-8dc8fef8c95b",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "混沌世界"
+ },
+ "type": "original",
+ "vendor": "外星科技+Vanyogin",
+ "vendor_full": "福州外星电脑科技有限公司 / Waixing Science & Technology（WAIXING COMPUTER SCIENCE & TECHNOLOGY CO.,LTD）",
+ "year": null
+}

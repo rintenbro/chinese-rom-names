@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4A7BF795",
+   "name": "火焰纹章 - 封印之剑[CGP&W_anthony](简)(JP)(79.46Mb).gba",
+   "size": 10415546
+  }
+ ],
+ "group": "Fire Emblem - Fuuin no Tsurugi",
+ "id": "ver-gba-4a7bf795",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "D38763E1",
+  "no_intro_name": "Fire Emblem - Fuuin no Tsurugi (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "AFEJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Fire Emblem - Fuuin no Tsurugi (Japan)",
+  "zh-Hans": "火焰纹章 - 封印之剑"
+ },
+ "vendor": "CGP&W_anthony",
+ "version": ""
+}

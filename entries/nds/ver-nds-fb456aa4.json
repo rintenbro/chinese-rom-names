@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FB456AA4",
+   "name": "超恐怖故事DS 青之章(JP)(CG汉化组)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "'Chou' Kowai Hanashi DS - Ao no Shou",
+ "id": "ver-nds-fb456aa4",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "6131F00F",
+  "no_intro_name": "'Chou' Kowai Hanashi DS - Ao no Shou (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "BKAJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "'Chou' Kowai Hanashi DS - Ao no Shou (Japan)",
+  "zh-Hans": "超恐怖故事DS 青之章"
+ },
+ "vendor": "CG汉化组",
+ "version": ""
+}

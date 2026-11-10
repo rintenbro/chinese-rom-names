@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-93b3fd32c85b/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "FBE84B97",
+   "name": "沙罗曼蛇(v1.2)(简)[雷精灵](JP)[STG](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "genre": null,
+ "group": "沙罗曼蛇",
+ "id": "cn-93b3fd32c85b",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "沙罗曼蛇"
+ },
+ "type": "hack",
+ "vendor": "雷精灵",
+ "vendor_full": "",
+ "year": null
+}

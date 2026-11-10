@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7597A5C2",
+   "name": "海底两万里(蓝宝石之迷) (简) (小鬼混)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Haidi Liang Wanli",
+ "id": "ver-md-7597a5c2",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "7597A5C2",
+  "no_intro_name": "Haidi Liang Wanli (Lanbaoshi Zhi Mi) (China) (Pirate)",
+  "region": "China",
+  "size": 2097152
+ },
+ "platform": "md",
+ "script": "简",
+ "serial": "T-14083-00",
+ "source": "no-intro",
+ "titles": {
+  "en": "Haidi Liang Wanli (Lanbaoshi Zhi Mi) (China) (Pirate)",
+  "zh-Hans": "海底两万里"
+ },
+ "vendor": "",
+ "version": ""
+}

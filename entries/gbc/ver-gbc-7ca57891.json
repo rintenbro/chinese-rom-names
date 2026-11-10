@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7CA57891",
+   "name": "冰河世纪 (繁) (新特奇).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Bingyuan Lixian Ji",
+ "id": "ver-gbc-7ca57891",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "7CA57891",
+  "no_intro_name": "Bingyuan Lixian Ji (Taiwan)",
+  "region": "Taiwan",
+  "size": 2097152
+ },
+ "platform": "gbc",
+ "script": "繁",
+ "serial": "",
+ "source": "no-intro",
+ "titles": {
+  "en": "Bingyuan Lixian Ji (Taiwan)",
+  "zh-Hans": "冰河世纪"
+ },
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "30AEB8A0",
+   "name": "极限逃脱 9小时 9人 9道门(JP)(ACG汉化组)(1024Mb).nds",
+   "size": 131187776
+  }
+ ],
+ "group": "Kyokugen Dasshutsu - 9-jikan, 9-nin, 9 no Tobira",
+ "id": "ver-nds-30aeb8a0",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "99CE32B2",
+  "no_intro_name": "Kyokugen Dasshutsu - 9-jikan, 9-nin, 9 no Tobira (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "BSKJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Kyokugen Dasshutsu - 9-jikan, 9-nin, 9 no Tobira (Japan)",
+  "zh-Hans": "极限逃脱 9小时 9人 9道门"
+ },
+ "vendor": "ACG汉化组",
+ "version": ""
+}

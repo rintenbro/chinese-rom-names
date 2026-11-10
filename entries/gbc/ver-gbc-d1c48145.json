@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D1C48145",
+   "name": "龙珠格斗2005 (繁) (unknown).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Dragon Ball Z Gedou 2005",
+ "id": "ver-gbc-d1c48145",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "D1C48145",
+  "no_intro_name": "Dragon Ball Z Gedou 2005 (Taiwan)",
+  "region": "Taiwan",
+  "size": 2097152
+ },
+ "platform": "gbc",
+ "script": "繁",
+ "serial": "",
+ "source": "no-intro",
+ "titles": {
+  "en": "Dragon Ball Z Gedou 2005 (Taiwan)",
+  "zh-Hans": "龙珠格斗2005"
+ },
+ "vendor": "unknown",
+ "version": ""
+}

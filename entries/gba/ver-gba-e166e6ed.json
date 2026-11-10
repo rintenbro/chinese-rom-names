@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E166E6ED",
+   "name": "神游 陆海空大战[未发售](简)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Lu-Hai-Kong Dazhan",
+ "id": "ver-gba-e166e6ed",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "E166E6ED",
+  "no_intro_name": "Lu-Hai-Kong Dazhan (China) (Proto)",
+  "region": "China",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "AWRC",
+ "source": "no-intro",
+ "titles": {
+  "en": "Lu-Hai-Kong Dazhan (China) (Proto)",
+  "zh-Hans": "神游 陆海空大战"
+ },
+ "vendor": "未发售",
+ "version": ""
+}

@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0D967913",
+   "name": "灵光守护者 V3(繁)(JP)(巴士汉化组)(1024Mb).nds",
+   "size": 128879424
+  }
+ ],
+ "group": "Soma Bringer",
+ "id": "ver-nds-0d967913",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "E5907146",
+  "no_intro_name": "Soma Bringer (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "繁",
+ "serial": "YBSJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Soma Bringer (Japan)",
+  "zh-Hans": "灵光守护者 V3"
+ },
+ "vendor": "巴士汉化组",
+ "version": ""
+}

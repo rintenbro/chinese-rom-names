@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "42DB1749",
+   "name": "藤堂龙之介侦探日记(JP)(樱月汉化组)(128Mb).nds",
+   "size": 10042368
+  }
+ ],
+ "group": "Toudou Ryuunosuke Tantei Nikki - Kohakuiro no Yuigon - Seiyou Karuta Renzoku Satsujin Jiken",
+ "id": "ver-nds-42db1749",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "6BFF2542",
+  "no_intro_name": "Toudou Ryuunosuke Tantei Nikki - Kohakuiro no Yuigon - Seiyou Karuta Renzoku Satsujin Jiken (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "YT6J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Toudou Ryuunosuke Tantei Nikki - Kohakuiro no Yuigon - Seiyou Karuta Renzoku Satsujin Jiken (Japan)",
+  "zh-Hans": "藤堂龙之介侦探日记"
+ },
+ "vendor": "樱月汉化组",
+ "version": ""
+}

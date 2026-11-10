@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8F211DB5",
+   "name": "高级战争 2 - 黑洞升起[Luxin](简)(US)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Advance Wars 2 - Black Hole Rising",
+ "id": "ver-gba-8f211db5",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "5AD0E571",
+  "no_intro_name": "Advance Wars 2 - Black Hole Rising (USA)",
+  "region": "USA",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "AW2E",
+ "source": "no-intro",
+ "titles": {
+  "en": "Advance Wars 2 - Black Hole Rising (USA)",
+  "zh-Hans": "高级战争 2 - 黑洞升起"
+ },
+ "vendor": "Luxin",
+ "version": ""
+}

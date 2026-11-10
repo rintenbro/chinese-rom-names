@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0DE4590C",
+   "name": "梦幻之星3 - 时之继承者 (简) (永盛)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Menghuan Zhi Xing III",
+ "id": "ver-md-0de4590c",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "0DE4590C",
+  "no_intro_name": "Menghuan Zhi Xing III (China) (Pirate)",
+  "region": "China",
+  "size": 2097152
+ },
+ "platform": "md",
+ "script": "简",
+ "serial": "5503-00",
+ "source": "no-intro",
+ "titles": {
+  "en": "Menghuan Zhi Xing III (China) (Pirate)",
+  "zh-Hans": "梦幻之星3 - 时之继承者"
+ },
+ "vendor": "",
+ "version": ""
+}

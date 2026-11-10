@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "90F83410",
+   "name": "莉娜的工作室 修特拉尔的炼金术士(JP)(soul trip汉化组)(1024Mb).nds",
+   "size": 127199900
+  }
+ ],
+ "group": "Lina no Atelier - Strahl no Renkinjutsushi",
+ "id": "ver-nds-90f83410",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "DAB8DB95",
+  "no_intro_name": "Lina no Atelier - Strahl no Renkinjutsushi (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "BTAJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Lina no Atelier - Strahl no Renkinjutsushi (Japan)",
+  "zh-Hans": "莉娜的工作室 修特拉尔的炼金术士"
+ },
+ "vendor": "soul trip汉化组",
+ "version": ""
+}

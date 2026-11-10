@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0B7DA823",
+   "name": "超剧场版 库洛洛军曹3 行动！天空大冒险是也！ 剧情汉化版(JP)(DCLX)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Chou Gekijouban Keroro Gunsou 3 - Tenkuu Daibouken de Arimasu!",
+ "id": "ver-nds-0b7da823",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "678675AB",
+  "no_intro_name": "Chou Gekijouban Keroro Gunsou 3 - Tenkuu Daibouken de Arimasu! (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "YL6J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Chou Gekijouban Keroro Gunsou 3 - Tenkuu Daibouken de Arimasu! (Japan)",
+  "zh-Hans": "超剧场版 库洛洛军曹3 行动！天空大冒险是也！ 剧情汉化版"
+ },
+ "vendor": "DCLX",
+ "version": ""
+}

@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "050283B1",
+   "name": "龙珠改 赛亚人来袭(JP)(CG汉化组)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Dragon Ball Kai - Saiyajin Raishuu",
+ "id": "ver-nds-050283b1",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "9E53C430",
+  "no_intro_name": "Dragon Ball Kai - Saiyajin Raishuu (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "BRPJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Dragon Ball Kai - Saiyajin Raishuu (Japan)",
+  "zh-Hans": "龙珠改 赛亚人来袭"
+ },
+ "vendor": "CG汉化组",
+ "version": ""
+}

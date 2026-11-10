@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1CDE01DE",
+   "name": "耀西岛DS(US)(flyeyes)(256Mb).nds",
+   "size": 28385904
+  }
+ ],
+ "group": "Yoshi's Island DS",
+ "id": "ver-nds-1cde01de",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "C9964EE1",
+  "no_intro_name": "Yoshi's Island DS (USA)",
+  "region": "USA",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "AYWE",
+ "source": "no-intro",
+ "titles": {
+  "en": "Yoshi's Island DS (USA)",
+  "zh-Hans": "耀西岛DS"
+ },
+ "vendor": "flyeyes",
+ "version": ""
+}

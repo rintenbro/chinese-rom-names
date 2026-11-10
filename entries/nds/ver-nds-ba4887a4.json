@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BA4887A4",
+   "name": "三国志大战 天 fix11(简)(钵钵喵呜)(2048Mb).nds",
+   "size": 268435456
+  }
+ ],
+ "group": "Sangokushi Taisen Ten",
+ "id": "ver-nds-ba4887a4",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "138B9883",
+  "no_intro_name": "Sangokushi Taisen Ten (Japan)",
+  "region": "Japan",
+  "size": 268435456
+ },
+ "platform": "nds",
+ "script": "简",
+ "serial": "CNTJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Sangokushi Taisen Ten (Japan)",
+  "zh-Hans": "三国志大战 天 fix11"
+ },
+ "vendor": "",
+ "version": ""
+}

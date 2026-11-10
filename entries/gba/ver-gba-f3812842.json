@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F3812842",
+   "name": "世界传说 - 换装迷宫2[CGP](v3.31)(简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Tales of the World - Narikiri Dungeon 2",
+ "id": "ver-gba-f3812842",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "231B9FCA",
+  "no_intro_name": "Tales of the World - Narikiri Dungeon 2 (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "AN9J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Tales of the World - Narikiri Dungeon 2 (Japan)",
+  "zh-Hans": "世界传说 - 换装迷宫2"
+ },
+ "vendor": "",
+ "version": "v3.31"
+}

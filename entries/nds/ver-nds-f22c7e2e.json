@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F22C7E2E",
+   "name": "来自深渊(JP)(APEX汉化组)(256Mb).nds",
+   "size": 24618096
+  }
+ ],
+ "group": "From the Abyss",
+ "id": "ver-nds-f22c7e2e",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "F22B1164",
+  "no_intro_name": "From the Abyss (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "YVSJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "From the Abyss (Japan)",
+  "zh-Hans": "来自深渊"
+ },
+ "vendor": "APEX汉化组",
+ "version": ""
+}

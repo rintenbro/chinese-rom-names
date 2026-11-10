@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6CCAACE2",
+   "name": "世界树迷宫3 星海的访客 v1.1.1(简)(原版立绘)(Xzonn)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Sekaiju no Meikyuu III - Seikai no Raihousha",
+ "id": "ver-nds-6ccaace2",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "7673037D",
+  "no_intro_name": "Sekaiju no Meikyuu III - Seikai no Raihousha (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "简",
+ "serial": "BJ3J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Sekaiju no Meikyuu III - Seikai no Raihousha (Japan)",
+  "zh-Hans": "世界树迷宫3 星海的访客 v1.1.1"
+ },
+ "vendor": "Xzonn",
+ "version": ""
+}

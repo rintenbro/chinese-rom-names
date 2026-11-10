@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-2b9b073f38f0/title.png"
+ },
+ "description": "《龙珠Z2 决战娜美星!!》是外星科技+Lirdrepus在红白机上发行的角色扮演游戏。作品以《龙珠》为题材，玩家操控主角在各地冒险，与强敌战斗并提升实力。作品以卡带形式发行，内容与文本均为中文重新制作。",
+ "description_source": "ai",
+ "files": [
+  {
+   "crc32": "AE9A6797",
+   "name": "龙珠Z2 决战娜美星!!(v2)(香港译名版)(繁)[外星科技+Lirdrepus](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "genre": null,
+ "group": "龙珠Z2 决战娜美星!!",
+ "id": "cn-2b9b073f38f0",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "龙珠Z2 决战娜美星!!"
+ },
+ "type": "original",
+ "vendor": "外星科技+Lirdrepus",
+ "vendor_full": "福州外星电脑科技有限公司 / Waixing Science & Technology（WAIXING COMPUTER SCIENCE & TECHNOLOGY CO.,LTD）",
+ "year": null
+}

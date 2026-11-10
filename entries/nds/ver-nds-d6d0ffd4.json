@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D6D0FFD4",
+   "name": "最终幻想12 亡灵之翼 6.5全剧情修正版(繁)(JP)(dream75421)(1024Mb).nds",
+   "size": 112259916
+  }
+ ],
+ "group": "Final Fantasy XII - Revenant Wings",
+ "id": "ver-nds-d6d0ffd4",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "404A758A",
+  "no_intro_name": "Final Fantasy XII - Revenant Wings (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "繁",
+ "serial": "AXFJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Final Fantasy XII - Revenant Wings (Japan)",
+  "zh-Hans": "最终幻想12 亡灵之翼 6.5全剧情修正版"
+ },
+ "vendor": "dream75421",
+ "version": ""
+}

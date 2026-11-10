@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "042E5B07",
+   "name": "神游之密特罗德 - 融合[神游](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Miteluode Ronghe",
+ "id": "ver-gba-042e5b07",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "042E5B07",
+  "no_intro_name": "Miteluode Ronghe (China)",
+  "region": "China",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "AMTC",
+ "source": "no-intro",
+ "titles": {
+  "en": "Miteluode Ronghe (China)",
+  "zh-Hans": "神游之密特罗德 - 融合"
+ },
+ "vendor": "神游",
+ "version": ""
+}

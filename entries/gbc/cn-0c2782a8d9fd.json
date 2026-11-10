@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-0c2782a8d9fd/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "DCCD5C5C",
+   "name": "仙剑E时代(Fix v2)(简)(dhx)(32Mb).gb",
+   "size": 4194304
+  }
+ ],
+ "genre": null,
+ "group": "仙剑E时代",
+ "id": "cn-0c2782a8d9fd",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "仙剑E时代"
+ },
+ "type": "original",
+ "vendor": "",
+ "vendor_full": "",
+ "year": null
+}

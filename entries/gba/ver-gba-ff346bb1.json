@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FF346BB1",
+   "name": "极道车魂3[Flyeyes](简)(US)(64.14Mb).gba",
+   "size": 8408064
+  }
+ ],
+ "group": "Driv3r",
+ "id": "ver-gba-ff346bb1",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "6C66CFBE",
+  "no_intro_name": "Driv3r (USA)",
+  "region": "USA",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "B3RE",
+ "source": "no-intro",
+ "titles": {
+  "en": "Driv3r (USA)",
+  "zh-Hans": "极道车魂3"
+ },
+ "vendor": "Flyeyes",
+ "version": ""
+}

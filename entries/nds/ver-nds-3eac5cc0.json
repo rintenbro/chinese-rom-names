@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3EAC5CC0",
+   "name": "口袋妖怪 白 V3修正版(简繁)(JP)(ACG汉化组&ykaljshsh)(-2048Mb).nds",
+   "size": 268435456
+  }
+ ],
+ "group": "Pocket Monsters - White",
+ "id": "ver-nds-3eac5cc0",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "CAA820CB",
+  "no_intro_name": "Pocket Monsters - White (Japan) (NDSi Enhanced)",
+  "region": "Japan",
+  "size": 268435456
+ },
+ "platform": "nds",
+ "script": "简繁",
+ "serial": "IRAJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Pocket Monsters - White (Japan) (NDSi Enhanced)",
+  "zh-Hans": "口袋妖怪 白 V3修正版"
+ },
+ "vendor": "ACG汉化组&ykaljshsh",
+ "version": ""
+}

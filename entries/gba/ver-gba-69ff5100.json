@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "69FF5100",
+   "name": "口袋妖怪 - 叶绿[chr5122](日版AI汉化v1.1)(简)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Pocket Monsters - LeafGreen",
+ "id": "ver-gba-69ff5100",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "0A48556B",
+  "no_intro_name": "Pocket Monsters - LeafGreen (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "BPGJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Pocket Monsters - LeafGreen (Japan)",
+  "zh-Hans": "口袋妖怪 - 叶绿"
+ },
+ "vendor": "chr5122",
+ "version": "v1.1"
+}

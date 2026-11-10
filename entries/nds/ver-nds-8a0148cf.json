@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8A0148CF",
+   "name": "上海 最终版(JP)(E.Wings汉化组)(64Mb).nds",
+   "size": 8388608
+  }
+ ],
+ "group": "Shanghai",
+ "id": "ver-nds-8a0148cf",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "A5E4356C",
+  "no_intro_name": "Shanghai (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "AS8J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Shanghai (Japan)",
+  "zh-Hans": "上海 最终版"
+ },
+ "vendor": "E.Wings汉化组",
+ "version": ""
+}

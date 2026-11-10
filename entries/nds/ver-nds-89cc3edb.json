@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "89CC3EDB",
+   "name": "勇者斗恶龙9 星空守望者 最终完美版(简)(JP)(ACG汉化组)(2047.99Mb).nds",
+   "size": 240073276
+  }
+ ],
+ "group": "Dragon Quest IX - Hoshizora no Mamoribito",
+ "id": "ver-nds-89cc3edb",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "E8E285F2",
+  "no_intro_name": "Dragon Quest IX - Hoshizora no Mamoribito (Japan)",
+  "region": "Japan",
+  "size": 268435456
+ },
+ "platform": "nds",
+ "script": "简",
+ "serial": "YDQJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Dragon Quest IX - Hoshizora no Mamoribito (Japan)",
+  "zh-Hans": "勇者斗恶龙9 星空守望者 最终完美版"
+ },
+ "vendor": "ACG汉化组",
+ "version": ""
+}

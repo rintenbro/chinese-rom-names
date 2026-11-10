@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-45b73c30c663/title.png"
+ },
+ "description": "《口袋怪兽3》是恒格电子在红白机上发行的角色扮演游戏。作品以收集与培养怪兽为核心，玩家在野外捕捉怪兽、培养并使其进化，挑战道馆与对手。整体采用像素画面，关卡数量与难度随流程逐步提高。",
+ "description_source": "ai",
+ "files": [
+  {
+   "crc32": "725A7EAE",
+   "name": "口袋怪兽3(简)[恒格电子](CN)[RPG](8Mb).nes",
+   "size": 1048848
+  }
+ ],
+ "genre": "RPG",
+ "group": "口袋怪兽3",
+ "id": "cn-45b73c30c663",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "口袋怪兽3"
+ },
+ "type": "original",
+ "vendor": "恒格电子",
+ "vendor_full": "",
+ "year": null
+}

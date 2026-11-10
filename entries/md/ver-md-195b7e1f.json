@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "195B7E1F",
+   "name": "梦幻模拟战(2018新dump)(8Mb).bin",
+   "size": 1048576
+  }
+ ],
+ "group": "Menghuan Moni Zhan",
+ "id": "ver-md-195b7e1f",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "195B7E1F",
+  "no_intro_name": "Menghuan Moni Zhan (China) (Pirate)",
+  "region": "China",
+  "size": 1048576
+ },
+ "platform": "md",
+ "script": "未标注",
+ "serial": "T-24046-00",
+ "source": "no-intro",
+ "titles": {
+  "en": "Menghuan Moni Zhan (China) (Pirate)",
+  "zh-Hans": "梦幻模拟战"
+ },
+ "vendor": "",
+ "version": ""
+}

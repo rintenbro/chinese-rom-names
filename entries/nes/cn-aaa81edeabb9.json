@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-aaa81edeabb9/title.png"
+ },
+ "description": "《口袋怪兽 绿叶版》是恒格电子在红白机上发行的角色扮演游戏。作品以收集与培养怪兽为核心，玩家在野外捕捉怪兽、培养并使其进化，挑战道馆与对手。作品以卡带形式发行，内容与文本均为中文重新制作。",
+ "description_source": "ai",
+ "files": [
+  {
+   "crc32": "8B619514",
+   "name": "口袋怪兽 绿叶版(简)[恒格电子](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "genre": null,
+ "group": "口袋怪兽 绿叶版",
+ "id": "cn-aaa81edeabb9",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "口袋怪兽 绿叶版"
+ },
+ "type": "original",
+ "vendor": "恒格电子",
+ "vendor_full": "",
+ "year": null
+}

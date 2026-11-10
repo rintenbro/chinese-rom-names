@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1608F6DB",
+   "name": "古惑狼4[D商+dcillbleed](256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Gu Huo Lang 4",
+ "id": "ver-gba-1608f6db",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "1608F6DB",
+  "no_intro_name": "Gu Huo Lang 4 (Taiwan)",
+  "region": "Taiwan",
+  "size": 33554432
+ },
+ "platform": "gba",
+ "script": "未标注",
+ "serial": "",
+ "source": "no-intro",
+ "titles": {
+  "en": "Gu Huo Lang 4 (Taiwan)",
+  "zh-Hans": "古惑狼4"
+ },
+ "vendor": "D商+dcillbleed",
+ "version": ""
+}

@@ -1,0 +1,39 @@
+{
+ "aliases": [
+  "San Guo Zhi - Ao Shi Tian Xia (China) [CHT]",
+  "San Guo Zhi - Ao Shi Tian Xia (China) [CHS]"
+ ],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-0560e494d0c8/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "9EDADBA8",
+   "name": "三国志 - 傲视天下 (繁) (广誉科技).gbc",
+   "size": 1048576
+  },
+  {
+   "crc32": "347FA444",
+   "name": "三国志 - 傲视天下(简)(广誉科技)(CN)(8Mb).gbc",
+   "size": 1048576
+  }
+ ],
+ "genre": null,
+ "group": "三国志 - 傲视天下",
+ "id": "cn-0560e494d0c8",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "三国志 - 傲视天下"
+ },
+ "type": "original",
+ "vendor": "",
+ "vendor_full": "",
+ "year": null
+}

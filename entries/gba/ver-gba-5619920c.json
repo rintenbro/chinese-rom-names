@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5619920C",
+   "name": "合金射击者(合金神枪客)[Amonwang+流星落月](2026文本修正)(简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Metalgun Slinger",
+ "id": "ver-gba-5619920c",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "8DFB7A2F",
+  "no_intro_name": "Metalgun Slinger (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "AAPJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Metalgun Slinger (Japan)",
+  "zh-Hans": "合金射击者"
+ },
+ "vendor": "Amonwang+流星落月",
+ "version": ""
+}

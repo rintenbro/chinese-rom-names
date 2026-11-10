@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nds/cn-71bebac0999c/title.png"
+ },
+ "description": "《Level5 试玩版合集》是 2007 年东京电玩展发放的非卖品试玩卡带，收录《闪电十一人》与《雷顿教授》等作品的体验版。卡带仅用于展会现场演示，未在商店销售，收录内容为各作的短篇试玩。",
+ "description_source": "ai",
+ "files": [
+  {
+   "crc32": "52408F72",
+   "name": "Level5 试玩版合集(CN)(巴士汉化组)(256Mb).nds",
+   "size": 32888704
+  }
+ ],
+ "genre": null,
+ "group": "Level5 Premium",
+ "id": "cn-71bebac0999c",
+ "layer": "self",
+ "original": null,
+ "platform": "nds",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "Level5 试玩版合集"
+ },
+ "type": "original",
+ "vendor": "巴士汉化组",
+ "vendor_full": "",
+ "year": null
+}

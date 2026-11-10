@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-6c5fb2b34d24/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "D3D3C7B8",
+   "name": "小霸王中英文电脑学习机(v8.0)(简)[小霸王](CN)[ETC](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "genre": null,
+ "group": "小霸王中英文电脑学习机",
+ "id": "cn-6c5fb2b34d24",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "小霸王中英文电脑学习机"
+ },
+ "type": "hack",
+ "vendor": "小霸王",
+ "vendor_full": "中山市小霸王电子工业公司 / Subor（小霸王文化发展有限公司）",
+ "year": null
+}

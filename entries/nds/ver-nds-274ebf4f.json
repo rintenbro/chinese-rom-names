@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "274EBF4F",
+   "name": "圣洁传说V2(简)(JP)(ACG汉化组)(1024Mb).nds",
+   "size": 130109052
+  }
+ ],
+ "group": "Tales of Innocence",
+ "id": "ver-nds-274ebf4f",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "AFA9C467",
+  "no_intro_name": "Tales of Innocence (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "简",
+ "serial": "AYTJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Tales of Innocence (Japan)",
+  "zh-Hans": "圣洁传说V2"
+ },
+ "vendor": "ACG汉化组",
+ "version": ""
+}

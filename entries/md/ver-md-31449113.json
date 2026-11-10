@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "31449113",
+   "name": "黑桃2 (繁) (川普科技)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Hei Tao 2 - Super Big 2",
+ "id": "ver-md-31449113",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "31449113",
+  "no_intro_name": "Hei Tao 2 - Super Big 2 (Taiwan)",
+  "region": "Taiwan",
+  "size": 1048576
+ },
+ "platform": "md",
+ "script": "繁",
+ "serial": "",
+ "source": "no-intro",
+ "titles": {
+  "en": "Hei Tao 2 - Super Big 2 (Taiwan)",
+  "zh-Hans": "黑桃2"
+ },
+ "vendor": "",
+ "version": ""
+}

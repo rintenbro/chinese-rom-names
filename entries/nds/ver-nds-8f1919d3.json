@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8F1919D3",
+   "name": "盗贼皇女(JP)(ACG汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Steal Princess - Touzoku Koujo",
+ "id": "ver-nds-8f1919d3",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "A92BAD7E",
+  "no_intro_name": "Steal Princess - Touzoku Koujo (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "YP9J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Steal Princess - Touzoku Koujo (Japan)",
+  "zh-Hans": "盗贼皇女"
+ },
+ "vendor": "ACG汉化组",
+ "version": ""
+}

@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BF4DB9E3",
+   "name": "牧场物语 双子村(JP)(SOMA汉化组)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Bokujou Monogatari - Futago no Mura",
+ "id": "ver-nds-bf4db9e3",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "B0D2D6F4",
+  "no_intro_name": "Bokujou Monogatari - Futago no Mura (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "BKUJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Bokujou Monogatari - Futago no Mura (Japan)",
+  "zh-Hans": "牧场物语 双子村"
+ },
+ "vendor": "SOMA汉化组",
+ "version": ""
+}

@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FC434645",
+   "name": "真三国无双Advance[星宇工作室](简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Shin Sangoku Musou Advance",
+ "id": "ver-gba-fc434645",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "FE1BE6C1",
+  "no_intro_name": "Shin Sangoku Musou Advance (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "B36J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Shin Sangoku Musou Advance (Japan)",
+  "zh-Hans": "真三国无双Advance"
+ },
+ "vendor": "星宇工作室",
+ "version": ""
+}

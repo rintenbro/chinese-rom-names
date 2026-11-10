@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3CAF589C",
+   "name": "刺客信条2 英文字幕+中文配音最终版(fciq配音小组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Assassin's Creed II - Discovery",
+ "id": "ver-nds-3caf589c",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "3B902942",
+  "no_intro_name": "Assassin's Creed II - Discovery (USA) (En,Fr,Es) (NDSi Enhanced)",
+  "region": "USA",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "VACE",
+ "source": "no-intro",
+ "titles": {
+  "en": "Assassin's Creed II - Discovery (USA) (En,Fr,Es) (NDSi Enhanced)",
+  "zh-Hans": "刺客信条2 英文字幕+中文配音最终版"
+ },
+ "vendor": "fciq配音小组",
+ "version": ""
+}

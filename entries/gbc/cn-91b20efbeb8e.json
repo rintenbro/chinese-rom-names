@@ -1,0 +1,33 @@
+{
+ "aliases": [
+  "Digimon - Computer Version (China) [CHT]"
+ ],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-91b20efbeb8e/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "E34EDD08",
+   "name": "数码暴龙 - 电脑篇 (繁) (Yong Yong).gbc",
+   "size": 1048576
+  }
+ ],
+ "genre": null,
+ "group": "数码暴龙 - 电脑篇",
+ "id": "cn-91b20efbeb8e",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "数码暴龙 - 电脑篇"
+ },
+ "type": "original",
+ "vendor": "Yong Yong",
+ "vendor_full": "",
+ "year": null
+}

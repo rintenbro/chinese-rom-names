@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A443D292",
+   "name": "三国志DS 0707(JP)(飞狐)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Sangokushi DS",
+ "id": "ver-nds-a443d292",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "D73DC305",
+  "no_intro_name": "Sangokushi DS (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "A3GJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Sangokushi DS (Japan)",
+  "zh-Hans": "三国志DS 0707"
+ },
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6F2DF7C4",
+   "name": "神游 斯塔非的传说[未发售](简)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Sitafei De Chuanshuo",
+ "id": "ver-gba-6f2df7c4",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "6F2DF7C4",
+  "no_intro_name": "Sitafei De Chuanshuo (China) (Proto)",
+  "region": "China",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "ASTC",
+ "source": "no-intro",
+ "titles": {
+  "en": "Sitafei De Chuanshuo (China) (Proto)",
+  "zh-Hans": "神游 斯塔非的传说"
+ },
+ "vendor": "未发售",
+ "version": ""
+}

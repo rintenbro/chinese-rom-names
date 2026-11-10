@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F775E80D",
+   "name": "拼图世界 大激斗！拼图战斗英雄(JP)(ACG汉化组)(512Mb).nds",
+   "size": 66559240
+  }
+ ],
+ "group": "Jigsaw World - Daigekitou! Jig Battle Heroes",
+ "id": "ver-nds-f775e80d",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "B552D888",
+  "no_intro_name": "Jigsaw World - Daigekitou! Jig Battle Heroes (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "YUJJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Jigsaw World - Daigekitou! Jig Battle Heroes (Japan)",
+  "zh-Hans": "拼图世界 大激斗！拼图战斗英雄"
+ },
+ "vendor": "ACG汉化组",
+ "version": ""
+}

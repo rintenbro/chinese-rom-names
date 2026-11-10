@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4F16823C",
+   "name": "数码宝贝 - 战魂2[Advance](简)(JP)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "Digimon - Battle Spirit 2",
+ "id": "ver-gba-4f16823c",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "00C906A3",
+  "no_intro_name": "Digimon - Battle Spirit 2 (Europe) (En,Fr,De,Es,It)",
+  "region": "Europe",
+  "size": 4194304
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "BDSP",
+ "source": "no-intro",
+ "titles": {
+  "en": "Digimon - Battle Spirit 2 (Europe) (En,Fr,De,Es,It)",
+  "zh-Hans": "数码宝贝 - 战魂2"
+ },
+ "vendor": "Advance",
+ "version": ""
+}

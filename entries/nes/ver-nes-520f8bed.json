@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "520F8BED",
+   "name": "霸王的大陆(加强版)(简)[酷哥电子](JP)[SLG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "Bawang de Dalu - Zhongwen Jiaqiang Ban",
+ "id": "ver-nes-520f8bed",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "520F8BED",
+  "no_intro_name": "Bawang de Dalu - Zhongwen Jiaqiang Ban (China) (Pirate)",
+  "region": "China",
+  "size": 786448
+ },
+ "platform": "nes",
+ "script": "简",
+ "serial": "",
+ "source": "no-intro",
+ "titles": {
+  "en": "Bawang de Dalu - Zhongwen Jiaqiang Ban (China) (Pirate)",
+  "zh-Hans": "霸王的大陆"
+ },
+ "vendor": "酷哥电子",
+ "version": ""
+}

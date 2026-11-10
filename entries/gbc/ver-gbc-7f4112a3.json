@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7F4112A3",
+   "name": "洛克人X3 (繁) (广誉科技).gbc",
+   "size": 524288
+  }
+ ],
+ "group": "Rockman X3",
+ "id": "ver-gbc-7f4112a3",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "7F4112A3",
+  "no_intro_name": "Rockman X3 (Taiwan)",
+  "region": "Taiwan",
+  "size": 524288
+ },
+ "platform": "gbc",
+ "script": "繁",
+ "serial": "",
+ "source": "no-intro",
+ "titles": {
+  "en": "Rockman X3 (Taiwan)",
+  "zh-Hans": "洛克人X3"
+ },
+ "vendor": "",
+ "version": ""
+}

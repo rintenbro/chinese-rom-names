@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "717A5D19",
+   "name": "古墓丽影 - 诅咒之剑 (简) (unknown).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Tomb Raider 2",
+ "id": "ver-gbc-717a5d19",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "717A5D19",
+  "no_intro_name": "Tomb Raider 2 (Taiwan)",
+  "region": "Taiwan",
+  "size": 4194304
+ },
+ "platform": "gbc",
+ "script": "简",
+ "serial": "",
+ "source": "no-intro",
+ "titles": {
+  "en": "Tomb Raider 2 (Taiwan)",
+  "zh-Hans": "古墓丽影 - 诅咒之剑"
+ },
+ "vendor": "unknown",
+ "version": ""
+}

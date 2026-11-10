@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2192955D",
+   "name": "棋魂[模拟天下&CGP](繁)(JP)(65.58Mb).gba",
+   "size": 8596768
+  }
+ ],
+ "group": "Hikaru no Go",
+ "id": "ver-gba-2192955d",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "5A6C7537",
+  "no_intro_name": "Hikaru no Go (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "繁",
+ "serial": "AHKJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Hikaru no Go (Japan)",
+  "zh-Hans": "棋魂"
+ },
+ "vendor": "模拟天下&CGP",
+ "version": ""
+}

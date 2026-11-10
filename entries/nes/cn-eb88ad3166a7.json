@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-eb88ad3166a7/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "94CF6EB4",
+   "name": "超级魂(简)[烟山软件](CN)[ACT](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "genre": null,
+ "group": "超级魂",
+ "id": "cn-eb88ad3166a7",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "超级魂"
+ },
+ "type": "hack",
+ "vendor": "烟山软件",
+ "vendor_full": "",
+ "year": null
+}

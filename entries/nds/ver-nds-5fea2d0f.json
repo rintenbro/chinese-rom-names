@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5FEA2D0F",
+   "name": "最终幻想3(繁)V5 Goldeneye(JP)(Goldeneye)(1024Mb).nds",
+   "size": 102909120
+  }
+ ],
+ "group": "Final Fantasy III",
+ "id": "ver-nds-5fea2d0f",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "54B95690",
+  "no_intro_name": "Final Fantasy III (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "繁",
+ "serial": "AFFJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Final Fantasy III (Japan)",
+  "zh-Hans": "最终幻想3V5 Goldeneye"
+ },
+ "vendor": "Goldeneye",
+ "version": ""
+}

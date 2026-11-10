@@ -1,0 +1,33 @@
+{
+ "aliases": [
+  "Liang Shan Heroes (China) [CHS]"
+ ],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-f178e084fffa/title.png"
+ },
+ "description": "《梁山英雄》是 Game Boy Color 上的中文角色扮演游戏。玩家扮演梁山好汉在各地冒险，通过对话了解任务、在战斗中击败对手，逐步集结伙伴并推进故事，整体以简化的掌机画面呈现。",
+ "description_source": "ai",
+ "files": [
+  {
+   "crc32": "45D1FF56",
+   "name": "梁山英雄(Fix)(简)(dhx)(16Mb).gb",
+   "size": 2097152
+  }
+ ],
+ "genre": null,
+ "group": "梁山英雄",
+ "id": "cn-f178e084fffa",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "梁山英雄"
+ },
+ "type": "original",
+ "vendor": "",
+ "vendor_full": "",
+ "year": null
+}

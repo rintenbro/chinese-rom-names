@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-6a0abfdf67a1/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "A110F399",
+   "name": "美女拳(繁)[圣谦](CN)[PUZ](1.25Mb).nes",
+   "size": 163856
+  }
+ ],
+ "genre": null,
+ "group": "美女拳",
+ "id": "cn-6a0abfdf67a1",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "美女拳"
+ },
+ "type": "original",
+ "vendor": "圣谦",
+ "vendor_full": "聖謙企業股份有限公司 / Thin Chen Enterprise (Sachen)",
+ "year": "1990"
+}

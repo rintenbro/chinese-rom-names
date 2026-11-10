@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "58C7F57C",
+   "name": "逆转检事完美汉化版(JP)(逆转ACE)(512Mb).nds",
+   "size": 58756432
+  }
+ ],
+ "group": "Gyakuten Kenji",
+ "id": "ver-nds-58c7f57c",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "C363EBF5",
+  "no_intro_name": "Gyakuten Kenji (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "C32J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Gyakuten Kenji (Japan)",
+  "zh-Hans": "逆转检事完美汉化版"
+ },
+ "vendor": "",
+ "version": ""
+}

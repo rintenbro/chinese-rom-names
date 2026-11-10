@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E9D60F1A",
+   "name": "续我们的太阳 - 太阳少年加戈[TGB&逆转Ace&太阳少年汉化组](V2.0)(简)(JP)(128Mb)(移除光补丁).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Zoku Bokura no Taiyou - Taiyou Shounen Django",
+ "id": "ver-gba-e9d60f1a",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "2804E589",
+  "no_intro_name": "Zoku Bokura no Taiyou - Taiyou Shounen Django (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "U32J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Zoku Bokura no Taiyou - Taiyou Shounen Django (Japan)",
+  "zh-Hans": "续我们的太阳 - 太阳少年加戈"
+ },
+ "vendor": "TGB&逆转Ace&太阳少年汉化组",
+ "version": "V2.0"
+}

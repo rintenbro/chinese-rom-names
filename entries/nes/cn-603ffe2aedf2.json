@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-603ffe2aedf2/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "07FC7C4D",
+   "name": "有声词霸(简)[小霸王](CN)[ETC](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "genre": null,
+ "group": "有声词霸",
+ "id": "cn-603ffe2aedf2",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "有声词霸"
+ },
+ "type": "original",
+ "vendor": "小霸王",
+ "vendor_full": "中山市小霸王电子工业公司 / Subor（小霸王文化发展有限公司）",
+ "year": null
+}

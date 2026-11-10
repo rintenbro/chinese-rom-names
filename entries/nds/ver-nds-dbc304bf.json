@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DBC304BF",
+   "name": "心灵传说 动画版(繁)7.31(JP)(hce790219)(2047.99Mb).nds",
+   "size": 249772240
+  }
+ ],
+ "group": "Tales of Hearts - Anime Movie Edition",
+ "id": "ver-nds-dbc304bf",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "82C1282F",
+  "no_intro_name": "Tales of Hearts - Anime Movie Edition (Japan)",
+  "region": "Japan",
+  "size": 268435456
+ },
+ "platform": "nds",
+ "script": "繁",
+ "serial": "CTUJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Tales of Hearts - Anime Movie Edition (Japan)",
+  "zh-Hans": "心灵传说 动画版7.31"
+ },
+ "vendor": "hce790219",
+ "version": ""
+}

@@ -1,0 +1,33 @@
+{
+ "aliases": [
+  "Scar of the Sky, The (China) [CHS]"
+ ],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-7c9fada54587/title.png"
+ },
+ "description": "《天之痕》是 Game Boy Color 上的中文角色扮演游戏，改编自大宇资讯的同名电脑作品。受掌机机能限制，游戏以简化画面重现原作剧情，玩家沿主线推进、在回合制战斗中击败敌人。",
+ "description_source": "ai",
+ "files": [
+  {
+   "crc32": "B9CF45B3",
+   "name": "天之痕(简)(dhx)(32Mb).gb",
+   "size": 4194304
+  }
+ ],
+ "genre": null,
+ "group": "天之痕",
+ "id": "cn-7c9fada54587",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "天之痕"
+ },
+ "type": "original",
+ "vendor": "dhx",
+ "vendor_full": "",
+ "year": null
+}

@@ -1,0 +1,33 @@
+{
+ "aliases": [
+  "World of Warcraft - Mars (China) [CHT]"
+ ],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-d28cc97352d4/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "4D2BF2EE",
+   "name": "魔兽世纪 战神 (繁) (新特奇).gbc",
+   "size": 4194304
+  }
+ ],
+ "genre": null,
+ "group": "魔兽世纪 战神",
+ "id": "cn-d28cc97352d4",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "魔兽世纪 战神"
+ },
+ "type": "original",
+ "vendor": "",
+ "vendor_full": "",
+ "year": null
+}

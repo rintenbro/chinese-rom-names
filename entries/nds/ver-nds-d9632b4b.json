@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D9632B4B",
+   "name": "最终幻想4(简)(JP)(巴士汉化组)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Final Fantasy IV",
+ "id": "ver-nds-d9632b4b",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "856E17F4",
+  "no_intro_name": "Final Fantasy IV (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "简",
+ "serial": "YF4J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Final Fantasy IV (Japan)",
+  "zh-Hans": "最终幻想4"
+ },
+ "vendor": "巴士汉化组",
+ "version": ""
+}

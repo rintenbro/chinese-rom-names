@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A6A9BD59",
+   "name": "气球泡泡(US)(xedftxz)(64Mb).nds",
+   "size": 8388608
+  }
+ ],
+ "group": "Balloon Pop",
+ "id": "ver-nds-a6a9bd59",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "9250B59E",
+  "no_intro_name": "Balloon Pop (USA)",
+  "region": "USA",
+  "size": 8388608
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "BLTE",
+ "source": "no-intro",
+ "titles": {
+  "en": "Balloon Pop (USA)",
+  "zh-Hans": "气球泡泡"
+ },
+ "vendor": "xedftxz",
+ "version": ""
+}

@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "36EBDCAC",
+   "name": "迷宫制造者 魔法铲和小勇者(简)(JP)(巴士汉化组)(512Mb).nds",
+   "size": 41430568
+  }
+ ],
+ "group": "Dungeon Maker - Mahou no Shovel to Chiisana Yuusha",
+ "id": "ver-nds-36ebdcac",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "45E4E96E",
+  "no_intro_name": "Dungeon Maker - Mahou no Shovel to Chiisana Yuusha (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "简",
+ "serial": "YLDJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Dungeon Maker - Mahou no Shovel to Chiisana Yuusha (Japan)",
+  "zh-Hans": "迷宫制造者 魔法铲和小勇者"
+ },
+ "vendor": "巴士汉化组",
+ "version": ""
+}

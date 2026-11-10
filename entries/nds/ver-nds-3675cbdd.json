@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3675CBDD",
+   "name": "钢之羽(繁)(JP)(dream75421)(512Mb).nds",
+   "size": 66870272
+  }
+ ],
+ "group": "Iron Feather",
+ "id": "ver-nds-3675cbdd",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "337B8394",
+  "no_intro_name": "Iron Feather (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "繁",
+ "serial": "AIFJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Iron Feather (Japan)",
+  "zh-Hans": "钢之羽"
+ },
+ "vendor": "dream75421",
+ "version": ""
+}

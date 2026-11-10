@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6FA284DB",
+   "name": "奇幻旅程(奇幻儿童)[Advance汉化组](v0.2)(简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Fantastic Children",
+ "id": "ver-gba-6fa284db",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "FEFE25BE",
+  "no_intro_name": "Fantastic Children (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "BFCJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Fantastic Children (Japan)",
+  "zh-Hans": "奇幻旅程"
+ },
+ "vendor": "Advance汉化组",
+ "version": "v0.2"
+}

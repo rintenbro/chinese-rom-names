@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "09AEBF7F",
+   "name": "大众软件系列 - 上海[PGCG](简)(JP)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "Minna no Soft Series - Shanghai",
+ "id": "ver-gba-09aebf7f",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "FEEFEDDC",
+  "no_intro_name": "Minna no Soft Series - Shanghai (Japan)",
+  "region": "Japan",
+  "size": 4194304
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "BSHJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Minna no Soft Series - Shanghai (Japan)",
+  "zh-Hans": "大众软件系列 - 上海"
+ },
+ "vendor": "",
+ "version": ""
+}

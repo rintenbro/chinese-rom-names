@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6300C40D",
+   "name": "计算力瞬间解答 计算DS练习(繁)(JP)(oni999)(64Mb).nds",
+   "size": 6290432
+  }
+ ],
+ "group": "Tossa no Keisan Shunkan Kaitou - Keisan DS Training",
+ "id": "ver-nds-6300c40d",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "22D1B711",
+  "no_intro_name": "Tossa no Keisan Shunkan Kaitou - Keisan DS Training (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "nds",
+ "script": "繁",
+ "serial": "A3KJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Tossa no Keisan Shunkan Kaitou - Keisan DS Training (Japan)",
+  "zh-Hans": "计算力瞬间解答 计算DS练习"
+ },
+ "vendor": "oni999",
+ "version": ""
+}

@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3F5198CF",
+   "name": "口袋妖怪 黑2 V2(JP)(ACG汉化组&口袋群星SP)(0Mb).nds",
+   "size": 320468992
+  }
+ ],
+ "group": "Pocket Monsters - Black 2",
+ "id": "ver-nds-3f5198cf",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "29C68B2B",
+  "no_intro_name": "Pocket Monsters - Black 2 (Japan) (Rev 1) (NDSi Enhanced)",
+  "region": "Japan",
+  "size": 536870912
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "IREJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Pocket Monsters - Black 2 (Japan) (Rev 1) (NDSi Enhanced)",
+  "zh-Hans": "口袋妖怪 黑2 V2"
+ },
+ "vendor": "ACG汉化组&口袋群星SP",
+ "version": ""
+}

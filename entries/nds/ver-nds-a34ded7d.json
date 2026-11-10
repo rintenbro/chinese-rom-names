@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A34DED7D",
+   "name": "东京黄昏狩猎者 禁忌的活祭品帝都地狱纪事(简)(飞云+主播萌杀)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Tokyo Twilight Busters - Kindan no Ikenie Teito Jigokuhen",
+ "id": "ver-nds-a34ded7d",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "8187E34A",
+  "no_intro_name": "Tokyo Twilight Busters - Kindan no Ikenie Teito Jigokuhen (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "简",
+ "serial": "CVAJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Tokyo Twilight Busters - Kindan no Ikenie Teito Jigokuhen (Japan)",
+  "zh-Hans": "东京黄昏狩猎者 禁忌的活祭品帝都地狱纪事"
+ },
+ "vendor": "飞云+主播萌杀",
+ "version": ""
+}

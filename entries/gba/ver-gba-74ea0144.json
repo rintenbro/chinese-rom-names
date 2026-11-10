@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "74EA0144",
+   "name": "友情足球 4v4 - 得分!![Goldegg](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Yuujou no Victory Goal 4v4 Arashi - Get the Goal!!",
+ "id": "ver-gba-74ea0144",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "CE987F90",
+  "no_intro_name": "Yuujou no Victory Goal 4v4 Arashi - Get the Goal!! (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "A4VJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Yuujou no Victory Goal 4v4 Arashi - Get the Goal!! (Japan)",
+  "zh-Hans": "友情足球 4v4 - 得分!!"
+ },
+ "vendor": "Goldegg",
+ "version": ""
+}

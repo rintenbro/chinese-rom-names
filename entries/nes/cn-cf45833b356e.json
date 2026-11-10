@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-cf45833b356e/title.png"
+ },
+ "description": "《扑克精灵》是Idea-Tek在红白机上发行的桌面游戏。作品以扑克牌局为核心，玩家按规则下注、比牌，争取赢下对局。游戏以中文界面呈现，操作与菜单针对掌机规模作了简化。",
+ "description_source": "ai",
+ "files": [
+  {
+   "crc32": "20D325C2",
+   "name": "扑克精灵(繁)[Idea-Tek](CN)[TAB](0.37Mb).nes",
+   "size": 49168
+  }
+ ],
+ "genre": null,
+ "group": "扑克精灵",
+ "id": "cn-cf45833b356e",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "扑克精灵"
+ },
+ "type": "original",
+ "vendor": "Idea-Tek",
+ "vendor_full": "",
+ "year": null
+}

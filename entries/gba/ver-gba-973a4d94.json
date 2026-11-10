@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "973A4D94",
+   "name": "新我们的太阳 - 逆袭的萨巴塔[TGB&逆转Ace](Beta)(简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Shin Bokura no Taiyou - Gyakushuu no Sabata",
+ "id": "ver-gba-973a4d94",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "AF453162",
+  "no_intro_name": "Shin Bokura no Taiyou - Gyakushuu no Sabata (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "U33J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Shin Bokura no Taiyou - Gyakushuu no Sabata (Japan)",
+  "zh-Hans": "新我们的太阳 - 逆袭的萨巴塔"
+ },
+ "vendor": "TGB&逆转Ace",
+ "version": ""
+}

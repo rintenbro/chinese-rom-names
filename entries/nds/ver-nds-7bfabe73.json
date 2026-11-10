@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7BFABE73",
+   "name": "灼眼的夏娜DS(JP)(扑家汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Shakugan no Shana DS",
+ "id": "ver-nds-7bfabe73",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "18B13A57",
+  "no_intro_name": "Shakugan no Shana DS (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "AXXJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Shakugan no Shana DS (Japan)",
+  "zh-Hans": "灼眼的夏娜DS"
+ },
+ "vendor": "扑家汉化组",
+ "version": ""
+}

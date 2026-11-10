@@ -1,0 +1,33 @@
+{
+ "aliases": [
+  "Xue Zhan San Guo (China) [CHS]"
+ ],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-c8f08160858a/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "8BCCDB54",
+   "name": "血战三国(简)(外星科技+星夜之幻+dhx)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "genre": null,
+ "group": "血战三国",
+ "id": "cn-c8f08160858a",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "血战三国"
+ },
+ "type": "original",
+ "vendor": "外星科技+星夜之幻+dhx",
+ "vendor_full": "福州外星电脑科技有限公司 / Waixing Science & Technology（WAIXING COMPUTER SCIENCE & TECHNOLOGY CO.,LTD）",
+ "year": null
+}

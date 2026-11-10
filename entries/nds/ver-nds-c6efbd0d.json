@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C6EFBD0D",
+   "name": "弧光之源2 意志(JP)(小黑屋汉化组)(1024Mb).nds",
+   "size": 124431284
+  }
+ ],
+ "group": "Luminous Arc 2 - Will",
+ "id": "ver-nds-c6efbd0d",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "719C5AE5",
+  "no_intro_name": "Luminous Arc 2 - Will (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "YL2J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Luminous Arc 2 - Will (Japan)",
+  "zh-Hans": "弧光之源2 意志"
+ },
+ "vendor": "小黑屋汉化组",
+ "version": ""
+}

@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-f6d53e1acd3b/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "B3186F98",
+   "name": "挑战卡(v3.1)(简)[新科](CN)[ETC](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "挑战卡",
+ "id": "cn-f6d53e1acd3b",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "挑战卡"
+ },
+ "type": "hack",
+ "vendor": "新科",
+ "vendor_full": "",
+ "year": null
+}

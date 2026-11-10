@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D3040C4C",
+   "name": "符文工房3 简体中文配音版(JP)(SOMA汉化组与新语联盟配音社)(1024Mb).nds",
+   "size": 165549088
+  }
+ ],
+ "group": "Rune Factory 3",
+ "id": "ver-nds-d3040c4c",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "4E0D536F",
+  "no_intro_name": "Rune Factory 3 (Japan)",
+  "region": "Japan",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "BRFJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Rune Factory 3 (Japan)",
+  "zh-Hans": "符文工房3 简体中文配音版"
+ },
+ "vendor": "SOMA汉化组与新语联盟配音社",
+ "version": ""
+}

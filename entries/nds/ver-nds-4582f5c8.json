@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4582F5C8",
+   "name": "天诛DS 暗影(JP)(seikoya)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Tenchu - Dark Shadow",
+ "id": "ver-nds-4582f5c8",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "0B3D84B7",
+  "no_intro_name": "Tenchu - Dark Shadow (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "ACUJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Tenchu - Dark Shadow (Japan)",
+  "zh-Hans": "天诛DS 暗影"
+ },
+ "vendor": "seikoya",
+ "version": ""
+}

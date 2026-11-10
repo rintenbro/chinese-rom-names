@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F77E470D",
+   "name": "马里奥VS.大金刚[Flyeyes](简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Mario vs. Donkey Kong",
+ "id": "ver-gba-f77e470d",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "7C2B5269",
+  "no_intro_name": "Mario vs. Donkey Kong (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "BM5J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Mario vs. Donkey Kong (Japan)",
+  "zh-Hans": "马里奥VS.大金刚"
+ },
+ "vendor": "Flyeyes",
+ "version": ""
+}

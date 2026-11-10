@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C0E4A02F",
+   "name": "千年家族人 [名职业汉化修正][sten42][20180221](简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Sennen Kazoku",
+ "id": "ver-gba-c0e4a02f",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "A2F6976C",
+  "no_intro_name": "Sennen Kazoku (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "BKAJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Sennen Kazoku (Japan)",
+  "zh-Hans": "千年家族人"
+ },
+ "vendor": "sten42",
+ "version": ""
+}

@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1F65BA40",
+   "name": "高级战争1+2[深山闲人](b16)(简)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Game Boy Wars Advance 1+2",
+ "id": "ver-gba-1f65ba40",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "49EE1FDD",
+  "no_intro_name": "Game Boy Wars Advance 1+2 (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "BGWJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Game Boy Wars Advance 1+2 (Japan)",
+  "zh-Hans": "高级战争1+2"
+ },
+ "vendor": "b16 / 深山闲人",
+ "version": ""
+}

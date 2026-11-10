@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "23EEA569",
+   "name": "回转门(JP)(小黑屋汉化组)(128Mb).nds",
+   "size": 16327392
+  }
+ ],
+ "group": "Kurupoto - Atama ni Piritto Supplement Puzzle",
+ "id": "ver-nds-23eea569",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "0A891AD6",
+  "no_intro_name": "Kurupoto - Atama ni Piritto Supplement Puzzle (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "AQBJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Kurupoto - Atama ni Piritto Supplement Puzzle (Japan)",
+  "zh-Hans": "回转门"
+ },
+ "vendor": "小黑屋汉化组",
+ "version": ""
+}

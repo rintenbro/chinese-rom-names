@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5EC3AE42",
+   "name": "降魔灵符传(简)(JP)(巴士汉化组)(256Mb).nds",
+   "size": 25905728
+  }
+ ],
+ "group": "Gouma Reifu Den Izuna",
+ "id": "ver-nds-5ec3ae42",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "0279E1FF",
+  "no_intro_name": "Gouma Reifu Den Izuna (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "简",
+ "serial": "AHSJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Gouma Reifu Den Izuna (Japan)",
+  "zh-Hans": "降魔灵符传"
+ },
+ "vendor": "巴士汉化组",
+ "version": ""
+}

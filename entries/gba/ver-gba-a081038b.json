@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A081038B",
+   "name": "网球王子2003 - 火红[Kiny](简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Tennis no Ouji-sama 2003 - Passion Red",
+ "id": "ver-gba-a081038b",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "59D1DC73",
+  "no_intro_name": "Tennis no Ouji-sama 2003 - Passion Red (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "A8RJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Tennis no Ouji-sama 2003 - Passion Red (Japan)",
+  "zh-Hans": "网球王子2003 - 火红"
+ },
+ "vendor": "Kiny",
+ "version": ""
+}

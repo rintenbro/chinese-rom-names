@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D1AE060D",
+   "name": "鬼眼狂刀 - 京[CGP](简)(JP)(67.93Mb).gba",
+   "size": 8903856
+  }
+ ],
+ "group": "Samurai Deeper Kyo",
+ "id": "ver-gba-d1ae060d",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "56EAD477",
+  "no_intro_name": "Samurai Deeper Kyo (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "AOSJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Samurai Deeper Kyo (Japan)",
+  "zh-Hans": "鬼眼狂刀 - 京"
+ },
+ "vendor": "",
+ "version": ""
+}

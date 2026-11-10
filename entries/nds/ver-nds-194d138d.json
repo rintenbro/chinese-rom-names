@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "194D138D",
+   "name": "使命召唤4 现代战争 大字体版v2025+原版配音(US)(Mobile0.74+fciq配音小组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Call of Duty 4 - Modern Warfare",
+ "id": "ver-nds-194d138d",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "E9DCBAFC",
+  "no_intro_name": "Call of Duty 4 - Modern Warfare (USA)",
+  "region": "USA",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "YCOE",
+ "source": "no-intro",
+ "titles": {
+  "en": "Call of Duty 4 - Modern Warfare (USA)",
+  "zh-Hans": "使命召唤4 现代战争 大字体版v2025+原版配音"
+ },
+ "vendor": "Mobile0.74+fciq配音小组",
+ "version": ""
+}

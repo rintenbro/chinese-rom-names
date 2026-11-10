@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-2e953aa21bfd/title.png"
+ },
+ "description": "《推倒胡麻将》是凯程电子在红白机上发行的桌面游戏。作品以麻将对局为核心，玩家按规则组牌、吃碰杠，与对手比拼胡牌。游戏以中文界面呈现，操作与菜单针对掌机规模作了简化。",
+ "description_source": "ai",
+ "files": [
+  {
+   "crc32": "10C6931D",
+   "name": "推倒胡麻将(繁)[凯程电子](JP)[TAB](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "genre": null,
+ "group": "推倒胡麻将",
+ "id": "cn-2e953aa21bfd",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "推倒胡麻将"
+ },
+ "type": "original",
+ "vendor": "凯程电子",
+ "vendor_full": "",
+ "year": null
+}

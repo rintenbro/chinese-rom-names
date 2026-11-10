@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FCFA533C",
+   "name": "星际迷航 战术攻击 菜单汉化+修复舰只图形错误)(fciq汉化组)(132Mb).nds",
+   "size": 17199616
+  }
+ ],
+ "group": "Star Trek - Tactical Assault",
+ "id": "ver-nds-fcfa533c",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "6B80853A",
+  "no_intro_name": "Star Trek - Tactical Assault (USA)",
+  "region": "USA",
+  "size": 16777216
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "ATJE",
+ "source": "no-intro",
+ "titles": {
+  "en": "Star Trek - Tactical Assault (USA)",
+  "zh-Hans": "星际迷航 战术攻击 菜单汉化+修复舰只图形错误"
+ },
+ "vendor": "fciq汉化组",
+ "version": ""
+}

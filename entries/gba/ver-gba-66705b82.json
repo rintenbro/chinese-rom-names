@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "66705B82",
+   "name": "太空频道 5 - 舞拉拉的闪耀攻击[Ershu](简)(US)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Space Channel 5 - Ulala's Cosmic Attack",
+ "id": "ver-gba-66705b82",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "0666F37A",
+  "no_intro_name": "Space Channel 5 - Ulala's Cosmic Attack (USA)",
+  "region": "USA",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "A5UE",
+ "source": "no-intro",
+ "titles": {
+  "en": "Space Channel 5 - Ulala's Cosmic Attack (USA)",
+  "zh-Hans": "太空频道 5 - 舞拉拉的闪耀攻击"
+ },
+ "vendor": "Ershu",
+ "version": ""
+}

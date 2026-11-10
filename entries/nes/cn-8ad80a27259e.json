@@ -1,0 +1,41 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-8ad80a27259e/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "F5196372",
+   "name": "剑侠情缘(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  },
+  {
+   "crc32": "4B4D874A",
+   "name": "剑侠情缘(简)[晶科泰](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  },
+  {
+   "crc32": "8FA52263",
+   "name": "剑侠情缘(简)[酷哥电子](CN)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "genre": null,
+ "group": "剑侠情缘",
+ "id": "cn-8ad80a27259e",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "剑侠情缘"
+ },
+ "type": "original",
+ "vendor": "南晶科技",
+ "vendor_full": "深圳市南晶科技有限公司 / ShenZhen Nanjing Technology",
+ "year": null
+}

@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4FF24852",
+   "name": "KORG DS-10 电子乐合成模拟软件(JP)(Kulabbc)(64Mb).nds",
+   "size": 8388608
+  }
+ ],
+ "group": "Korg DS-10 Synthesizer",
+ "id": "ver-nds-4ff24852",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "3DB18D10",
+  "no_intro_name": "Korg DS-10 Synthesizer (Japan) (En)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "YJ9J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Korg DS-10 Synthesizer (Japan) (En)",
+  "zh-Hans": "KORG DS-10 电子乐合成模拟软件"
+ },
+ "vendor": "Kulabbc",
+ "version": ""
+}

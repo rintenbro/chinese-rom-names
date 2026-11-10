@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C2BB828A",
+   "name": "扭蛋！迪诺机2 龙版[Advance汉化组](v1.1)(简)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Gachasute! Dino Device 2 - Dragon",
+ "id": "ver-gba-c2bb828a",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "A63DFD2C",
+  "no_intro_name": "Gachasute! Dino Device 2 - Dragon (Japan)",
+  "region": "Japan",
+  "size": 4194304
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "A4XJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Gachasute! Dino Device 2 - Dragon (Japan)",
+  "zh-Hans": "扭蛋！迪诺机2 龙版"
+ },
+ "vendor": "Advance汉化组",
+ "version": "v1.1"
+}

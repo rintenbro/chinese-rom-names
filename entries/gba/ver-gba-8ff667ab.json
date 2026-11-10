@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8FF667AB",
+   "name": "三国志 - 英杰传[Amonwang](繁)(JP)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "Sangokushi - Eiketsuden",
+ "id": "ver-gba-8ff667ab",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "A4A1C956",
+  "no_intro_name": "Sangokushi - Eiketsuden (Japan)",
+  "region": "Japan",
+  "size": 4194304
+ },
+ "platform": "gba",
+ "script": "繁",
+ "serial": "B3EJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Sangokushi - Eiketsuden (Japan)",
+  "zh-Hans": "三国志 - 英杰传"
+ },
+ "vendor": "Amonwang",
+ "version": ""
+}

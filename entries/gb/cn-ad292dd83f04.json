@@ -1,0 +1,33 @@
+{
+ "aliases": [
+  "Rainbow Prince (China) [CHT]"
+ ],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gb/cn-ad292dd83f04/title.png"
+ },
+ "description": "《彩虹战士》是 Gowin 在 Game Boy 上发行的动作游戏。玩家操控主角在横向卷轴关卡中前进，跳跃躲避障碍并用武器攻击敌人，关卡以色彩鲜明的像素画面呈现，难度随流程逐步提高。",
+ "description_source": "ai",
+ "files": [
+  {
+   "crc32": "10F447F0",
+   "name": "彩虹战士 (繁) (Gowin)(1Mb).gb",
+   "size": 131072
+  }
+ ],
+ "genre": null,
+ "group": "彩虹战士",
+ "id": "cn-ad292dd83f04",
+ "layer": "self",
+ "original": null,
+ "platform": "gb",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "彩虹战士"
+ },
+ "type": "original",
+ "vendor": "Gowin",
+ "vendor_full": "",
+ "year": null
+}

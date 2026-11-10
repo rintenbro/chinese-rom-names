@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "30B11BC0",
+   "name": "使命召唤 现代战争 动员(小字体)(EU)(COD6临时汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Call of Duty - Modern Warfare - Mobilized",
+ "id": "ver-nds-30b11bc0",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "35026EFB",
+  "no_intro_name": "Call of Duty - Modern Warfare - Mobilized (United Kingdom)",
+  "region": "United Kingdom",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "C62P",
+ "source": "no-intro",
+ "titles": {
+  "en": "Call of Duty - Modern Warfare - Mobilized (United Kingdom)",
+  "zh-Hans": "使命召唤 现代战争 动员"
+ },
+ "vendor": "COD6临时汉化组",
+ "version": ""
+}

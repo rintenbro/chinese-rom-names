@@ -1,0 +1,33 @@
+{
+ "aliases": [
+  "Satomi Hakkenden (China) [CHS]"
+ ],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-f17431331b68/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "D01323A6",
+   "name": "八龙珠(简)(修正版)(外星科技+星夜之幻+dhx)(8Mb).gbc",
+   "size": 1048576
+  }
+ ],
+ "genre": null,
+ "group": "八龙珠",
+ "id": "cn-f17431331b68",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "八龙珠"
+ },
+ "type": "original",
+ "vendor": "外星科技+星夜之幻+dhx",
+ "vendor_full": "福州外星电脑科技有限公司 / Waixing Science & Technology（WAIXING COMPUTER SCIENCE & TECHNOLOGY CO.,LTD）",
+ "year": null
+}

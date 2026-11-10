@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-9910abcb11a3/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "532D7941",
+   "name": "金田一少年之事件簿 - 第10年的邀请函 (繁) (PPX).gbc",
+   "size": 2097152
+  }
+ ],
+ "genre": null,
+ "group": "金田一少年之事件簿 - 第10年的邀请函",
+ "id": "cn-9910abcb11a3",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "金田一少年之事件簿 - 第10年的邀请函"
+ },
+ "type": "original",
+ "vendor": "PPX",
+ "vendor_full": "",
+ "year": null
+}

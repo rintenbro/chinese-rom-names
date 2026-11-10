@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5AC01C3D",
+   "name": "携带电兽2 - 速度版[盗版&Gymzatan](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Keitai Denjuu Telefang 2 - Speed",
+ "id": "ver-gba-5ac01c3d",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "8F95CA53",
+  "no_intro_name": "Keitai Denjuu Telefang 2 - Speed (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "ATSJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Keitai Denjuu Telefang 2 - Speed (Japan)",
+  "zh-Hans": "携带电兽2 - 速度版"
+ },
+ "vendor": "盗版&Gymzatan",
+ "version": ""
+}

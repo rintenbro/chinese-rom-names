@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-82bb82c6943e/title.png"
+ },
+ "description": "《三国志 蜀魏争霸》是晶科泰在红白机上发行的角色扮演游戏。作品以三国时期为背景，玩家在各地招募武将、发展城池，与诸侯交战并逐步扩张势力。整体采用像素画面，关卡数量与难度随流程逐步提高。",
+ "description_source": "ai",
+ "files": [
+  {
+   "crc32": "597B1E04",
+   "name": "三国志 蜀魏争霸(简)[晶科泰](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "genre": "RPG",
+ "group": "三国志 蜀魏争霸",
+ "id": "cn-82bb82c6943e",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "三国志 蜀魏争霸"
+ },
+ "type": "original",
+ "vendor": "晶科泰",
+ "vendor_full": "",
+ "year": null
+}

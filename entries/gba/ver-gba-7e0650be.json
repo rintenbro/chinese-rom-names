@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7E0650BE",
+   "name": "游戏王! - 怪兽决斗GX 目标是决斗王[Advance汉化组](剧情汉化版v1.0)(简)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Yu-Gi-Oh! Duel Monsters GX - Mezase Duel King!",
+ "id": "ver-gba-7e0650be",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "F4295DA8",
+  "no_intro_name": "Yu-Gi-Oh! Duel Monsters GX - Mezase Duel King! (Japan)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "BYGJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Yu-Gi-Oh! Duel Monsters GX - Mezase Duel King! (Japan)",
+  "zh-Hans": "游戏王! - 怪兽决斗GX 目标是决斗王"
+ },
+ "vendor": "Advance汉化组",
+ "version": "v1.0"
+}

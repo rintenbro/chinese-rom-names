@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "76CB9041",
+   "name": "驭龙少年 世界破灭[Advance汉化组](v2.0)(简)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Dragon Drive - World D Break",
+ "id": "ver-gba-76cb9041",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "E5A571AD",
+  "no_intro_name": "Dragon Drive - World D Break (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "A5GJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Dragon Drive - World D Break (Japan)",
+  "zh-Hans": "驭龙少年 世界破灭"
+ },
+ "vendor": "Advance汉化组",
+ "version": "v2.0"
+}

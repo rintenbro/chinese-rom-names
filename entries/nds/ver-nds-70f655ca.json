@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "70F655CA",
+   "name": "虫师 天降之里(JP)(ACG汉化组)(512Mb).nds",
+   "size": 65994212
+  }
+ ],
+ "group": "Mushishi - Ame Furu Sato",
+ "id": "ver-nds-70f655ca",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "A80C6115",
+  "no_intro_name": "Mushishi - Ame Furu Sato (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "YMSJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Mushishi - Ame Furu Sato (Japan)",
+  "zh-Hans": "虫师 天降之里"
+ },
+ "vendor": "ACG汉化组",
+ "version": ""
+}

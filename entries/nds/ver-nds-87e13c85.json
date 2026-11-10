@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "87E13C85",
+   "name": "心跳魔女神判2 图片汉化版v1.1&文本汉化9.82%(简)(JP)(@OREZERO &萌狼计划)(2048Mb).nds",
+   "size": 268435456
+  }
+ ],
+ "group": "Doki Doki Majo Shinpan Duo",
+ "id": "ver-nds-87e13c85",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "91CBFBB1",
+  "no_intro_name": "Doki Doki Majo Shinpan Duo (Japan)",
+  "region": "Japan",
+  "size": 268435456
+ },
+ "platform": "nds",
+ "script": "简",
+ "serial": "YUOJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Doki Doki Majo Shinpan Duo (Japan)",
+  "zh-Hans": "心跳魔女神判2 图片汉化版v1.1&文本汉化9.82%"
+ },
+ "vendor": "@OREZERO &萌狼计划",
+ "version": ""
+}

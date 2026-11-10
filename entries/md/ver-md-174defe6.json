@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "174DEFE6",
+   "name": "格斗王 (简) (未知)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Top Fighter 2005 - Gedou Wang",
+ "id": "ver-md-174defe6",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "174DEFE6",
+  "no_intro_name": "Top Fighter 2005 - Gedou Wang (Taiwan)",
+  "region": "Taiwan",
+  "size": 2097152
+ },
+ "platform": "md",
+ "script": "简",
+ "serial": "",
+ "source": "no-intro",
+ "titles": {
+  "en": "Top Fighter 2005 - Gedou Wang (Taiwan)",
+  "zh-Hans": "格斗王"
+ },
+ "vendor": "未知",
+ "version": ""
+}

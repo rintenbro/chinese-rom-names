@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "094C5FEF",
+   "name": "冰河世纪[没必要汉化汉化组](简)(JP)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "Ice Age",
+ "id": "ver-gba-094c5fef",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "6D457F4C",
+  "no_intro_name": "Ice Age (Japan)",
+  "region": "Japan",
+  "size": 4194304
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "AIAJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Ice Age (Japan)",
+  "zh-Hans": "冰河世纪"
+ },
+ "vendor": "没必要汉化汉化组",
+ "version": ""
+}

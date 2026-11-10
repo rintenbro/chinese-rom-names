@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0B9FA08E",
+   "name": "伊苏DS(JP)(Independent)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Ys DS",
+ "id": "ver-nds-0b9fa08e",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "F8E41C19",
+  "no_intro_name": "Ys DS (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "AYDJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Ys DS (Japan)",
+  "zh-Hans": "伊苏DS"
+ },
+ "vendor": "Independent",
+ "version": ""
+}

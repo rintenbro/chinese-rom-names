@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "145CCAAE",
+   "name": "变形金刚 领袖之证(fciq汉化组)(872Mb).nds",
+   "size": 114751952
+  }
+ ],
+ "group": "Transformers Prime",
+ "id": "ver-nds-145ccaae",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "93A31703",
+  "no_intro_name": "Transformers Prime (USA) (En,Fr)",
+  "region": "USA",
+  "size": 134217728
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "TPTE",
+ "source": "no-intro",
+ "titles": {
+  "en": "Transformers Prime (USA) (En,Fr)",
+  "zh-Hans": "变形金刚 领袖之证"
+ },
+ "vendor": "fciq汉化组",
+ "version": ""
+}

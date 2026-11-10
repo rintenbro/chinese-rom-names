@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D05C8414",
+   "name": "雷曼4 光明之旅[D商](256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Leiman IV - Guangming Zhi Lv",
+ "id": "ver-gba-d05c8414",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "D05C8414",
+  "no_intro_name": "Leiman IV - Guangming Zhi Lv (Taiwan)",
+  "region": "Taiwan",
+  "size": 33554432
+ },
+ "platform": "gba",
+ "script": "未标注",
+ "serial": "",
+ "source": "no-intro",
+ "titles": {
+  "en": "Leiman IV - Guangming Zhi Lv (Taiwan)",
+  "zh-Hans": "雷曼4 光明之旅"
+ },
+ "vendor": "D商",
+ "version": ""
+}

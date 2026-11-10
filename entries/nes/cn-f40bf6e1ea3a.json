@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-f40bf6e1ea3a/title.png"
+ },
+ "description": "《超级机器人大战A》是南晶科技在红白机上发行的策略游戏。作品以机器人对战为主题，玩家在网格地图上部署机体，通过攻击与指令击败敌方部队。游戏以中文界面呈现，操作与菜单针对掌机规模作了简化。",
+ "description_source": "ai",
+ "files": [
+  {
+   "crc32": "68A3FE6E",
+   "name": "超级机器人大战A(简)[南晶科技](CN)[SLG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "genre": null,
+ "group": "超级机器人大战A",
+ "id": "cn-f40bf6e1ea3a",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "超级机器人大战A"
+ },
+ "type": "original",
+ "vendor": "南晶科技",
+ "vendor_full": "深圳市南晶科技有限公司 / ShenZhen Nanjing Technology",
+ "year": null
+}

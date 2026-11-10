@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7C5F0433",
+   "name": "流星洛克人3 - 红色鬼牌 对战汉化版(对战大会)(256Mb).nds",
+   "size": 26646076
+  }
+ ],
+ "group": "Ryuusei no Rockman 3 - Red Joker",
+ "id": "ver-nds-7c5f0433",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "FA95C5A4",
+  "no_intro_name": "Ryuusei no Rockman 3 - Red Joker (Japan) (Rev 1)",
+  "region": "Japan",
+  "size": 33554432
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "CRRJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Ryuusei no Rockman 3 - Red Joker (Japan) (Rev 1)",
+  "zh-Hans": "流星洛克人3 - 红色鬼牌 对战汉化版"
+ },
+ "vendor": "",
+ "version": ""
+}

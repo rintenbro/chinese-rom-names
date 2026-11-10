@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9CE98A00",
+   "name": "逆转裁判[CGP](简)(JP)(71.58Mb).gba",
+   "size": 9382468
+  }
+ ],
+ "group": "Gyakuten Saiban",
+ "id": "ver-gba-9ce98a00",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "C88F0952",
+  "no_intro_name": "Gyakuten Saiban (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "ASBJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Gyakuten Saiban (Japan)",
+  "zh-Hans": "逆转裁判"
+ },
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BAFE2C89",
+   "name": "魔法老师涅吉 课外授业2 (unknown)(菜单道具汉化)(128M).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Mahou Sensei Negima! - Private Lesson 2 - Ojamashimasuu Parasite de Chuu",
+ "id": "ver-gba-bafe2c89",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "6357C53B",
+  "no_intro_name": "Mahou Sensei Negima! - Private Lesson 2 - Ojamashimasuu Parasite de Chuu (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "未标注",
+ "serial": "BNMJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Mahou Sensei Negima! - Private Lesson 2 - Ojamashimasuu Parasite de Chuu (Japan)",
+  "zh-Hans": "魔法老师涅吉 课外授业2"
+ },
+ "vendor": "unknown / 128M",
+ "version": ""
+}

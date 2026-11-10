@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F5F8D0B3",
+   "name": "最高机密(繁)(Gowin)(0.5Mb).gb",
+   "size": 65536
+  }
+ ],
+ "group": "Zuigao Jimi",
+ "id": "ver-gb-f5f8d0b3",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "F5F8D0B3",
+  "no_intro_name": "Zuigao Jimi (Top Secret) (Taiwan) (Multicart Rip)",
+  "region": "Taiwan",
+  "size": 65536
+ },
+ "platform": "gb",
+ "script": "繁",
+ "serial": "",
+ "source": "no-intro",
+ "titles": {
+  "en": "Zuigao Jimi (Top Secret) (Taiwan) (Multicart Rip)",
+  "zh-Hans": "最高机密"
+ },
+ "vendor": "Gowin",
+ "version": ""
+}

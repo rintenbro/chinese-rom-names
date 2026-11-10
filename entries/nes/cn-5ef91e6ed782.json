@@ -1,0 +1,36 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-5ef91e6ed782/title.png"
+ },
+ "description": "《大话西游》是南晶科技在红白机上发行的角色扮演游戏。作品取材《西游记》，玩家护送取经队伍西行，沿途与妖魔鬼怪战斗。作品以卡带形式发行，内容与文本均为中文重新制作。",
+ "description_source": "ai",
+ "files": [
+  {
+   "crc32": "B4AAE3E6",
+   "name": "大话西游(简)[南晶科技](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  },
+  {
+   "crc32": "B54C14E6",
+   "name": "大话西游(繁)[火星电子](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "genre": null,
+ "group": "大话西游",
+ "id": "cn-5ef91e6ed782",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "大话西游"
+ },
+ "type": "original",
+ "vendor": "南晶科技",
+ "vendor_full": "深圳市南晶科技有限公司 / ShenZhen Nanjing Technology",
+ "year": null
+}

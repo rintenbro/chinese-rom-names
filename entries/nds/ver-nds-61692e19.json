@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "61692E19",
+   "name": "SD高达三国传 真三璃纱大战(简)(aikika)(320Mb).nds",
+   "size": 39608584
+  }
+ ],
+ "group": "SD Gundam Sangoku Den - Brave Battle Warriors - Shin Militia Taisen",
+ "id": "ver-nds-61692e19",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "17EA34F5",
+  "no_intro_name": "SD Gundam Sangoku Den - Brave Battle Warriors - Shin Militia Taisen (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "简",
+ "serial": "B3GJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "SD Gundam Sangoku Den - Brave Battle Warriors - Shin Militia Taisen (Japan)",
+  "zh-Hans": "SD高达三国传 真三璃纱大战"
+ },
+ "vendor": "aikika",
+ "version": ""
+}

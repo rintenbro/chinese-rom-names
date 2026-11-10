@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FD80C1A0",
+   "name": "美丽水族馆DS 鲸鱼·海豚·企鹅(繁)(JP)(laubong1)(64Mb).nds",
+   "size": 8101536
+  }
+ ],
+ "group": "Kokoro ga Uruou - Birei Aquarium DS - Kujira, Iruka, Penguin",
+ "id": "ver-nds-fd80c1a0",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "03C503EF",
+  "no_intro_name": "Kokoro ga Uruou - Birei Aquarium DS - Kujira, Iruka, Penguin (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "nds",
+ "script": "繁",
+ "serial": "AQ7J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Kokoro ga Uruou - Birei Aquarium DS - Kujira, Iruka, Penguin (Japan)",
+  "zh-Hans": "美丽水族馆DS 鲸鱼·海豚·企鹅"
+ },
+ "vendor": "laubong1",
+ "version": ""
+}

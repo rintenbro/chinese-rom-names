@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7AB2222F",
+   "name": "美丽水族馆DS 灯鱼·孔雀鱼·天使鱼(繁)(JP)(laubong1)(64Mb).nds",
+   "size": 8579744
+  }
+ ],
+ "group": "Kokoro ga Uruou - Birei Aquarium DS - Tetra, Guppy, Angelfish",
+ "id": "ver-nds-7ab2222f",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "B7D408EE",
+  "no_intro_name": "Kokoro ga Uruou - Birei Aquarium DS - Tetra, Guppy, Angelfish (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "nds",
+ "script": "繁",
+ "serial": "AQ8J",
+ "source": "no-intro",
+ "titles": {
+  "en": "Kokoro ga Uruou - Birei Aquarium DS - Tetra, Guppy, Angelfish (Japan)",
+  "zh-Hans": "美丽水族馆DS 灯鱼·孔雀鱼·天使鱼"
+ },
+ "vendor": "laubong1",
+ "version": ""
+}

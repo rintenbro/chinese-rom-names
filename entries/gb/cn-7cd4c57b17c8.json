@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gb/cn-7cd4c57b17c8/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "B0A4E40E",
+   "name": "第五次机器人大战 (简) (unknown)(1Mb).gb",
+   "size": 131072
+  }
+ ],
+ "genre": null,
+ "group": "第五次机器人大战",
+ "id": "cn-7cd4c57b17c8",
+ "layer": "self",
+ "original": null,
+ "platform": "gb",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "第五次机器人大战"
+ },
+ "type": "hack",
+ "vendor": "",
+ "vendor_full": "",
+ "year": null
+}

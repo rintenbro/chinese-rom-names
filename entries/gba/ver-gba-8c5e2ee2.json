@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8C5E2EE2",
+   "name": "电梯大战 - 旧&新[狂细胞](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Elevator Action - Old & New",
+ "id": "ver-gba-8c5e2ee2",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "2D88526A",
+  "no_intro_name": "Elevator Action - Old & New (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "ANWJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Elevator Action - Old & New (Japan)",
+  "zh-Hans": "电梯大战 - 旧&新"
+ },
+ "vendor": "狂细胞",
+ "version": ""
+}

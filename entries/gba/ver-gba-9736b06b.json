@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9736B06B",
+   "name": "模拟人生 纯属意外[完美汉化版][Advance-012](简)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Sims, The",
+ "id": "ver-gba-9736b06b",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "89956199",
+  "no_intro_name": "Sims, The (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "B4PJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Sims, The (Japan)",
+  "zh-Hans": "模拟人生 纯属意外"
+ },
+ "vendor": "完美汉化版 / Advance-012",
+ "version": ""
+}

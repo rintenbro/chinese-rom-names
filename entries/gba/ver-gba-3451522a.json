@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3451522A",
+   "name": "名侦探柯南 - 黎明之碑[天使汉化组](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Meitantei Conan - Akatsuki no Monument",
+ "id": "ver-gba-3451522a",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "C048B723",
+  "no_intro_name": "Meitantei Conan - Akatsuki no Monument (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "BQAJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Meitantei Conan - Akatsuki no Monument (Japan)",
+  "zh-Hans": "名侦探柯南 - 黎明之碑"
+ },
+ "vendor": "天使汉化组",
+ "version": ""
+}

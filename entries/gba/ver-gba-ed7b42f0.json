@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "ED7B42F0",
+   "name": "鬼武者战略版[熊组](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Onimusha Tactics",
+ "id": "ver-gba-ed7b42f0",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "B521C635",
+  "no_intro_name": "Onimusha Tactics (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "A6OJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Onimusha Tactics (Japan)",
+  "zh-Hans": "鬼武者战略版"
+ },
+ "vendor": "熊组",
+ "version": ""
+}

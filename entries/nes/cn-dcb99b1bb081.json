@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-dcb99b1bb081/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "0E65A6EE",
+   "name": "数学小状元(简)[数奇玉](CN)[ETC](1.5Mb).nes",
+   "size": 196624
+  }
+ ],
+ "genre": null,
+ "group": "数学小状元",
+ "id": "cn-dcb99b1bb081",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "数学小状元"
+ },
+ "type": "hack",
+ "vendor": "数奇玉",
+ "vendor_full": "",
+ "year": null
+}

@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6F98247D",
+   "name": "吞食天地3 - 三国外传 (繁) (三协资讯)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Tunshi Tiandi III - Sanguo Waizhuan - Chinese Fighter",
+ "id": "ver-md-6f98247d",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "6F98247D",
+  "no_intro_name": "Tunshi Tiandi III - Sanguo Waizhuan - Chinese Fighter (Taiwan)",
+  "region": "Taiwan",
+  "size": 2097152
+ },
+ "platform": "md",
+ "script": "繁",
+ "serial": "",
+ "source": "no-intro",
+ "titles": {
+  "en": "Tunshi Tiandi III - Sanguo Waizhuan - Chinese Fighter (Taiwan)",
+  "zh-Hans": "吞食天地3 - 三国外传"
+ },
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8E12C16D",
+   "name": "口袋妖怪 - 绿宝石[尤里咔咔](日版汉化v1.6)(简)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Pocket Monsters - Emerald",
+ "id": "ver-gba-8e12c16d",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "4881F3F8",
+  "no_intro_name": "Pocket Monsters - Emerald (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "BPEJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Pocket Monsters - Emerald (Japan)",
+  "zh-Hans": "口袋妖怪 - 绿宝石"
+ },
+ "vendor": "尤里咔咔",
+ "version": ""
+}

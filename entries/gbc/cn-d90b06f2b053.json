@@ -1,0 +1,36 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-d90b06f2b053/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "8EF044B2",
+   "name": "合金弹头2001 (简) (Windy).gbc",
+   "size": 1048576
+  },
+  {
+   "crc32": "ED3520D6",
+   "name": "合金弹头2001 (繁) (unknown).gbc",
+   "size": 1048576
+  }
+ ],
+ "genre": null,
+ "group": "合金弹头2001",
+ "id": "cn-d90b06f2b053",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "合金弹头2001"
+ },
+ "type": "original",
+ "vendor": "Windy",
+ "vendor_full": "",
+ "year": null
+}

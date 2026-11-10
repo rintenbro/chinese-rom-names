@@ -1,0 +1,36 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-b1a22db83f20/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "8F189DE5",
+   "name": "银白色沙加(修正版)(简)[外星科技+Vanyogin](JP)[RPG](6Mb).nes",
+   "size": 786448
+  },
+  {
+   "crc32": "560F50E0",
+   "name": "银白色沙加(简)[外星科技](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "genre": null,
+ "group": "银白色沙加",
+ "id": "cn-b1a22db83f20",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "银白色沙加"
+ },
+ "type": "original",
+ "vendor": "外星科技+Vanyogin",
+ "vendor_full": "福州外星电脑科技有限公司 / Waixing Science & Technology（WAIXING COMPUTER SCIENCE & TECHNOLOGY CO.,LTD）",
+ "year": null
+}

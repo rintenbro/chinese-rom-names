@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "37E513CF",
+   "name": "卡片聚会[TGB](Beta)(简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Card Party",
+ "id": "ver-gba-37e513cf",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "3D5A2C07",
+  "no_intro_name": "Card Party (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "A8CJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Card Party (Japan)",
+  "zh-Hans": "卡片聚会"
+ },
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D036F063",
+   "name": "最终幻想战略版Advance去BUG减容已打补丁版[熊组](简)(JP)(79.05Mb).gba",
+   "size": 10361856
+  }
+ ],
+ "group": "Final Fantasy Tactics Advance",
+ "id": "ver-gba-d036f063",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "A57B0034",
+  "no_intro_name": "Final Fantasy Tactics Advance (Japan)",
+  "region": "Japan",
+  "size": 16777216
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "AFXJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Final Fantasy Tactics Advance (Japan)",
+  "zh-Hans": "最终幻想战略版Advance去BUG减容已打补丁版"
+ },
+ "vendor": "熊组",
+ "version": ""
+}

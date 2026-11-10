@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9AC72261",
+   "name": "野营妈妈爸爸 betaV1.1(JP)(xedftxz)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Camping Mama + Papa",
+ "id": "ver-nds-9ac72261",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "45DA8F03",
+  "no_intro_name": "Camping Mama + Papa (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "TCMJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Camping Mama + Papa (Japan)",
+  "zh-Hans": "野营妈妈爸爸 betaV1.1"
+ },
+ "vendor": "xedftxz",
+ "version": ""
+}

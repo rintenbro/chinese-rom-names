@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "61E458C3",
+   "name": "水浒传 (繁) (川普科技)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Shuihu Zhuan",
+ "id": "ver-md-61e458c3",
+ "layer": "verified",
+ "match": "crc",
+ "original": {
+  "crc32": "61E458C3",
+  "no_intro_name": "Shuihu Zhuan (Taiwan)",
+  "region": "Taiwan",
+  "size": 2097152
+ },
+ "platform": "md",
+ "script": "繁",
+ "serial": "",
+ "source": "no-intro",
+ "titles": {
+  "en": "Shuihu Zhuan (Taiwan)",
+  "zh-Hans": "水浒传"
+ },
+ "vendor": "",
+ "version": ""
+}

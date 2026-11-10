@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2E0F89C9",
+   "name": "阿滋漫画大王Advance[PGCG](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Azumanga Daiou Advance",
+ "id": "ver-gba-2e0f89c9",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "216704F6",
+  "no_intro_name": "Azumanga Daiou Advance (Japan)",
+  "region": "Japan",
+  "size": 8388608
+ },
+ "platform": "gba",
+ "script": "简",
+ "serial": "AZAJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Azumanga Daiou Advance (Japan)",
+  "zh-Hans": "阿滋漫画大王Advance"
+ },
+ "vendor": "",
+ "version": ""
+}

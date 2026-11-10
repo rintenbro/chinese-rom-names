@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-550855c42451/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "24EE5C85",
+   "name": "宠物小精灵 - 结金塔之王 (繁) (广誉科技).gbc",
+   "size": 1048576
+  }
+ ],
+ "genre": null,
+ "group": "宠物小精灵 - 结金塔之王",
+ "id": "cn-550855c42451",
+ "layer": "self",
+ "original": null,
+ "platform": "gbc",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "宠物小精灵 - 结金塔之王"
+ },
+ "type": "original",
+ "vendor": "",
+ "vendor_full": "",
+ "year": null
+}

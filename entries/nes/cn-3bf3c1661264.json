@@ -1,0 +1,31 @@
+{
+ "aliases": [],
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-3bf3c1661264/title.png"
+ },
+ "description": null,
+ "description_source": null,
+ "files": [
+  {
+   "crc32": "780D7C80",
+   "name": "卡拉OK(简)[小霸王](CN)[ETC](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "genre": null,
+ "group": "卡拉OK",
+ "id": "cn-3bf3c1661264",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "卡拉OK"
+ },
+ "type": "original",
+ "vendor": "小霸王",
+ "vendor_full": "中山市小霸王电子工业公司 / Subor（小霸王文化发展有限公司）",
+ "year": null
+}

@@ -1,0 +1,34 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DC399E90",
+   "name": "英雄战记 烈焰之剑V1.0(JP)(龙游汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Eiyuu Senki - Laevatein",
+ "id": "ver-nds-dc399e90",
+ "layer": "verified",
+ "match": "game_code",
+ "original": {
+  "crc32": "78C478F3",
+  "no_intro_name": "Eiyuu Senki - Laevatein (Japan)",
+  "region": "Japan",
+  "size": 67108864
+ },
+ "platform": "nds",
+ "script": "未标注",
+ "serial": "YLHJ",
+ "source": "no-intro",
+ "titles": {
+  "en": "Eiyuu Senki - Laevatein (Japan)",
+  "zh-Hans": "英雄战记 烈焰之剑V1.0"
+ },
+ "vendor": "龙游汉化组",
+ "version": ""
+}
