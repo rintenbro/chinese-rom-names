@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FA673424",
+   "name": "最后之窗 真夜中的约束(JP)(兔友汉化组)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Last Window - Mayonaka no Yakusoku (Japan)",
+ "hack_group": "兔友汉化组",
+ "id": "prb-nds-fa673424",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "873C39C4",
+  "no_intro_name": "Last Window - Mayonaka no Yakusoku (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "最后之窗 真夜中的约束"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

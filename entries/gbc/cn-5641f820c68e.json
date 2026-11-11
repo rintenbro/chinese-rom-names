@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-54721202d6b4/title.png"
+ },
+ "files": [
+  {
+   "crc32": "5D2DCB3C",
+   "name": "明珠口袋怪兽III (繁) (星星科技).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "明珠口袋怪兽III",
+ "hack_group": "",
+ "id": "cn-5641f820c68e",
+ "platform": "gbc",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "明珠口袋怪兽III"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

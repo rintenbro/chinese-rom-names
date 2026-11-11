@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0EBE6885",
+   "name": "1500 DS魂Vol.5 花牌(JP)(石墨汉化组)(64Mb).nds",
+   "size": 8388608
+  }
+ ],
+ "group": "1500 DS Spirits Vol. 5 - Hanafuda (Japan)",
+ "hack_group": "石墨汉化组",
+ "id": "prb-nds-0ebe6885",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "74AE04DC",
+  "no_intro_name": "1500 DS Spirits Vol. 5 - Hanafuda (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "1500 DS魂Vol.5 花牌"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

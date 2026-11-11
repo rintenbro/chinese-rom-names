@@ -11,10 +11,9 @@
    "size": 17199616
   }
  ],
- "group": "Star Trek - Tactical Assault",
+ "group": "Star Trek - Tactical Assault (USA)",
+ "hack_group": "fciq汉化组",
  "id": "ver-nds-fcfa533c",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "6B80853A",
   "no_intro_name": "Star Trek - Tactical Assault (USA)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "ATJE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Star Trek - Tactical Assault (USA)",
   "zh-Hans": "星际迷航 战术攻击 菜单汉化+修复舰只图形错误"
  },
- "vendor": "fciq汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

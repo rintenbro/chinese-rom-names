@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "859E6C8C",
+   "name": "战场之狼(简)[高伟](JP)[STG](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Senjou no Ookami (Japan)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-859e6c8c",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Senjou no Ookami (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "战场之狼"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

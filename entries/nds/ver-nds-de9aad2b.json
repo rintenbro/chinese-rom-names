@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Metal Max 3",
+ "group": "Metal Max 3 (Japan)",
+ "hack_group": "泛游系&游趣星&α聯合漢化組",
  "id": "ver-nds-de9aad2b",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "03440034",
   "no_intro_name": "Metal Max 3 (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "BM9J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Metal Max 3 (Japan)",
   "zh-Hans": "重装机兵3"
  },
- "vendor": "泛游系&游趣星&α聯合漢化組",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

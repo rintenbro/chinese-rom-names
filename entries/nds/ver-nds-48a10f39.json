@@ -11,10 +11,9 @@
    "size": 35462688
   }
  ],
- "group": "Tsunde Tsumikiss",
+ "group": "Tsunde Tsumikiss (Japan)",
+ "hack_group": "的士汉化组",
  "id": "ver-nds-48a10f39",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "A3EF641B",
   "no_intro_name": "Tsunde Tsumikiss (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YTMJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Tsunde Tsumikiss (Japan)",
   "zh-Hans": "堆积木"
  },
- "vendor": "的士汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8D13A348",
+   "name": "电梯大战EX (简) (幻想).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Elevator Action EX (Japan)",
+ "hack_group": "",
+ "id": "prb-gbc-8d13a348",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "B70C4DDB",
+  "no_intro_name": "Elevator Action EX (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "电梯大战EX"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

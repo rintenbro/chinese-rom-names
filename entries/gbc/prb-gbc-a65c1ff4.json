@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A65C1FF4",
+   "name": "疯狂鼹鼠DX(简)(v1.1)(RangerMarsh)(8Mb).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Moguranya (Japan) (SGB Enhanced)",
+ "hack_group": "RangerMarsh",
+ "id": "prb-gbc-a65c1ff4",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Moguranya (Japan) (SGB Enhanced)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "疯狂鼹鼠DX"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

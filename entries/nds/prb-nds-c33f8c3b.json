@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C33F8C3B",
+   "name": "救援使者 全文本汉化版(DE)(Deutsch临时有爱汉化小组)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Emergency Kids (Germany)",
+ "hack_group": "DE Deutsch临时有爱汉化小组",
+ "id": "prb-nds-c33f8c3b",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "181B992B",
+  "no_intro_name": "Emergency Kids (Germany)",
+  "region": "Germany"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "救援使者 全文本汉化版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

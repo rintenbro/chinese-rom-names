@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2A2FB4AB",
+   "name": "魔法小樱(简)(D商+yy小龙虾)(16Mb).gb",
+   "size": 2097152
+  }
+ ],
+ "group": "Cardcaptor Sakura - Tomoeda Shougakkou Daiundoukai (Japan)",
+ "hack_group": "D商+yy小龙虾",
+ "id": "cn-81a55f44bfd2",
+ "platform": "gbc",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "魔法小樱"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

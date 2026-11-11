@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "EC541365",
+   "name": "魔装机神 (简) (v20020926)(安藤Masaki)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Super Robot Taisen Gaiden - Masoukishin - The Lord of Elemental (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-ec541365",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "EBADC924",
+  "no_intro_name": "Super Robot Taisen Gaiden - Masoukishin - The Lord of Elemental (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "魔装机神"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20020926"
+}

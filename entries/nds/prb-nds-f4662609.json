@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F4662609",
+   "name": "神游 - 直感一笔(神游)(官方简中)(64Mb).nds",
+   "size": 8388608
+  }
+ ],
+ "group": "Zhigan Yi Bi (China) (iDS)",
+ "hack_group": "",
+ "id": "prb-nds-f4662609",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "581937E8",
+  "no_intro_name": "Zhigan Yi Bi (China) (iDS)",
+  "region": "China"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "神游 - 直感一笔"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

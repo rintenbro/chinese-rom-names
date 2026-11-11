@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-9d42d3f6933d/title.png"
+ },
+ "files": [
+  {
+   "crc32": "ED67ADAC",
+   "name": "王族天堂(繁)(新特奇)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Wang Zu Tian Tang (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-gbc-ed67adac",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Wang Zu Tian Tang (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "王族天堂"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

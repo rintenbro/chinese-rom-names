@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "894B5704",
+   "name": "SD钢弹G世纪Advance[盗版&Kunlunshen](简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "SD Gundam G Generation Advance (Japan)",
+ "hack_group": "盗版&Kunlunshen",
+ "id": "prb-gba-894b5704",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "SD Gundam G Generation Advance (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "SD钢弹G世纪Advance"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

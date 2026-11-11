@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-ae75bfd5a83f/title.png"
+ },
+ "files": [
+  {
+   "crc32": "F84D726C",
+   "name": "月影传说(简)(外星科技)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Yue Ying Chuan Shuo (China) [CHS]",
+ "hack_group": "",
+ "id": "prb-gbc-f84d726c",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Yue Ying Chuan Shuo (China) [CHS]",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "月影传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

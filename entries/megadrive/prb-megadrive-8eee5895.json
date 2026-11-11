@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8EEE5895",
+   "name": "魂斗罗4 - 铁血兵团 (简) (Phanteam)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Contra - The Hard Corps (Japan)",
+ "hack_group": "Phanteam",
+ "id": "prb-megadrive-8eee5895",
+ "platform": "megadrive",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Contra - The Hard Corps (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "魂斗罗4 - 铁血兵团"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

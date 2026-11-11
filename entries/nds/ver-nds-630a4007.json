@@ -11,10 +11,9 @@
    "size": 33554432
   }
  ],
- "group": "Teenage Mutant Ninja Turtles 3 - Mutant Nightmare",
+ "group": "Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (Europe) (En,Fr,De,Es,It)",
+ "hack_group": "",
  "id": "ver-nds-630a4007",
- "layer": "verified",
- "match": "version",
  "original": {
   "crc32": null,
   "no_intro_name": "Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (Europe) (En,Fr,De,Es,It)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (Europe) (En,Fr,De,Es,It)",
   "zh-Hans": "忍者神龟3 变种噩梦"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

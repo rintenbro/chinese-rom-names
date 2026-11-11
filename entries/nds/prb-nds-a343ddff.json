@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A343DDFF",
+   "name": "流星洛克人3 红色鬼牌 完全汉化版v2(简)(电波人研究中心汉化组)(256Mb).nds",
+   "size": 27263340
+  }
+ ],
+ "group": "Ryuusei no Rockman 3 - Red Joker (Japan) (Rev 1)",
+ "hack_group": "电波人研究中心汉化组",
+ "id": "prb-nds-a343ddff",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "FA95C5A4",
+  "no_intro_name": "Ryuusei no Rockman 3 - Red Joker (Japan) (Rev 1)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "流星洛克人3 红色鬼牌 完全汉化版v2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

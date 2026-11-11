@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "805BF754",
+   "name": "PDA (繁) (Infocolor).gbc",
+   "size": 262144
+  }
+ ],
+ "group": "Infocolor PDA (China) [CHT]",
+ "hack_group": "Infocolor",
+ "id": "prb-gbc-805bf754",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Infocolor PDA (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "PDA"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

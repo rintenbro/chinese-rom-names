@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Tennis no Ouji-sama - Genius Boys Academy",
+ "group": "Tennis no Ouji-sama - Genius Boys Academy (Japan)",
+ "hack_group": "",
  "id": "ver-gba-f7764506",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "DD244C9A",
   "no_intro_name": "Tennis no Ouji-sama - Genius Boys Academy (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "ATIJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Tennis no Ouji-sama - Genius Boys Academy (Japan)",
   "zh-Hans": "网球王子 - 天才少年学院"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

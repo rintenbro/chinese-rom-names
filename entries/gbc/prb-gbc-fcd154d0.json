@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FCD154D0",
+   "name": "钢魄核心 无瑕(简)(黑蛇独游)(4Mb).gbc",
+   "size": 524288
+  }
+ ],
+ "group": "Iron Cor - Stainless (World) (v2.0) (GB Compatible)",
+ "hack_group": "",
+ "id": "prb-gbc-fcd154d0",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Iron Cor - Stainless (World) (v2.0) (GB Compatible)",
+  "region": "World"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "钢魄核心 无瑕"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

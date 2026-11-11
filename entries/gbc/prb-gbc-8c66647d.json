@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-b0c5d7593f43/title.png"
+ },
+ "files": [
+  {
+   "crc32": "8C66647D",
+   "name": "新封神榜 (繁) (广誉科技).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Xin Feng Shen Bang (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-gbc-8c66647d",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Xin Feng Shen Bang (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "新封神榜"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,33 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2E2EA687",
+   "name": "超级大富翁 (繁) (三协资讯)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Chaoji Dafuweng (Taiwan)",
+ "hack_group": "",
+ "id": "ver-megadrive-2e2ea687",
+ "original": {
+  "crc32": "2E2EA687",
+  "no_intro_name": "Chaoji Dafuweng (Taiwan)",
+  "region": "Taiwan",
+  "size": 1048576
+ },
+ "platform": "megadrive",
+ "script": "繁",
+ "source": "no-intro",
+ "status": "verified",
+ "titles": {
+  "zh-Hans": "超级大富翁"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

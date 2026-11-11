@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "EECB028A",
+   "name": "侠盗车手 血战唐人街 1.8(EU)(远离汉化组)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Grand Theft Auto - Chinatown Wars (Europe) (En,Fr,De,Es,It)",
+ "hack_group": "远离汉化组",
+ "id": "prb-nds-eecb028a",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "19936579",
+  "no_intro_name": "Grand Theft Auto - Chinatown Wars (Europe) (En,Fr,De,Es,It)",
+  "region": "Europe"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "侠盗车手 血战唐人街 1.8"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

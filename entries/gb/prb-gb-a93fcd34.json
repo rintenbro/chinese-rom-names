@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A93FCD34",
+   "name": "大力工头 阿源君 幽灵建筑公司(简)(DMG汉化组)(2Mb).gb",
+   "size": 262144
+  }
+ ],
+ "group": "Daiku no Gen-san - Ghost Building Company (Japan)",
+ "hack_group": "DMG汉化组",
+ "id": "prb-gb-a93fcd34",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "9E0D2B45",
+  "no_intro_name": "Daiku no Gen-san - Ghost Building Company (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "大力工头 阿源君 幽灵建筑公司"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

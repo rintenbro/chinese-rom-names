@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "80AD1964",
+   "name": "触摸！炸弹人大陆 0.02(JP)(fan124)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Touch! Bomberman Land (Japan)",
+ "hack_group": "fan124",
+ "id": "prb-nds-80ad1964",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "3D2056EF",
+  "no_intro_name": "Touch! Bomberman Land (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "触摸！炸弹人大陆 0.02"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 8500224
   }
  ],
- "group": "Prince of Persia - The Sands of Time",
+ "group": "Prince of Persia - The Sands of Time (USA) (En,Fr,Es)",
+ "hack_group": "Flyeyes&灰米&恒星月",
  "id": "ver-gba-cdb2d045",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "0C043BA6",
   "no_intro_name": "Prince of Persia - The Sands of Time (USA) (En,Fr,Es)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BPYE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Prince of Persia - The Sands of Time (USA) (En,Fr,Es)",
   "zh-Hans": "波斯王子 - 时之沙"
  },
- "vendor": "Flyeyes&灰米&恒星月",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

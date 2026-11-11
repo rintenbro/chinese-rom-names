@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4522AA89",
+   "name": "萨尔达传说1 海拉尔的幻想(v20220314)(繁)[NOKOH](JP)[RPG](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Zelda no Densetsu 1 - The Hyrule Fantasy (Japan)",
+ "hack_group": "NOKOH",
+ "id": "prb-famicom-4522aa89",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Zelda no Densetsu 1 - The Hyrule Fantasy (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "萨尔达传说1 海拉尔的幻想"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20220314"
+}

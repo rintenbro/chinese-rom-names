@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3266B984",
+   "name": "坦克风云(简)[金明](JP)[STG](0.18Mb).nes",
+   "size": 24592
+  }
+ ],
+ "group": "BattleCity (Japan) (En)",
+ "hack_group": "金明",
+ "id": "prb-famicom-3266b984",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "BattleCity (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "坦克风云"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

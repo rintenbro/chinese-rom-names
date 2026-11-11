@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AF5E6119",
+   "name": "超级机器人大战 - Original Generation[星组](For Burning) [简&繁](JP)(72.59Mb).gba",
+   "size": 9515808
+  }
+ ],
+ "group": "Super Robot Taisen - Original Generation (Japan)",
+ "hack_group": "For Burning 星组",
+ "id": "prb-gba-af5e6119",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "75127EC4",
+  "no_intro_name": "Super Robot Taisen - Original Generation (Japan)",
+  "region": "Japan"
+ },
+ "script": "简繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级机器人大战 - Original Generation"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

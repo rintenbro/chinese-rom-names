@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E0C3DC7D",
+   "name": "汀格尔的蔷薇色卢比乐园(EU)(远离汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Freshly-Picked - Tingle's Rosy Rupeeland (Europe) (En,Fr,De,Es,It)",
+ "hack_group": "远离汉化组",
+ "id": "prb-nds-e0c3dc7d",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "375A93D7",
+  "no_intro_name": "Freshly-Picked - Tingle's Rosy Rupeeland (Europe) (En,Fr,De,Es,It)",
+  "region": "Europe"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "汀格尔的蔷薇色卢比乐园"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

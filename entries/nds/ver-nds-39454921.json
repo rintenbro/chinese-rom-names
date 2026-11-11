@@ -11,10 +11,9 @@
    "size": 7166800
   }
  ],
- "group": "Lode Runner",
+ "group": "Lode Runner (Japan)",
+ "hack_group": "TGB汉化工作室",
  "id": "ver-nds-39454921",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "5E9756CE",
   "no_intro_name": "Lode Runner (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "ALRJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Lode Runner (Japan)",
   "zh-Hans": "淘金者"
  },
- "vendor": "TGB汉化工作室",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

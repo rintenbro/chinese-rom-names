@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "879C2D1E",
+   "name": "口袋里的魔鬼(v1.0)(简)[DMG](US)[ACT](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Monster in My Pocket (USA)",
+ "hack_group": "",
+ "id": "prb-famicom-879c2d1e",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Monster in My Pocket (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋里的魔鬼"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

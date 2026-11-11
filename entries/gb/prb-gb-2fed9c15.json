@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2FED9C15",
+   "name": "热血沙滩排球(简)(AI汉化大字版v1.0.1)(哇你是谁怎么傻乎乎)(4Mb).gb",
+   "size": 524288
+  }
+ ],
+ "group": "Nekketsu! Beach Volley Da yo Kunio-kun (Japan) (SGB Enhanced)",
+ "hack_group": "",
+ "id": "prb-gb-2fed9c15",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "ABFB84DF",
+  "no_intro_name": "Nekketsu! Beach Volley Da yo Kunio-kun (Japan) (SGB Enhanced)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "热血沙滩排球"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0.1"
+}

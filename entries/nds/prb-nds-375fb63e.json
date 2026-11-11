@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "375FB63E",
+   "name": "使命召唤8 现代战争3 英文字幕+中文配音最终版(fciq配音小组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Call of Duty - Modern Warfare 3 - Defiance (USA)",
+ "hack_group": "fciq配音小组",
+ "id": "prb-nds-375fb63e",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "10BBEC6F",
+  "no_intro_name": "Call of Duty - Modern Warfare 3 - Defiance (USA)",
+  "region": "USA"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "使命召唤8 现代战争3 英文字幕+中文配音最终版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

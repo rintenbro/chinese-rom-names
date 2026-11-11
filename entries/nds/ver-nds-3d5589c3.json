@@ -11,10 +11,9 @@
    "size": 102888008
   }
  ],
- "group": "Dragon Quest V - Tenkuu no Hanayome",
+ "group": "Dragon Quest V - Tenkuu no Hanayome (Japan)",
+ "hack_group": "NdsBBS&DQGAME汉化组",
  "id": "ver-nds-3d5589c3",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "154A8ADA",
   "no_intro_name": "Dragon Quest V - Tenkuu no Hanayome (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YV5J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Dragon Quest V - Tenkuu no Hanayome (Japan)",
   "zh-Hans": "勇者斗恶龙5 天空的新娘 完美典藏汉化版"
  },
- "vendor": "NdsBBS&DQGAME汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

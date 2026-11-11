@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9A6BD0B6",
+   "name": "阿斯特堡的恶魔 (简)(官中v3)(120Mb).md",
+   "size": 15466496
+  }
+ ],
+ "group": "Demons of Asteborg (World) (En,Fr,De,Es,It,Pt-BR) (v1.11) (Evercade)",
+ "hack_group": "",
+ "id": "prb-megadrive-9a6bd0b6",
+ "platform": "megadrive",
+ "probable_original": {
+  "crc32": "8163415E",
+  "no_intro_name": "Demons of Asteborg (World) (En,Fr,De,Es,It,Pt-BR) (v1.11) (Evercade)",
+  "region": "World"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "阿斯特堡的恶魔"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

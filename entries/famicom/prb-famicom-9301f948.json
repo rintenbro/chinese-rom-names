@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9301F948",
+   "name": "龙之城堡(简)[虫虫](JP)[ACT](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Dragon Unit (Japan) (En)",
+ "hack_group": "虫虫",
+ "id": "prb-famicom-9301f948",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Dragon Unit (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "龙之城堡"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FAA6E27C",
+   "name": "外星战将(修正版)(简)[AXI+庞先生](JP)[ACT](3.25Mb).nes",
+   "size": 426000
+  }
+ ],
+ "group": "Bucky O'Hare (Japan)",
+ "hack_group": "AXI+庞先生",
+ "id": "cn-c2267e87ab6f",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "外星战将"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

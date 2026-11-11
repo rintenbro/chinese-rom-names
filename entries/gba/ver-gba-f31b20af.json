@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "CIMA - The Enemy",
+ "group": "CIMA - The Enemy (USA)",
+ "hack_group": "Wind Flowers",
  "id": "ver-gba-f31b20af",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "EBD928ED",
   "no_intro_name": "CIMA - The Enemy (USA)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BCME",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "CIMA - The Enemy (USA)",
   "zh-Hans": "异次元敌人"
  },
- "vendor": "Wind Flowers",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

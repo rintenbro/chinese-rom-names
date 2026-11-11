@@ -11,10 +11,9 @@
    "size": 14748167
   }
  ],
- "group": "Dokodemo Raku Raku! - DS Kakeibo",
+ "group": "Dokodemo Raku Raku! - DS Kakeibo (Japan)",
+ "hack_group": "E.Wings汉化组",
  "id": "ver-nds-fa07a336",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "14D95B15",
   "no_intro_name": "Dokodemo Raku Raku! - DS Kakeibo (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "ARLJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Dokodemo Raku Raku! - DS Kakeibo (Japan)",
   "zh-Hans": "任何地方都能用的DS家计本"
  },
- "vendor": "E.Wings汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

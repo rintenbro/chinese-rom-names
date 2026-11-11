@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5240936A",
+   "name": "数独 格子大师 个人完全汉化版(US)(xedftxz)(64Mb).nds",
+   "size": 5305088
+  }
+ ],
+ "group": "Sudoku Gridmaster (USA)",
+ "hack_group": "xedftxz",
+ "id": "prb-nds-5240936a",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "F07E01EF",
+  "no_intro_name": "Sudoku Gridmaster (USA)",
+  "region": "USA"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "数独 格子大师 个人完全汉化版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

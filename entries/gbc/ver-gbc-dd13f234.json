@@ -11,10 +11,9 @@
    "size": 524288
   }
  ],
- "group": "Monster Go! Go! Go!!",
+ "group": "Monster Go! Go! Go!! (Taiwan) (En)",
+ "hack_group": "unknown",
  "id": "ver-gbc-dd13f234",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "DD13F234",
   "no_intro_name": "Monster Go! Go! Go!! (Taiwan) (En)",
@@ -23,12 +22,12 @@
  },
  "platform": "gbc",
  "script": "繁",
- "serial": "",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Monster Go! Go! Go!! (Taiwan) (En)",
   "zh-Hans": "口袋妖怪GO!GO!GO!"
  },
- "vendor": "unknown",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4647641F",
+   "name": "越野沙滩车 图片汉化版(US)(E.T汉化组)(128Mb).nds",
+   "size": 16457664
+  }
+ ],
+ "group": "ATV Quad Frenzy (USA)",
+ "hack_group": "E.T汉化组",
+ "id": "prb-nds-4647641f",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "C2C45790",
+  "no_intro_name": "ATV Quad Frenzy (USA)",
+  "region": "USA"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "越野沙滩车 图片汉化版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

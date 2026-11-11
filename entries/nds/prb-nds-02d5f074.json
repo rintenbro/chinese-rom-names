@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "02D5F074",
+   "name": "太鼓达人DS 妖怪大决战 1.1(JP)(太鼓DS3临时汉化组)(512Mb).nds",
+   "size": 60424192
+  }
+ ],
+ "group": "Taiko no Tatsujin DS - Dororon! Yookai Daikessen!! (Japan)",
+ "hack_group": "太鼓DS3临时汉化组",
+ "id": "prb-nds-02d5f074",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "EA7D5805",
+  "no_intro_name": "Taiko no Tatsujin DS - Dororon! Yookai Daikessen!! (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "太鼓达人DS 妖怪大决战 1.1"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Survival Kids - Lost in Blue 2",
+ "group": "Survival Kids - Lost in Blue 2 (Japan)",
+ "hack_group": "巴士汉化组&PGCG汉化组",
  "id": "ver-nds-394fb536",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "8B5516F8",
   "no_intro_name": "Survival Kids - Lost in Blue 2 (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "AL2J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Survival Kids - Lost in Blue 2 (Japan)",
   "zh-Hans": "生存之子 迷失深蓝2"
  },
- "vendor": "巴士汉化组&PGCG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

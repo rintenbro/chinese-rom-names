@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Terminator 3 - Rise of the Machines",
+ "group": "Terminator 3 - Rise of the Machines (Europe) (En,Fr,De,Es,It)",
+ "hack_group": "oldgba",
  "id": "ver-gba-b558d6d3",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "16C3CAC3",
   "no_intro_name": "Terminator 3 - Rise of the Machines (Europe) (En,Fr,De,Es,It)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AO3P",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Terminator 3 - Rise of the Machines (Europe) (En,Fr,De,Es,It)",
   "zh-Hans": "终结者3机器的崛起"
  },
- "vendor": "oldgba",
+ "type": "game",
+ "vendor": "",
  "version": "v20261006"
 }

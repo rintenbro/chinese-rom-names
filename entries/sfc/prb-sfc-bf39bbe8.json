@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BF39BBE8",
+   "name": "松村邦洋传(简)(v1.1)(1d4444+CLARK.H)(24Mb).sfc",
+   "size": 3145728
+  }
+ ],
+ "group": "Matsumura Kunihiro Den - Saikyou no Rekishi o Nurikaero! (Japan)",
+ "hack_group": "1d4444+CLARK.H",
+ "id": "prb-sfc-bf39bbe8",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "8F3DA172",
+  "no_intro_name": "Matsumura Kunihiro Den - Saikyou no Rekishi o Nurikaero! (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "松村邦洋传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

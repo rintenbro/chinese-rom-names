@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-7335630a84bd/title.png"
+ },
+ "files": [
+  {
+   "crc32": "28BD16C3",
+   "name": "传说 (繁) (新特奇).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Legend (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-gbc-28bd16c3",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Legend (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

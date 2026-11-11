@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2CC7937E",
+   "name": "口袋妖怪 黑2 V2版(简)(JP)(pokemon lover)(4096Mb).nds",
+   "size": 536870912
+  }
+ ],
+ "group": "Pocket Monsters - White 2 (Japan) (Rev 1) (NDSi Enhanced)",
+ "hack_group": "pokemon lover",
+ "id": "prb-nds-2cc7937e",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "A9833314",
+  "no_intro_name": "Pocket Monsters - White 2 (Japan) (Rev 1) (NDSi Enhanced)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪 黑2 V2版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

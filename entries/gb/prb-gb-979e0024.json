@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "979E0024",
+   "name": "魂斗罗 (简) (unknown)(2Mb).gb",
+   "size": 262144
+  }
+ ],
+ "group": "Contra (Japan) (En)",
+ "hack_group": "unknown",
+ "id": "prb-gb-979e0024",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "CDE6DE15",
+  "no_intro_name": "Contra (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "魂斗罗"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

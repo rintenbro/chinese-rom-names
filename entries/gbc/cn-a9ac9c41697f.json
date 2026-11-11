@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-59e008056c67/title.png"
+ },
+ "files": [
+  {
+   "crc32": "7175F80A",
+   "name": "重装机兵 (繁) (新特奇).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "重装机兵",
+ "hack_group": "",
+ "id": "cn-a9ac9c41697f",
+ "platform": "gbc",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "重装机兵"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

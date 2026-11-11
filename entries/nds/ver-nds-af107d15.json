@@ -11,10 +11,9 @@
    "size": 33603348
   }
  ],
- "group": "Ryuusei no Rockman - Leo",
+ "group": "Ryuusei no Rockman - Leo (Japan)",
+ "hack_group": "电波人研究中心汉化组",
  "id": "ver-nds-af107d15",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "EA4F4898",
   "no_intro_name": "Ryuusei no Rockman - Leo (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "A6BJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Ryuusei no Rockman - Leo (Japan)",
   "zh-Hans": "流星洛克人 雄狮 完全汉化版v3"
  },
- "vendor": "电波人研究中心汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

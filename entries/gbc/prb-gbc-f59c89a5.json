@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F59C89A5",
+   "name": "水浒神兽(简)(广誉科技)(8Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Shui Hu Shen Shou (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-gbc-f59c89a5",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Shui Hu Shen Shou (China) [CHT]",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "水浒神兽"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

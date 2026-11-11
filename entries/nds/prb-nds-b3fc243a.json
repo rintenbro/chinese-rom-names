@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B3FC243A",
+   "name": "JUMP究极明星大乱斗 AI汉化文本测试版(简)(vinter0566)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Jump Ultimate Stars (Japan)",
+ "hack_group": "vinter0566",
+ "id": "prb-nds-b3fc243a",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "2023075D",
+  "no_intro_name": "Jump Ultimate Stars (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "JUMP究极明星大乱斗 AI汉化文本测试版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

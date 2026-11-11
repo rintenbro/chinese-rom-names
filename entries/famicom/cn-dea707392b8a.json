@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-b8187beca56a/title.png"
+ },
+ "files": [
+  {
+   "crc32": "6829BE16",
+   "name": "欧陆之战(繁)[外星科技](CN)[SLG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "欧陆之战",
+ "hack_group": "外星科技",
+ "id": "cn-dea707392b8a",
+ "platform": "famicom",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "欧陆之战"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

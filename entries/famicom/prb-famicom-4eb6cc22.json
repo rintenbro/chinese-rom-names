@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4EB6CC22",
+   "name": "企鹅先生冒险之旅(简)[MS](JP)[PUZ](0.18Mb).nes",
+   "size": 24592
+  }
+ ],
+ "group": "Binary Land (Japan) (En)",
+ "hack_group": "",
+ "id": "prb-famicom-4eb6cc22",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Binary Land (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "企鹅先生冒险之旅"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

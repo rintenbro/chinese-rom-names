@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6E654389",
+   "name": "悟空外传 (简) (147201688繁转简)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Wukong Waizhuan (Taiwan)",
+ "hack_group": "",
+ "id": "prb-megadrive-6e654389",
+ "platform": "megadrive",
+ "probable_original": {
+  "crc32": "880A916E",
+  "no_intro_name": "Wukong Waizhuan (Taiwan)",
+  "region": "Taiwan"
+ },
+ "script": "简繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "悟空外传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

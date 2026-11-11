@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Oriental Blue - Ao no Tengai",
+ "group": "Oriental Blue - Ao no Tengai (Japan)",
+ "hack_group": "Chyt+大水杯",
  "id": "ver-gba-7bd6349d",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "05E80ECC",
   "no_intro_name": "Oriental Blue - Ao no Tengai (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AORJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Oriental Blue - Ao no Tengai (Japan)",
   "zh-Hans": "天外魔境 青之天外"
  },
- "vendor": "Chyt+大水杯",
+ "type": "game",
+ "vendor": "",
  "version": "v20261008"
 }

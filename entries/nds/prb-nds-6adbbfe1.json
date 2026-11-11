@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6ADBBFE1",
+   "name": "從頭開始 大人的英語單詞訓練 不完全汉化修正版(JP)(ddv5725910)(128Mb).nds",
+   "size": 16777216
+  }
+ ],
+ "group": "Shoho kara Hajimeru - Otona no Eitango Renshuu (Japan)",
+ "hack_group": "ddv5725910",
+ "id": "prb-nds-6adbbfe1",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "1197AEE0",
+  "no_intro_name": "Shoho kara Hajimeru - Otona no Eitango Renshuu (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "從頭開始 大人的英語單詞訓練 不完全汉化修正版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

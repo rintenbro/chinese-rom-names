@@ -11,10 +11,9 @@
    "size": 22137408
   }
  ],
- "group": "Sekaiju no Meikyuu II - Shoou no Seihai",
+ "group": "Sekaiju no Meikyuu II - Shoou no Seihai (Japan)",
+ "hack_group": "小黑屋汉化组",
  "id": "ver-nds-caa9da57",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "21BC5FBF",
   "no_intro_name": "Sekaiju no Meikyuu II - Shoou no Seihai (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YIKJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Sekaiju no Meikyuu II - Shoou no Seihai (Japan)",
   "zh-Hans": "世界树迷宫2 诸王的圣杯 汉化修正版"
  },
- "vendor": "小黑屋汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

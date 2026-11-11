@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "69BC5006",
+   "name": "赛车2005 (简) (unknown).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Pocket GT (Japan)",
+ "hack_group": "unknown",
+ "id": "prb-gbc-69bc5006",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "2AC77C5A",
+  "no_intro_name": "Pocket GT (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "赛车2005"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

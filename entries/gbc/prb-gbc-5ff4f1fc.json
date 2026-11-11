@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-7f0d78cb52da/title.png"
+ },
+ "files": [
+  {
+   "crc32": "5FF4F1FC",
+   "name": "幻灵游侠 (简) (外星科技).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Monster & Me (China) [CHS]",
+ "hack_group": "",
+ "id": "prb-gbc-5ff4f1fc",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Monster & Me (China) [CHS]",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "幻灵游侠"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

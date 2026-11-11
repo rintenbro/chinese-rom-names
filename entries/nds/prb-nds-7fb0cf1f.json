@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7FB0CF1F",
+   "name": "聪明宝宝的游戏屋(US)(xedftxz)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Smart Kid's Gameclub (USA)",
+ "hack_group": "xedftxz",
+ "id": "prb-nds-7fb0cf1f",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "A985D9E0",
+  "no_intro_name": "Smart Kid's Gameclub (USA)",
+  "region": "USA"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "聪明宝宝的游戏屋"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

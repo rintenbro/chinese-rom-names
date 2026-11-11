@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "28A80B9B",
+   "name": "兵蜂3(简)[高伟](JP)[STG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "TwinBee 3 - Poko Poko Daimaou (Japan)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-28a80b9b",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "077876C0",
+  "no_intro_name": "TwinBee 3 - Poko Poko Daimaou (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "兵蜂3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

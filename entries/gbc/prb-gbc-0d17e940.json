@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0D17E940",
+   "name": "合金弹头2 (繁) (Hitek).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Terrifying 911 (China) (En)",
+ "hack_group": "Hitek",
+ "id": "prb-gbc-0d17e940",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "188B06F8",
+  "no_intro_name": "Terrifying 911 (China) (En)",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "合金弹头2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

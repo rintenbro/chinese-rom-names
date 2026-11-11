@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1DD2194C",
+   "name": "希特勒复活(v0.9)(简)[Krizalil](JP)[ACT](2.25Mb).nes",
+   "size": 294928
+  }
+ ],
+ "group": "Hitler no Fukkatsu - Top Secret (Japan)",
+ "hack_group": "Krizalil",
+ "id": "prb-famicom-1dd2194c",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "36CA1229",
+  "no_intro_name": "Hitler no Fukkatsu - Top Secret (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "希特勒复活"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v0.9"
+}

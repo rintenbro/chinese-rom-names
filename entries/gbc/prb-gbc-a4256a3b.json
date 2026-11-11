@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A4256A3B",
+   "name": "007 - 黑日危机 (繁) (修正版) (sss888).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "007 - The World Is Not Enough (USA, Europe)",
+ "hack_group": "sss888",
+ "id": "prb-gbc-a4256a3b",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "007 - The World Is Not Enough (USA, Europe)",
+  "region": "USA, Europe"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "黑日危机"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

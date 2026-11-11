@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E0E812D2",
+   "name": "侏罗纪公园III - 失落的遗传基因[Amonwang](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Jurassic Park III - Ushinawareta Idenshi (Japan)",
+ "hack_group": "Amonwang",
+ "id": "prb-gba-e0e812d2",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "AB6786DD",
+  "no_intro_name": "Jurassic Park III - Ushinawareta Idenshi (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "侏罗纪公园III - 失落的遗传基因"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

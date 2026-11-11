@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2F58FE9A",
+   "name": "勇者斗恶龙8(简)[外星科技](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Yongzhe Dou Elong VIII (Dragon Quest VIII) (China) (Pirate)",
+ "hack_group": "外星科技",
+ "id": "prb-famicom-2f58fe9a",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "E9F91164",
+  "no_intro_name": "Yongzhe Dou Elong VIII (Dragon Quest VIII) (China) (Pirate)",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "勇者斗恶龙8"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

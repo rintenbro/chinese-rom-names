@@ -11,10 +11,9 @@
    "size": 2097152
   }
  ],
- "group": "Bingyuan Lixian Ji",
+ "group": "Bingyuan Lixian Ji (Taiwan)",
+ "hack_group": "",
  "id": "ver-gbc-7ca57891",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "7CA57891",
   "no_intro_name": "Bingyuan Lixian Ji (Taiwan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gbc",
  "script": "繁",
- "serial": "",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Bingyuan Lixian Ji (Taiwan)",
   "zh-Hans": "冰河世纪"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

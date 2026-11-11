@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "764CF9AC",
+   "name": "哈利波特2 - 消失的密室 (繁) (新特奇).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Harry Potter and the Chamber of Secrets (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Da)",
+ "hack_group": "",
+ "id": "prb-gbc-764cf9ac",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "136E9D0C",
+  "no_intro_name": "Harry Potter and the Chamber of Secrets (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Da)",
+  "region": "USA"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "哈利波特2 - 消失的密室"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

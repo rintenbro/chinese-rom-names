@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "474936D0",
+   "name": "马力欧卡丁车DS v1.0官译汉化(Download Play版)(Monado汉化组)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Mario Kart DS (Japan)",
+ "hack_group": "Monado汉化组",
+ "id": "prb-nds-474936d0",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "226E8DB6",
+  "no_intro_name": "Mario Kart DS (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "马力欧卡丁车DS v1.0官译"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

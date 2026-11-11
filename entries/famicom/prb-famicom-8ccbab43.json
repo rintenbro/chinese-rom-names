@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8CCBAB43",
+   "name": "超级魂斗罗(大字体)(简)[FlameCyclone](JP)[ACT](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Super Contra (Japan)",
+ "hack_group": "FlameCyclone",
+ "id": "prb-famicom-8ccbab43",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Super Contra (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级魂斗罗"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CC1B464D",
+   "name": "牧场物语 女孩版(JP)(NdsBBS汉化组 无名达人(伍兆金))(512Mb).nds",
+   "size": 35562416
+  }
+ ],
+ "group": "Bokujou Monogatari - Colobockle Station for Girl (Japan)",
+ "hack_group": "NdsBBS汉化组 无名达人(伍兆金",
+ "id": "prb-nds-cc1b464d",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "1306DB19",
+  "no_intro_name": "Bokujou Monogatari - Colobockle Station for Girl (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "牧场物语 女孩版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

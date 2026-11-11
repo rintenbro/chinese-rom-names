@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-7c4e733f58ed/title.png"
+ },
+ "files": [
+  {
+   "crc32": "875CD436",
+   "name": "75宾果(繁)[圣谦](CN)[TAB](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "75宾果",
+ "hack_group": "圣谦",
+ "id": "cn-18624033f194",
+ "platform": "famicom",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "75宾果"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

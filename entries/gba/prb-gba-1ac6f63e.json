@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1AC6F63E",
+   "name": "最终幻想IV Advance[天幻网+PGCG](v3.0)(简)(US)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Final Fantasy IV Advance (USA)",
+ "hack_group": "天幻网+PGCG",
+ "id": "prb-gba-1ac6f63e",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "FEEEBDE4",
+  "no_intro_name": "Final Fantasy IV Advance (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "最终幻想IV Advance"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v3.0"
+}

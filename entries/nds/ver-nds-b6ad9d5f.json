@@ -11,10 +11,9 @@
    "size": 66149420
   }
  ],
- "group": "Metroid Prime - Hunters",
+ "group": "Metroid Prime - Hunters (Japan)",
+ "hack_group": "PGCG汉化组",
  "id": "ver-nds-b6ad9d5f",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "277B717B",
   "no_intro_name": "Metroid Prime - Hunters (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "AMHJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Metroid Prime - Hunters (Japan)",
   "zh-Hans": "银河战士 初猎"
  },
- "vendor": "PGCG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

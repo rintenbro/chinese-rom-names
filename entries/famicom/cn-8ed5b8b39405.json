@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-ee238433841f/title.png"
+ },
+ "files": [
+  {
+   "crc32": "84E364DB",
+   "name": "匹诺槽的复苏(简)[外星科技](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "匹诺槽的复苏",
+ "hack_group": "外星科技",
+ "id": "cn-8ed5b8b39405",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "匹诺槽的复苏"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

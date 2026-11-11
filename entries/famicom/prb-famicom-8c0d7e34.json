@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8C0D7E34",
+   "name": "绿色兵团(简)[星空](US)[ACT](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Rush'n Attack (USA)",
+ "hack_group": "星空",
+ "id": "prb-famicom-8c0d7e34",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "7AEBB5E7",
+  "no_intro_name": "Rush'n Attack (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "绿色兵团"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

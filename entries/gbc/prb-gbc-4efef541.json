@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4EFEF541",
+   "name": "口袋妖怪 – 金(新神奇宝贝金)(繁)(星星科技+yy小龙虾)(JP)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Pocket Monsters Kin (Japan) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "星星科技+yy小龙虾",
+ "id": "prb-gbc-4efef541",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "524478D4",
+  "no_intro_name": "Pocket Monsters Kin (Japan) (SGB Enhanced) (GB Compatible)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪 – 金"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

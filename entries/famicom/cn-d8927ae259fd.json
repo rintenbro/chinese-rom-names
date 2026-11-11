@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-e03ad2bd49e0/title.png"
+ },
+ "files": [
+  {
+   "crc32": "DB9A6258",
+   "name": "原始人2(简)[南晶科技](CN)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "原始人2",
+ "hack_group": "南晶科技",
+ "id": "cn-d8927ae259fd",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "原始人2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

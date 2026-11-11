@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0FE0B6B4",
+   "name": "三国志英杰传 (简) (v0.51)(WGF & mxj7546)(24Mb).sfc",
+   "size": 3145728
+  }
+ ],
+ "group": "Sangokushi Eiketsuden (Japan)",
+ "hack_group": "WGF & mxj7546",
+ "id": "prb-sfc-0fe0b6b4",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "4C78D5EE",
+  "no_intro_name": "Sangokushi Eiketsuden (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "三国志英杰传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v0.51"
+}

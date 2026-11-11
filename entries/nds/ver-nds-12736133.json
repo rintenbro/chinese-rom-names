@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Tantei Jinguuji Saburou DS - Akai Chou",
+ "group": "Tantei Jinguuji Saburou DS - Akai Chou (Japan)",
+ "hack_group": "Xzonn",
  "id": "ver-nds-12736133",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "EF08E75E",
   "no_intro_name": "Tantei Jinguuji Saburou DS - Akai Chou (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "BUYJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Tantei Jinguuji Saburou DS - Akai Chou (Japan)",
   "zh-Hans": "侦探神宫寺三郎DS 红蝶 AI"
  },
- "vendor": "Xzonn",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

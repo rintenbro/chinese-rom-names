@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-b5251bf994a2/title.png"
+ },
+ "files": [
+  {
+   "crc32": "019D51E1",
+   "name": "合金弹头X - 深入敌后 (繁) (新特奇).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "合金弹头X - 深入敌后",
+ "hack_group": "",
+ "id": "cn-341c2979d8aa",
+ "platform": "gbc",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "合金弹头X - 深入敌后"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

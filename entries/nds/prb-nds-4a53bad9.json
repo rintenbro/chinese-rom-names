@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4A53BAD9",
+   "name": "神游 - 新超级马力欧兄弟(新超级马里奥兄弟)(神游)(官方简中)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "New Chaoji Maliou Xiongdi (China) (iDS)",
+ "hack_group": "",
+ "id": "prb-nds-4a53bad9",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "882598FB",
+  "no_intro_name": "New Chaoji Maliou Xiongdi (China) (iDS)",
+  "region": "China"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "神游 - 新超级马力欧兄弟"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

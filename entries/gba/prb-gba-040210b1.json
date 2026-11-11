@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "040210B1",
+   "name": "究极截拳道 - 金太郎的复仇[TGB](简)(US)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Gekido Advance - Kintaro's Revenge (USA)",
+ "hack_group": "",
+ "id": "prb-gba-040210b1",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "6BBC5F4D",
+  "no_intro_name": "Gekido Advance - Kintaro's Revenge (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "究极截拳道 - 金太郎的复仇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

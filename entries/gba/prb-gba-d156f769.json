@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D156F769",
+   "name": "口袋妖怪弹珠台 - 红宝石&蓝宝石[红魔](简)(JP)(64.29Mb).gba",
+   "size": 8427668
+  }
+ ],
+ "group": "Pokemon Pinball - Ruby & Sapphire (Japan)",
+ "hack_group": "红魔",
+ "id": "prb-gba-d156f769",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "8AF1EC73",
+  "no_intro_name": "Pokemon Pinball - Ruby & Sapphire (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪弹珠台 - 红宝石&蓝宝石"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

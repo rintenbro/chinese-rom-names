@@ -11,10 +11,9 @@
    "size": 29929984
   }
  ],
- "group": "Panda-san Nikki",
+ "group": "Panda-san Nikki (Japan)",
+ "hack_group": "ACG汉化组",
  "id": "ver-nds-1aeb0413",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "66B78C60",
   "no_intro_name": "Panda-san Nikki (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YU6J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Panda-san Nikki (Japan)",
   "zh-Hans": "熊猫先生日记"
  },
- "vendor": "ACG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "86B6DFEB",
+   "name": "梦幻之星ZERO 完整汉化版(JP)(小黑屋汉化组)(1024Mb).nds",
+   "size": 127587364
+  }
+ ],
+ "group": "Phantasy Star 0 (Japan)",
+ "hack_group": "小黑屋汉化组",
+ "id": "prb-nds-86b6dfeb",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "512251F9",
+  "no_intro_name": "Phantasy Star 0 (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "梦幻之星ZERO 完整汉化版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "46E2B9F2",
+   "name": "向日葵大进发(简)(JP)(想日葵临时有爱组)(128Mb).nds",
+   "size": 9941052
+  }
+ ],
+ "group": "Coropata (Japan)",
+ "hack_group": "",
+ "id": "prb-nds-46e2b9f2",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "6904973A",
+  "no_intro_name": "Coropata (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "向日葵大进发"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

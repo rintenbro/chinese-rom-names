@@ -11,10 +11,9 @@
    "size": 250672240
   }
  ],
- "group": "Tales of Hearts - Anime Movie Edition",
+ "group": "Tales of Hearts - Anime Movie Edition (Japan)",
+ "hack_group": "ACG汉化组",
  "id": "ver-nds-5bb87531",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "82C1282F",
   "no_intro_name": "Tales of Hearts - Anime Movie Edition (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "CTUJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Tales of Hearts - Anime Movie Edition (Japan)",
   "zh-Hans": "心灵传说 动画版1.0"
  },
- "vendor": "ACG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

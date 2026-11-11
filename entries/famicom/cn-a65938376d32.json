@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-7490c1cea364/title.png"
+ },
+ "files": [
+  {
+   "crc32": "36E6E590",
+   "name": "黑暗之蛊(繁)[火星电子](CN)[AVG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "黑暗之蛊",
+ "hack_group": "火星电子",
+ "id": "cn-a65938376d32",
+ "platform": "famicom",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "黑暗之蛊"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

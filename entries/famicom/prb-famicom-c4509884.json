@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C4509884",
+   "name": "假面的忍者 赤影(v1.0)(简)[MS](JP)[ACT](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Kamen no Ninja - Akakage (Japan)",
+ "hack_group": "",
+ "id": "prb-famicom-c4509884",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "8C0FDF3D",
+  "no_intro_name": "Kamen no Ninja - Akakage (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "假面的忍者 赤影"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5EF9725D",
+   "name": "超级马里奥大陆 (简) (v1.0) (九班)(0.5Mb).gb",
+   "size": 65536
+  }
+ ],
+ "group": "Super Mario Land (World)",
+ "hack_group": "",
+ "id": "prb-gb-5ef9725d",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "90776841",
+  "no_intro_name": "Super Mario Land (World)",
+  "region": "World"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级马里奥大陆"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

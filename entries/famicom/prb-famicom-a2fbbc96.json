@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A2FBBC96",
+   "name": "纽约大拳猫(简)[MS](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "New York Nyankies (Japan)",
+ "hack_group": "",
+ "id": "prb-famicom-a2fbbc96",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "New York Nyankies (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "纽约大拳猫"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

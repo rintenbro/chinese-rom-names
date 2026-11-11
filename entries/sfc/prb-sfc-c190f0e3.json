@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C190F0E3",
+   "name": "哆啦A梦4 - 大雄和月之王国 (简) (少量汉化)(hxr-dc)(12Mb).sfc",
+   "size": 1572864
+  }
+ ],
+ "group": "Doraemon 4 - Nobita to Tsuki no Oukoku (Japan)",
+ "hack_group": "hxr-dc",
+ "id": "prb-sfc-c190f0e3",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "4097BC01",
+  "no_intro_name": "Doraemon 4 - Nobita to Tsuki no Oukoku (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "哆啦A梦4 - 大雄和月之王国"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

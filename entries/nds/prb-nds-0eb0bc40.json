@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0EB0BC40",
+   "name": "机动战士高达 OO 1.1(简)(JP)(CG汉化组)(512Mb).nds",
+   "size": 63307432
+  }
+ ],
+ "group": "Kidou Senshi Gundam 00 (Japan)",
+ "hack_group": "CG汉化组",
+ "id": "prb-nds-0eb0bc40",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "9E2447DB",
+  "no_intro_name": "Kidou Senshi Gundam 00 (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "机动战士高达 OO 1.1"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

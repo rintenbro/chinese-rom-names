@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D31BAB64",
+   "name": "双鹰(繁)[洁晖](CN)[STG](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Twin Eagle (Asia) (PAL)",
+ "hack_group": "洁晖",
+ "id": "prb-famicom-d31bab64",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "4160E5E4",
+  "no_intro_name": "Twin Eagle (Asia) (PAL)",
+  "region": "Asia"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "双鹰"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

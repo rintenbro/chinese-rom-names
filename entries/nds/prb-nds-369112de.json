@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "369112DE",
+   "name": "创造职业棒球队(JP)(GV胜利汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Pro Yakyuu Team o Tsukurou! (Japan)",
+ "hack_group": "GV胜利汉化组",
+ "id": "prb-nds-369112de",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "10F3A408",
+  "no_intro_name": "Pro Yakyuu Team o Tsukurou! (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "创造职业棒球队"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

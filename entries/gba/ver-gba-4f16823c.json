@@ -11,10 +11,9 @@
    "size": 4194304
   }
  ],
- "group": "Digimon - Battle Spirit 2",
+ "group": "Digimon - Battle Spirit 2 (Europe) (En,Fr,De,Es,It)",
+ "hack_group": "Advance",
  "id": "ver-gba-4f16823c",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "00C906A3",
   "no_intro_name": "Digimon - Battle Spirit 2 (Europe) (En,Fr,De,Es,It)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BDSP",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Digimon - Battle Spirit 2 (Europe) (En,Fr,De,Es,It)",
   "zh-Hans": "数码宝贝 - 战魂2"
  },
- "vendor": "Advance",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

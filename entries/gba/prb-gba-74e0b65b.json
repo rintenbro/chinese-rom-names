@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "74E0B65B",
+   "name": "1118 口袋怪兽弹珠台.gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Pokemon Pinball - Ruby & Sapphire (Japan)",
+ "hack_group": "",
+ "id": "prb-gba-74e0b65b",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "8AF1EC73",
+  "no_intro_name": "Pokemon Pinball - Ruby & Sapphire (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋怪兽弹珠台"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

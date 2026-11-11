@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-67c0114a4056/title.png"
+ },
+ "files": [
+  {
+   "crc32": "CAC67F91",
+   "name": "鬼武者2 (繁) (新特奇).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Onimusha 2 (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-gbc-cac67f91",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Onimusha 2 (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "鬼武者2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

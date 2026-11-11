@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C5885B9F",
+   "name": "守护者坦克(简)[烈火暴龙](US)[STG](0.75Mb).nes",
+   "size": 98320
+  }
+ ],
+ "group": "Vindicators (USA)",
+ "hack_group": "烈火暴龙",
+ "id": "prb-famicom-c5885b9f",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Vindicators (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "守护者坦克"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

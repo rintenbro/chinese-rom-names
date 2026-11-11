@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5AD933E5",
+   "name": "口袋妖怪 – 水晶(精灵宝可梦水晶版)(v1.2)(简)(CKN & DMG & 口袋群星SP联合汉化)(US)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Pokemon - Crystal Version (USA)",
+ "hack_group": "",
+ "id": "prb-gbc-5ad933e5",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "EE6F5188",
+  "no_intro_name": "Pokemon - Crystal Version (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪 – 水晶"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.2"
+}

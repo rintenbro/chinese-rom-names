@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1228FB1B",
+   "name": "勇者故事 0.99(JP)(E.Wings汉化组)(512Mb).nds",
+   "size": 65855578
+  }
+ ],
+ "group": "Brave Story - Boku no Kioku to Negai (Japan)",
+ "hack_group": "E.Wings汉化组",
+ "id": "prb-nds-1228fb1b",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "31A030ED",
+  "no_intro_name": "Brave Story - Boku no Kioku to Negai (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "勇者故事 0.99"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

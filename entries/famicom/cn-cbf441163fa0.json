@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-d4da3b660cda/title.png"
+ },
+ "files": [
+  {
+   "crc32": "4EED2B09",
+   "name": "坦克风云(v20241222)(简)[三协资讯+多情剑客阿飞](CN)[STG](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "坦克风云",
+ "hack_group": "三协资讯+多情剑客阿飞",
+ "id": "cn-cbf441163fa0",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "坦克风云"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20241222"
+}

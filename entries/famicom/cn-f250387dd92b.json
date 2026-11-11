@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-de5e88728afa/title.png"
+ },
+ "files": [
+  {
+   "crc32": "B7450B49",
+   "name": "勇者传说(简)[南晶科技](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "勇者传说",
+ "hack_group": "南晶科技",
+ "id": "cn-f250387dd92b",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "勇者传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

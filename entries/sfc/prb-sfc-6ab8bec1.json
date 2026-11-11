@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6AB8BEC1",
+   "name": "圣灵珠传说2(简)(AI汉化v1.0.2)(模拟添柴)(32Mb).smc",
+   "size": 4194304
+  }
+ ],
+ "group": "Dual Orb II (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-6ab8bec1",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "E8798F65",
+  "no_intro_name": "Dual Orb II (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "圣灵珠传说2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0.2"
+}

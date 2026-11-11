@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A857303A",
+   "name": "纯情房东俏房客Advance - 祝福之钟声[CGP&PGCG](简)(JP)(70.01Mb).gba",
+   "size": 9177344
+  }
+ ],
+ "group": "Love Hina Advance - Shukufuku no Kane wa Naru Kana (Japan)",
+ "hack_group": "CGP&PGCG",
+ "id": "prb-gba-a857303a",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "B8E67449",
+  "no_intro_name": "Love Hina Advance - Shukufuku no Kane wa Naru Kana (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "纯情房东俏房客Advance - 祝福之钟声"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D2982A65",
+   "name": "皇帝的财宝 - 秘境魔宝 (简) (意志之路)(17.5Mb).md",
+   "size": 2293760
+  }
+ ],
+ "group": "Landstalker (USA)",
+ "hack_group": "",
+ "id": "prb-megadrive-d2982a65",
+ "platform": "megadrive",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Landstalker (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "皇帝的财宝 - 秘境魔宝"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

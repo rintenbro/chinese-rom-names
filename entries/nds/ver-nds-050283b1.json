@@ -11,10 +11,9 @@
    "size": 134217728
   }
  ],
- "group": "Dragon Ball Kai - Saiyajin Raishuu",
+ "group": "Dragon Ball Kai - Saiyajin Raishuu (Japan)",
+ "hack_group": "CG汉化组",
  "id": "ver-nds-050283b1",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "9E53C430",
   "no_intro_name": "Dragon Ball Kai - Saiyajin Raishuu (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "BRPJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Dragon Ball Kai - Saiyajin Raishuu (Japan)",
   "zh-Hans": "龙珠改 赛亚人来袭"
  },
- "vendor": "CG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

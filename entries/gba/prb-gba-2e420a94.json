@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2E420A94",
+   "name": "0079 黄金太阳剧情100%中文版.gba",
+   "size": 9335748
+  }
+ ],
+ "group": "Ougon no Taiyou - Hirakareshi Fuuin (Japan)",
+ "hack_group": "",
+ "id": "prb-gba-2e420a94",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "FB96D9DE",
+  "no_intro_name": "Ougon no Taiyou - Hirakareshi Fuuin (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "黄金太阳剧情100%中文版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

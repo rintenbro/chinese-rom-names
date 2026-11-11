@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A7F037FB",
+   "name": "塞尔达传说 大地的汽笛(简)1.1(US)(FCU汉化组和兔友汉化组)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Legend of Zelda, The - Spirit Tracks (USA, Australia) (En,Fr,Es)",
+ "hack_group": "FCU汉化组和兔友汉化组",
+ "id": "prb-nds-a7f037fb",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "38392357",
+  "no_intro_name": "Legend of Zelda, The - Spirit Tracks (USA, Australia) (En,Fr,Es)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "塞尔达传说 大地的汽笛1.1"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

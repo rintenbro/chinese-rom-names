@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-7c9fada54587/title.png"
+ },
+ "files": [
+  {
+   "crc32": "B9CF45B3",
+   "name": "天之痕(简)(dhx)(32Mb).gb",
+   "size": 4194304
+  }
+ ],
+ "group": "Scar of the Sky, The (China) [CHS]",
+ "hack_group": "dhx",
+ "id": "prb-gbc-b9cf45b3",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Scar of the Sky, The (China) [CHS]",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "天之痕"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

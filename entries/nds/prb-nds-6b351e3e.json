@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6B351E3E",
+   "name": "押忍！奋斗！应援团 中文测试版(JP)(!怪盗k-i-d)(512Mb).nds",
+   "size": 64061472
+  }
+ ],
+ "group": "Osu! Tatakae! Ouendan (Japan)",
+ "hack_group": "",
+ "id": "prb-nds-6b351e3e",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "2D59B3C8",
+  "no_intro_name": "Osu! Tatakae! Ouendan (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "押忍！奋斗！应援团 中文测试版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

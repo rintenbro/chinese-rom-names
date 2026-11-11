@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "944E37F5",
+   "name": "出局众生 有点残酷的博览会 v1.0.1(DSiWare)(简)(aikika)(80Mb).nds",
+   "size": 9752576
+  }
+ ],
+ "group": "Knockout Peoples (Japan)",
+ "hack_group": "DSiWare aikika",
+ "id": "prb-nds-944e37f5",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Knockout Peoples (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "出局众生 有点残酷的博览会 v1.0.1"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

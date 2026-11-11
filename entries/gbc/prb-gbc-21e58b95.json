@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "21E58B95",
+   "name": "海贼王：梦之路飞海贼团诞生(简)(雪莉柏金)(JP)(32Mb).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou! (Japan) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "",
+ "id": "prb-gbc-21e58b95",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "C693AA37",
+  "no_intro_name": "From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou! (Japan) (SGB Enhanced) (GB Compatible)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "海贼王：梦之路飞海贼团诞生"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

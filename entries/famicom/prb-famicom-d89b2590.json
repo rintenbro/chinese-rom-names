@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D89B2590",
+   "name": "最终任务(v1.1)(简)[asiwish](JP)[STG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Final Mission (Japan)",
+ "hack_group": "asiwish",
+ "id": "prb-famicom-d89b2590",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "290DD12F",
+  "no_intro_name": "Final Mission (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "最终任务"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

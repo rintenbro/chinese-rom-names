@@ -11,10 +11,9 @@
    "size": 33554432
   }
  ],
- "group": "Chaoji Maliou DX",
+ "group": "Chaoji Maliou DX (Taiwan)",
+ "hack_group": "D商+yy小龙虾",
  "id": "ver-gba-2c7af7e8",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "2C7AF7E8",
   "no_intro_name": "Chaoji Maliou DX (Taiwan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "未标注",
- "serial": "",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Chaoji Maliou DX (Taiwan)",
   "zh-Hans": "超级玛莉欧DX"
  },
- "vendor": "D商+yy小龙虾",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

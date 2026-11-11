@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A268753B",
+   "name": "超级马里奥兄弟(简)[F0REVERD](JUE)[ACT](0.31Mb).nes",
+   "size": 40976
+  }
+ ],
+ "group": "Super Mario Bros. (World)",
+ "hack_group": "JUE F0REVERD",
+ "id": "prb-famicom-a268753b",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Super Mario Bros. (World)",
+  "region": "World"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级马里奥兄弟"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

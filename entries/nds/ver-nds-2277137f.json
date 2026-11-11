@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Electroplankton",
+ "group": "Electroplankton (Europe) (En,Fr,De,Es,It)",
+ "hack_group": "heroboy",
  "id": "ver-nds-2277137f",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "90F8CA7B",
   "no_intro_name": "Electroplankton (Europe) (En,Fr,De,Es,It)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "ATIP",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Electroplankton (Europe) (En,Fr,De,Es,It)",
   "zh-Hans": "电子浮游生物"
  },
- "vendor": "heroboy",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

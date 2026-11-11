@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8ED60773",
+   "name": "火焰之纹章4 - 圣战系谱 (繁) (v1.1)(火花天龙剑)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Fire Emblem - Seisen no Keifu (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-8ed60773",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "DC0D8CF9",
+  "no_intro_name": "Fire Emblem - Seisen no Keifu (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "火焰之纹章4 - 圣战系谱"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

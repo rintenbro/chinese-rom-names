@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-4c98867aeea8/title.png"
+ },
+ "files": [
+  {
+   "crc32": "2FFE697C",
+   "name": "石器时代 - 精灵王诞生 (简) (修正版) (Gowin).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Stone Age (China) [CHS]",
+ "hack_group": "Gowin",
+ "id": "prb-gbc-2ffe697c",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Stone Age (China) [CHS]",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "石器时代 - 精灵王诞生"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

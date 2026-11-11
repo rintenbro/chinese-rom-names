@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "01632E2C",
+   "name": "加纳战机(日版)(v1.0)(隐藏菜单)(简)[Advance](JP)(3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Gun Nac (USA)",
+ "hack_group": "Advance",
+ "id": "prb-famicom-01632e2c",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Gun Nac (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "加纳战机"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

@@ -11,10 +11,9 @@
    "size": 23085404
   }
  ],
- "group": "Days of Memories 3",
+ "group": "Days of Memories 3 (Japan)",
+ "hack_group": "",
  "id": "ver-nds-ed975fad",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "76B78312",
   "no_intro_name": "Days of Memories 3 (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "C63J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Days of Memories 3 (Japan)",
   "zh-Hans": "记忆之日3 预览版"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Dementium - The Ward",
+ "group": "Dementium - The Ward (USA)",
+ "hack_group": "dream75421",
  "id": "ver-nds-872f91bc",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "6D03B8BA",
   "no_intro_name": "Dementium - The Ward (USA)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "繁",
- "serial": "YDTE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Dementium - The Ward (USA)",
   "zh-Hans": "病院惊魂"
  },
- "vendor": "dream75421",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

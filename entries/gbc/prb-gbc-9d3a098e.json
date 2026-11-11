@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9D3A098E",
+   "name": "电车Go! (简) (混沌星辰).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Densha de Go! (Japan)",
+ "hack_group": "",
+ "id": "prb-gbc-9d3a098e",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "14375072",
+  "no_intro_name": "Densha de Go! (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "电车Go!"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

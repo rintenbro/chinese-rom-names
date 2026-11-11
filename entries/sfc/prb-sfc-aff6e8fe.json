@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AFF6E8FE",
+   "name": "超级银河战士 (简) (v0.8)(Chrono)(24Mb).sfc",
+   "size": 3145728
+  }
+ ],
+ "group": "Super Metroid (Japan, USA) (En,Ja)",
+ "hack_group": "Chrono",
+ "id": "prb-sfc-aff6e8fe",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "D63ED5F8",
+  "no_intro_name": "Super Metroid (Japan, USA) (En,Ja)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级银河战士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v0.8"
+}

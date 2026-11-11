@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "83AE595C",
+   "name": "越南大战Advance[白河忧](简)(US)(64.98Mb).gba",
+   "size": 8517609
+  }
+ ],
+ "group": "Metal Slug Advance (USA)",
+ "hack_group": "白河忧",
+ "id": "prb-gba-83ae595c",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "09980880",
+  "no_intro_name": "Metal Slug Advance (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "越南大战Advance"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

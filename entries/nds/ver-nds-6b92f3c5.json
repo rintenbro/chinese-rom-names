@@ -11,10 +11,9 @@
    "size": 10768024
   }
  ],
- "group": "Asonde Igo ga Tsuyoku Naru! - Ginsei Igo DS",
+ "group": "Asonde Igo ga Tsuyoku Naru! - Ginsei Igo DS (Japan)",
+ "hack_group": "E.Wings汉化组",
  "id": "ver-nds-6b92f3c5",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "E5DF3D88",
   "no_intro_name": "Asonde Igo ga Tsuyoku Naru! - Ginsei Igo DS (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "AE5J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Asonde Igo ga Tsuyoku Naru! - Ginsei Igo DS (Japan)",
   "zh-Hans": "围棋玩得更强 银星围棋DS"
  },
- "vendor": "E.Wings汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

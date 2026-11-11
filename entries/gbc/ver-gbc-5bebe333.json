@@ -11,10 +11,9 @@
    "size": 1048576
   }
  ],
- "group": "Harry Potter",
+ "group": "Harry Potter (Taiwan)",
+ "hack_group": "",
  "id": "ver-gbc-5bebe333",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "5BEBE333",
   "no_intro_name": "Harry Potter (Taiwan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gbc",
  "script": "繁",
- "serial": "",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Harry Potter (Taiwan)",
   "zh-Hans": "哈利波特"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

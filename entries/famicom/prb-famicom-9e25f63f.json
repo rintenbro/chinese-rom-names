@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9E25F63F",
+   "name": "最终任务(简)[逆游の五彩魚](JP)[STG](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Final Mission (Japan)",
+ "hack_group": "逆游の五彩魚",
+ "id": "prb-famicom-9e25f63f",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Final Mission (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "最终任务"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

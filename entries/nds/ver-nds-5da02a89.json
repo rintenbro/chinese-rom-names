@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Chou Shittou Caduceus",
+ "group": "Chou Shittou Caduceus (Japan)",
+ "hack_group": "feiyuncxd",
  "id": "ver-nds-5da02a89",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "7A5EFCC4",
   "no_intro_name": "Chou Shittou Caduceus (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "AKDJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Chou Shittou Caduceus (Japan)",
   "zh-Hans": "超执刀 标准版"
  },
- "vendor": "feiyuncxd",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

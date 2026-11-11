@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DB58837B",
+   "name": "忍者龙剑传(简)[TPU](JP)[ACT](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Ninja Ryuuken Den (Japan)",
+ "hack_group": "",
+ "id": "prb-famicom-db58837b",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Ninja Ryuuken Den (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "忍者龙剑传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

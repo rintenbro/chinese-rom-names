@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-8210190663dc/title.png"
+ },
+ "files": [
+  {
+   "crc32": "A8E0C474",
+   "name": "疯狂大富翁(繁)(v1.0修复)(广誉科技+Stephen)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Crazy Richman (China) [CHT]",
+ "hack_group": "广誉科技+Stephen",
+ "id": "prb-gbc-a8e0c474",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Crazy Richman (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "疯狂大富翁"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

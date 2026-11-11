@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B82B4F29",
+   "name": "太空射击战(v20220219)(繁)[NOKOH](US)[STG](1.43Mb).nes",
+   "size": 188432
+  }
+ ],
+ "group": "Gyruss (USA)",
+ "hack_group": "NOKOH",
+ "id": "prb-famicom-b82b4f29",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "7CBDE0CD",
+  "no_intro_name": "Gyruss (USA)",
+  "region": "USA"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "太空射击战"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20220219"
+}

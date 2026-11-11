@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1002C02F",
+   "name": "雀侦物语 (简) (Phanteam)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Jantei Monogatari (Japan)",
+ "hack_group": "Phanteam",
+ "id": "prb-megadrive-1002c02f",
+ "platform": "megadrive",
+ "probable_original": {
+  "crc32": "8A1B19AD",
+  "no_intro_name": "Jantei Monogatari (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "雀侦物语"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

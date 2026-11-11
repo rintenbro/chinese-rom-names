@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "52C073F5",
+   "name": "幽游白书DS AI汉化测试版(简)(我叫鱼子酱233)(512Mb).nds",
+   "size": 66920968
+  }
+ ],
+ "group": "Yu Yu Hakusho DS - Ankoku Bujutsukai Hen (Japan)",
+ "hack_group": "",
+ "id": "prb-nds-52c073f5",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "58046E5D",
+  "no_intro_name": "Yu Yu Hakusho DS - Ankoku Bujutsukai Hen (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "幽游白书DS AI汉化测试版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

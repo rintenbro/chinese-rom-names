@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-d4b313a531e2/title.png"
+ },
+ "files": [
+  {
+   "crc32": "65855423",
+   "name": "神雕奇侠(简)(修正版)(外星科技+白粥与榨菜+星夜之幻+babypkzhu).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Shen Diao Qi Xia (China) [CHS]",
+ "hack_group": "外星科技+白粥与榨菜+星夜之幻+babypkzhu",
+ "id": "prb-gbc-65855423",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Shen Diao Qi Xia (China) [CHS]",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "神雕奇侠"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

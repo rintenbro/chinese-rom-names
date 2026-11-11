@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DC8AFC22",
+   "name": "超级机器人联机大作战(第三次) (简) (unknown).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Super Robot Taisen - Link Battler (Japan) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "unknown",
+ "id": "prb-gbc-dc8afc22",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Super Robot Taisen - Link Battler (Japan) (SGB Enhanced) (GB Compatible)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级机器人联机大作战"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

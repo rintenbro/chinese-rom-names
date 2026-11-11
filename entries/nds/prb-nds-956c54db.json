@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "956C54DB",
+   "name": "地狱少女 朱蔓 最终完结版(JP)(APEX汉化组)(256Mb).nds",
+   "size": 31813328
+  }
+ ],
+ "group": "Jigoku Shoujo - Akekazura (Japan)",
+ "hack_group": "APEX汉化组",
+ "id": "prb-nds-956c54db",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "1069BF53",
+  "no_intro_name": "Jigoku Shoujo - Akekazura (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "地狱少女 朱蔓 最终完结版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

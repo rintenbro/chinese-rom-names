@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Crazy Machines",
+ "group": "Crazy Machines (Europe) (En,De)",
+ "hack_group": "远离汉化组",
  "id": "ver-nds-f1441e95",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "C2923CE9",
   "no_intro_name": "Crazy Machines (Europe) (En,De)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "CRZX",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Crazy Machines (Europe) (En,De)",
   "zh-Hans": "疯狂机器"
  },
- "vendor": "远离汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

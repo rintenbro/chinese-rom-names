@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "147294BD",
+   "name": "赤影战士(繁)[王者荣耀](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Yami no Shigotonin Kage (Japan)",
+ "hack_group": "王者荣耀",
+ "id": "prb-famicom-147294bd",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "232E97AB",
+  "no_intro_name": "Yami no Shigotonin Kage (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "赤影战士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 4250264
   }
  ],
- "group": "Breath of Fire",
+ "group": "Breath of Fire (USA)",
+ "hack_group": "Flyeyes",
  "id": "ver-gba-51bfa615",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "F06422A8",
   "no_intro_name": "Breath of Fire (USA)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "ABFE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Breath of Fire (USA)",
   "zh-Hans": "龙战士"
  },
- "vendor": "Flyeyes",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

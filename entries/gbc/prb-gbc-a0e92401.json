@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A0E92401",
+   "name": "口袋妖怪 – 银(精灵宝可梦银)(简)(完美LOGO+背包等汉化)(unknown+RickyL1213)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Pocket Monsters Gin (Japan) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "unknown+RickyL1213",
+ "id": "prb-gbc-a0e92401",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Pocket Monsters Gin (Japan) (SGB Enhanced) (GB Compatible)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪 – 银"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

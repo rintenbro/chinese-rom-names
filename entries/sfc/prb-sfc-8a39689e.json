@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8A39689E",
+   "name": "斩3 (简) (v1.0)(天空汉化组)(12Mb).sfc",
+   "size": 1572864
+  }
+ ],
+ "group": "Zan III Spirits (Japan)",
+ "hack_group": "天空汉化组",
+ "id": "prb-sfc-8a39689e",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "9826771B",
+  "no_intro_name": "Zan III Spirits (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "斩3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

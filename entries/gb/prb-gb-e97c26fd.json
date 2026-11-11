@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E97C26FD",
+   "name": "桃太郎电铁(简)(v1.1)(RangerMarsh)(2Mb).gb",
+   "size": 262144
+  }
+ ],
+ "group": "Momotarou Dentetsu jr. - Zenkoku Ramen Meguri no Maki (Japan) (SGB Enhanced)",
+ "hack_group": "RangerMarsh",
+ "id": "prb-gb-e97c26fd",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "218265B3",
+  "no_intro_name": "Momotarou Dentetsu jr. - Zenkoku Ramen Meguri no Maki (Japan) (SGB Enhanced)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "桃太郎电铁"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

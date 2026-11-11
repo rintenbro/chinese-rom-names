@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2D55C803",
+   "name": "动物园管理员(US)(Mobile)(64Mb).nds",
+   "size": 8388608
+  }
+ ],
+ "group": "Zoo Keeper (USA)",
+ "hack_group": "Mobile",
+ "id": "prb-nds-2d55c803",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "0989A92C",
+  "no_intro_name": "Zoo Keeper (USA)",
+  "region": "USA"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "动物园管理员"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

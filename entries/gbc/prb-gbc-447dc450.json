@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "447DC450",
+   "name": "游戏王2 - 暗界决斗记 (繁) (修正版) (unknown).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories (Japan) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "unknown",
+ "id": "prb-gbc-447dc450",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories (Japan) (SGB Enhanced) (GB Compatible)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "游戏王2 - 暗界决斗记"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

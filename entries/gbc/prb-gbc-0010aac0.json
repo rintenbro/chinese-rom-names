@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0010AAC0",
+   "name": "洛克人X-电子任务 (简繁)(DMG汉化组)(8Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Rockman X - Cyber Mission (Japan) (GB Compatible)",
+ "hack_group": "DMG汉化组",
+ "id": "prb-gbc-0010aac0",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "919077AB",
+  "no_intro_name": "Rockman X - Cyber Mission (Japan) (GB Compatible)",
+  "region": "Japan"
+ },
+ "script": "简繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "洛克人X-电子任务"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

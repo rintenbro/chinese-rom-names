@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C3DB9478",
+   "name": "钢之炼金术师 迷走的轮舞曲[Advance汉化组](简)(104Mb).gba",
+   "size": 13708576
+  }
+ ],
+ "group": "Hagane no Renkinjutsushi - Meisou no Rondo (Japan)",
+ "hack_group": "Advance汉化组",
+ "id": "prb-gba-c3db9478",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "A8CDA373",
+  "no_intro_name": "Hagane no Renkinjutsushi - Meisou no Rondo (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "钢之炼金术师 迷走的轮舞曲"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

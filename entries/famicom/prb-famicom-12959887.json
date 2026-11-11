@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "12959887",
+   "name": "洛克人(简)[3DM](US)[ACT](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Mega Man (USA)",
+ "hack_group": "3DM",
+ "id": "prb-famicom-12959887",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "CA2AB7E2",
+  "no_intro_name": "Mega Man (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "洛克人"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 32872384
   }
  ],
- "group": "Flash Focus - Vision Training in Minutes a Day",
+ "group": "Flash Focus - Vision Training in Minutes a Day (USA) (En,Fr,Es)",
+ "hack_group": "Hikki",
  "id": "ver-nds-fddaba17",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "76540B07",
   "no_intro_name": "Flash Focus - Vision Training in Minutes a Day (USA) (En,Fr,Es)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "繁",
- "serial": "AG3E",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Flash Focus - Vision Training in Minutes a Day (USA) (En,Fr,Es)",
   "zh-Hans": "DS眼力训练"
  },
- "vendor": "Hikki",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7F01DB15",
+   "name": "植物大战僵尸(DSiWare版)(v1.0.1)(简)(Advance汉化组)(128Mb).nds",
+   "size": 15856640
+  }
+ ],
+ "group": "Plants vs. Zombies (USA)",
+ "hack_group": "Advance汉化组",
+ "id": "prb-nds-7f01db15",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "1ABDCC9C",
+  "no_intro_name": "Plants vs. Zombies (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "植物大战僵尸"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0.1"
+}

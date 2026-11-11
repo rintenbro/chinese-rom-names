@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AEEB5A5E",
+   "name": "巧思妙移(EU)(xedftxz)(128Mb).nds",
+   "size": 16777216
+  }
+ ],
+ "group": "Know How - Spielend um die Ecke denken (Europe) (En,Fr,De,Es,It)",
+ "hack_group": "xedftxz",
+ "id": "prb-nds-aeeb5a5e",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "BA5EF49F",
+  "no_intro_name": "Know How - Spielend um die Ecke denken (Europe) (En,Fr,De,Es,It)",
+  "region": "Europe"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "巧思妙移"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

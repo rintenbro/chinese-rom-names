@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "48E8BCEE",
+   "name": "迷糊蛋(v1.2)(简)[雷精灵+砂糖](JP)[ACT](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Hebereke (Japan)",
+ "hack_group": "雷精灵+砂糖",
+ "id": "prb-famicom-48e8bcee",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Hebereke (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "迷糊蛋"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.2"
+}

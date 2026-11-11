@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D8F0A896",
+   "name": "侦探神宫寺三郎DS 被掩埋的真相 AI汉化(简)(Xzonn)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Tantei Jinguuji Saburou DS - Fuserareta Shinjitsu (Japan)",
+ "hack_group": "Xzonn",
+ "id": "prb-nds-d8f0a896",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "67D3EC5E",
+  "no_intro_name": "Tantei Jinguuji Saburou DS - Fuserareta Shinjitsu (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "侦探神宫寺三郎DS 被掩埋的真相 AI"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Sonic Advance",
+ "group": "Sonic Advance (Japan) (En,Ja)",
+ "hack_group": "狂细胞",
  "id": "ver-gba-1edbb8ed",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "5F512223",
   "no_intro_name": "Sonic Advance (Japan) (En,Ja)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "ASOJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Sonic Advance (Japan) (En,Ja)",
   "zh-Hans": "索尼克Advance"
  },
- "vendor": "狂细胞",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

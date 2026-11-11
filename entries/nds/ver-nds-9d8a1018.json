@@ -11,10 +11,9 @@
    "size": 89078832
   }
  ],
- "group": "Keroro RPG - Kishi to Musha to Densetsu no Kaizoku",
+ "group": "Keroro RPG - Kishi to Musha to Densetsu no Kaizoku (Japan)",
+ "hack_group": "ACG汉化组",
  "id": "ver-nds-9d8a1018",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "9092218F",
   "no_intro_name": "Keroro RPG - Kishi to Musha to Densetsu no Kaizoku (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "BKKJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Keroro RPG - Kishi to Musha to Densetsu no Kaizoku (Japan)",
   "zh-Hans": "克罗罗RPG 骑士和武士和传说的海盗"
  },
- "vendor": "ACG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

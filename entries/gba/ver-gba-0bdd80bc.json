@@ -11,10 +11,9 @@
    "size": 33554432
   }
  ],
- "group": "Summon Night - Craft Sword Monogatari - Hajimari no Ishi",
+ "group": "Summon Night - Craft Sword Monogatari - Hajimari no Ishi (Japan)",
+ "hack_group": "盗版&Kunlunshen",
  "id": "ver-gba-0bdd80bc",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "12AFAE5D",
   "no_intro_name": "Summon Night - Craft Sword Monogatari - Hajimari no Ishi (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "B3CJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Summon Night - Craft Sword Monogatari - Hajimari no Ishi (Japan)",
   "zh-Hans": "召唤之夜 - 铸剑物语 - 起源之石"
  },
- "vendor": "盗版&Kunlunshen",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

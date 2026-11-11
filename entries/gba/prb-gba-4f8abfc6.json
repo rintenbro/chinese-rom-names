@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4F8ABFC6",
+   "name": "奥特曼警备队 - 怪兽突击[奥盟](Beta)(简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Ultra Keibitai - Monster Attack (Japan)",
+ "hack_group": "奥盟",
+ "id": "prb-gba-4f8abfc6",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "C03785C7",
+  "no_intro_name": "Ultra Keibitai - Monster Attack (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "奥特曼警备队 - 怪兽突击"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

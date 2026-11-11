@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1EB24715",
+   "name": "游戏王 怪兽龙门骰[Advance汉化组](v1.0)(简)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Yu-Gi-Oh! - Dungeon Dice Monsters (Japan)",
+ "hack_group": "Advance汉化组",
+ "id": "prb-gba-1eb24715",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "51B35E87",
+  "no_intro_name": "Yu-Gi-Oh! - Dungeon Dice Monsters (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "游戏王 怪兽龙门骰"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

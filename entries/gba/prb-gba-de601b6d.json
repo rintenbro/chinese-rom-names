@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DE601B6D",
+   "name": "口袋妖怪 - 不可思议的迷宫 赤之救助队[盗版&Kunlunshen](简)(JP)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Pokemon Fushigi no Dungeon - Aka no Kyuujotai (Japan)",
+ "hack_group": "盗版&Kunlunshen",
+ "id": "prb-gba-de601b6d",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "1A1BAA50",
+  "no_intro_name": "Pokemon Fushigi no Dungeon - Aka no Kyuujotai (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪 - 不可思议的迷宫 赤之救助队"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

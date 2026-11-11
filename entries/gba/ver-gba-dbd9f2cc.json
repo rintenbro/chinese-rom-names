@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Puyo Pop",
+ "group": "Puyo Pop (USA) (En,Ja)",
+ "hack_group": "Flyeyes&TGB",
  "id": "ver-gba-dbd9f2cc",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "0901BE49",
   "no_intro_name": "Puyo Pop (USA) (En,Ja)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "APYE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Puyo Pop (USA) (En,Ja)",
   "zh-Hans": "魔法气泡"
  },
- "vendor": "Flyeyes&TGB",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

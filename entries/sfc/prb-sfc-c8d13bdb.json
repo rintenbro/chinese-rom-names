@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C8D13BDB",
+   "name": "浪漫沙加3 (繁) (v1.01)(Werther等)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Romancing Sa-Ga 3 (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-c8d13bdb",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Romancing Sa-Ga 3 (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "浪漫沙加3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.01"
+}

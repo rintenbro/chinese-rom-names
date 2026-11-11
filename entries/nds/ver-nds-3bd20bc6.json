@@ -11,10 +11,9 @@
    "size": 103147008
   }
  ],
- "group": "Ragnarok Online DS",
+ "group": "Ragnarok Online DS (Japan)",
+ "hack_group": "akairyusei",
  "id": "ver-nds-3bd20bc6",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "ABD8B717",
   "no_intro_name": "Ragnarok Online DS (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "繁",
- "serial": "YRBJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Ragnarok Online DS (Japan)",
   "zh-Hans": "仙境传说DS1.3"
  },
- "vendor": "akairyusei",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

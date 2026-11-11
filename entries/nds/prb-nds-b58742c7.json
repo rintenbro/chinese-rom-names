@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B58742C7",
+   "name": "驯龙师 音魂 汉化版(JP)(星组)(512Mb).nds",
+   "size": 54203136
+  }
+ ],
+ "group": "Dragon Tamer - Sound Spirit (Japan)",
+ "hack_group": "",
+ "id": "prb-nds-b58742c7",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "1FBC1DA8",
+  "no_intro_name": "Dragon Tamer - Sound Spirit (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "驯龙师 音魂 汉化版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

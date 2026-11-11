@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1100D67F",
+   "name": "惊慌餐厅争夺战(简)[九班](GB)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Panic Restaurant (Europe)",
+ "hack_group": "GB 九班",
+ "id": "prb-famicom-1100d67f",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Panic Restaurant (Europe)",
+  "region": "Europe"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "惊慌餐厅争夺战"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "585C4590",
+   "name": "龙珠Z 极度空间 (简)(v0.6全文本汉化测试版)(hlken)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Dragon Ball Z - Hyper Dimension (Japan)",
+ "hack_group": "hlken",
+ "id": "prb-sfc-585c4590",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Dragon Ball Z - Hyper Dimension (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "龙珠Z 极度空间"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v0.6"
+}

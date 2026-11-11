@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C3151670",
+   "name": "忍者传说(v1.0)(修正版)(简)[MS](JP)[ACT](0.37Mb).nes",
+   "size": 49168
+  }
+ ],
+ "group": "Ninjara Hoi! (Japan)",
+ "hack_group": "",
+ "id": "prb-famicom-c3151670",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "A7136B32",
+  "no_intro_name": "Ninjara Hoi! (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "忍者传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

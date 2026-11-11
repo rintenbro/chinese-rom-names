@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "305284FC",
+   "name": "疯狂农场 动物国度 汉化测试版V1(EU)(xedftxz)(64Mb).nds",
+   "size": 7995940
+  }
+ ],
+ "group": "Farm Frenzy - Animal Country (Europe) (En,Fr,De,Es,It,Nl)",
+ "hack_group": "xedftxz",
+ "id": "prb-nds-305284fc",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "7DDB8260",
+  "no_intro_name": "Farm Frenzy - Animal Country (Europe) (En,Fr,De,Es,It,Nl)",
+  "region": "Europe"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "疯狂农场 动物国度 汉化测试版V1"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

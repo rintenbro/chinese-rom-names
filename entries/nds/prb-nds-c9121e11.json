@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C9121E11",
+   "name": "黑执事 幻影和幽灵(JP)(游戏饭饭汉化组)(512Mb).nds",
+   "size": 61408400
+  }
+ ],
+ "group": "Kuroshitsuji - Phantom & Ghost (Japan)",
+ "hack_group": "游戏饭饭汉化组",
+ "id": "prb-nds-c9121e11",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "B0119110",
+  "no_intro_name": "Kuroshitsuji - Phantom & Ghost (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "黑执事 幻影和幽灵"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

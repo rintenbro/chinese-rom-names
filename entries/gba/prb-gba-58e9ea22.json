@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "58E9EA22",
+   "name": "光明与黑暗(光明力量) - 黑暗龙的复活[Advance汉化组](v2.1)(简)(144Mb).gba",
+   "size": 17940992
+  }
+ ],
+ "group": "Shining Force - Kuroki Ryuu no Fukkatsu (Japan)",
+ "hack_group": "Advance汉化组",
+ "id": "prb-gba-58e9ea22",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "4A643CC4",
+  "no_intro_name": "Shining Force - Kuroki Ryuu no Fukkatsu (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "光明与黑暗 - 黑暗龙的复活"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v2.1"
+}

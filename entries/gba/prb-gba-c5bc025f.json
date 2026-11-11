@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C5BC025F",
+   "name": "勇者斗恶龙外传 - 特鲁内克大冒险2 Advance - 不可思议的迷宫[星组](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Dragon Quest Characters - Torneko no Daibouken 2 Advance - Fushigi no Dungeon (Japan)",
+ "hack_group": "星组",
+ "id": "prb-gba-c5bc025f",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "2B077791",
+  "no_intro_name": "Dragon Quest Characters - Torneko no Daibouken 2 Advance - Fushigi no Dungeon (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "勇者斗恶龙外传 - 特鲁内克大冒险2 Advance - 不可思议的迷宫"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

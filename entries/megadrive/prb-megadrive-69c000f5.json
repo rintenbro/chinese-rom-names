@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "69C000F5",
+   "name": "凯撒雄心1 (繁) (未知)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Caesar no Yabou (Japan)",
+ "hack_group": "未知",
+ "id": "prb-megadrive-69c000f5",
+ "platform": "megadrive",
+ "probable_original": {
+  "crc32": "69796E93",
+  "no_intro_name": "Caesar no Yabou (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "凯撒雄心1"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5BF2DB96",
+   "name": "心跳魔女 PLUS 序章汉化版14%(简)(JP)(萌狼计划)(2048Mb).nds",
+   "size": 268435456
+  }
+ ],
+ "group": "Doki Majo Plus (Japan)",
+ "hack_group": "",
+ "id": "prb-nds-5bf2db96",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "C3CF280C",
+  "no_intro_name": "Doki Majo Plus (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "心跳魔女 PLUS 序章汉化版14%"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

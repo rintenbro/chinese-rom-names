@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B258EF6D",
+   "name": "提督的决断(简)(郁闷的鹌鹑)(16Mb).smc",
+   "size": 1311232
+  }
+ ],
+ "group": "Teitoku no Ketsudan (Japan) (Rev 1)",
+ "hack_group": "",
+ "id": "prb-sfc-b258ef6d",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "73AEDE7E",
+  "no_intro_name": "Teitoku no Ketsudan (Japan) (Rev 1)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "提督的决断"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

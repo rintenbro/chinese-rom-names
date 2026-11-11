@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Tower SP, The",
+ "group": "Tower SP, The (Japan)",
+ "hack_group": "天空联盟",
  "id": "ver-gba-107418d4",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "EC325C92",
   "no_intro_name": "Tower SP, The (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BTRJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Tower SP, The (Japan)",
   "zh-Hans": "模拟大楼SP"
  },
- "vendor": "天空联盟",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

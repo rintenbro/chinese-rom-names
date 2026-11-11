@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-d50cc7befc37/title.png"
+ },
+ "files": [
+  {
+   "crc32": "3F4EF62D",
+   "name": "Fengkuang Dafuweng wu (Unl) (Multicart Rip) [Header Fix].gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Fengkuang Dafuweng wu",
+ "hack_group": "Unl Multicart Rip Header Fix",
+ "id": "cn-0f6ccb919800",
+ "platform": "gbc",
+ "script": "未标注",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "Fengkuang Dafuweng wu"
+ },
+ "type": "hack",
+ "vendor": "",
+ "version": ""
+}

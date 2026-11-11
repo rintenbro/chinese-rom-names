@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C960774A",
+   "name": "吹奏吧！嘉卡 出现吧！眼镜君[Advance汉化组](v1.1)(简)(96Mb).gba",
+   "size": 12660000
+  }
+ ],
+ "group": "Pyuu to Fuku! Jaguar - Byoo to Deru! Megane-kun (Japan)",
+ "hack_group": "Advance汉化组",
+ "id": "prb-gba-c960774a",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "1F67BD36",
+  "no_intro_name": "Pyuu to Fuku! Jaguar - Byoo to Deru! Megane-kun (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "吹奏吧！嘉卡 出现吧！眼镜君"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

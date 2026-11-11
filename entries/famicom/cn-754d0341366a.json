@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-a212f31376d8/title.png"
+ },
+ "files": [
+  {
+   "crc32": "0C462351",
+   "name": "王中霸学习卡(简)[荣丰](CN)[ETC](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "王中霸学习卡",
+ "hack_group": "荣丰",
+ "id": "cn-754d0341366a",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "王中霸学习卡"
+ },
+ "type": "hack",
+ "vendor": "",
+ "version": ""
+}

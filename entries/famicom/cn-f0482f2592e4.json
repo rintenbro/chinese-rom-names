@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-d379364f3fd3/title.png"
+ },
+ "files": [
+  {
+   "crc32": "7407B7B9",
+   "name": "幽游白书5(繁)[卡圣](CN)[FTG](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "幽游白书5",
+ "hack_group": "卡圣",
+ "id": "cn-f0482f2592e4",
+ "platform": "famicom",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "幽游白书5"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

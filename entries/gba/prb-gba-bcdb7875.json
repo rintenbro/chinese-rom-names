@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BCDB7875",
+   "name": "超级马里奥Advance - 超级马里奥USA + 马里奥兄弟[熊组](简)(JP)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "Super Mario Advance (USA, Europe)",
+ "hack_group": "熊组",
+ "id": "prb-gba-bcdb7875",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Super Mario Advance (USA, Europe)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级马里奥Advance - 超级马里奥USA + 马里奥兄弟"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

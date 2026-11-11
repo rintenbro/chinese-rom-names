@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2619986C",
+   "name": "消防员的故事(简)(小鬼混+阿刃)(12Mb).sfc",
+   "size": 1572864
+  }
+ ],
+ "group": "Firemen, The (Japan)",
+ "hack_group": "小鬼混+阿刃",
+ "id": "prb-sfc-2619986c",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "15F2271D",
+  "no_intro_name": "Firemen, The (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "消防员的故事"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

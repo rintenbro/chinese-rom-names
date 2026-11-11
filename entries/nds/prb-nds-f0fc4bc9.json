@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F0FC4BC9",
+   "name": "财宝报道 机械机关的遗产(JP)(ACG汉化组)(1024Mb).nds",
+   "size": 109207100
+  }
+ ],
+ "group": "Treasure Report - Kikai Jikake no Isan (Japan)",
+ "hack_group": "ACG汉化组",
+ "id": "prb-nds-f0fc4bc9",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "ACFC5BCF",
+  "no_intro_name": "Treasure Report - Kikai Jikake no Isan (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "财宝报道 机械机关的遗产"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

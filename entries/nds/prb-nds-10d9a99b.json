@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "10D9A99B",
+   "name": "金田一少年事件簿 恶魔之杀人航海(简)修正版(JP)(游戏饭饭汉化组)(256Mb).nds",
+   "size": 32816896
+  }
+ ],
+ "group": "Kindaichi Shounen no Jikenbo - Akuma no Satsujin Koukai (Japan)",
+ "hack_group": "游戏饭饭汉化组",
+ "id": "prb-nds-10d9a99b",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "D3D037F4",
+  "no_intro_name": "Kindaichi Shounen no Jikenbo - Akuma no Satsujin Koukai (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "金田一少年事件簿 恶魔之杀人航海修正版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

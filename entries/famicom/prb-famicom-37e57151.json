@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "37E57151",
+   "name": "冲冲赖皮狗(简)[Advance](JP)[ACT](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Wacky Races (USA)",
+ "hack_group": "Advance",
+ "id": "prb-famicom-37e57151",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "FBACC3CD",
+  "no_intro_name": "Wacky Races (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "冲冲赖皮狗"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Sitafei De Chuanshuo 2",
+ "group": "Sitafei De Chuanshuo 2 (China) (Proto)",
+ "hack_group": "未发售",
  "id": "ver-gba-e8e756ca",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "E8E756CA",
   "no_intro_name": "Sitafei De Chuanshuo 2 (China) (Proto)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AVFC",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Sitafei De Chuanshuo 2 (China) (Proto)",
   "zh-Hans": "神游 斯塔非的传说2"
  },
- "vendor": "未发售",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "45EADAAF",
+   "name": "口袋妖怪绿(精灵宝可梦绿)(v1.2.0)(简)(星夜之幻+TomJinW)(8Mb).gb",
+   "size": 2097152
+  }
+ ],
+ "group": "Pocket Monsters - Midori (Japan) (SGB Enhanced)",
+ "hack_group": "星夜之幻+TomJinW",
+ "id": "prb-gb-45eadaaf",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "BAEACD2B",
+  "no_intro_name": "Pocket Monsters - Midori (Japan) (SGB Enhanced)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪绿"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.2.0"
+}

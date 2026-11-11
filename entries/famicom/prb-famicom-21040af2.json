@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "21040AF2",
+   "name": "最终幻想2 光明篇(简)[恒格电子](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "Final Fantasy (Japan)",
+ "hack_group": "恒格电子",
+ "id": "prb-famicom-21040af2",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "09F667EA",
+  "no_intro_name": "Final Fantasy (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "最终幻想2 光明篇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Bokujou Monogatari - Mineral Town no Nakama-tachi",
+ "group": "Bokujou Monogatari - Mineral Town no Nakama-tachi (Japan)",
+ "hack_group": "CGP&模拟天下",
  "id": "ver-gba-e69cc50e",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "09185657",
   "no_intro_name": "Bokujou Monogatari - Mineral Town no Nakama-tachi (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "繁",
- "serial": "A4NJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Bokujou Monogatari - Mineral Town no Nakama-tachi (Japan)",
   "zh-Hans": "牧场物语 - 矿石镇的伙伴们"
  },
- "vendor": "CGP&模拟天下",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

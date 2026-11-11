@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AD3D22D3",
+   "name": "美少女战士R(简)(Modlogue汉化组)(8Mb).gb",
+   "size": 1048576
+  }
+ ],
+ "group": "Bishoujo Senshi Sailor Moon R (Japan)",
+ "hack_group": "Modlogue汉化组",
+ "id": "prb-gb-ad3d22d3",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "EA759875",
+  "no_intro_name": "Bishoujo Senshi Sailor Moon R (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "美少女战士R"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

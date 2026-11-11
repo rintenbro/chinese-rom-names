@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C23CC13D",
+   "name": "乌龙派出所DS(JP)(Soul Trip汉化组)(512Mb).nds",
+   "size": 41788160
+  }
+ ],
+ "group": "Kochira Katsushika Ku Kameari Kouen Mae Hashutsujo - Kateba Tengoku! Makereba Jigoku! - Ryoutsu-ryuu Ikkakusenkin Daisakusen! (Japan)",
+ "hack_group": "Soul Trip汉化组",
+ "id": "prb-nds-c23cc13d",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "DD6F88C7",
+  "no_intro_name": "Kochira Katsushika Ku Kameari Kouen Mae Hashutsujo - Kateba Tengoku! Makereba Jigoku! - Ryoutsu-ryuu Ikkakusenkin Daisakusen! (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "乌龙派出所DS"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

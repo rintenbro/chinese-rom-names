@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5165C7BF",
+   "name": "外星战士(简)[外星科技+147201688](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Xinghe Zhanshi (China)",
+ "hack_group": "外星科技+147201688",
+ "id": "prb-famicom-5165c7bf",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "643AF623",
+  "no_intro_name": "Xinghe Zhanshi (China)",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "外星战士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

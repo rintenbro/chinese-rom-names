@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "313A1C13",
+   "name": "口袋妖怪 - 水晶 (繁) (unknown).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Pocket Monsters - Crystal Version (Japan)",
+ "hack_group": "unknown",
+ "id": "prb-gbc-313a1c13",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "270C4ECC",
+  "no_intro_name": "Pocket Monsters - Crystal Version (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪 - 水晶"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

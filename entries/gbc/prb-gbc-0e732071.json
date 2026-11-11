@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-c4572f20567f/title.png"
+ },
+ "files": [
+  {
+   "crc32": "0E732071",
+   "name": "老夫子传奇 (繁) (新特奇).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Legend of Old Master Q (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-gbc-0e732071",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Legend of Old Master Q (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "老夫子传奇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

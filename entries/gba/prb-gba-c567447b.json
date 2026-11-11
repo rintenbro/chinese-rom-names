@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C567447B",
+   "name": "F-Zero - 极速传说[风小子](简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "F-Zero - Climax (Japan)",
+ "hack_group": "风小子",
+ "id": "prb-gba-c567447b",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "DBDC71E3",
+  "no_intro_name": "F-Zero - Climax (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "F-Zero - 极速传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

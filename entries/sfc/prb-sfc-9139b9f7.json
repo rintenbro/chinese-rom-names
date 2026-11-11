@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9139B9F7",
+   "name": "冠军桌球 (简) (少量汉化)(死神DIY)(8Mb).sfc",
+   "size": 1048576
+  }
+ ],
+ "group": "Championship Pool (Europe)",
+ "hack_group": "",
+ "id": "prb-sfc-9139b9f7",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "2905C3DD",
+  "no_intro_name": "Championship Pool (Europe)",
+  "region": "Europe"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "冠军桌球"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

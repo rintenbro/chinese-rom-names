@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F0AF3FDF",
+   "name": "游戏王5D's 复苏的阿卡迪亚 世界大赛2010 v1.4.1(简)(茶叶)(2048Mb).nds",
+   "size": 268435456
+  }
+ ],
+ "group": "Yu-Gi-Oh! 5D's - World Championship 2010 - Reverse of Arcadia (Japan) (En,Ja,Fr,De,Es,It)",
+ "hack_group": "",
+ "id": "prb-nds-f0af3fdf",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "D955594C",
+  "no_intro_name": "Yu-Gi-Oh! 5D's - World Championship 2010 - Reverse of Arcadia (Japan) (En,Ja,Fr,De,Es,It)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "游戏王5D's 复苏的阿卡迪亚 世界大赛2010 v1.4.1"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

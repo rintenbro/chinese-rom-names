@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Zoku Bokura no Taiyou - Taiyou Shounen Django",
+ "group": "Zoku Bokura no Taiyou - Taiyou Shounen Django (Japan)",
+ "hack_group": "TGB&逆转Ace",
  "id": "ver-gba-54e8da86",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "2804E589",
   "no_intro_name": "Zoku Bokura no Taiyou - Taiyou Shounen Django (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "U32J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Zoku Bokura no Taiyou - Taiyou Shounen Django (Japan)",
   "zh-Hans": "续我们的太阳 - 太阳少年加戈"
  },
- "vendor": "TGB&逆转Ace",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

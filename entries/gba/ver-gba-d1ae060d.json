@@ -11,10 +11,9 @@
    "size": 8903856
   }
  ],
- "group": "Samurai Deeper Kyo",
+ "group": "Samurai Deeper Kyo (Japan)",
+ "hack_group": "",
  "id": "ver-gba-d1ae060d",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "56EAD477",
   "no_intro_name": "Samurai Deeper Kyo (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AOSJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Samurai Deeper Kyo (Japan)",
   "zh-Hans": "鬼眼狂刀 - 京"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

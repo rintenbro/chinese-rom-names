@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "07DBAE8D",
+   "name": "圣斗士星矢 黄金传说完结篇(简)[勇者](JP)[RPG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Saint Seiya - Ougon Densetsu Kanketsu Hen (Japan)",
+ "hack_group": "勇者",
+ "id": "prb-famicom-07dbae8d",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "69F8B20B",
+  "no_intro_name": "Saint Seiya - Ougon Densetsu Kanketsu Hen (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "圣斗士星矢 黄金传说完结篇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

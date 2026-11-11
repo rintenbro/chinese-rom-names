@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7514E36E",
+   "name": "数码暴龙 - 格斗天王 (繁) (unknown)(2Mb).gb",
+   "size": 262144
+  }
+ ],
+ "group": "Primal Rage (USA, Europe)",
+ "hack_group": "unknown",
+ "id": "prb-gb-7514e36e",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "C95D927B",
+  "no_intro_name": "Primal Rage (USA, Europe)",
+  "region": "USA"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "数码暴龙 - 格斗天王"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

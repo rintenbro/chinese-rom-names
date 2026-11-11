@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6EF88946",
+   "name": "简单DS系列Vol.27 THE密室脱出 推理番外编(JP)(巴士汉化组)(256Mb).nds",
+   "size": 31949792
+  }
+ ],
+ "group": "Simple DS Series Vol. 27 - The Misshitsu kara no Dasshutsu - The Suiri Bangai Hen (Japan)",
+ "hack_group": "巴士汉化组",
+ "id": "prb-nds-6ef88946",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "475B43D3",
+  "no_intro_name": "Simple DS Series Vol. 27 - The Misshitsu kara no Dasshutsu - The Suiri Bangai Hen (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "简单DS系列Vol.27 THE密室脱出 推理番外编"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

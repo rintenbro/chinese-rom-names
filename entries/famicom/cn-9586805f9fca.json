@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-11c9f39359bd/title.png"
+ },
+ "files": [
+  {
+   "crc32": "88A629EA",
+   "name": "口袋精灵 金(繁)[火星电子](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "口袋精灵 金",
+ "hack_group": "火星电子",
+ "id": "cn-9586805f9fca",
+ "platform": "famicom",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "口袋精灵 金"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

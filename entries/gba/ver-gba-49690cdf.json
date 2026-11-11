@@ -11,10 +11,9 @@
    "size": 8518208
   }
  ],
- "group": "Pocket Monsters - Sapphire",
+ "group": "Pocket Monsters - Sapphire (Japan)",
+ "hack_group": "",
  "id": "ver-gba-49690cdf",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "FD1EEB78",
   "no_intro_name": "Pocket Monsters - Sapphire (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AXPJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Pocket Monsters - Sapphire (Japan)",
   "zh-Hans": "口袋妖怪 - 蓝宝石"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

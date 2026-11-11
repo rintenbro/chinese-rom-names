@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7605C7D2",
+   "name": "热血硬派国夫君番外乱斗篇(简)(AI汉化大字版v1.0.1)(哇你是谁怎么傻乎乎)(4Mb).gb",
+   "size": 524288
+  }
+ ],
+ "group": "Nekketsu Kouha Kunio-kun - Bangai Rantou Hen (Japan)",
+ "hack_group": "",
+ "id": "prb-gb-7605c7d2",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "25B21ACC",
+  "no_intro_name": "Nekketsu Kouha Kunio-kun - Bangai Rantou Hen (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "热血硬派国夫君番外乱斗篇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0.1"
+}

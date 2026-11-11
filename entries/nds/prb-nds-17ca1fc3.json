@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "17CA1FC3",
+   "name": "战火兄弟连 英文文本+中文配音(fciq配音小组)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Brothers in Arms DS (USA) (En,Fr,Es)",
+ "hack_group": "fciq配音小组",
+ "id": "prb-nds-17ca1fc3",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "C1BB053C",
+  "no_intro_name": "Brothers in Arms DS (USA) (En,Fr,Es)",
+  "region": "USA"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "战火兄弟连 英文文本+中文配音"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

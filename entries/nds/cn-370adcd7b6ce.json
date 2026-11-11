@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nds/cn-c73e5c29a8d9/title.png"
+ },
+ "files": [
+  {
+   "crc32": "AE16B899",
+   "name": "神游 - 任天狗狗(神游)(官方简中)(256Mb).nds",
+   "size": 27747364
+  }
+ ],
+ "group": "神游 - 任天狗狗",
+ "hack_group": "",
+ "id": "cn-370adcd7b6ce",
+ "platform": "nds",
+ "script": "未标注",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "神游 - 任天狗狗"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

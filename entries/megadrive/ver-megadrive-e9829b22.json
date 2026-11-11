@@ -1,0 +1,33 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E9829B22",
+   "name": "究极麻将2 - 治艳篇 (繁) (Sun Green)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Jiuji Mahjong II (Taiwan)",
+ "hack_group": "Sun Green",
+ "id": "ver-megadrive-e9829b22",
+ "original": {
+  "crc32": "E9829B22",
+  "no_intro_name": "Jiuji Mahjong II (Taiwan)",
+  "region": "Taiwan",
+  "size": 1048576
+ },
+ "platform": "megadrive",
+ "script": "繁",
+ "source": "no-intro",
+ "status": "verified",
+ "titles": {
+  "zh-Hans": "究极麻将2 - 治艳篇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

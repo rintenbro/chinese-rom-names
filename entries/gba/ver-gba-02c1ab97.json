@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Meitantei Conan - Nerawareta Tantei",
+ "group": "Meitantei Conan - Nerawareta Tantei (Japan)",
+ "hack_group": "漫游&熊组&名侦探柯南事务所",
  "id": "ver-gba-02c1ab97",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "5F9C7A4A",
   "no_intro_name": "Meitantei Conan - Nerawareta Tantei (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "繁",
- "serial": "AC4J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Meitantei Conan - Nerawareta Tantei (Japan)",
   "zh-Hans": "名侦探柯南 - 被狙击的侦探"
  },
- "vendor": "漫游&熊组&名侦探柯南事务所",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

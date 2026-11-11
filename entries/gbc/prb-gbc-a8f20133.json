@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-4f2311c16ec3/title.png"
+ },
+ "files": [
+  {
+   "crc32": "A8F20133",
+   "name": "十面埋伏 - 屠龙篇 (繁) (天才小子).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Ambush from Ten Sides - Dragonslayer Chapter (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-gbc-a8f20133",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Ambush from Ten Sides - Dragonslayer Chapter (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "十面埋伏 - 屠龙篇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

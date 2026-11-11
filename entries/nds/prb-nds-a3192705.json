@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A3192705",
+   "name": "雷顿教授与恶魔之箱V2(繁)(JP)(dream75421)(1024Mb).nds",
+   "size": 132506212
+  }
+ ],
+ "group": "Layton Kyouju to Akuma no Hako (Japan)",
+ "hack_group": "dream75421",
+ "id": "prb-nds-a3192705",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "39B20436",
+  "no_intro_name": "Layton Kyouju to Akuma no Hako (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "雷顿教授与恶魔之箱V2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

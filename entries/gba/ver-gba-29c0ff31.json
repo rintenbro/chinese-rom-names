@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Mr. Driller A - Fushigi na Pacteria",
+ "group": "Mr. Driller A - Fushigi na Pacteria (Japan)",
+ "hack_group": "",
  "id": "ver-gba-29c0ff31",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "529F06A4",
   "no_intro_name": "Mr. Driller A - Fushigi na Pacteria (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AD5J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Mr. Driller A - Fushigi na Pacteria (Japan)",
   "zh-Hans": "钻地小子A - 不可思议的细菌"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

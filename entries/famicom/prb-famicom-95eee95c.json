@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "95EEE95C",
+   "name": "兵蜂(简)[虫虫](JP)[STG](0.37Mb).nes",
+   "size": 49168
+  }
+ ],
+ "group": "TwinBee (Japan) (En)",
+ "hack_group": "虫虫",
+ "id": "prb-famicom-95eee95c",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "65323E89",
+  "no_intro_name": "TwinBee (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "兵蜂"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

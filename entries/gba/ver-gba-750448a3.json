@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Minna no Shiiku Series 2 - Boku no Kuwagata",
+ "group": "Minna no Shiiku Series 2 - Boku no Kuwagata (Japan)",
+ "hack_group": "流星落月",
  "id": "ver-gba-750448a3",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "C0BA281D",
   "no_intro_name": "Minna no Shiiku Series 2 - Boku no Kuwagata (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AW7J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Minna no Shiiku Series 2 - Boku no Kuwagata (Japan)",
   "zh-Hans": "饲养物语2 我的锹形虫"
  },
- "vendor": "流星落月",
+ "type": "game",
+ "vendor": "",
  "version": "v1.0"
 }

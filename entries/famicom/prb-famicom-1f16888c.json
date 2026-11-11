@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1F16888C",
+   "name": "最终幻想7(繁)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "group": "Final Fantasy (Japan)",
+ "hack_group": "南晶科技",
+ "id": "prb-famicom-1f16888c",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "09F667EA",
+  "no_intro_name": "Final Fantasy (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "最终幻想7"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

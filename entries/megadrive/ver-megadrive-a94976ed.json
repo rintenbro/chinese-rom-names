@@ -1,0 +1,33 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A94976ED",
+   "name": "新石中剑 (繁) (永盛)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Xin Shi Zhong Jian (China) (Pirate)",
+ "hack_group": "",
+ "id": "ver-megadrive-a94976ed",
+ "original": {
+  "crc32": "A94976ED",
+  "no_intro_name": "Xin Shi Zhong Jian (China) (Pirate)",
+  "region": "China",
+  "size": 1048576
+ },
+ "platform": "megadrive",
+ "script": "繁",
+ "source": "no-intro",
+ "status": "verified",
+ "titles": {
+  "zh-Hans": "新石中剑"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

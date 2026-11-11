@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "88C4D436",
+   "name": "超级方块战士II加速版[狂细胞&伤雪&Punkemnx](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Super Puzzle Fighter II (Europe)",
+ "hack_group": "狂细胞&伤雪&Punkemnx",
+ "id": "prb-gba-88c4d436",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "AAC3E9CA",
+  "no_intro_name": "Super Puzzle Fighter II (Europe)",
+  "region": "Europe"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级方块战士II加速版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-f1f0808619d3/title.png"
+ },
+ "files": [
+  {
+   "crc32": "C6D576B8",
+   "name": "金字塔PEC-686F学习卡(简)[东达](CN)[ETC](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "金字塔PEC-686F学习卡",
+ "hack_group": "东达",
+ "id": "cn-c8efc7f9052f",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "金字塔PEC-686F学习卡"
+ },
+ "type": "hack",
+ "vendor": "",
+ "version": ""
+}

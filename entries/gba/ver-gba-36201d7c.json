@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Maliou Kadingche - Chaoji Saidao",
+ "group": "Maliou Kadingche - Chaoji Saidao (China) (Proto)",
+ "hack_group": "未发售",
  "id": "ver-gba-36201d7c",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "36201D7C",
   "no_intro_name": "Maliou Kadingche - Chaoji Saidao (China) (Proto)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AMKC",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Maliou Kadingche - Chaoji Saidao (China) (Proto)",
   "zh-Hans": "神游 马力欧卡丁车 超级赛道"
  },
- "vendor": "未发售",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

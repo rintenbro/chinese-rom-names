@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C300069D",
+   "name": "暗黑之破坏神(简)(v1.0)(1d4444+CLARK.H)(12Mb).sfc",
+   "size": 1572864
+  }
+ ],
+ "group": "Bastard!! - Ankoku no Hakaishin (Japan)",
+ "hack_group": "1d4444+CLARK.H",
+ "id": "prb-sfc-c300069d",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Bastard!! - Ankoku no Hakaishin (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "暗黑之破坏神"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Kekkaishi - Kokubourou Shuurai",
+ "group": "Kekkaishi - Kokubourou Shuurai (Japan)",
+ "hack_group": "OREZERO",
  "id": "ver-nds-29aefb21",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "94CFCAF3",
   "no_intro_name": "Kekkaishi - Kokubourou Shuurai (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YQ2J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Kekkaishi - Kokubourou Shuurai (Japan)",
   "zh-Hans": "结界师 黑芒楼袭来 最终版"
  },
- "vendor": "OREZERO",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

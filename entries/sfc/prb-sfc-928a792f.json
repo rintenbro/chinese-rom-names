@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "928A792F",
+   "name": "索利德行者(简)(v1.1)(1d4444+CLARK.H)(24Mb).sfc",
+   "size": 3145728
+  }
+ ],
+ "group": "Solid Runner (Japan)",
+ "hack_group": "1d4444+CLARK.H",
+ "id": "prb-sfc-928a792f",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Solid Runner (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "索利德行者"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

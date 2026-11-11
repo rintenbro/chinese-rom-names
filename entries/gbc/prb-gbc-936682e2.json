@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-358329bb995a/title.png"
+ },
+ "files": [
+  {
+   "crc32": "936682E2",
+   "name": "口袋妖怪 - 白金版 (简) (新特奇).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Pocket Monsters - Platinum (China) [CHS]",
+ "hack_group": "",
+ "id": "prb-gbc-936682e2",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Pocket Monsters - Platinum (China) [CHS]",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪 - 白金版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0B05C50C",
+   "name": "地球冒险2(Mother2)[施柯昱+悲伤不止1+泓水](汉化补完版v2.0)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Mother 1+2 (Japan)",
+ "hack_group": "Mother2 施柯昱+悲伤不止1+泓水",
+ "id": "prb-gba-0b05c50c",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "0A44569C",
+  "no_intro_name": "Mother 1+2 (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "地球冒险2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

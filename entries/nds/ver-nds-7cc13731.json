@@ -11,10 +11,9 @@
    "size": 107301108
   }
  ],
- "group": "Mario & Sonic at Beijing Olympic",
+ "group": "Mario & Sonic at Beijing Olympic (Japan)",
+ "hack_group": "APEX汉化组",
  "id": "ver-nds-7cc13731",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "D77C92C5",
   "no_intro_name": "Mario & Sonic at Beijing Olympic (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "AY9J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Mario & Sonic at Beijing Olympic (Japan)",
   "zh-Hans": "马里奥与索尼克在北京奥运会 1.01"
  },
- "vendor": "APEX汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

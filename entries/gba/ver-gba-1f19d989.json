@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Fire Emblem - Fuuin no Tsurugi",
+ "group": "Fire Emblem - Fuuin no Tsurugi (Japan)",
+ "hack_group": "狼组&火花天龙剑",
  "id": "ver-gba-1f19d989",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "D38763E1",
   "no_intro_name": "Fire Emblem - Fuuin no Tsurugi (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AFEJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Fire Emblem - Fuuin no Tsurugi (Japan)",
   "zh-Hans": "火焰纹章 - 封印之剑"
  },
- "vendor": "狼组&火花天龙剑",
+ "type": "game",
+ "vendor": "",
  "version": "v20060906"
 }

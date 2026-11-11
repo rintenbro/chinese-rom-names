@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "79C538D1",
+   "name": "大金刚 丛林攀越者(简)(fciq汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "DK - Jungle Climber (USA)",
+ "hack_group": "fciq汉化组",
+ "id": "prb-nds-79c538d1",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "038EED18",
+  "no_intro_name": "DK - Jungle Climber (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "大金刚 丛林攀越者"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

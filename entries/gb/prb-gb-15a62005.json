@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "15A62005",
+   "name": "沙加2 秘宝传说(简)(AI汉化v1.0.1)(哇你是谁怎么傻乎乎)(4Mb).gb",
+   "size": 524288
+  }
+ ],
+ "group": "Sa-Ga 2 - Hihou Densetsu (Japan)",
+ "hack_group": "",
+ "id": "prb-gb-15a62005",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Sa-Ga 2 - Hihou Densetsu (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "沙加2 秘宝传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0.1"
+}

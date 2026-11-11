@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2F2E5FF4",
+   "name": "斗姬传(简)(小鬼混)(12Mb).smc",
+   "size": 1572864
+  }
+ ],
+ "group": "Battle Zeque Den (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-2f2e5ff4",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "8CAC063C",
+  "no_intro_name": "Battle Zeque Den (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "斗姬传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

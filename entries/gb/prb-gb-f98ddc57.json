@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F98DDC57",
+   "name": "口袋妖怪黄 (繁) (修正版) (yishiluo)(8Mb).gb",
+   "size": 1048576
+  }
+ ],
+ "group": "Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (CGB+SGB Enhanced)",
+ "hack_group": "yishiluo",
+ "id": "prb-gb-f98ddc57",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "7D527D62",
+  "no_intro_name": "Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (CGB+SGB Enhanced)",
+  "region": "USA"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪黄"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

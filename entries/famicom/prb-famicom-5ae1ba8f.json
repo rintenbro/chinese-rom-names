@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5AE1BA8F",
+   "name": "玛丽医生(大字体)(简)[高伟](JU)[PUZ](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Dr. Mario (Europe)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-5ae1ba8f",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Dr. Mario (Europe)",
+  "region": "Europe"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "玛丽医生"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

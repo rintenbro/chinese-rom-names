@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Golden Sun - The Lost Age",
+ "group": "Golden Sun - The Lost Age (USA, Europe)",
+ "hack_group": "UE Mobile&Elffinal",
  "id": "ver-gba-c0b98b76",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "606A1C4D",
   "no_intro_name": "Golden Sun - The Lost Age (USA, Europe)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AGFE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Golden Sun - The Lost Age (USA, Europe)",
   "zh-Hans": "黄金太阳 - 失落的时代"
  },
- "vendor": "UE / Mobile&Elffinal",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

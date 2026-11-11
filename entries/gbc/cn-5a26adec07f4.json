@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-fb8d09a3ac72/title.png"
+ },
+ "files": [
+  {
+   "crc32": "5F2472AD",
+   "name": "数码暴龙 - 水晶版II (繁) (新特奇).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "数码暴龙 - 水晶版II",
+ "hack_group": "",
+ "id": "cn-5a26adec07f4",
+ "platform": "gbc",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "数码暴龙 - 水晶版II"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

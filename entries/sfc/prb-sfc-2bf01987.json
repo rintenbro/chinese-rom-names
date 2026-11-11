@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2BF01987",
+   "name": "46亿年物语 向远方的伊甸(简)(大字版v1.01)(aGuGu)(16Mb).smc",
+   "size": 2097664
+  }
+ ],
+ "group": "46 Okunen Monogatari - Harukanaru Eden e (Japan)",
+ "hack_group": "aGuGu",
+ "id": "prb-sfc-2bf01987",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "B090235A",
+  "no_intro_name": "46 Okunen Monogatari - Harukanaru Eden e (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "46亿年物语 向远方的伊甸"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.01"
+}

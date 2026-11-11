@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D4DE6480",
+   "name": "古墓奇兵 - 预言[施珂昱](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Lara Croft Tomb Raider - The Prophecy (Europe) (En,Fr,De,Es,It)",
+ "hack_group": "施珂昱",
+ "id": "prb-gba-d4de6480",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "4235FAC3",
+  "no_intro_name": "Lara Croft Tomb Raider - The Prophecy (Europe) (En,Fr,De,Es,It)",
+  "region": "Europe"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "古墓奇兵 - 预言"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

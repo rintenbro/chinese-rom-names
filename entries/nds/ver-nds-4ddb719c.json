@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Kokoro ga Uruou - Birei Aquarium DS - Kujira, Iruka, Penguin",
+ "group": "Kokoro ga Uruou - Birei Aquarium DS - Kujira, Iruka, Penguin (Japan)",
+ "hack_group": "GV胜利汉化组",
  "id": "ver-nds-4ddb719c",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "03C503EF",
   "no_intro_name": "Kokoro ga Uruou - Birei Aquarium DS - Kujira, Iruka, Penguin (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "AQ7J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Kokoro ga Uruou - Birei Aquarium DS - Kujira, Iruka, Penguin (Japan)",
   "zh-Hans": "美丽水族馆DS 鲸鱼·海豚·企鹅"
  },
- "vendor": "GV胜利汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

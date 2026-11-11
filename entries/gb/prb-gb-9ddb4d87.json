@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9DDB4D87",
+   "name": "忍者蛙(v1.0)(简)(DMG汉化组)(2Mb).gb",
+   "size": 262144
+  }
+ ],
+ "group": "Battletoads (USA, Europe)",
+ "hack_group": "DMG汉化组",
+ "id": "prb-gb-9ddb4d87",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Battletoads (USA, Europe)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "忍者蛙"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

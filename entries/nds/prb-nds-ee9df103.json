@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "EE9DF103",
+   "name": "触摸撤退!柔软战车(JP)(ACG汉化组)(128Mb).nds",
+   "size": 13698464
+  }
+ ],
+ "group": "Touch de Taikyaku! - Yawaraka Sensha (Japan)",
+ "hack_group": "ACG汉化组",
+ "id": "prb-nds-ee9df103",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "99000D15",
+  "no_intro_name": "Touch de Taikyaku! - Yawaraka Sensha (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "触摸撤退!柔软战车"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

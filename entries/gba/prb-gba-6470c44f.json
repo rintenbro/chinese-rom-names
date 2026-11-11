@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6470C44F",
+   "name": "古惑狼Advance[Advance汉化组](v1.0)(简)(88Mb).gba",
+   "size": 11611424
+  }
+ ],
+ "group": "Crash Bandicoot Advance (Japan)",
+ "hack_group": "Advance汉化组",
+ "id": "prb-gba-6470c44f",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "64767B34",
+  "no_intro_name": "Crash Bandicoot Advance (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "古惑狼Advance"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0ED335C3",
+   "name": "任天狗 吉娃娃(US)(YYJoy汉化组)(256Mb).nds",
+   "size": 29101036
+  }
+ ],
+ "group": "Nintendogs - Chihuahua & Friends (USA)",
+ "hack_group": "YYJoy汉化组",
+ "id": "prb-nds-0ed335c3",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "C9549D69",
+  "no_intro_name": "Nintendogs - Chihuahua & Friends (USA)",
+  "region": "USA"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "任天狗 吉娃娃"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

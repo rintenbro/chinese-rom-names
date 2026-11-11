@@ -11,10 +11,9 @@
    "size": 14757152
   }
  ],
- "group": "Captain Tsubasa - Eikou no Kiseki",
+ "group": "Captain Tsubasa - Eikou no Kiseki (Japan)",
+ "hack_group": "Advance汉化组",
  "id": "ver-gba-bf5ac603",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "5341B274",
   "no_intro_name": "Captain Tsubasa - Eikou no Kiseki (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AKYJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Captain Tsubasa - Eikou no Kiseki (Japan)",
   "zh-Hans": "天使之翼 荣光的轨迹"
  },
- "vendor": "Advance汉化组",
+ "type": "game",
+ "vendor": "",
  "version": "v1.0"
 }

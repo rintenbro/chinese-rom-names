@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "273F6A9B",
+   "name": "松鼠大作战(简)[星空](JP)[ACT](6Mb).nes",
+   "size": 786464
+  }
+ ],
+ "group": "Chip 'n Dale - Rescue Rangers (World) (The Disney Afternoon Collection)",
+ "hack_group": "星空",
+ "id": "prb-famicom-273f6a9b",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "62138E31",
+  "no_intro_name": "Chip 'n Dale - Rescue Rangers (World) (The Disney Afternoon Collection)",
+  "region": "World"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "松鼠大作战"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

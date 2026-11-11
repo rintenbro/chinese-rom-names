@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "51179BC7",
+   "name": "驯龙师 音魂(JP)(烈火爆龙)(512Mb).nds",
+   "size": 54249753
+  }
+ ],
+ "group": "Dragon Tamer - Sound Spirit (Japan)",
+ "hack_group": "",
+ "id": "prb-nds-51179bc7",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "1FBC1DA8",
+  "no_intro_name": "Dragon Tamer - Sound Spirit (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "驯龙师 音魂"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

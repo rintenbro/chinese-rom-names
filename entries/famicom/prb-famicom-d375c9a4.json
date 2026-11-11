@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D375C9A4",
+   "name": "圣火徽章(简)[外星科技](JP)[RPG](5Mb).nes",
+   "size": 655376
+  }
+ ],
+ "group": "Shenghuo Huizhang II (China) (Pirate)",
+ "hack_group": "外星科技",
+ "id": "prb-famicom-d375c9a4",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "70E50787",
+  "no_intro_name": "Shenghuo Huizhang II (China) (Pirate)",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "圣火徽章"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-d90b06f2b053/title.png"
+ },
+ "files": [
+  {
+   "crc32": "8EF044B2",
+   "name": "合金弹头2001 (简) (Windy).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "合金弹头2001",
+ "hack_group": "Windy",
+ "id": "cn-e2fcb3572025",
+ "platform": "gbc",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "合金弹头2001"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

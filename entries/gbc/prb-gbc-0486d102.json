@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0486D102",
+   "name": "孤岛冒险2 - 逃离双子岛 (简) (unknown).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Survival Kids 2 - Dasshutsu!! Futago-jima! (Japan) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "unknown",
+ "id": "prb-gbc-0486d102",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Survival Kids 2 - Dasshutsu!! Futago-jima! (Japan) (SGB Enhanced) (GB Compatible)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "孤岛冒险2 - 逃离双子岛"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

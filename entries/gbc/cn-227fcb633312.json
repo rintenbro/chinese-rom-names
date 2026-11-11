@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-dd420eb1650a/title.png"
+ },
+ "files": [
+  {
+   "crc32": "BE02AAC9",
+   "name": "黄金太阳 - 封印的远古炼金术 (繁) (新特奇).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "黄金太阳 - 封印的远古炼金术",
+ "hack_group": "",
+ "id": "cn-227fcb633312",
+ "platform": "gbc",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "黄金太阳 - 封印的远古炼金术"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

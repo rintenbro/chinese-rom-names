@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E1F148BB",
+   "name": "中国雀士故事 东风(繁)[天使](JP)[TAB](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Chuugoku Janshi Story - Tonfuu (Japan)",
+ "hack_group": "天使",
+ "id": "prb-famicom-e1f148bb",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "A62C8C13",
+  "no_intro_name": "Chuugoku Janshi Story - Tonfuu (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "中国雀士故事 东风"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

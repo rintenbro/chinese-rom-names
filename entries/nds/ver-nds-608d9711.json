@@ -11,10 +11,9 @@
    "size": 33554432
   }
  ],
- "group": "RPG Tsukuru DS",
+ "group": "RPG Tsukuru DS (Japan) (NDSi Enhanced)",
+ "hack_group": "",
  "id": "ver-nds-608d9711",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "40DEF56D",
   "no_intro_name": "RPG Tsukuru DS (Japan) (NDSi Enhanced)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "V29J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "RPG Tsukuru DS (Japan) (NDSi Enhanced)",
   "zh-Hans": "RPG工具DS"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3D39188C",
+   "name": "口袋妖怪 - 金(精灵宝可梦金)(简)(韩版汉化v1.2.1)(Tom_C)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Pokemon - Gold Version (USA, Europe) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "Tom_C",
+ "id": "prb-gbc-3d39188c",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "6BDE3C3E",
+  "no_intro_name": "Pokemon - Gold Version (USA, Europe) (SGB Enhanced) (GB Compatible)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪 - 金"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

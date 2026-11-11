@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1B00050D",
+   "name": "救火英雄(简)[cslrxyz](JP)[ACT](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Flying Hero (Japan) (En)",
+ "hack_group": "cslrxyz",
+ "id": "prb-famicom-1b00050d",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Flying Hero (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "救火英雄"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

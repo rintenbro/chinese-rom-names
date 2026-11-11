@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C2561F08",
+   "name": "0689-换装迷宫.绿.gba",
+   "size": 8388528
+  }
+ ],
+ "group": "Tales of the World - Narikiri Dungeon 2 (Japan)",
+ "hack_group": "",
+ "id": "prb-gba-c2561f08",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "231B9FCA",
+  "no_intro_name": "Tales of the World - Narikiri Dungeon 2 (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "换装迷宫.绿"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

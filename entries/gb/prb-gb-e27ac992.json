@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E27AC992",
+   "name": "炸弹人GB3(简)(AI汉化v1.0.2)(哇你是谁怎么傻乎乎)(4Mb).gb",
+   "size": 524288
+  }
+ ],
+ "group": "Bomberman GB 3 (Japan) (SGB Enhanced)",
+ "hack_group": "",
+ "id": "prb-gb-e27ac992",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Bomberman GB 3 (Japan) (SGB Enhanced)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "炸弹人GB3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0.2"
+}

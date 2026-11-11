@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C2DE74F0",
+   "name": "热血！街头篮球 加油吧！灌篮高手们！(修正版)(简)[油气车+烈火暴龙](JP)[SPG](6Mb).nes",
+   "size": 786464
+  }
+ ],
+ "group": "Nekketsu! Street Basket - Ganbare Dunk Heroes (Japan)",
+ "hack_group": "油气车+烈火暴龙",
+ "id": "prb-famicom-c2de74f0",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "532A21B8",
+  "no_intro_name": "Nekketsu! Street Basket - Ganbare Dunk Heroes (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "热血！街头篮球 加油吧！灌篮高手们！"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

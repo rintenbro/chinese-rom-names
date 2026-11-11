@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Castlevania - Byakuya no Concerto",
+ "group": "Castlevania - Byakuya no Concerto (Japan)",
+ "hack_group": "盗版&Hbs",
  "id": "ver-gba-1d0cea4d",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "379B3248",
   "no_intro_name": "Castlevania - Byakuya no Concerto (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "繁",
- "serial": "ACHJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Castlevania - Byakuya no Concerto (Japan)",
   "zh-Hans": "恶魔城 - 白夜协奏曲"
  },
- "vendor": "盗版&Hbs",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

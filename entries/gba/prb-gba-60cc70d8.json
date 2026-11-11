@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "60CC70D8",
+   "name": "闪灵二人组 地狱的小丑[関邵一](AI汉化v0.92)(繁)(32Mb).gba",
+   "size": 4194318
+  }
+ ],
+ "group": "GetBackers Dakkanya - Jigoku no Scaramouche (Japan)",
+ "hack_group": "関邵一",
+ "id": "prb-gba-60cc70d8",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "C0A0A979",
+  "no_intro_name": "GetBackers Dakkanya - Jigoku no Scaramouche (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "闪灵二人组 地狱的小丑"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v0.92"
+}

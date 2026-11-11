@@ -1,0 +1,33 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "107CBF61",
+   "name": "忍者武雷传说 (繁) (永盛)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Renzhe Wu lei Chuanshuo (China) (Pirate)",
+ "hack_group": "",
+ "id": "ver-megadrive-107cbf61",
+ "original": {
+  "crc32": "107CBF61",
+  "no_intro_name": "Renzhe Wu lei Chuanshuo (China) (Pirate)",
+  "region": "China",
+  "size": 1048576
+ },
+ "platform": "megadrive",
+ "script": "繁",
+ "source": "no-intro",
+ "status": "verified",
+ "titles": {
+  "zh-Hans": "忍者武雷传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

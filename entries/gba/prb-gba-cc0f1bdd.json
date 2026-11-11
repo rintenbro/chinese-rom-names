@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CC0F1BDD",
+   "name": "咕噜咕噜转转棒[CGP](简)(JP)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "Kurukuru Kururin (Europe)",
+ "hack_group": "",
+ "id": "prb-gba-cc0f1bdd",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "C4DAB956",
+  "no_intro_name": "Kurukuru Kururin (Europe)",
+  "region": "Europe"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "咕噜咕噜转转棒"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

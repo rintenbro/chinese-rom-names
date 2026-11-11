@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-540854123370/title.png"
+ },
+ "files": [
+  {
+   "crc32": "D3CF8B1B",
+   "name": "哈利小子IV (繁) (新特奇).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "哈利小子IV",
+ "hack_group": "",
+ "id": "cn-cadb015fbe2b",
+ "platform": "gbc",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "哈利小子IV"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

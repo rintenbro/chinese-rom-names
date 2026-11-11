@@ -11,10 +11,9 @@
    "size": 115654080
   }
  ],
- "group": "Dragon Quest VI - Maboroshi no Daichi",
+ "group": "Dragon Quest VI - Maboroshi no Daichi (Japan)",
+ "hack_group": "NDSBBS&DQGAME汉化组",
  "id": "ver-nds-2f98007e",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "83691430",
   "no_intro_name": "Dragon Quest VI - Maboroshi no Daichi (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "YVIJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Dragon Quest VI - Maboroshi no Daichi (Japan)",
   "zh-Hans": "勇者斗恶龙6 幻之大地 完整剧情汉化版"
  },
- "vendor": "NDSBBS&DQGAME汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

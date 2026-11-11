@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8F119CE0",
+   "name": "无人岛物语 (繁) (部分汉化)(天空汉化组)(16Mb).sfc",
+   "size": 2097152
+  }
+ ],
+ "group": "Mujintou Monogatari (Japan)",
+ "hack_group": "天空汉化组",
+ "id": "prb-sfc-8f119ce0",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "0E984752",
+  "no_intro_name": "Mujintou Monogatari (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "无人岛物语"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

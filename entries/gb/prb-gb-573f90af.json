@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "573F90AF",
+   "name": "风来之西林GB 月影村的怪物(简)(AI汉化v20261021-r4)(哇你是谁怎么傻乎乎)(8Mb).gb",
+   "size": 1048576
+  }
+ ],
+ "group": "Fushigi no Dungeon - Fuurai no Shiren GB - Tsukikage Mura no Kaibutsu (Japan) (SGB Enhanced)",
+ "hack_group": "",
+ "id": "prb-gb-573f90af",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Fushigi no Dungeon - Fuurai no Shiren GB - Tsukikage Mura no Kaibutsu (Japan) (SGB Enhanced)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "风来之西林GB 月影村的怪物"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20261021"
+}

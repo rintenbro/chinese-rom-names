@@ -11,10 +11,9 @@
    "size": 15790048
   }
  ],
- "group": "Catan",
+ "group": "Catan (Europe) (En,De)",
+ "hack_group": "ACG汉化组",
  "id": "ver-nds-1a4624ee",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "6BFC6439",
   "no_intro_name": "Catan (Europe) (En,De)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "CN7P",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Catan (Europe) (En,De)",
   "zh-Hans": "卡坦岛"
  },
- "vendor": "ACG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

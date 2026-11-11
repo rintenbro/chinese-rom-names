@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2D393088",
+   "name": "超级三代(繁)[未知](JP)[ACT](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Super Mario Bros. 3 (Japan)",
+ "hack_group": "未知",
+ "id": "prb-famicom-2d393088",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "217D5067",
+  "no_intro_name": "Super Mario Bros. 3 (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级三代"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

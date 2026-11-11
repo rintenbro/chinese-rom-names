@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "12C08F62",
+   "name": "超级玛利欧兄弟3(日版)(v20250726)(繁)[NOKOH](JP)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Super Mario Bros. 3 (Japan)",
+ "hack_group": "NOKOH",
+ "id": "prb-famicom-12c08f62",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "217D5067",
+  "no_intro_name": "Super Mario Bros. 3 (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级玛利欧兄弟3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20250726"
+}

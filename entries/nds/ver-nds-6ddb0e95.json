@@ -11,10 +11,9 @@
    "size": 224854428
   }
  ],
- "group": "Fushigi Yuugi DS",
+ "group": "Fushigi Yuugi DS (Japan)",
+ "hack_group": "",
  "id": "ver-nds-6ddb0e95",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "991E4757",
   "no_intro_name": "Fushigi Yuugi DS (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "BF4J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Fushigi Yuugi DS (Japan)",
   "zh-Hans": "梦幻游戏DS 序章汉化版"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

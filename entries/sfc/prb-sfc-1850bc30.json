@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1850BC30",
+   "name": "弟切草(简)(AI汉化v2)(AFOLF(16Mb).sfc",
+   "size": 2097152
+  }
+ ],
+ "group": "Otogirisou (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-1850bc30",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "8E4BEFD0",
+  "no_intro_name": "Otogirisou (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "弟切草"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v2"
+}

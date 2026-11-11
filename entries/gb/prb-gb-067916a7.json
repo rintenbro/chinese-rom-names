@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "067916A7",
+   "name": "吞食天地 (简) (unknown)(4Mb).gb",
+   "size": 524288
+  }
+ ],
+ "group": "Tenchi o Kurau (Japan)",
+ "hack_group": "unknown",
+ "id": "prb-gb-067916a7",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "A9018354",
+  "no_intro_name": "Tenchi o Kurau (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "吞食天地"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

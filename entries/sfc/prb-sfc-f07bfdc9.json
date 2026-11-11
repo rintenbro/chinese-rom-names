@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F07BFDC9",
+   "name": "财宝猎人G(简)(v1.0菜单花屏修复)(Werther+飞雨影)(32Mb).smc",
+   "size": 4194304
+  }
+ ],
+ "group": "Treasure Hunter G (Japan)",
+ "hack_group": "Werther+飞雨影",
+ "id": "prb-sfc-f07bfdc9",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "3CCEED49",
+  "no_intro_name": "Treasure Hunter G (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "财宝猎人G"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

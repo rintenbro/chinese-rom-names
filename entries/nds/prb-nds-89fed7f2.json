@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "89FED7F2",
+   "name": "野兽刑警 东京同时镇压多起恐怖行动(繁)(JP)(唐啸)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Yajuu Deka - Tokyo Douji Tahatsu Terror o Chinatsu Seyo! (Japan)",
+ "hack_group": "",
+ "id": "prb-nds-89fed7f2",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "577F26FC",
+  "no_intro_name": "Yajuu Deka - Tokyo Douji Tahatsu Terror o Chinatsu Seyo! (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "野兽刑警 东京同时镇压多起恐怖行动"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

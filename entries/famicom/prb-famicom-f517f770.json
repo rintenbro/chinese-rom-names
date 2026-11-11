@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F517F770",
+   "name": "玛莉医生(简)[Puszta](JU)[PUZ](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Dr. Mario (Europe)",
+ "hack_group": "Puszta",
+ "id": "prb-famicom-f517f770",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Dr. Mario (Europe)",
+  "region": "Europe"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "玛莉医生"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

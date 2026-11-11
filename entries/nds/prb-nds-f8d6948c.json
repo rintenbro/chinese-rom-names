@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F8D6948C",
+   "name": "索尼克经典合辑 1.0(US)(U2汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Sonic Classic Collection (USA) (En,Fr,Es) (NDSi Enhanced)",
+ "hack_group": "U2汉化组",
+ "id": "prb-nds-f8d6948c",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "7344DF65",
+  "no_intro_name": "Sonic Classic Collection (USA) (En,Fr,Es) (NDSi Enhanced)",
+  "region": "USA"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "索尼克经典合辑 1.0"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

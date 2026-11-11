@@ -11,10 +11,9 @@
    "size": 33554432
   }
  ],
- "group": "Egokoro Kyoushitsu DS",
+ "group": "Egokoro Kyoushitsu DS (Japan) (NDSi Enhanced)",
+ "hack_group": "",
  "id": "ver-nds-483a52a4",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "7002B985",
   "no_intro_name": "Egokoro Kyoushitsu DS (Japan) (NDSi Enhanced)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "VAAJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Egokoro Kyoushitsu DS (Japan) (NDSi Enhanced)",
   "zh-Hans": "绘心教室DS"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

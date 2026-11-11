@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D2DC0695",
+   "name": "钓鱼太郎2 – 川钓太郎 (简)(汉化测试版)(mxj7546)(12Mb).smc",
+   "size": 1573376
+  }
+ ],
+ "group": "Kawa no Nushi Tsuri 2 (Japan)",
+ "hack_group": "mxj7546",
+ "id": "prb-sfc-d2dc0695",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "716D3EFF",
+  "no_intro_name": "Kawa no Nushi Tsuri 2 (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "钓鱼太郎2 – 川钓太郎"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "283ECED5",
+   "name": "超级银河战士(繁)(v1.0)(aGuGu)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Super Metroid (Japan, USA) (En,Ja)",
+ "hack_group": "aGuGu",
+ "id": "prb-sfc-283eced5",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "D63ED5F8",
+  "no_intro_name": "Super Metroid (Japan, USA) (En,Ja)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级银河战士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

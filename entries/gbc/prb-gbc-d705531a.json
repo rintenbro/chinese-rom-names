@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D705531A",
+   "name": "塞尔达传说 - 梦见岛 (繁) (unknown).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "unknown",
+ "id": "prb-gbc-d705531a",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (SGB Enhanced) (GB Compatible)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "塞尔达传说 - 梦见岛"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "976514D0",
+   "name": "水果狸(繁)[普泽](CN)[TAB](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Shui Guo Li (Asia) (En) (Pirate)",
+ "hack_group": "普泽",
+ "id": "prb-famicom-976514d0",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Shui Guo Li (Asia) (En) (Pirate)",
+  "region": "Asia"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "水果狸"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

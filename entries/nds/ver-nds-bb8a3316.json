@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Tetris DS",
+ "group": "Tetris DS (Japan)",
+ "hack_group": "APEX汉化组",
  "id": "ver-nds-bb8a3316",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "499753EA",
   "no_intro_name": "Tetris DS (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "ATRJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Tetris DS (Japan)",
   "zh-Hans": "俄罗斯方块DS"
  },
- "vendor": "APEX汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

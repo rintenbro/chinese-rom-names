@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F0439DBE",
+   "name": "生存之子 迷失深蓝(简)(JP)(PGCG汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Survival Kids - Lost in Blue (Japan)",
+ "hack_group": "PGCG汉化组",
+ "id": "prb-nds-f0439dbe",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "46881DCF",
+  "no_intro_name": "Survival Kids - Lost in Blue (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "生存之子 迷失深蓝"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

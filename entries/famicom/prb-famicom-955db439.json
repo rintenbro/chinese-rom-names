@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "955DB439",
+   "name": "淘气厨师 食物的世界(简)[MS](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Wanpaku Kokkun no Gourmet World (Japan)",
+ "hack_group": "",
+ "id": "prb-famicom-955db439",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Wanpaku Kokkun no Gourmet World (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "淘气厨师 食物的世界"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

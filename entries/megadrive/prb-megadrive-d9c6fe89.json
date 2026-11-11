@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D9C6FE89",
+   "name": "太空战士 - 魔法战士 (简) (九班繁转简)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Taikong Zhanshi - Mofa Zhanshi (Barver Battle Saga) (Taiwan)",
+ "hack_group": "",
+ "id": "prb-megadrive-d9c6fe89",
+ "platform": "megadrive",
+ "probable_original": {
+  "crc32": "D37A37C6",
+  "no_intro_name": "Taikong Zhanshi - Mofa Zhanshi (Barver Battle Saga) (Taiwan)",
+  "region": "Taiwan"
+ },
+ "script": "简繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "太空战士 - 魔法战士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

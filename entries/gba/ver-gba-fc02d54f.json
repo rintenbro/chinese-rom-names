@@ -11,10 +11,9 @@
    "size": 20000032
   }
  ],
- "group": "Lord of the Rings, The - The Two Towers",
+ "group": "Lord of the Rings, The - The Two Towers (USA, Europe) (En,Fr,De,Es,It,Nl)",
+ "hack_group": "Advance汉化组",
  "id": "ver-gba-fc02d54f",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "A1E3BF33",
   "no_intro_name": "Lord of the Rings, The - The Two Towers (USA, Europe) (En,Fr,De,Es,It,Nl)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "ALPE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Lord of the Rings, The - The Two Towers (USA, Europe) (En,Fr,De,Es,It,Nl)",
   "zh-Hans": "指环王 双塔"
  },
- "vendor": "Advance汉化组",
+ "type": "game",
+ "vendor": "",
  "version": "v1.0"
 }

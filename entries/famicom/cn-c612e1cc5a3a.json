@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-8dfbb4c49084/title.png"
+ },
+ "files": [
+  {
+   "crc32": "31F810F2",
+   "name": "圣斗士星矢 天马之幻想(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "group": "圣斗士星矢 天马之幻想",
+ "hack_group": "南晶科技",
+ "id": "cn-c612e1cc5a3a",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "圣斗士星矢 天马之幻想"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

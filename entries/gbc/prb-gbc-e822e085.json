@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E822E085",
+   "name": "俄罗斯方块(简)(狸克)(2Mb).gbc",
+   "size": 262144
+  }
+ ],
+ "group": "Tetris DX (World) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "",
+ "id": "prb-gbc-e822e085",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "69989152",
+  "no_intro_name": "Tetris DX (World) (SGB Enhanced) (GB Compatible)",
+  "region": "World"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "俄罗斯方块"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

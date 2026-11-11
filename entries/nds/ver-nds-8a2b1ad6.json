@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Tantei Jinguuji Saburou DS - Kienai Kokoro",
+ "group": "Tantei Jinguuji Saburou DS - Kienai Kokoro (Japan)",
+ "hack_group": "Xzonn",
  "id": "ver-nds-8a2b1ad6",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "8322BBE8",
   "no_intro_name": "Tantei Jinguuji Saburou DS - Kienai Kokoro (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "YJJJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Tantei Jinguuji Saburou DS - Kienai Kokoro (Japan)",
   "zh-Hans": "侦探神宫寺三郎DS 不灭的心 AI"
  },
- "vendor": "Xzonn",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

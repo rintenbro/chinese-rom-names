@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-c7dd5870d966/title.png"
+ },
+ "files": [
+  {
+   "crc32": "EE03CA6C",
+   "name": "GB掠夺者v1.1 (繁) (Sun-Star).gbc",
+   "size": 65536
+  }
+ ],
+ "group": "GB Sacker Gold Finger & Memory Card (China) [CHT]",
+ "hack_group": "Sun-Star",
+ "id": "prb-gbc-ee03ca6c",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "GB Sacker Gold Finger & Memory Card (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "GB掠夺者v1.1"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

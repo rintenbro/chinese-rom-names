@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Tenchu - Dark Shadow",
+ "group": "Tenchu - Dark Shadow (Japan)",
+ "hack_group": "seikoya",
  "id": "ver-nds-4582f5c8",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "0B3D84B7",
   "no_intro_name": "Tenchu - Dark Shadow (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "ACUJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Tenchu - Dark Shadow (Japan)",
   "zh-Hans": "天诛DS 暗影"
  },
- "vendor": "seikoya",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6EE67FEE",
+   "name": "超级陆战 荣耀日[繁星PRIME](汉化测试v0.2.2)(简)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "Super Army War (USA)",
+ "hack_group": "繁星PRIME",
+ "id": "prb-gba-6ee67fee",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "BAF484BE",
+  "no_intro_name": "Super Army War (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级陆战 荣耀日"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v0.2.2"
+}

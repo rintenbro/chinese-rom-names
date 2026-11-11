@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-212d54ad9731/title.png"
+ },
+ "files": [
+  {
+   "crc32": "3FA68B56",
+   "name": "真三国无双2(简)[奔升](JP)[SLG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "真三国无双2",
+ "hack_group": "奔升",
+ "id": "cn-449f0d8b3ef4",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "真三国无双2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

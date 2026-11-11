@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-cd704d07b1bd/title.png"
+ },
+ "files": [
+  {
+   "crc32": "23D96546",
+   "name": "圣斗士星矢 北欧突击篇(简)[南晶科技](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "圣斗士星矢 北欧突击篇",
+ "hack_group": "南晶科技",
+ "id": "cn-6f7c3216badd",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "圣斗士星矢 北欧突击篇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E7C9F26A",
+   "name": "洛克人Zero 2[Shuo_chen](简)(US)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Mega Man Zero 2 (USA)",
+ "hack_group": "Shuo_chen",
+ "id": "prb-gba-e7c9f26a",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "CE1E37BB",
+  "no_intro_name": "Mega Man Zero 2 (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "洛克人Zero 2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

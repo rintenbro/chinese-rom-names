@@ -11,10 +11,9 @@
    "size": 31548500
   }
  ],
- "group": "Saga no Gabai Baachan DS",
+ "group": "Saga no Gabai Baachan DS (Japan)",
+ "hack_group": "ACG汉化组",
  "id": "ver-nds-7dcbf8cc",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "993E92BE",
   "no_intro_name": "Saga no Gabai Baachan DS (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "CVCJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Saga no Gabai Baachan DS (Japan)",
   "zh-Hans": "佐贺的超级阿嬷DS"
  },
- "vendor": "ACG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

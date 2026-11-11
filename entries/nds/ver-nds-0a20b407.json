@@ -11,10 +11,9 @@
    "size": 57454784
   }
  ],
- "group": "Houkago Shounen",
+ "group": "Houkago Shounen (Japan)",
+ "hack_group": "linway",
  "id": "ver-nds-0a20b407",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "33456535",
   "no_intro_name": "Houkago Shounen (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "繁",
- "serial": "YHGJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Houkago Shounen (Japan)",
   "zh-Hans": "下课后少年"
  },
- "vendor": "linway",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -11,10 +11,9 @@
    "size": 33554432
   }
  ],
- "group": "Pokemon - Sapphire Version",
+ "group": "Pokemon - Sapphire Version (USA, Europe)",
+ "hack_group": "RSC汉化组",
  "id": "ver-gba-c45ffa38",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "554DEDC4",
   "no_intro_name": "Pokemon - Sapphire Version (USA, Europe)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AXPE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Pokemon - Sapphire Version (USA, Europe)",
   "zh-Hans": "口袋妖怪 - 蓝宝石"
  },
- "vendor": "RSC汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

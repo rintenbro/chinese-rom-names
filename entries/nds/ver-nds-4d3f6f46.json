@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Touch Game Party",
+ "group": "Touch Game Party (Japan)",
+ "hack_group": "星组汉化组",
  "id": "ver-nds-4d3f6f46",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "DE730DAC",
   "no_intro_name": "Touch Game Party (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "AWQJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Touch Game Party (Japan)",
   "zh-Hans": "触摸游戏派对"
  },
- "vendor": "星组汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9A19C0FA",
+   "name": "风来的西林 (简) (少量汉化)(Chrono)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Fushigi no Dungeon 2 - Fuurai no Shiren (Japan)",
+ "hack_group": "Chrono",
+ "id": "prb-sfc-9a19c0fa",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "AF5703EE",
+  "no_intro_name": "Fushigi no Dungeon 2 - Fuurai no Shiren (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "风来的西林"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

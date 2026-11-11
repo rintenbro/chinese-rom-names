@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8F808179",
+   "name": "死亡之舞(简)(v1.0)(1d4444+CLARK.H)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Dead Dance (Japan)",
+ "hack_group": "1d4444+CLARK.H",
+ "id": "prb-sfc-8f808179",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "7019B1F1",
+  "no_intro_name": "Dead Dance (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "死亡之舞"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

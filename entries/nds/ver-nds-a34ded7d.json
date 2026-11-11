@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Tokyo Twilight Busters - Kindan no Ikenie Teito Jigokuhen",
+ "group": "Tokyo Twilight Busters - Kindan no Ikenie Teito Jigokuhen (Japan)",
+ "hack_group": "飞云+主播萌杀",
  "id": "ver-nds-a34ded7d",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "8187E34A",
   "no_intro_name": "Tokyo Twilight Busters - Kindan no Ikenie Teito Jigokuhen (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "CVAJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Tokyo Twilight Busters - Kindan no Ikenie Teito Jigokuhen (Japan)",
   "zh-Hans": "东京黄昏狩猎者 禁忌的活祭品帝都地狱纪事"
  },
- "vendor": "飞云+主播萌杀",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -11,10 +11,9 @@
    "size": 4194304
   }
  ],
- "group": "Emo Cheng DX",
+ "group": "Emo Cheng DX (Taiwan)",
+ "hack_group": "",
  "id": "ver-gbc-5c388c6d",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "5C388C6D",
   "no_intro_name": "Emo Cheng DX (Taiwan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gbc",
  "script": "繁",
- "serial": "",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Emo Cheng DX (Taiwan)",
   "zh-Hans": "恶魔城DX"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F8D44C23",
+   "name": "三国志2 霸王的大陆(小字体)(v3.1)(纯净版)(全动画非全头像)(简)[南方文苑+qxqy19+粉墨登场+幽科南+渣渣皮](JP)[SLG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Sangokushi II - Haou no Tairiku (Japan)",
+ "hack_group": "南方文苑+qxqy19+粉墨登场+幽科南+渣渣皮",
+ "id": "prb-famicom-f8d44c23",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "400D5A0B",
+  "no_intro_name": "Sangokushi II - Haou no Tairiku (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "三国志2 霸王的大陆"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v3.1"
+}

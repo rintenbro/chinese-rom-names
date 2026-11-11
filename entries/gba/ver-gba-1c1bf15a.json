@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Yu-Gi-Oh! Duel Monsters International 2",
+ "group": "Yu-Gi-Oh! Duel Monsters International 2 (Japan) (En,Ja)",
+ "hack_group": "天使汉化组",
  "id": "ver-gba-1c1bf15a",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "6DCFB879",
   "no_intro_name": "Yu-Gi-Oh! Duel Monsters International 2 (Japan) (En,Ja)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BYIJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Yu-Gi-Oh! Duel Monsters International 2 (Japan) (En,Ja)",
   "zh-Hans": "游戏王! - 怪兽决斗国际版2"
  },
- "vendor": "天使汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

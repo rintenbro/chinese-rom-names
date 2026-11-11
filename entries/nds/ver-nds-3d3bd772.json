@@ -11,10 +11,9 @@
    "size": 13479688
   }
  ],
- "group": "Bubble Bobble - Double Shot",
+ "group": "Bubble Bobble - Double Shot (USA) (En,Fr,Es)",
+ "hack_group": "",
  "id": "ver-nds-3d3bd772",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "9DFDA3CA",
   "no_intro_name": "Bubble Bobble - Double Shot (USA) (En,Fr,Es)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "AWHE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Bubble Bobble - Double Shot (USA) (En,Fr,Es)",
   "zh-Hans": "泡泡龙 双重射击 1.1"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

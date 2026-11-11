@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Gyakuten Saiban 4",
+ "group": "Gyakuten Saiban 4 (Japan)",
+ "hack_group": "",
  "id": "ver-nds-fdf9222b",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "34721814",
   "no_intro_name": "Gyakuten Saiban 4 (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "繁",
- "serial": "AGCJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Gyakuten Saiban 4 (Japan)",
   "zh-Hans": "逆转裁判4 完美"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

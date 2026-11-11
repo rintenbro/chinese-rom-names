@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FE6F1BD4",
+   "name": "超级机器人大战(v1.2)(简)(DMG汉化组)(4Mb).gb",
+   "size": 524288
+  }
+ ],
+ "group": "Super Robot Taisen (Japan)",
+ "hack_group": "DMG汉化组",
+ "id": "prb-gb-fe6f1bd4",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "7DD9D7D6",
+  "no_intro_name": "Super Robot Taisen (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级机器人大战"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.2"
+}

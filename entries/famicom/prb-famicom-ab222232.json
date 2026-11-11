@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AB222232",
+   "name": "古巴战士(v2.0)(简)[未知](JP)[STG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Guevara (Japan)",
+ "hack_group": "未知",
+ "id": "prb-famicom-ab222232",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "9F5D2AA4",
+  "no_intro_name": "Guevara (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "古巴战士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v2.0"
+}

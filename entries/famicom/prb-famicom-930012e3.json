@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "930012E3",
+   "name": "吞食天地2 诸葛孔明传(简)[同能网](JP)[RPG](5Mb).nes",
+   "size": 655376
+  }
+ ],
+ "group": "Tenchi o Kurau II - Shokatsu Koumei Den (Japan)",
+ "hack_group": "同能网",
+ "id": "prb-famicom-930012e3",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "D27122E5",
+  "no_intro_name": "Tenchi o Kurau II - Shokatsu Koumei Den (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "吞食天地2 诸葛孔明传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

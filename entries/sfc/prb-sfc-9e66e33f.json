@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9E66E33F",
+   "name": "时空之旅 (繁) (Beta)(Goldegg & Emukim)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Chrono Trigger (Japan)",
+ "hack_group": "Goldegg & Emukim",
+ "id": "prb-sfc-9e66e33f",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "4D014C20",
+  "no_intro_name": "Chrono Trigger (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "时空之旅"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

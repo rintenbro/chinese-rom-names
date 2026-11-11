@@ -1,0 +1,33 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1B86E623",
+   "name": "龙 (繁) (松玲)(2Mb).md",
+   "size": 262144
+  }
+ ],
+ "group": "Link Dragon (Taiwan) (En)",
+ "hack_group": "",
+ "id": "ver-megadrive-1b86e623",
+ "original": {
+  "crc32": "1B86E623",
+  "no_intro_name": "Link Dragon (Taiwan) (En)",
+  "region": "Taiwan",
+  "size": 262144
+ },
+ "platform": "megadrive",
+ "script": "繁",
+ "source": "no-intro",
+ "status": "verified",
+ "titles": {
+  "zh-Hans": "龙"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

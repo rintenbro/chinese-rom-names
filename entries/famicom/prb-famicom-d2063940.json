@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D2063940",
+   "name": "大大眼蛙大冒险(简)[虫虫](JP)[PUZ](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Kero Kero Keroppi no Daibouken (Japan)",
+ "hack_group": "虫虫",
+ "id": "prb-famicom-d2063940",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Kero Kero Keroppi no Daibouken (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "大大眼蛙大冒险"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

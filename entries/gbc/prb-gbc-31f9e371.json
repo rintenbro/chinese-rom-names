@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-e8045355951a/title.png"
+ },
+ "files": [
+  {
+   "crc32": "31F9E371",
+   "name": "路克英雄2 (繁) (广誉科技).gbc",
+   "size": 524288
+  }
+ ],
+ "group": "Zook Hero 2 (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-gbc-31f9e371",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Zook Hero 2 (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "路克英雄2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

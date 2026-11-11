@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9A4AD523",
+   "name": "由我来守护你 1.1最终汉化版（防黑屏版）(JP)(SOMA&游戏饭饭汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Ore ga Omae o Mamoru (Japan)",
+ "hack_group": "SOMA&游戏饭饭汉化组",
+ "id": "prb-nds-9a4ad523",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "ECF425B6",
+  "no_intro_name": "Ore ga Omae o Mamoru (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "由我来守护你 1.1最终汉化版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

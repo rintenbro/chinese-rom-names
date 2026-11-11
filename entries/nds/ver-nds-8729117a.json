@@ -11,10 +11,9 @@
    "size": 117496736
   }
  ],
- "group": "Luminous Arc",
+ "group": "Luminous Arc (Japan)",
+ "hack_group": "巴士汉化组",
  "id": "ver-nds-8729117a",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "9ED016F7",
   "no_intro_name": "Luminous Arc (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "ANIJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Luminous Arc (Japan)",
   "zh-Hans": "弧光之源"
  },
- "vendor": "巴士汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C7823772",
+   "name": "拉迪亚战记 黎明篇(v20210816)(修正版)(简)[外星科技+Vanyogin](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "Radia Senki - Reimei Hen (Japan)",
+ "hack_group": "外星科技+Vanyogin",
+ "id": "prb-famicom-c7823772",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "D8E80AB8",
+  "no_intro_name": "Radia Senki - Reimei Hen (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "拉迪亚战记 黎明篇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20210816"
+}

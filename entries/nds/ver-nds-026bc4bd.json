@@ -11,10 +11,9 @@
    "size": 134217728
   }
  ],
- "group": "Rune Factory 2",
+ "group": "Rune Factory 2 (Japan)",
+ "hack_group": "SOMA&游戏饭饭汉化组",
  "id": "ver-nds-026bc4bd",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "2F56C269",
   "no_intro_name": "Rune Factory 2 (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "A6NJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Rune Factory 2 (Japan)",
   "zh-Hans": "新牧场物语 符文工房2 中文语音汉化修正版"
  },
- "vendor": "SOMA&游戏饭饭汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

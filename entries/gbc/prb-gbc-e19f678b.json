@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-664b23bae828/title.png"
+ },
+ "files": [
+  {
+   "crc32": "E19F678B",
+   "name": "恶魔城2 - 风云篇 (繁) (星星科技).gbc",
+   "size": 524288
+  }
+ ],
+ "group": "Devil Town (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-gbc-e19f678b",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Devil Town (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "恶魔城2 - 风云篇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

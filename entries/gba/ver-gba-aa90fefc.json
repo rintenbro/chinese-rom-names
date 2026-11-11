@@ -11,10 +11,9 @@
    "size": 4194304
   }
  ],
- "group": "Mario Kart Advance",
+ "group": "Mario Kart Advance (Japan)",
+ "hack_group": "",
  "id": "ver-gba-aa90fefc",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "30E99FCD",
   "no_intro_name": "Mario Kart Advance (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AMKJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Mario Kart Advance (Japan)",
   "zh-Hans": "马里奥赛车Advance"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

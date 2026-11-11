@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B911D8EB",
+   "name": "大力工头 阿源君 机器人帝国的野心(简)(DMG汉化组)(4Mb).gb",
+   "size": 524288
+  }
+ ],
+ "group": "Pachinko CR Daiku no Gen-san GB (Japan) (SGB Enhanced)",
+ "hack_group": "DMG汉化组",
+ "id": "prb-gb-b911d8eb",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "69A5E681",
+  "no_intro_name": "Pachinko CR Daiku no Gen-san GB (Japan) (SGB Enhanced)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "大力工头 阿源君 机器人帝国的野心"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

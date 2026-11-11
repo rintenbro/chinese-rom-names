@@ -11,10 +11,9 @@
    "size": 25019944
   }
  ],
- "group": "From the Abyss",
+ "group": "From the Abyss (Japan)",
+ "hack_group": "HOho汉化组",
  "id": "ver-nds-4002ec7b",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "F22B1164",
   "no_intro_name": "From the Abyss (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "繁",
- "serial": "YVSJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "From the Abyss (Japan)",
   "zh-Hans": "来自深渊"
  },
- "vendor": "HOho汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

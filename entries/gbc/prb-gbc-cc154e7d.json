@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CC154E7D",
+   "name": "星海传说 – 蔚蓝星球(v3.0)(简)(本该完美)(JP)(32Mb).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Star Ocean - Blue Sphere (Japan) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "",
+ "id": "prb-gbc-cc154e7d",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "8C7DDBDA",
+  "no_intro_name": "Star Ocean - Blue Sphere (Japan) (SGB Enhanced) (GB Compatible)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "星海传说 – 蔚蓝星球"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v3.0"
+}

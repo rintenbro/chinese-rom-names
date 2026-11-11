@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "One Piece - Going Baseball - Kaizoku Yakyuu",
+ "group": "One Piece - Going Baseball - Kaizoku Yakyuu (Japan)",
+ "hack_group": "",
  "id": "ver-gba-25e0f17f",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "0B77BCB8",
   "no_intro_name": "One Piece - Going Baseball - Kaizoku Yakyuu (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "B08J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "One Piece - Going Baseball - Kaizoku Yakyuu (Japan)",
   "zh-Hans": "海贼王 - 棒球进行曲 - 海贼棒球"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

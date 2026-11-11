@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-9910abcb11a3/title.png"
+ },
+ "files": [
+  {
+   "crc32": "532D7941",
+   "name": "金田一少年之事件簿 - 第10年的邀请函 (繁) (PPX).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Kindaichi Shounen no Jikenbo - 10nenme no Shoutaijou (Japan) [CHT]",
+ "hack_group": "PPX",
+ "id": "prb-gbc-532d7941",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Kindaichi Shounen no Jikenbo - 10nenme no Shoutaijou (Japan) [CHT]",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "金田一少年之事件簿 - 第10年的邀请函"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,33 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0811CD0E",
+   "name": "太阁立志传1 (简) (小召)(10Mb).md",
+   "size": 1310720
+  }
+ ],
+ "group": "Tai Ge Lizhi Chuan (China) (Simplified) (Pirate)",
+ "hack_group": "",
+ "id": "ver-megadrive-0811cd0e",
+ "original": {
+  "crc32": "0811CD0E",
+  "no_intro_name": "Tai Ge Lizhi Chuan (China) (Simplified) (Pirate)",
+  "region": "China",
+  "size": 1310720
+ },
+ "platform": "megadrive",
+ "script": "简",
+ "source": "no-intro",
+ "status": "verified",
+ "titles": {
+  "zh-Hans": "太阁立志传1"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

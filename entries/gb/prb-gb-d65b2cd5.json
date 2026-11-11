@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D65B2CD5",
+   "name": "热血高校躲避球部(简)(AI汉化大字版v1.0.1)(哇你是谁怎么傻乎乎)(2Mb).gb",
+   "size": 262144
+  }
+ ],
+ "group": "Nekketsu Koukou Dodgeball-bu - Kyouteki! Dodge Soldier no Maki (Japan)",
+ "hack_group": "",
+ "id": "prb-gb-d65b2cd5",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Nekketsu Koukou Dodgeball-bu - Kyouteki! Dodge Soldier no Maki (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "热血高校躲避球部"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0.1"
+}

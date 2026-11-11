@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "86923FC8",
+   "name": "战斗潜水艇 (简) (完全汉化)(cslrxyz)(8Mb).sfc",
+   "size": 1048576
+  }
+ ],
+ "group": "Battle Submarine (Japan)",
+ "hack_group": "cslrxyz",
+ "id": "prb-sfc-86923fc8",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "DA2AD2FE",
+  "no_intro_name": "Battle Submarine (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "战斗潜水艇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

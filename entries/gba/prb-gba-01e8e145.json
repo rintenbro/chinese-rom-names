@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "01E8E145",
+   "name": "Z.O.E. 2173 - 圣约[施珂昱](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Z.O.E. 2173 - Testament (Japan)",
+ "hack_group": "施珂昱",
+ "id": "prb-gba-01e8e145",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "9FEEF66D",
+  "no_intro_name": "Z.O.E. 2173 - Testament (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "Z.O.E. 2173 - 圣约"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-37a681108763/title.png"
+ },
+ "files": [
+  {
+   "crc32": "59275C92",
+   "name": "无双乱舞(简)[晶科泰](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "无双乱舞",
+ "hack_group": "晶科泰",
+ "id": "cn-ca28f05c4dee",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "无双乱舞"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

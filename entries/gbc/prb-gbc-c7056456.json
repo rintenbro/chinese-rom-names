@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C7056456",
+   "name": "乐一通(简)(狸克)(8Mb).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Looney Tunes (USA) (GB Compatible)",
+ "hack_group": "",
+ "id": "prb-gbc-c7056456",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Looney Tunes (USA) (GB Compatible)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "乐一通"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

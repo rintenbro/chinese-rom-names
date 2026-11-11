@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "788D13A4",
+   "name": "龙虎之拳(简)(v1.01)(1d444)(16Mb).smc",
+   "size": 2097152
+  }
+ ],
+ "group": "Ryuuko no Ken (Japan)",
+ "hack_group": "1d444",
+ "id": "prb-sfc-788d13a4",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Ryuuko no Ken (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "龙虎之拳"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.01"
+}

@@ -11,10 +11,9 @@
    "size": 107229715
   }
  ],
- "group": "Ookami to Koushinryou - Boku to Holo no Ichinen",
+ "group": "Ookami to Koushinryou - Boku to Holo no Ichinen (Japan)",
+ "hack_group": "夏空汉化组",
  "id": "ver-nds-cbca5d4b",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "9E4800E2",
   "no_intro_name": "Ookami to Koushinryou - Boku to Holo no Ichinen (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YU5J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Ookami to Koushinryou - Boku to Holo no Ichinen (Japan)",
   "zh-Hans": "狼与香辛料 我与霍罗的一年 1.00"
  },
- "vendor": "夏空汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

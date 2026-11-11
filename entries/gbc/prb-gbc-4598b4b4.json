@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4598B4B4",
+   "name": "魔法芭比 (简) (unknown).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Barbie - Magic Genie Adventure (USA)",
+ "hack_group": "unknown",
+ "id": "prb-gbc-4598b4b4",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Barbie - Magic Genie Adventure (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "魔法芭比"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

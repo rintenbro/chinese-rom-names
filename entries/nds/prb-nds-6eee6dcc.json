@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6EEE6DCC",
+   "name": "神游 - 摸摸瓦力欧制造(神游)(官方简中)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Momo Waliou Zhizao (China) (iDS)",
+ "hack_group": "",
+ "id": "prb-nds-6eee6dcc",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "29E379F3",
+  "no_intro_name": "Momo Waliou Zhizao (China) (iDS)",
+  "region": "China"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "神游 - 摸摸瓦力欧制造"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

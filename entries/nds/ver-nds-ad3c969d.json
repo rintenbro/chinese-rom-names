@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Hello Kitty no Panda Sports Stadium",
+ "group": "Hello Kitty no Panda Sports Stadium (Japan)",
+ "hack_group": "CROSSTZCW&卡融",
  "id": "ver-nds-ad3c969d",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "DBEF19AB",
   "no_intro_name": "Hello Kitty no Panda Sports Stadium (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "CHPJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Hello Kitty no Panda Sports Stadium (Japan)",
   "zh-Hans": "Hello Kitty的熊猫运动场"
  },
- "vendor": "CROSSTZCW&卡融",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

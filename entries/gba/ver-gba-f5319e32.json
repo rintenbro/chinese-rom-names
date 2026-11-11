@@ -11,10 +11,9 @@
    "size": 8296720
   }
  ],
- "group": "King of Fighters EX 2, The - Howling Blood",
+ "group": "King of Fighters EX 2, The - Howling Blood (Japan) (Rev 1)",
+ "hack_group": "qqgba",
  "id": "ver-gba-f5319e32",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "DC5BEACD",
   "no_intro_name": "King of Fighters EX 2, The - Howling Blood (Japan) (Rev 1)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AEXJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "King of Fighters EX 2, The - Howling Blood (Japan) (Rev 1)",
   "zh-Hans": "拳皇EX2 - 咆哮之血"
  },
- "vendor": "qqgba",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

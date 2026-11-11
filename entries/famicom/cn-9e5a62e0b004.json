@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-1ecb6c3ea06e/title.png"
+ },
+ "files": [
+  {
+   "crc32": "32CE10BB",
+   "name": "电脑教室(简)[爱尔普](CN)[ETC](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "电脑教室",
+ "hack_group": "爱尔普",
+ "id": "cn-9e5a62e0b004",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "电脑教室"
+ },
+ "type": "hack",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C969F590",
+   "name": "梦幻模拟战2 (繁) (未知)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Langrisser II (Japan)",
+ "hack_group": "未知",
+ "id": "prb-megadrive-c969f590",
+ "platform": "megadrive",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Langrisser II (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "梦幻模拟战2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

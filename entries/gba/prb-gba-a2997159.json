@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A2997159",
+   "name": "真女神转生 恶魔之子 炎之书[Advance汉化组](v1.0)(简)(88Mb).gba",
+   "size": 10706788
+  }
+ ],
+ "group": "Shin Megami Tensei - Devil Children - Honoo no Sho (Japan)",
+ "hack_group": "Advance汉化组",
+ "id": "prb-gba-a2997159",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "9A0903BC",
+  "no_intro_name": "Shin Megami Tensei - Devil Children - Honoo no Sho (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "真女神转生 恶魔之子 炎之书"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "691E34FB",
+   "name": "携带电兽 速度版(口袋怪兽翡翠版)(繁)(D商+yy小龙虾)(16Mb).gb",
+   "size": 2097152
+  }
+ ],
+ "group": "Keitai Denjuu Telefang - Speed Version (Japan) (GB Compatible)",
+ "hack_group": "D商+yy小龙虾",
+ "id": "prb-gbc-691e34fb",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Keitai Denjuu Telefang - Speed Version (Japan) (GB Compatible)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "携带电兽 速度版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

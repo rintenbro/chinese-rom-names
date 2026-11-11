@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "71804D8A",
+   "name": "心跳回忆 Girl's Side 初恋 文本测试版(JP)(漫游汉化组)(1024Mb).nds",
+   "size": 131466328
+  }
+ ],
+ "group": "Tokimeki Memorial Girl's Side - 1st Love (Japan)",
+ "hack_group": "漫游汉化组",
+ "id": "prb-nds-71804d8a",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "63A3C3DB",
+  "no_intro_name": "Tokimeki Memorial Girl's Side - 1st Love (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "心跳回忆 Girl's Side 初恋 文本测试版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

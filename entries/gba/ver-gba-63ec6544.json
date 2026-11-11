@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Tales of the World - Summoner's Lineage",
+ "group": "Tales of the World - Summoner's Lineage (Japan)",
+ "hack_group": "模拟天下",
  "id": "ver-gba-63ec6544",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "9C534023",
   "no_intro_name": "Tales of the World - Summoner's Lineage (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "A9PJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Tales of the World - Summoner's Lineage (Japan)",
   "zh-Hans": "世界传说 - 召唤者的血统"
  },
- "vendor": "模拟天下",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

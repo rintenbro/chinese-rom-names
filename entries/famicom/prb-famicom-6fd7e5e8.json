@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6FD7E5E8",
+   "name": "斗者的挽歌(简)[孔雀天](JP)[ACT](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Tatakai no Banka (Japan)",
+ "hack_group": "孔雀天",
+ "id": "prb-famicom-6fd7e5e8",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Tatakai no Banka (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "斗者的挽歌"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

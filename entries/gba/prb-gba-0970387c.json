@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0970387C",
+   "name": "银河战士 - 零号任务[Chrono](简)(US)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Metroid - Zero Mission (USA, Australia)",
+ "hack_group": "Chrono",
+ "id": "prb-gba-0970387c",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "5C61A844",
+  "no_intro_name": "Metroid - Zero Mission (USA, Australia)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "银河战士 - 零号任务"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

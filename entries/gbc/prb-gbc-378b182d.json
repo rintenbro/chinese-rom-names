@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-5d2a4c245d4d/title.png"
+ },
+ "files": [
+  {
+   "crc32": "378B182D",
+   "name": "超级机器人大战X (繁) (新特奇).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Super Robot Taisen X (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-gbc-378b182d",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Super Robot Taisen X (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级机器人大战X"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

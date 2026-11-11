@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-848edb3a8960/title.png"
+ },
+ "files": [
+  {
+   "crc32": "C465D53C",
+   "name": "数码宝贝 - 海之神 (繁) (Yong Yong).gbc",
+   "size": 524288
+  }
+ ],
+ "group": "数码宝贝 - 海之神",
+ "hack_group": "Yong Yong",
+ "id": "cn-22e77a5f13ff",
+ "platform": "gbc",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "数码宝贝 - 海之神"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

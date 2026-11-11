@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Dr. Slump Arale-chan",
+ "group": "Dr. Slump Arale-chan (Japan)",
+ "hack_group": "CG汉化组",
  "id": "ver-nds-55094bb4",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "06582677",
   "no_intro_name": "Dr. Slump Arale-chan (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YDSJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Dr. Slump Arale-chan (Japan)",
   "zh-Hans": "阿拉蕾"
  },
- "vendor": "CG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

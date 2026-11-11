@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E243C4DC",
+   "name": "最终幻想水晶编年史 命运指环 最终修正版(简)(JP)(磁悬浮汉化组)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Final Fantasy Crystal Chronicles - Ring of Fates (Japan)",
+ "hack_group": "磁悬浮汉化组",
+ "id": "prb-nds-e243c4dc",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "644FFC51",
+  "no_intro_name": "Final Fantasy Crystal Chronicles - Ring of Fates (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "最终幻想水晶编年史 命运指环 最终修正版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

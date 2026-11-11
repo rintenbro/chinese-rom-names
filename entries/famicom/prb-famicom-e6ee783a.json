@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E6EE783A",
+   "name": "异域诛魂(简)[虫虫](US)[ACT](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Arkista's Ring (USA)",
+ "hack_group": "虫虫",
+ "id": "prb-famicom-e6ee783a",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Arkista's Ring (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "异域诛魂"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

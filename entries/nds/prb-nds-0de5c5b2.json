@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0DE5C5B2",
+   "name": "便利商店DS 经营力训练(JP)(奇玉)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Conveni DS, The - Otona no Keieiryoku Training (Japan)",
+ "hack_group": "",
+ "id": "prb-nds-0de5c5b2",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "8F7BDA81",
+  "no_intro_name": "Conveni DS, The - Otona no Keieiryoku Training (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "便利商店DS 经营力训练"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

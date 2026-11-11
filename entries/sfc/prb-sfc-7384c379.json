@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7384C379",
+   "name": "天地创造 (繁) (v2.00)(Necrosaro)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Tenchi Souzou (Japan)",
+ "hack_group": "Necrosaro",
+ "id": "prb-sfc-7384c379",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Tenchi Souzou (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "天地创造"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v2.00"
+}

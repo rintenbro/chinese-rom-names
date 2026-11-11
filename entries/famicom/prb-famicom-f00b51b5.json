@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F00B51B5",
+   "name": "淘金者竞标赛(大字体)(简)[高伟](JP)[PUZ](0.37Mb).nes",
+   "size": 49168
+  }
+ ],
+ "group": "Championship Lode Runner (Japan) (En)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-f00b51b5",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Championship Lode Runner (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "淘金者竞标赛"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

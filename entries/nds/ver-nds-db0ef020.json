@@ -11,10 +11,9 @@
    "size": 134217728
   }
  ],
- "group": "Kimi no Yuusha",
+ "group": "Kimi no Yuusha (Japan)",
+ "hack_group": "play汉化组",
  "id": "ver-nds-db0ef020",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "3D0E5310",
   "no_intro_name": "Kimi no Yuusha (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "AQXJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Kimi no Yuusha (Japan)",
   "zh-Hans": "你的勇者"
  },
- "vendor": "play汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

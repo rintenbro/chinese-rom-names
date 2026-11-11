@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-dd90336c73a1/title.png"
+ },
+ "files": [
+  {
+   "crc32": "B358F67A",
+   "name": "口袋怪兽 绿 绿叶版(简)[恒格电子](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "口袋怪兽 绿 绿叶版",
+ "hack_group": "恒格电子",
+ "id": "cn-ecd1b2c6f299",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "口袋怪兽 绿 绿叶版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

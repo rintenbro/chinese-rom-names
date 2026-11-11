@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F6B1E953",
+   "name": "重装机兵Returns (简)(v0.96)(狼组+willzyj+hlken)(32Mb).smc",
+   "size": 4194816
+  }
+ ],
+ "group": "Metal Max Returns (Japan)",
+ "hack_group": "狼组+willzyj+hlken",
+ "id": "prb-sfc-f6b1e953",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "4396A35B",
+  "no_intro_name": "Metal Max Returns (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "重装机兵Returns"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v0.96"
+}

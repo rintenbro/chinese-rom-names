@@ -11,10 +11,9 @@
    "size": 66870272
   }
  ],
- "group": "Iron Feather",
+ "group": "Iron Feather (Japan)",
+ "hack_group": "巴士汉化组",
  "id": "ver-nds-e990cd5a",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "337B8394",
   "no_intro_name": "Iron Feather (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "AIFJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Iron Feather (Japan)",
   "zh-Hans": "钢之羽"
  },
- "vendor": "巴士汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

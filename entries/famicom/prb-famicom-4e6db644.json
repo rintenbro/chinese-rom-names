@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4E6DB644",
+   "name": "吃豆人小姐(简)[虫虫](US)[PUZ](0.31Mb).nes",
+   "size": 40976
+  }
+ ],
+ "group": "Pac-Man (USA) (Namco)",
+ "hack_group": "虫虫",
+ "id": "prb-famicom-4e6db644",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "5988ED8E",
+  "no_intro_name": "Pac-Man (USA) (Namco)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "吃豆人小姐"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

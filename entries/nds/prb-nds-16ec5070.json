@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "16EC5070",
+   "name": "弧光之源3 瞳 汉化测试版20140129(JP)(小黑屋汉化组)(1024Mb).nds",
+   "size": 105954624
+  }
+ ],
+ "group": "Luminous Arc 3 - Eyes (Japan)",
+ "hack_group": "小黑屋汉化组",
+ "id": "prb-nds-16ec5070",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "27D4D93D",
+  "no_intro_name": "Luminous Arc 3 - Eyes (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "弧光之源3 瞳 汉化测试版20140129"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

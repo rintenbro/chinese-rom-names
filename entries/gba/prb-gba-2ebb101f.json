@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2EBB101F",
+   "name": "神游 小神游读书伴侣[未发售](简)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "iQue Reader (China)",
+ "hack_group": "未发售",
+ "id": "prb-gba-2ebb101f",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "iQue Reader (China)",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "神游 小神游读书伴侣"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

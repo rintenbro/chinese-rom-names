@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "575BDDEB",
+   "name": "宾尼兔大冒险(简)[汉化你妹](JP)[ACT](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Tiny Toon Adventures (Japan)",
+ "hack_group": "汉化你妹",
+ "id": "prb-famicom-575bddeb",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "935D29C2",
+  "no_intro_name": "Tiny Toon Adventures (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "宾尼兔大冒险"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

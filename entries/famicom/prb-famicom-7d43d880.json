@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7D43D880",
+   "name": "六角方块(繁)[小天才](CN)[PUZ](0.75Mb).nes",
+   "size": 98320
+  }
+ ],
+ "group": "Creatom (Spain) (En)",
+ "hack_group": "小天才",
+ "id": "prb-famicom-7d43d880",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Creatom (Spain) (En)",
+  "region": "Spain"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "六角方块"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

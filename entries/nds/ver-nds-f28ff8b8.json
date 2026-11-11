@@ -11,10 +11,9 @@
    "size": 66836804
   }
  ],
- "group": "Majo ni Naru.",
+ "group": "Majo ni Naru. (Japan)",
+ "hack_group": "兔友汉化组",
  "id": "ver-nds-f28ff8b8",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "B0410486",
   "no_intro_name": "Majo ni Naru. (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "繁",
- "serial": "CJ7J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Majo ni Naru. (Japan)",
   "zh-Hans": "魔女之路"
  },
- "vendor": "兔友汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

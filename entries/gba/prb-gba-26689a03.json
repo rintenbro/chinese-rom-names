@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "26689A03",
+   "name": "叛星 战术指令[Advance汉化组](v1.0)(简)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "Rebelstar - Tactical Command (USA)",
+ "hack_group": "Advance汉化组",
+ "id": "prb-gba-26689a03",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "FB6C590F",
+  "no_intro_name": "Rebelstar - Tactical Command (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "叛星 战术指令"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

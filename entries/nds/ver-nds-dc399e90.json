@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Eiyuu Senki - Laevatein",
+ "group": "Eiyuu Senki - Laevatein (Japan)",
+ "hack_group": "龙游汉化组",
  "id": "ver-nds-dc399e90",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "78C478F3",
   "no_intro_name": "Eiyuu Senki - Laevatein (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YLHJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Eiyuu Senki - Laevatein (Japan)",
   "zh-Hans": "英雄战记 烈焰之剑V1.0"
  },
- "vendor": "龙游汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

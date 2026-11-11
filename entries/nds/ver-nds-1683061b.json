@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Top Spin 3",
+ "group": "Top Spin 3 (Japan)",
+ "hack_group": "Pluto&野次马",
  "id": "ver-nds-1683061b",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "6B8503AC",
   "no_intro_name": "Top Spin 3 (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YUXJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Top Spin 3 (Japan)",
   "zh-Hans": "上旋高手3"
  },
- "vendor": "Pluto&野次马",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -11,10 +11,9 @@
    "size": 50331648
   }
  ],
- "group": "Fushigi no Dungeon - Fuurai no Shiren DS",
+ "group": "Fushigi no Dungeon - Fuurai no Shiren DS (Japan)",
+ "hack_group": "",
  "id": "ver-nds-1078c438",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "A901BCD5",
   "no_intro_name": "Fushigi no Dungeon - Fuurai no Shiren DS (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "AFUJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Fushigi no Dungeon - Fuurai no Shiren DS (Japan)",
   "zh-Hans": "风来的西林DS"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

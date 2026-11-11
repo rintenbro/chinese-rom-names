@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-812a658de691/title.png"
+ },
+ "files": [
+  {
+   "crc32": "A7558CF3",
+   "name": "天才小子(简)[外星科技](CN)[SLG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "天才小子",
+ "hack_group": "外星科技",
+ "id": "cn-ed2ae47f7fc1",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "天才小子"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

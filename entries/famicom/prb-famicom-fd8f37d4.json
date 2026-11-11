@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FD8F37D4",
+   "name": "鸟人战队(简)[高伟](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Choujin Sentai - Jetman (Japan) (En)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-fd8f37d4",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "69B355F1",
+  "no_intro_name": "Choujin Sentai - Jetman (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "鸟人战队"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-4b656a9cdb89/title.png"
+ },
+ "files": [
+  {
+   "crc32": "C0CFA0CC",
+   "name": "导弹坦克(简)[烟山科技](JP)[STG](0.31Mb).nes",
+   "size": 40976
+  }
+ ],
+ "group": "导弹坦克",
+ "hack_group": "烟山科技",
+ "id": "cn-83d8b23d88c1",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "导弹坦克"
+ },
+ "type": "hack",
+ "vendor": "",
+ "version": ""
+}

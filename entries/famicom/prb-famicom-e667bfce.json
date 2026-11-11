@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E667BFCE",
+   "name": "忍者茶茶丸君(v20111227)(繁)[NOKOH](JP)[ACT](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Ninja Jajamaru-kun (Japan)",
+ "hack_group": "NOKOH",
+ "id": "prb-famicom-e667bfce",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Ninja Jajamaru-kun (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "忍者茶茶丸君"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20111227"
+}

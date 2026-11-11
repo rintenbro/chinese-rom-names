@@ -11,10 +11,9 @@
    "size": 52895860
   }
  ],
- "group": "Slime Morimori Dragon Quest 2 - Daisensha to Shippo Dan",
+ "group": "Slime Morimori Dragon Quest 2 - Daisensha to Shippo Dan (Japan)",
+ "hack_group": "XEDFTXZ",
  "id": "ver-nds-7d012d81",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "3609BEE9",
   "no_intro_name": "Slime Morimori Dragon Quest 2 - Daisensha to Shippo Dan (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "ADQJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Slime Morimori Dragon Quest 2 - Daisensha to Shippo Dan (Japan)",
   "zh-Hans": "元气史莱姆2 菜单汉化版"
  },
- "vendor": "XEDFTXZ",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

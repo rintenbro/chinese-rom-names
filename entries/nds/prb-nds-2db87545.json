@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2DB87545",
+   "name": "幻侠乔伊(EU)(PGCG汉化组)(512Mb).nds",
+   "size": 60981280
+  }
+ ],
+ "group": "Viewtiful Joe - Scratch! (Japan)",
+ "hack_group": "PGCG汉化组",
+ "id": "prb-nds-2db87545",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "ED22B7FA",
+  "no_intro_name": "Viewtiful Joe - Scratch! (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "幻侠乔伊"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

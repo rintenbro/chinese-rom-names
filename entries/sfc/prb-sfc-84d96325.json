@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "84D96325",
+   "name": "龙珠Z超悟空传 - 突激篇 (简) (90%)(野兽)(16Mb).sfc",
+   "size": 2097152
+  }
+ ],
+ "group": "Dragon Ball Z - Super Gokuu Den - Totsugeki Hen (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-84d96325",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "D531289B",
+  "no_intro_name": "Dragon Ball Z - Super Gokuu Den - Totsugeki Hen (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "龙珠Z超悟空传 - 突激篇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Pocket Monsters - LeafGreen",
+ "group": "Pocket Monsters - LeafGreen (Japan)",
+ "hack_group": "chr5122",
  "id": "ver-gba-69ff5100",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "0A48556B",
   "no_intro_name": "Pocket Monsters - LeafGreen (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BPGJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Pocket Monsters - LeafGreen (Japan)",
   "zh-Hans": "口袋妖怪 - 叶绿"
  },
- "vendor": "chr5122",
+ "type": "game",
+ "vendor": "",
  "version": "v1.1"
 }

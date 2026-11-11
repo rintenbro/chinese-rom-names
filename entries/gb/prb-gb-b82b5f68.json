@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B82B5F68",
+   "name": "鬼太郎_妖怪创造主现身(简)(AI汉化v1.0.2)_10px(哇你是谁怎么傻乎乎)(2Mb).gb",
+   "size": 262144
+  }
+ ],
+ "group": "Gegege no Kitarou - Youkai Souzoushu Arawaru! (Japan) (SGB Enhanced)",
+ "hack_group": "",
+ "id": "prb-gb-b82b5f68",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Gegege no Kitarou - Youkai Souzoushu Arawaru! (Japan) (SGB Enhanced)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "鬼太郎_妖怪创造主现身_10px"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0.2"
+}

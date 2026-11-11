@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-94548a8921a2/title.png"
+ },
+ "files": [
+  {
+   "crc32": "11228624",
+   "name": "百变小樱(D商+星夜之幻)(8Mb).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "百变小樱",
+ "hack_group": "D商+星夜之幻",
+ "id": "cn-113559ee8aa5",
+ "platform": "gbc",
+ "script": "未标注",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "百变小樱"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

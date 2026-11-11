@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F031077F",
+   "name": "牧场物语 与你共建小岛 圣诞最终典藏版(繁)(US)(APEX汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Bokujou Monogatari - Kimi to Sodatsu Shima (Japan)",
+ "hack_group": "APEX汉化组",
+ "id": "prb-nds-f031077f",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "C7BF6C22",
+  "no_intro_name": "Bokujou Monogatari - Kimi to Sodatsu Shima (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "牧场物语 与你共建小岛 圣诞最终典藏版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

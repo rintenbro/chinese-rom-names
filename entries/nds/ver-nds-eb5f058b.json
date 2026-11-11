@@ -11,10 +11,9 @@
    "size": 134217728
   }
  ],
- "group": "Ketsui Death Label - Kizuna Jigoku-tachi",
+ "group": "Ketsui Death Label - Kizuna Jigoku-tachi (Japan)",
+ "hack_group": "APEX汉化组",
  "id": "ver-nds-eb5f058b",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "8A4C33CB",
   "no_intro_name": "Ketsui Death Label - Kizuna Jigoku-tachi (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YKDJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Ketsui Death Label - Kizuna Jigoku-tachi (Japan)",
   "zh-Hans": "决意 死亡标记 完全汉化版"
  },
- "vendor": "APEX汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

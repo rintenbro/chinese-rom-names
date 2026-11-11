@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Professor Heinz Wolff's Gravity",
+ "group": "Professor Heinz Wolff's Gravity (Europe) (En,Fr,De,Es,It)",
+ "hack_group": "",
  "id": "ver-nds-0d9c98a5",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "8904537F",
   "no_intro_name": "Professor Heinz Wolff's Gravity (Europe) (En,Fr,De,Es,It)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "CHYP",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Professor Heinz Wolff's Gravity (Europe) (En,Fr,De,Es,It)",
   "zh-Hans": "海因兹 沃尔夫教授的重力大挑战"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

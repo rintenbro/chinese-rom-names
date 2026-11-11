@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "91ECCF13",
+   "name": "合金装备II (繁) (新特奇).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Metal Gear Solid (Europe) (En,Fr,De,Es,It)",
+ "hack_group": "",
+ "id": "prb-gbc-91eccf13",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "16796957",
+  "no_intro_name": "Metal Gear Solid (Europe) (En,Fr,De,Es,It)",
+  "region": "Europe"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "合金装备II"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

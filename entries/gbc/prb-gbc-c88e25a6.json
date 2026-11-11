@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-cc0b1186e7d9/title.png"
+ },
+ "files": [
+  {
+   "crc32": "C88E25A6",
+   "name": "特殊部队2001 (繁) (unknown).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Metal Slug 2001 (China) [CHT]",
+ "hack_group": "unknown",
+ "id": "prb-gbc-c88e25a6",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Metal Slug 2001 (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "特殊部队2001"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

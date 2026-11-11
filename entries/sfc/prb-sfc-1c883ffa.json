@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1C883FFA",
+   "name": "史记英雄传 人龙传说(简)(v1.2)(CLARK.H)(16Mb).sfc",
+   "size": 2097152
+  }
+ ],
+ "group": "Shiki Eiyuuden (Japan)",
+ "hack_group": "CLARK.H",
+ "id": "prb-sfc-1c883ffa",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "4C2BEA69",
+  "no_intro_name": "Shiki Eiyuuden (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "史记英雄传 人龙传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.2"
+}

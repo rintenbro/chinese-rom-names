@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-774da35c1c20/title.png"
+ },
+ "files": [
+  {
+   "crc32": "C8F95FA6",
+   "name": "超级马力欧兄弟2(v20230228)(FDS)(简)[NOKOH+fciq](JP)[ACT](0.75Mb).nes",
+   "size": 98320
+  }
+ ],
+ "group": "超级马力欧兄弟2",
+ "hack_group": "FDS NOKOH+fciq",
+ "id": "cn-acd7193fcaa5",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "超级马力欧兄弟2"
+ },
+ "type": "hack",
+ "vendor": "",
+ "version": "v20230228"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4DE6733E",
+   "name": "星之卡比(简)(v1.0)(Monado汉化组)(4Mb).gb",
+   "size": 524288
+  }
+ ],
+ "group": "Hoshi no Kirby (Japan)",
+ "hack_group": "Monado汉化组",
+ "id": "prb-gb-4de6733e",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "21035F95",
+  "no_intro_name": "Hoshi no Kirby (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "星之卡比"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

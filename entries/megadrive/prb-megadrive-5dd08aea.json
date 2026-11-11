@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5DD08AEA",
+   "name": "光明力量2 - 古代之封印 (简) (v1.8d) (意志之路)(24Mb).md",
+   "size": 3145728
+  }
+ ],
+ "group": "Shining Force II - Inishie no Fuuin (Japan)",
+ "hack_group": "",
+ "id": "prb-megadrive-5dd08aea",
+ "platform": "megadrive",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Shining Force II - Inishie no Fuuin (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "光明力量2 - 古代之封印"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.8d"
+}

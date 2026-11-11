@@ -11,10 +11,9 @@
    "size": 33554432
   }
  ],
- "group": "99 no Namida",
+ "group": "99 no Namida (Japan)",
+ "hack_group": "99滴眼泪全民汉化组",
  "id": "ver-nds-5b5b87c2",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "C4DE9489",
   "no_intro_name": "99 no Namida (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YUGJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "99 no Namida (Japan)",
   "zh-Hans": "99滴眼泪"
  },
- "vendor": "99滴眼泪全民汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

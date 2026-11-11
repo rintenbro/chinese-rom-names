@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5B505975",
+   "name": "钢之炼金术师 双重共鸣(JP)(E.Wings汉化组)(256Mb).nds",
+   "size": 33462304
+  }
+ ],
+ "group": "Hagane no Renkinjutsushi - Dual Sympathy (Japan)",
+ "hack_group": "E.Wings汉化组",
+ "id": "prb-nds-5b505975",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "11EC21AE",
+  "no_intro_name": "Hagane no Renkinjutsushi - Dual Sympathy (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "钢之炼金术师 双重共鸣"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

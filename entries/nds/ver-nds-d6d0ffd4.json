@@ -11,10 +11,9 @@
    "size": 112259916
   }
  ],
- "group": "Final Fantasy XII - Revenant Wings",
+ "group": "Final Fantasy XII - Revenant Wings (Japan)",
+ "hack_group": "dream75421",
  "id": "ver-nds-d6d0ffd4",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "404A758A",
   "no_intro_name": "Final Fantasy XII - Revenant Wings (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "繁",
- "serial": "AXFJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Final Fantasy XII - Revenant Wings (Japan)",
   "zh-Hans": "最终幻想12 亡灵之翼 6.5全剧情修正版"
  },
- "vendor": "dream75421",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

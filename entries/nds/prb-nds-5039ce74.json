@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5039CE74",
+   "name": "结界师 鸟森妖奇谈 1.0完全剧情汉化版(256Mb)(罗伊sd)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Kekkaishi - Karasumori Ayakashi Kidan (Japan)",
+ "hack_group": "",
+ "id": "prb-nds-5039ce74",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "D9380423",
+  "no_intro_name": "Kekkaishi - Karasumori Ayakashi Kidan (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "结界师 鸟森妖奇谈 1.0完全剧情汉化版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

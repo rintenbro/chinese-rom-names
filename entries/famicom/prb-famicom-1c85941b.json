@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1C85941B",
+   "name": "吞食天地 三国外传(不花屏版)(简)[先锋卡通](JP)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "Tenchi o Kurau (Japan)",
+ "hack_group": "先锋卡通",
+ "id": "prb-famicom-1c85941b",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "555F9B9D",
+  "no_intro_name": "Tenchi o Kurau (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "吞食天地 三国外传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

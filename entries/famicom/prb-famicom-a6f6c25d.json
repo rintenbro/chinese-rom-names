@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A6F6C25D",
+   "name": "蝙蝠侠归来(简)[逆游の五彩魚](US)[ACT](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "Batman Returns (USA)",
+ "hack_group": "逆游の五彩魚",
+ "id": "prb-famicom-a6f6c25d",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Batman Returns (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "蝙蝠侠归来"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

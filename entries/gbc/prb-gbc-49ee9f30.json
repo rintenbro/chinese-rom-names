@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-7b5770f848f8/title.png"
+ },
+ "files": [
+  {
+   "crc32": "49EE9F30",
+   "name": "口袋妖怪卡片版2 - GR团参上! (繁) (修正版) (unknown).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Pokemon Card GB2 - GR Dan Sanjou! (Japan) [CHT]",
+ "hack_group": "unknown",
+ "id": "prb-gbc-49ee9f30",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Pokemon Card GB2 - GR Dan Sanjou! (Japan) [CHT]",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪卡片版2 - GR团参上!"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

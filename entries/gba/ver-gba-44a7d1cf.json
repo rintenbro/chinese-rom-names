@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Onmyou Taisenki - Zeroshiki",
+ "group": "Onmyou Taisenki - Zeroshiki (Japan)",
+ "hack_group": "Advance汉化组",
  "id": "ver-gba-44a7d1cf",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "66C29472",
   "no_intro_name": "Onmyou Taisenki - Zeroshiki (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BITJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Onmyou Taisenki - Zeroshiki (Japan)",
   "zh-Hans": "阴阳大战记 零式"
  },
- "vendor": "Advance汉化组",
+ "type": "game",
+ "vendor": "",
  "version": "v0.6"
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5AC0E474",
+   "name": "龙珠Z外传 赛亚人灭绝计划(简)[酷哥电子](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (Japan)",
+ "hack_group": "酷哥电子",
+ "id": "prb-famicom-5ac0e474",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "B63E1069",
+  "no_intro_name": "Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "龙珠Z外传 赛亚人灭绝计划"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

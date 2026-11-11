@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AAE6544A",
+   "name": "新牧场物语 符文工房3 完全公测版1.0(JP)(SOMA&游戏饭饭汉化组)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Rune Factory 3 (Japan)",
+ "hack_group": "SOMA&游戏饭饭汉化组",
+ "id": "prb-nds-aae6544a",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "4E0D536F",
+  "no_intro_name": "Rune Factory 3 (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "新牧场物语 符文工房3 完全公测版1.0"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

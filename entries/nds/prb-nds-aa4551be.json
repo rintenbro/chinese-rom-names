@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AA4551BE",
+   "name": "伦敦哥特 迷宫中的洛丽塔 AI汉化(简)(美希命)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Londonian Gothics - Meikyuu no Lolita (Japan)",
+ "hack_group": "",
+ "id": "prb-nds-aa4551be",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "8622A134",
+  "no_intro_name": "Londonian Gothics - Meikyuu no Lolita (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "伦敦哥特 迷宫中的洛丽塔 AI"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

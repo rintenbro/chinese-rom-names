@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "28396AFD",
+   "name": "双截龙(简)[靳大治+HK](US)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Double Dragon (USA)",
+ "hack_group": "靳大治+HK",
+ "id": "prb-famicom-28396afd",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "F3850BCE",
+  "no_intro_name": "Double Dragon (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "双截龙"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-8ec85743d166/title.png"
+ },
+ "files": [
+  {
+   "crc32": "5843817E",
+   "name": "十面埋伏 - 天龙篇 (繁) (天才小子).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Ambush from Ten Sides - Sky Dragon Chapter (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-gbc-5843817e",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Ambush from Ten Sides - Sky Dragon Chapter (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "十面埋伏 - 天龙篇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

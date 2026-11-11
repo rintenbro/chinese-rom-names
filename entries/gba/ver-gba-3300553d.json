@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Sangokushi",
+ "group": "Sangokushi (Japan)",
+ "hack_group": "Amonwang",
  "id": "ver-gba-3300553d",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "F3D3C239",
   "no_intro_name": "Sangokushi (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "繁",
- "serial": "ASXJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Sangokushi (Japan)",
   "zh-Hans": "三国志"
  },
- "vendor": "Amonwang",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

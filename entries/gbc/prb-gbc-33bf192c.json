@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-d671f6bb4b6a/title.png"
+ },
+ "files": [
+  {
+   "crc32": "33BF192C",
+   "name": "水浒传 - 群魔风云录 (简) (Hitek).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Water Margin (China) [CHT]",
+ "hack_group": "Hitek",
+ "id": "prb-gbc-33bf192c",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Water Margin (China) [CHT]",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "水浒传 - 群魔风云录"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

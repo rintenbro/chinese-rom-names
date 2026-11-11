@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C077B87D",
+   "name": "假面忍者 花丸(简)[Peacock Wang](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Kamen no Ninja - Hanamaru (Japan)",
+ "hack_group": "Peacock Wang",
+ "id": "prb-famicom-c077b87d",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "1A2AC035",
+  "no_intro_name": "Kamen no Ninja - Hanamaru (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "假面忍者 花丸"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

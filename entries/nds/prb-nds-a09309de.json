@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A09309DE",
+   "name": "花与太阳与雨与无尽的乐园 完美汉化版(简)(请在此输入汉化组名称汉化组)(440Mb).nds",
+   "size": 57407184
+  }
+ ],
+ "group": "Hana to Taiyou to Ame to - Owaranai Rakuen (Japan)",
+ "hack_group": "请在此输入汉化组名称汉化组",
+ "id": "prb-nds-a09309de",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "77B60ECA",
+  "no_intro_name": "Hana to Taiyou to Ame to - Owaranai Rakuen (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "花与太阳与雨与无尽的乐园 完美汉化版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F28EBB84",
+   "name": "GO!GO!恶魔少年 (简) (v1.01)(模拟中文网汉化小组)(10Mb).sfc",
+   "size": 1310720
+  }
+ ],
+ "group": "Go Go Ackman (Japan)",
+ "hack_group": "模拟中文网汉化小组",
+ "id": "prb-sfc-f28ebb84",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Go Go Ackman (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "GO!GO!恶魔少年"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.01"
+}

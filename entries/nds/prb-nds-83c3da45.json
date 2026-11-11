@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "83C3DA45",
+   "name": "生存之子 迷失深蓝(繁)(JP)(Goldeneye)(512Mb).nds",
+   "size": 39399972
+  }
+ ],
+ "group": "Survival Kids - Lost in Blue (Japan)",
+ "hack_group": "Goldeneye",
+ "id": "prb-nds-83c3da45",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "46881DCF",
+  "no_intro_name": "Survival Kids - Lost in Blue (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "生存之子 迷失深蓝"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

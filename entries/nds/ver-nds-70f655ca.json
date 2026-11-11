@@ -11,10 +11,9 @@
    "size": 65994212
   }
  ],
- "group": "Mushishi - Ame Furu Sato",
+ "group": "Mushishi - Ame Furu Sato (Japan)",
+ "hack_group": "ACG汉化组",
  "id": "ver-nds-70f655ca",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "A80C6115",
   "no_intro_name": "Mushishi - Ame Furu Sato (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YMSJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Mushishi - Ame Furu Sato (Japan)",
   "zh-Hans": "虫师 天降之里"
  },
- "vendor": "ACG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

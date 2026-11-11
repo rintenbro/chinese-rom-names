@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FAAF4A37",
+   "name": "高级战争 毁灭日 汉化完善版(US)(空气汉化组&高级战争吧)(512Mb).nds",
+   "size": 53270096
+  }
+ ],
+ "group": "Advance Wars - Days of Ruin (USA) (En,Fr,Es)",
+ "hack_group": "空气汉化组&高级战争吧",
+ "id": "prb-nds-faaf4a37",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "EAC313F3",
+  "no_intro_name": "Advance Wars - Days of Ruin (USA) (En,Fr,Es)",
+  "region": "USA"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "高级战争 毁灭日 汉化完善版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

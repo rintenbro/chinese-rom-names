@@ -11,10 +11,9 @@
    "size": 13708576
   }
  ],
- "group": "Keitai Denjuu Telefang 2 - Speed",
+ "group": "Keitai Denjuu Telefang 2 - Speed (Japan)",
+ "hack_group": "Advance汉化组",
  "id": "ver-gba-71ce0a27",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "8F95CA53",
   "no_intro_name": "Keitai Denjuu Telefang 2 - Speed (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "ATSJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Keitai Denjuu Telefang 2 - Speed (Japan)",
   "zh-Hans": "携带电兽2速度版"
  },
- "vendor": "Advance汉化组",
+ "type": "game",
+ "vendor": "",
  "version": "v1.0"
 }

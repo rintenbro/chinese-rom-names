@@ -11,10 +11,9 @@
    "size": 4351616
   }
  ],
- "group": "Action Man - Robot Atak",
+ "group": "Action Man - Robot Atak (Europe) (En,Fr,De,Es,It)",
+ "hack_group": "Advance汉化组",
  "id": "ver-gba-481e966c",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "D07214A2",
   "no_intro_name": "Action Man - Robot Atak (Europe) (En,Fr,De,Es,It)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BACP",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Action Man - Robot Atak (Europe) (En,Fr,De,Es,It)",
   "zh-Hans": "机动人 机器人的攻击"
  },
- "vendor": "Advance汉化组",
+ "type": "game",
+ "vendor": "",
  "version": "v20251211"
 }

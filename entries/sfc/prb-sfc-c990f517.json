@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C990F517",
+   "name": "翡翠龙(简)(AI汉化v126r)(seira81)(32Mb).smc",
+   "size": 4194816
+  }
+ ],
+ "group": "Emerald Dragon (Japan)",
+ "hack_group": "seira81",
+ "id": "prb-sfc-c990f517",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "9D0F5F98",
+  "no_intro_name": "Emerald Dragon (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "翡翠龙"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v126r"
+}

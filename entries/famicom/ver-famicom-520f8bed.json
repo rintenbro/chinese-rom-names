@@ -1,0 +1,33 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "520F8BED",
+   "name": "霸王的大陆(加强版)(简)[酷哥电子](JP)[SLG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "Bawang de Dalu - Zhongwen Jiaqiang Ban (China) (Pirate)",
+ "hack_group": "酷哥电子",
+ "id": "ver-famicom-520f8bed",
+ "original": {
+  "crc32": "520F8BED",
+  "no_intro_name": "Bawang de Dalu - Zhongwen Jiaqiang Ban (China) (Pirate)",
+  "region": "China",
+  "size": 786448
+ },
+ "platform": "famicom",
+ "script": "简",
+ "source": "no-intro",
+ "status": "verified",
+ "titles": {
+  "zh-Hans": "霸王的大陆"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

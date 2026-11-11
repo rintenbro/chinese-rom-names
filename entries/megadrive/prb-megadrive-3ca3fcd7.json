@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3CA3FCD7",
+   "name": "雷神传说 - 光之继承者 (简) (天使汉化组)(24Mb).md",
+   "size": 3145728
+  }
+ ],
+ "group": "Light Crusader (Japan) (En,Ja)",
+ "hack_group": "天使汉化组",
+ "id": "prb-megadrive-3ca3fcd7",
+ "platform": "megadrive",
+ "probable_original": {
+  "crc32": "237076A4",
+  "no_intro_name": "Light Crusader (Japan) (En,Ja)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "雷神传说 - 光之继承者"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

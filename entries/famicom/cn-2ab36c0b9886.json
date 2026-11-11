@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-22dbbd638d49/title.png"
+ },
+ "files": [
+  {
+   "crc32": "419B9424",
+   "name": "少年游侠(简)[外星科技](CN)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "少年游侠",
+ "hack_group": "外星科技",
+ "id": "cn-2ab36c0b9886",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "少年游侠"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

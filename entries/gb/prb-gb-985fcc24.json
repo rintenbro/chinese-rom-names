@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "985FCC24",
+   "name": "拉萨玛传奇 (繁) (Gowin)(0.5Mb).gb",
+   "size": 65536
+  }
+ ],
+ "group": "Story of Lasama (China) [CHT]",
+ "hack_group": "Gowin",
+ "id": "prb-gb-985fcc24",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Story of Lasama (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "拉萨玛传奇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

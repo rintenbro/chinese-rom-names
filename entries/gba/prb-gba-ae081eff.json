@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AE081EFF",
+   "name": "古惑狼 暴走！卡丁车[Advance汉化组](v1.0)(简)(104Mb).gba",
+   "size": 13708576
+  }
+ ],
+ "group": "Crash Bandicoot Bakusou! Nitro Cart (Japan)",
+ "hack_group": "Advance汉化组",
+ "id": "prb-gba-ae081eff",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "70F8291F",
+  "no_intro_name": "Crash Bandicoot Bakusou! Nitro Cart (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "古惑狼 暴走！卡丁车"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0353B860",
+   "name": "黑白棋大战(US)(xedftxz)(64Mb).nds",
+   "size": 7793312
+  }
+ ],
+ "group": "Reversal Challenge (USA)",
+ "hack_group": "xedftxz",
+ "id": "prb-nds-0353b860",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "DC8E7C56",
+  "no_intro_name": "Reversal Challenge (USA)",
+  "region": "USA"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "黑白棋大战"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Fantastic Children",
+ "group": "Fantastic Children (Japan)",
+ "hack_group": "Advance汉化组",
  "id": "ver-gba-6fa284db",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "FEFE25BE",
   "no_intro_name": "Fantastic Children (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BFCJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Fantastic Children (Japan)",
   "zh-Hans": "奇幻旅程"
  },
- "vendor": "Advance汉化组",
+ "type": "game",
+ "vendor": "",
  "version": "v0.2"
 }

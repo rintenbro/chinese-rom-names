@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CB76C78A",
+   "name": "魔法方块(JP)(GV胜利汉化组)(256Mb).nds",
+   "size": 21035124
+  }
+ ],
+ "group": "Panel de Pon DS (Japan)",
+ "hack_group": "GV胜利汉化组",
+ "id": "prb-nds-cb76c78a",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "8C0B1AD9",
+  "no_intro_name": "Panel de Pon DS (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "魔法方块"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

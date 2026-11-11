@@ -11,10 +11,9 @@
    "size": 9482992
   }
  ],
- "group": "Gyakuten Saiban 3",
+ "group": "Gyakuten Saiban 3 (Japan)",
+ "hack_group": "星组",
  "id": "ver-gba-1a27cffe",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "51B6CF22",
   "no_intro_name": "Gyakuten Saiban 3 (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "A3JJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Gyakuten Saiban 3 (Japan)",
   "zh-Hans": "逆转裁判3"
  },
- "vendor": "星组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

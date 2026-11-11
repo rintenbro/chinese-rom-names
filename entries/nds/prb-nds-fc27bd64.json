@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FC27BD64",
+   "name": "游戏王 世界冠军2008 1209(JP)(CG汉化组)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Yu-Gi-Oh! Duel Monsters - World Championship 2008 (Japan) (En,Ja)",
+ "hack_group": "CG汉化组",
+ "id": "prb-nds-fc27bd64",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "FCB6F483",
+  "no_intro_name": "Yu-Gi-Oh! Duel Monsters - World Championship 2008 (Japan) (En,Ja)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "游戏王 世界冠军2008 1209"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

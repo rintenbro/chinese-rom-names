@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "43A728FB",
+   "name": "恶魔幸存者2 V2(JP)(ACG汉化组)(1024Mb).nds",
+   "size": 128180656
+  }
+ ],
+ "group": "Devil Survivor 2 (Japan)",
+ "hack_group": "ACG汉化组",
+ "id": "prb-nds-43a728fb",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "E28EFC12",
+  "no_intro_name": "Devil Survivor 2 (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "恶魔幸存者2 V2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 64825440
   }
  ],
- "group": "Metal Slug 7",
+ "group": "Metal Slug 7 (Japan)",
+ "hack_group": "ACG汉化组",
  "id": "ver-nds-2b72be13",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "89F4BBA2",
   "no_intro_name": "Metal Slug 7 (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "YM7J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Metal Slug 7 (Japan)",
   "zh-Hans": "合金弹头7"
  },
- "vendor": "ACG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

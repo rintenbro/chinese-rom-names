@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gb/cn-6e33bfe82060/title.png"
+ },
+ "files": [
+  {
+   "crc32": "04C85890",
+   "name": "数码暴龙 (简) (unknown)(2Mb).gb",
+   "size": 262144
+  }
+ ],
+ "group": "数码暴龙",
+ "hack_group": "unknown",
+ "id": "cn-6b535be27cb0",
+ "platform": "gb",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "数码暴龙"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

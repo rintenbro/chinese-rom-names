@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-ce79394de836/title.png"
+ },
+ "files": [
+  {
+   "crc32": "F4E99056",
+   "name": "合金弹头3 (繁) (新特奇).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "合金弹头3",
+ "hack_group": "",
+ "id": "cn-da0af31815ea",
+ "platform": "gbc",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "合金弹头3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

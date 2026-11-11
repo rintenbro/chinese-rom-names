@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E4EF03C3",
+   "name": "皇家骑士团 - 劳德思的骑士[Zymgundam](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Tactics Ogre Gaiden - The Knight of Lodis (Japan)",
+ "hack_group": "Zymgundam",
+ "id": "prb-gba-e4ef03c3",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "0167A878",
+  "no_intro_name": "Tactics Ogre Gaiden - The Knight of Lodis (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "皇家骑士团 - 劳德思的骑士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

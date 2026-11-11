@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C30D7E03",
+   "name": "塞尔达传说 - 梦见岛 (简) (unknown).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Legend of Zelda, The - Link's Awakening DX (USA, Europe) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "unknown",
+ "id": "prb-gbc-c30d7e03",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "97822948",
+  "no_intro_name": "Legend of Zelda, The - Link's Awakening DX (USA, Europe) (SGB Enhanced) (GB Compatible)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "塞尔达传说 - 梦见岛"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 12473408
   }
  ],
- "group": "Puzzle Mate DS - Oekaki Mate",
+ "group": "Puzzle Mate DS - Oekaki Mate (Japan)",
+ "hack_group": "ACG汉化组",
  "id": "ver-nds-fce9db0b",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "2E6C453C",
   "no_intro_name": "Puzzle Mate DS - Oekaki Mate (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YX9J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Puzzle Mate DS - Oekaki Mate (Japan)",
   "zh-Hans": "益智同伴DS 作画拼图同伴"
  },
- "vendor": "ACG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

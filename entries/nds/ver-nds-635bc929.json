@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Mini Yonku DS",
+ "group": "Mini Yonku DS (Japan)",
+ "hack_group": "gansyun",
  "id": "ver-nds-635bc929",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "96FD65F6",
   "no_intro_name": "Mini Yonku DS (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "C34J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Mini Yonku DS (Japan)",
   "zh-Hans": "迷你四驱ds"
  },
- "vendor": "gansyun",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

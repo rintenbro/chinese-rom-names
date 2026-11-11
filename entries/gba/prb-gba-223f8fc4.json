@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "223F8FC4",
+   "name": "火焰纹章 - 圣魔之光石[盗版&谁的长乐未央][简](JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Fire Emblem - Seima no Kouseki (Japan)",
+ "hack_group": "盗版&谁的长乐未央",
+ "id": "prb-gba-223f8fc4",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "9D76826F",
+  "no_intro_name": "Fire Emblem - Seima no Kouseki (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "火焰纹章 - 圣魔之光石"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

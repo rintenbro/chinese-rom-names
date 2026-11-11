@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "57026B8D",
+   "name": "四狂神战记2(简)(v1.0)(agugu2000)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Estpolis Denki II (Japan)",
+ "hack_group": "agugu2000",
+ "id": "prb-sfc-57026b8d",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Estpolis Denki II (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "四狂神战记2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

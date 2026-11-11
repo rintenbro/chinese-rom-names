@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D1068F09",
+   "name": "口袋妖怪不可思议迷宫 暗之探险队 1.1修正版(US)(Team Pokepals)(512Mb).nds",
+   "size": 65159520
+  }
+ ],
+ "group": "Pokemon Mystery Dungeon - Explorers of Darkness (USA)",
+ "hack_group": "Team Pokepals",
+ "id": "prb-nds-d1068f09",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "F2EE539E",
+  "no_intro_name": "Pokemon Mystery Dungeon - Explorers of Darkness (USA)",
+  "region": "USA"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪不可思议迷宫 暗之探险队 1.1修正版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

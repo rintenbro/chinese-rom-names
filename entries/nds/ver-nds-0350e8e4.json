@@ -11,10 +11,9 @@
    "size": 38657180
   }
  ],
- "group": "Trick - DS Ban - Kakushigami no Sumu Yakata",
+ "group": "Trick - DS Ban - Kakushigami no Sumu Yakata (Japan)",
+ "hack_group": "[ACG汉化组",
  "id": "ver-nds-0350e8e4",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "F36BC8F3",
   "no_intro_name": "Trick - DS Ban - Kakushigami no Sumu Yakata (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "BNBJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Trick - DS Ban - Kakushigami no Sumu Yakata (Japan)",
   "zh-Hans": "圈套DS：神隐的官邸"
  },
- "vendor": "[ACG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

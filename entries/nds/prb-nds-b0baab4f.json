@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B0BAAB4F",
+   "name": "火焰纹章 新纹章之谜 光与影的英雄 2026完全汉化版(JP)(ACG汉化组+罗伊SD)(1024Mb).nds",
+   "size": 86138749
+  }
+ ],
+ "group": "Fire Emblem - Shin Monshou no Nazo - Hikari to Kage no Eiyuu (Japan) (Rev 1) (NDSi Enhanced)",
+ "hack_group": "ACG汉化组+罗伊SD",
+ "id": "prb-nds-b0baab4f",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "2DA8A814",
+  "no_intro_name": "Fire Emblem - Shin Monshou no Nazo - Hikari to Kage no Eiyuu (Japan) (Rev 1) (NDSi Enhanced)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "火焰纹章 新纹章之谜 光与影的英雄 2026完全汉化版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

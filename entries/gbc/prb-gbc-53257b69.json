@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "53257B69",
+   "name": "携带电兽 - 力量版 (繁) (修正版) (Gymzatan).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Keitai Denjuu Telefang - Power Version (Japan) (GB Compatible)",
+ "hack_group": "Gymzatan",
+ "id": "prb-gbc-53257b69",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "8B61CFCC",
+  "no_intro_name": "Keitai Denjuu Telefang - Power Version (Japan) (GB Compatible)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "携带电兽 - 力量版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gba/cn-d03ddfa83b7a/title.png"
+ },
+ "files": [
+  {
+   "crc32": "4C050F2D",
+   "name": "数码怪兽 红宝石版[广誉科技+Dangfer](fix2)(繁)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "数码怪兽 红宝石版",
+ "hack_group": "fix2 广誉科技+Dangfer",
+ "id": "cn-1d4b186cd3ca",
+ "platform": "gba",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "数码怪兽 红宝石版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

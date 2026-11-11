@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-eb681ac225b2/title.png"
+ },
+ "files": [
+  {
+   "crc32": "6BDE0B32",
+   "name": "怪物制造者(修正版)(简)[外星科技+时间的流逝](JP)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "怪物制造者",
+ "hack_group": "外星科技+时间的流逝",
+ "id": "cn-394ca7179abd",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "怪物制造者"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

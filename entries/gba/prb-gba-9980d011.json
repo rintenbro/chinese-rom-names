@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9980D011",
+   "name": "天外魔境 - 青天之外[Chyt](v20141101)(修正版)[简](JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Oriental Blue - Ao no Tengai (Japan)",
+ "hack_group": "Chyt",
+ "id": "prb-gba-9980d011",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "05E80ECC",
+  "no_intro_name": "Oriental Blue - Ao no Tengai (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "天外魔境 - 青天之外"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20141101"
+}

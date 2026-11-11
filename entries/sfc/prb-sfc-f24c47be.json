@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F24C47BE",
+   "name": "伊苏3 (简) (v0.99)(Yjsturboc)(8Mb).sfc",
+   "size": 1048576
+  }
+ ],
+ "group": "Ys III - Wanderers from Ys (Japan)",
+ "hack_group": "Yjsturboc",
+ "id": "prb-sfc-f24c47be",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "8E39A006",
+  "no_intro_name": "Ys III - Wanderers from Ys (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "伊苏3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v0.99"
+}

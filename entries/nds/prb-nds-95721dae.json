@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "95721DAE",
+   "name": "简单DS系列Vol.35 THE原始人 模拟器版(JP)(APEX汉化组)(256Mb).nds",
+   "size": 19615360
+  }
+ ],
+ "group": "Simple DS Series Vol. 35 - The Genshijin (Japan)",
+ "hack_group": "APEX汉化组",
+ "id": "prb-nds-95721dae",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "D2ABEB81",
+  "no_intro_name": "Simple DS Series Vol. 35 - The Genshijin (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "简单DS系列Vol.35 THE原始人 模拟器版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

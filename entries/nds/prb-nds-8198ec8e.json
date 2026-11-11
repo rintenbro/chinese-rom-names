@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8198EC8E",
+   "name": "简单DS系列Vol.7 绘图方块与数独(简)(fciq汉化组)(64Mb).nds",
+   "size": 8388608
+  }
+ ],
+ "group": "Simple DS Series Vol. 7 - The Illust Puzzle & Suuji Puzzle (Japan)",
+ "hack_group": "fciq汉化组",
+ "id": "prb-nds-8198ec8e",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "1BCE7B28",
+  "no_intro_name": "Simple DS Series Vol. 7 - The Illust Puzzle & Suuji Puzzle (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "简单DS系列Vol.7 绘图方块与数独"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

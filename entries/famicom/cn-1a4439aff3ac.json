@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-f702dde0a42e/title.png"
+ },
+ "files": [
+  {
+   "crc32": "6AD53E60",
+   "name": "三国志 蜀汉风云(简)[晶科泰](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "三国志 蜀汉风云",
+ "hack_group": "晶科泰",
+ "id": "cn-1a4439aff3ac",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "三国志 蜀汉风云"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

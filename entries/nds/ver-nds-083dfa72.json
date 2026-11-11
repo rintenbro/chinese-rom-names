@@ -11,10 +11,9 @@
    "size": 268435456
   }
  ],
- "group": "Arabians Lost - The Engagement on Desert",
+ "group": "Arabians Lost - The Engagement on Desert (Japan)",
+ "hack_group": "翼之梦汉化组",
  "id": "ver-nds-083dfa72",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "802060F1",
   "no_intro_name": "Arabians Lost - The Engagement on Desert (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "BALJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Arabians Lost - The Engagement on Desert (Japan)",
   "zh-Hans": "阿拉伯迷情 1.0"
  },
- "vendor": "翼之梦汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

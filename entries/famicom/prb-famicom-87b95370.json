@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "87B95370",
+   "name": "刀锋战机(大字体)(简)[高伟](JP)[STG](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Blade Buster (Japan) (En)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-87b95370",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Blade Buster (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "刀锋战机"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

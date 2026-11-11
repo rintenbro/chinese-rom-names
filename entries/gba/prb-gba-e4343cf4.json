@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E4343CF4",
+   "name": "公主同盟[狼狼小酷+流星落月](v20100811+NO.56修复)(简)(JP)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Yggdra Union (Japan)",
+ "hack_group": "v20100811+NO.56修复 狼狼小酷+流星落月",
+ "id": "prb-gba-e4343cf4",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "BF53A3D2",
+  "no_intro_name": "Yggdra Union (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "公主同盟"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

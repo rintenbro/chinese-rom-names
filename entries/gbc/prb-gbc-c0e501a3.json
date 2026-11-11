@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-4c3bfa9251c4/title.png"
+ },
+ "files": [
+  {
+   "crc32": "C0E501A3",
+   "name": "金庸群侠传 (简) (修正版) (Hitek).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Heroes of Jin Yong (China) [CHS]",
+ "hack_group": "Hitek",
+ "id": "prb-gbc-c0e501a3",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Heroes of Jin Yong (China) [CHS]",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "金庸群侠传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

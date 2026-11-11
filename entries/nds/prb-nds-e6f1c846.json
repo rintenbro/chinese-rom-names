@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E6F1C846",
+   "name": "诺拉和时间工房 雾之森的魔女(JP)(Ant汉化组)(-2048Mb).nds",
+   "size": 249310524
+  }
+ ],
+ "group": "Nora to Toki no Koubou - Kiri no Mori no Majo (Japan)",
+ "hack_group": "Ant汉化组",
+ "id": "prb-nds-e6f1c846",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "7625D9DF",
+  "no_intro_name": "Nora to Toki no Koubou - Kiri no Mori no Majo (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "诺拉和时间工房 雾之森的魔女"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-7324688cc1b0/title.png"
+ },
+ "files": [
+  {
+   "crc32": "B1374C7A",
+   "name": "怪物制造者2(简)[外星科技](JP)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "怪物制造者2",
+ "hack_group": "外星科技",
+ "id": "cn-3bc415e5125e",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "怪物制造者2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

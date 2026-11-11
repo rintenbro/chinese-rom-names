@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "29417AFA",
+   "name": "屠龙记4(简)[孔雀天](JP)[ACT](1.5Mb).nes",
+   "size": 196624
+  }
+ ],
+ "group": "Dragon Buster (Japan) (En)",
+ "hack_group": "孔雀天",
+ "id": "prb-famicom-29417afa",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "C8671545",
+  "no_intro_name": "Dragon Buster (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "屠龙记4"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-48e1d8248f6f/title.png"
+ },
+ "files": [
+  {
+   "crc32": "CD2DE370",
+   "name": "小霸王学习卡5合1(简)[小霸王](CN)[ETC](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "小霸王学习卡5合1",
+ "hack_group": "小霸王",
+ "id": "cn-293db2d5c0ae",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "小霸王学习卡5合1"
+ },
+ "type": "multicart",
+ "vendor": "",
+ "version": ""
+}

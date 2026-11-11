@@ -1,0 +1,33 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "475215A0",
+   "name": "中国象棋 (简) (January)(4Mb).md",
+   "size": 524288
+  }
+ ],
+ "group": "Zhongguo Xiangqi (Taiwan)",
+ "hack_group": "January",
+ "id": "ver-megadrive-475215a0",
+ "original": {
+  "crc32": "475215A0",
+  "no_intro_name": "Zhongguo Xiangqi (Taiwan)",
+  "region": "Taiwan",
+  "size": 524288
+ },
+ "platform": "megadrive",
+ "script": "简",
+ "source": "no-intro",
+ "status": "verified",
+ "titles": {
+  "zh-Hans": "中国象棋"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

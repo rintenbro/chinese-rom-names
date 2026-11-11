@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A1776224",
+   "name": "兔宝宝的大冒险2 欢迎光临蒙塔纳乐园(v1.0)(简)[逆游の五彩魚](JP)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Tiny Toon Adventures 2 - Montana Land e Youkoso (Japan)",
+ "hack_group": "逆游の五彩魚",
+ "id": "prb-famicom-a1776224",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Tiny Toon Adventures 2 - Montana Land e Youkoso (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "兔宝宝的大冒险2 欢迎光临蒙塔纳乐园"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

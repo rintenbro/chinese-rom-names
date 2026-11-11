@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C69FCA55",
+   "name": "太阁立志传1 (简) (147201688繁转简)(10Mb).md",
+   "size": 1310720
+  }
+ ],
+ "group": "Taikou Risshiden (Japan)",
+ "hack_group": "",
+ "id": "prb-megadrive-c69fca55",
+ "platform": "megadrive",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Taikou Risshiden (Japan)",
+  "region": "Japan"
+ },
+ "script": "简繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "太阁立志传1"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "769B1D29",
+   "name": "超级机器人大战外传 魔装机神(简)(WGF)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Super Robot Taisen Gaiden - Masoukishin - The Lord of Elemental (Japan)",
+ "hack_group": "WGF",
+ "id": "prb-sfc-769b1d29",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "EBADC924",
+  "no_intro_name": "Super Robot Taisen Gaiden - Masoukishin - The Lord of Elemental (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级机器人大战外传 魔装机神"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

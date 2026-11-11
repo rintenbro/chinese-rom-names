@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "397E00AD",
+   "name": "瓦力欧乐园2 (简) (DMG).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Wario Land 2 (Japan) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "DMG",
+ "id": "prb-gbc-397e00ad",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Wario Land 2 (Japan) (SGB Enhanced) (GB Compatible)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "瓦力欧乐园2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

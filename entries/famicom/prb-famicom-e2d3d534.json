@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E2D3D534",
+   "name": "智力小状元(简)[数奇玉](CN)[PUZ](1.5Mb).nes",
+   "size": 196624
+  }
+ ],
+ "group": "Xiao Boshi Jiaoyu Ruanjian Xilie - Zhili Xiao Zhuangyuan (Asia)",
+ "hack_group": "数奇玉",
+ "id": "prb-famicom-e2d3d534",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Xiao Boshi Jiaoyu Ruanjian Xilie - Zhili Xiao Zhuangyuan (Asia)",
+  "region": "Asia"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "智力小状元"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

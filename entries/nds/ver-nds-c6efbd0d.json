@@ -11,10 +11,9 @@
    "size": 124431284
   }
  ],
- "group": "Luminous Arc 2 - Will",
+ "group": "Luminous Arc 2 - Will (Japan)",
+ "hack_group": "小黑屋汉化组",
  "id": "ver-nds-c6efbd0d",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "719C5AE5",
   "no_intro_name": "Luminous Arc 2 - Will (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YL2J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Luminous Arc 2 - Will (Japan)",
   "zh-Hans": "弧光之源2 意志"
  },
- "vendor": "小黑屋汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

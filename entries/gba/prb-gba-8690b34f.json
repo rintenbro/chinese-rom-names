@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8690B34F",
+   "name": "炼金术士玛丽艾莉&安丝工坊 - 微风中的讯息[ARIX](Beta)(简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Marie, Elie & Anis no Atelier - Soyokaze kara no Dengon (Japan)",
+ "hack_group": "",
+ "id": "prb-gba-8690b34f",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "1B70A454",
+  "no_intro_name": "Marie, Elie & Anis no Atelier - Soyokaze kara no Dengon (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "炼金术士玛丽艾莉&安丝工坊 - 微风中的讯息"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

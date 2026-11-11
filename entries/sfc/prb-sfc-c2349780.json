@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C2349780",
+   "name": "地底魔神 (简) (Beta)(天空汉化组)(8Mb).sfc",
+   "size": 1048576
+  }
+ ],
+ "group": "Alcahest (Japan)",
+ "hack_group": "天空汉化组",
+ "id": "prb-sfc-c2349780",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "870427D0",
+  "no_intro_name": "Alcahest (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "地底魔神"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

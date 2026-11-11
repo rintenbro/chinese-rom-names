@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-899cd8d717a7/title.png"
+ },
+ "files": [
+  {
+   "crc32": "F717CD3F",
+   "name": "超级音速小子2(繁)(新特奇)(32Mb).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "超级音速小子2",
+ "hack_group": "",
+ "id": "cn-e675e44e5db2",
+ "platform": "gbc",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "超级音速小子2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

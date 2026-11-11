@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-75c796009088/title.png"
+ },
+ "files": [
+  {
+   "crc32": "A3533C24",
+   "name": "太空幻想(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "group": "太空幻想",
+ "hack_group": "南晶科技",
+ "id": "cn-7695adc0c4b1",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "太空幻想"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

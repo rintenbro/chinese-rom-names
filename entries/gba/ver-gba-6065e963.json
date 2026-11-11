@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Zhuanzhuanbang Tiantang",
+ "group": "Zhuanzhuanbang Tiantang (China) (Proto)",
+ "hack_group": "未发售",
  "id": "ver-gba-6065e963",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "6065E963",
   "no_intro_name": "Zhuanzhuanbang Tiantang (China) (Proto)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "A9QC",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Zhuanzhuanbang Tiantang (China) (Proto)",
   "zh-Hans": "神游 转转棒天堂"
  },
- "vendor": "未发售",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

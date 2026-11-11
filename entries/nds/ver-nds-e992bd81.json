@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Sims 2, The - Survival",
+ "group": "Sims 2, The - Survival (Japan)",
+ "hack_group": "",
  "id": "ver-nds-e992bd81",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "22FD6CC4",
   "no_intro_name": "Sims 2, The - Survival (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YS2J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Sims 2, The - Survival (Japan)",
   "zh-Hans": "模拟人生2 生存游戏"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A8380728",
+   "name": "超时空要塞7 振奋银河之心吧(简)(v1.0)[RangerMarsh][16Mb].gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Macross 7 - Ginga no Heart o Furuwasero!! (Japan)",
+ "hack_group": "RangerMarsh",
+ "id": "prb-gbc-a8380728",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "2B7ABBA4",
+  "no_intro_name": "Macross 7 - Ginga no Heart o Furuwasero!! (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超时空要塞7 振奋银河之心吧"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

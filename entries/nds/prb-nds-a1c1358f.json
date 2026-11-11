@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A1C1358F",
+   "name": "简单DS系列Vol.24 THE战车(JP)(星组)(128Mb).nds",
+   "size": 14386724
+  }
+ ],
+ "group": "Simple DS Series Vol. 24 - The Sensha (Japan)",
+ "hack_group": "",
+ "id": "prb-nds-a1c1358f",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "331BE481",
+  "no_intro_name": "Simple DS Series Vol. 24 - The Sensha (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "简单DS系列Vol.24 THE战车"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

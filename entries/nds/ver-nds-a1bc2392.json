@@ -11,10 +11,9 @@
    "size": 35918084
   }
  ],
- "group": "Bakusou Dekotora Densetsu Black",
+ "group": "Bakusou Dekotora Densetsu Black (Japan)",
+ "hack_group": "",
  "id": "ver-nds-a1bc2392",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "E124C9AE",
   "no_intro_name": "Bakusou Dekotora Densetsu Black (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YDUJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Bakusou Dekotora Densetsu Black (Japan)",
   "zh-Hans": "爆走卡车传说 黑"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

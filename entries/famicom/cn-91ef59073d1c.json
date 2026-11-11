@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-2ed712948ec6/title.png"
+ },
+ "files": [
+  {
+   "crc32": "B728C663",
+   "name": "争霸世纪(繁)[外星科技](CN)[SLG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "争霸世纪",
+ "hack_group": "外星科技",
+ "id": "cn-91ef59073d1c",
+ "platform": "famicom",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "争霸世纪"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

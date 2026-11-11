@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3D0CA659",
+   "name": "哈利波特与魔法石 (繁) (unknown).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Harry Potter and the Sorcerer's Stone (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)",
+ "hack_group": "unknown",
+ "id": "prb-gbc-3d0ca659",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "4FD8B7C5",
+  "no_intro_name": "Harry Potter and the Sorcerer's Stone (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)",
+  "region": "USA"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "哈利波特与魔法石"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

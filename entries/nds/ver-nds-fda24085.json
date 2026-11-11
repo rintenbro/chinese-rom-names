@@ -11,10 +11,9 @@
    "size": 35471104
   }
  ],
- "group": "Snowboard Kids Party",
+ "group": "Snowboard Kids Party (Japan)",
+ "hack_group": "果冻汉化组",
  "id": "ver-nds-fda24085",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "B0757597",
   "no_intro_name": "Snowboard Kids Party (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "ASBJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Snowboard Kids Party (Japan)",
   "zh-Hans": "滑雪少年DS 派对"
  },
- "vendor": "果冻汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

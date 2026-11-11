@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4F04783E",
+   "name": "花木兰 (繁) (修正版) (Azathoth修正)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Mulan (Taiwan)",
+ "hack_group": "",
+ "id": "prb-megadrive-4f04783e",
+ "platform": "megadrive",
+ "probable_original": {
+  "crc32": "796882B8",
+  "no_intro_name": "Mulan (Taiwan)",
+  "region": "Taiwan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "花木兰"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

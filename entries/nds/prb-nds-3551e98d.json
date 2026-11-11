@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3551E98D",
+   "name": "游戏王5DS 星尘驱动者 世界冠军大会2009(繁)(JP)(cou)(-2048Mb).nds",
+   "size": 241523648
+  }
+ ],
+ "group": "Yu-Gi-Oh! 5D's - Stardust Accelerator - World Championship 2009 (Japan) (En,Ja,Fr,De,Es,It)",
+ "hack_group": "cou",
+ "id": "prb-nds-3551e98d",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "5F7F8839",
+  "no_intro_name": "Yu-Gi-Oh! 5D's - Stardust Accelerator - World Championship 2009 (Japan) (En,Ja,Fr,De,Es,It)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "游戏王5DS 星尘驱动者 世界冠军大会2009"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

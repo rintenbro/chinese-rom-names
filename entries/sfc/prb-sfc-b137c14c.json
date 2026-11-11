@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B137C14C",
+   "name": "重装机兵瓦尔肯(简)(v20220814)(SchreckgSoldat)(8Mb).sfc",
+   "size": 1048576
+  }
+ ],
+ "group": "Assault Suits Valken (USA) (Retro-Bit)",
+ "hack_group": "SchreckgSoldat",
+ "id": "prb-sfc-b137c14c",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "B802FC5E",
+  "no_intro_name": "Assault Suits Valken (USA) (Retro-Bit)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "重装机兵瓦尔肯"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20220814"
+}

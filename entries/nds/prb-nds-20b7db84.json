@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "20B7DB84",
+   "name": "紧急出口 逃脱大师DS(JP)(的士汉化组)(256Mb).nds",
+   "size": 25342052
+  }
+ ],
+ "group": "Hijouguchi - Exit DS (Japan)",
+ "hack_group": "的士汉化组",
+ "id": "prb-nds-20b7db84",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "58C74FC0",
+  "no_intro_name": "Hijouguchi - Exit DS (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "紧急出口 逃脱大师DS"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

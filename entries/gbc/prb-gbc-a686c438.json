@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-95e6681c872a/title.png"
+ },
+ "files": [
+  {
+   "crc32": "A686C438",
+   "name": "十面埋伏 英雄篇(简)(ankos+babypkzhu+taizou)(8Mb).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Ambush from Ten Sides - Heroes Chapter (China) [CHT]",
+ "hack_group": "ankos+babypkzhu+taizou",
+ "id": "prb-gbc-a686c438",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Ambush from Ten Sides - Heroes Chapter (China) [CHT]",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "十面埋伏 英雄篇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

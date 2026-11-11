@@ -11,10 +11,9 @@
    "size": 134217728
   }
  ],
- "group": "Super Robot Taisen L",
+ "group": "Super Robot Taisen L (Japan)",
+ "hack_group": "",
  "id": "ver-nds-3fe7acdc",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "1D040BE8",
   "no_intro_name": "Super Robot Taisen L (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "BRWJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Super Robot Taisen L (Japan)",
   "zh-Hans": "超级机器人大战L v1.1"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

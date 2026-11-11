@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "27B7529E",
+   "name": "沙克传说(简)(小鬼混+阿刃)(16Mb).smc",
+   "size": 2097152
+  }
+ ],
+ "group": "Xak - The Art of Visual Stage (Japan)",
+ "hack_group": "小鬼混+阿刃",
+ "id": "prb-sfc-27b7529e",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "557B8DB1",
+  "no_intro_name": "Xak - The Art of Visual Stage (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "沙克传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

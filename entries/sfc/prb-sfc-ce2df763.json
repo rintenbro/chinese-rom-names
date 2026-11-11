@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CE2DF763",
+   "name": "忍者战士 归来(简)(zjwps+阿刃)(16Mb).sfc",
+   "size": 1589248
+  }
+ ],
+ "group": "Ninjawarriors Again, The (Japan)",
+ "hack_group": "zjwps+阿刃",
+ "id": "prb-sfc-ce2df763",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Ninjawarriors Again, The (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "忍者战士 归来"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

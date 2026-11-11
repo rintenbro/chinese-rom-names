@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-201d3858331f/title.png"
+ },
+ "files": [
+  {
+   "crc32": "C8C78740",
+   "name": "小霸王学习卡16合1(简)[小霸王](CN)[ETC](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "小霸王学习卡16合1",
+ "hack_group": "小霸王",
+ "id": "cn-aa30cf364e2e",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "小霸王学习卡16合1"
+ },
+ "type": "multicart",
+ "vendor": "",
+ "version": ""
+}

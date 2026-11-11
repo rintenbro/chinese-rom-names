@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1D1A0AFB",
+   "name": "街头 热血物语(简)[madcell](JP)[ACT](2.5Mb).nes",
+   "size": 327696
+  }
+ ],
+ "group": "Downtown - Nekketsu Monogatari (Japan)",
+ "hack_group": "madcell",
+ "id": "prb-famicom-1d1a0afb",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "2E6EB9F6",
+  "no_intro_name": "Downtown - Nekketsu Monogatari (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "街头 热血物语"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

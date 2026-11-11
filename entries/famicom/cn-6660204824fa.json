@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-be6be3702116/title.png"
+ },
+ "files": [
+  {
+   "crc32": "EE62B98F",
+   "name": "真侍魂 魂之利刃(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "group": "真侍魂 魂之利刃",
+ "hack_group": "南晶科技",
+ "id": "cn-6660204824fa",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "真侍魂 魂之利刃"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

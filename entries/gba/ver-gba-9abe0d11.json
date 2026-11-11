@@ -11,10 +11,9 @@
    "size": 22097184
   }
  ],
- "group": "Lord of the Rings, The - The Third Age",
+ "group": "Lord of the Rings, The - The Third Age (USA, Europe) (En,Fr,De,Es,It)",
+ "hack_group": "Advance汉化组",
  "id": "ver-gba-9abe0d11",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "2DEF3656",
   "no_intro_name": "Lord of the Rings, The - The Third Age (USA, Europe) (En,Fr,De,Es,It)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "B3AE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Lord of the Rings, The - The Third Age (USA, Europe) (En,Fr,De,Es,It)",
   "zh-Hans": "指环王 第三纪元"
  },
- "vendor": "Advance汉化组",
+ "type": "game",
+ "vendor": "",
  "version": "v1.0"
 }

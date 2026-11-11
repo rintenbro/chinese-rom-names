@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-ce49e607e000/title.png"
+ },
+ "files": [
+  {
+   "crc32": "7C6AE6DA",
+   "name": "太空战士 (繁) (天才小子).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Fantasy War (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-gbc-7c6ae6da",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Fantasy War (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "太空战士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

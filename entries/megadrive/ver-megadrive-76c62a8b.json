@@ -1,0 +1,33 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "76C62A8B",
+   "name": "抓鬼大师 (繁) (盛碁科技)(4Mb).md",
+   "size": 524288
+  }
+ ],
+ "group": "Zhua Gui Dashi - Ghost Hunter (Taiwan)",
+ "hack_group": "",
+ "id": "ver-megadrive-76c62a8b",
+ "original": {
+  "crc32": "76C62A8B",
+  "no_intro_name": "Zhua Gui Dashi - Ghost Hunter (Taiwan)",
+  "region": "Taiwan",
+  "size": 524288
+ },
+ "platform": "megadrive",
+ "script": "繁",
+ "source": "no-intro",
+ "status": "verified",
+ "titles": {
+  "zh-Hans": "抓鬼大师"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A644A1CD",
+   "name": "铁血战士(简)[MS](US)[STG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Predator (USA)",
+ "hack_group": "",
+ "id": "prb-famicom-a644a1cd",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Predator (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "铁血战士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

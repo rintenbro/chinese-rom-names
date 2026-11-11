@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3A8E1D23",
+   "name": "南极大冒险(v20100423)(繁)[NOKOH](JP)[ACT](0.25Mb).nes",
+   "size": 32784
+  }
+ ],
+ "group": "Kekkyoku Nankyoku Daibouken (Japan)",
+ "hack_group": "NOKOH",
+ "id": "prb-famicom-3a8e1d23",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "D1F8BDE2",
+  "no_intro_name": "Kekkyoku Nankyoku Daibouken (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "南极大冒险"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20100423"
+}

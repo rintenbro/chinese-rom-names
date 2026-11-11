@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9FE46C49",
+   "name": "GB战争 增压涡轮电玩通版(v1.00)(简)(bmmm906)(1Mb).gb",
+   "size": 262144
+  }
+ ],
+ "group": "Game Boy Wars Turbo (Japan) (SGB Enhanced)",
+ "hack_group": "bmmm906",
+ "id": "prb-gb-9fe46c49",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "94563424",
+  "no_intro_name": "Game Boy Wars Turbo (Japan) (SGB Enhanced)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "GB战争 增压涡轮电玩通版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.00"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/md/cn-8d8652f8f3ef/title.png"
+ },
+ "files": [
+  {
+   "crc32": "0CACD325",
+   "name": "超级大富豪 (繁) (未知)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Top Billionaire (China) [CHT]",
+ "hack_group": "未知",
+ "id": "prb-megadrive-0cacd325",
+ "platform": "megadrive",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Top Billionaire (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级大富豪"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

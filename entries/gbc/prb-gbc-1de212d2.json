@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1DE212D2",
+   "name": "游戏王4 – 最强决斗者战记 海马篇(v1.1)(简)(Mezaransu)(JP)(32Mb).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (Japan)",
+ "hack_group": "Mezaransu",
+ "id": "prb-gbc-1de212d2",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "游戏王4 – 最强决斗者战记 海马篇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

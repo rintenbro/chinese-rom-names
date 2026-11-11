@@ -11,10 +11,9 @@
    "size": 134217728
   }
  ],
- "group": "Akai Ito DS",
+ "group": "Akai Ito DS (Japan)",
+ "hack_group": "☆翼之梦☆推倒美男游戏汉化组",
  "id": "ver-nds-89127c43",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "AE7E2FC0",
   "no_intro_name": "Akai Ito DS (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "CIAJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Akai Ito DS (Japan)",
   "zh-Hans": "红线DS"
  },
- "vendor": "☆翼之梦☆推倒美男游戏汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

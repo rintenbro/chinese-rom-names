@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B522F135",
+   "name": "精英节拍特工(简)(青文汉化组)(1024Mb).nds",
+   "size": 125300796
+  }
+ ],
+ "group": "Elite Beat Agents (USA)",
+ "hack_group": "青文汉化组",
+ "id": "prb-nds-b522f135",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "26BC50A1",
+  "no_intro_name": "Elite Beat Agents (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "精英节拍特工"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

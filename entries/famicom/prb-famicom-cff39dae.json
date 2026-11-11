@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CFF39DAE",
+   "name": "打砖块(v20100513)(繁)[NOKOH](JP)[PUZ](0.62Mb).nes",
+   "size": 81936
+  }
+ ],
+ "group": "Arkanoid (Japan) (En)",
+ "hack_group": "NOKOH",
+ "id": "prb-famicom-cff39dae",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "B52A3B7B",
+  "no_intro_name": "Arkanoid (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "打砖块"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20100513"
+}

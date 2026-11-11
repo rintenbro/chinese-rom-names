@@ -11,10 +11,9 @@
    "size": 4224224
   }
  ],
- "group": "Final Fight One",
+ "group": "Final Fight One (Japan)",
+ "hack_group": "狂细胞",
  "id": "ver-gba-e5aab7f7",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "C9E5E223",
   "no_intro_name": "Final Fight One (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AFFJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Final Fight One (Japan)",
   "zh-Hans": "快打旋风One"
  },
- "vendor": "狂细胞",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

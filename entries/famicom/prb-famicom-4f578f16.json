@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4F578F16",
+   "name": "忍者神龟2 街机游戏(修正版)(简)[勒大治+MS](US)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Teenage Mutant Ninja Turtles II - The Arcade Game (USA)",
+ "hack_group": "勒大治+MS",
+ "id": "prb-famicom-4f578f16",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "2A6C0628",
+  "no_intro_name": "Teenage Mutant Ninja Turtles II - The Arcade Game (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "忍者神龟2 街机游戏"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

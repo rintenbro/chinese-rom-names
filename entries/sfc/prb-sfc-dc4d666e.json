@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DC4D666E",
+   "name": "大地勇士 海与风的鼓动(简)(小鬼混)(8Mb).smc",
+   "size": 1245184
+  }
+ ],
+ "group": "Neugier - Umi to Kaze no Kodou (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-dc4d666e",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "7F0DDCCF",
+  "no_intro_name": "Neugier - Umi to Kaze no Kodou (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "大地勇士 海与风的鼓动"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

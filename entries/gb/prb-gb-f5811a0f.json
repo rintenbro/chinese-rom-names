@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F5811A0F",
+   "name": "屠龙战记 沉睡的王冠(简)(v1.8)(求真)(2Mb).gb",
+   "size": 262144
+  }
+ ],
+ "group": "Dragon Slayer Gaiden - Nemuri no Oukan (Japan)",
+ "hack_group": "",
+ "id": "prb-gb-f5811a0f",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Dragon Slayer Gaiden - Nemuri no Oukan (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "屠龙战记 沉睡的王冠"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.8"
+}

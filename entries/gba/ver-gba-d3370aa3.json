@@ -11,10 +11,9 @@
    "size": 11764864
   }
  ],
- "group": "Magical Vacation",
+ "group": "Magical Vacation (Japan)",
+ "hack_group": "Advance汉化组",
  "id": "ver-gba-d3370aa3",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "59CBE914",
   "no_intro_name": "Magical Vacation (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AMVJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Magical Vacation (Japan)",
   "zh-Hans": "魔法假期"
  },
- "vendor": "Advance汉化组",
+ "type": "game",
+ "vendor": "",
  "version": "v1.1"
 }

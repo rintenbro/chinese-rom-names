@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "86E1C242",
+   "name": "最终幻想I, II Advance[盗版&西门吹雪&岬大空](汉化修正版v20200619)(简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Final Fantasy I, II Advance (Japan) (Rev 1)",
+ "hack_group": "盗版&西门吹雪&岬大空",
+ "id": "prb-gba-86e1c242",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Final Fantasy I, II Advance (Japan) (Rev 1)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "最终幻想I, II Advance"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20200619"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B4EFEF2F",
+   "name": "游戏王! - 怪兽决斗EX 2006[天使汉化组](v20060307)(简)(JP)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Yu-Gi-Oh! Duel Monsters Expert 2006 (Japan) (En,Ja,Fr,De,Es,It)",
+ "hack_group": "天使汉化组",
+ "id": "prb-gba-b4efef2f",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "7A1019E6",
+  "no_intro_name": "Yu-Gi-Oh! Duel Monsters Expert 2006 (Japan) (En,Ja,Fr,De,Es,It)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "游戏王! - 怪兽决斗EX 2006"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20060307"
+}

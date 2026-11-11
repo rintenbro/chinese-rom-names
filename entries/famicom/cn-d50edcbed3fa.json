@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-8fc2fb2d5689/title.png"
+ },
+ "files": [
+  {
+   "crc32": "15577246",
+   "name": "反恐精英(简)[恒格电子](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "反恐精英",
+ "hack_group": "恒格电子",
+ "id": "cn-d50edcbed3fa",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "反恐精英"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

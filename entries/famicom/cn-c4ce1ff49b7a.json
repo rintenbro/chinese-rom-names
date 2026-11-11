@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-26e0c8a601b5/title.png"
+ },
+ "files": [
+  {
+   "crc32": "A3CE34D4",
+   "name": "水浒神兽(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "group": "水浒神兽",
+ "hack_group": "南晶科技",
+ "id": "cn-c4ce1ff49b7a",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "水浒神兽"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

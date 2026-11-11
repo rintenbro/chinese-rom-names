@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AB55C6FC",
+   "name": "超级马里奥世界 (繁)(汉化修正版20190816)(Nokoh)(6Mb).sfc",
+   "size": 786432
+  }
+ ],
+ "group": "Super Mario World (USA)",
+ "hack_group": "Nokoh",
+ "id": "prb-sfc-ab55c6fc",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Super Mario World (USA)",
+  "region": "USA"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级马里奥世界"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

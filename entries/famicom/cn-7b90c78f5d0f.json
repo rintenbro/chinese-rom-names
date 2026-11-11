@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-55e442d9f6c9/title.png"
+ },
+ "files": [
+  {
+   "crc32": "D8B4EFD9",
+   "name": "上海大亨(简)[外星科技](CN)[TAB](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "上海大亨",
+ "hack_group": "外星科技",
+ "id": "cn-7b90c78f5d0f",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "上海大亨"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

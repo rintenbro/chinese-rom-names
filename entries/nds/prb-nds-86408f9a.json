@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "86408F9A",
+   "name": "恶魔城 被夺的刻印 V2.1(JP)(罪人之塔&CG汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Akumajou Dracula - Ubawareta Kokuin (Japan)",
+ "hack_group": "罪人之塔&CG汉化组",
+ "id": "prb-nds-86408f9a",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "CFAED479",
+  "no_intro_name": "Akumajou Dracula - Ubawareta Kokuin (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "恶魔城 被夺的刻印 V2.1"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-cf5f6c61862c/title.png"
+ },
+ "files": [
+  {
+   "crc32": "3A35118C",
+   "name": "勇者斗恶龙VIII (繁) (新特奇).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "勇者斗恶龙VIII",
+ "hack_group": "",
+ "id": "cn-5d9065bd0f99",
+ "platform": "gbc",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "勇者斗恶龙VIII"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "55DB1EBD",
+   "name": "火焰纹章DS V2(JP)(ACG汉化组)(512Mb).nds",
+   "size": 59761856
+  }
+ ],
+ "group": "Fire Emblem - Shin Ankoku Ryuu to Hikari no Ken (Japan)",
+ "hack_group": "ACG汉化组",
+ "id": "prb-nds-55db1ebd",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "02EE87FD",
+  "no_intro_name": "Fire Emblem - Shin Ankoku Ryuu to Hikari no Ken (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "火焰纹章DS V2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

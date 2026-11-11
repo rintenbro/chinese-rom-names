@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D8210EE6",
+   "name": "马戏团(v2020)(简)[虫虫](JP)[ACT](0.18Mb).nes",
+   "size": 24592
+  }
+ ],
+ "group": "Circus Charlie (Japan) (En)",
+ "hack_group": "虫虫",
+ "id": "prb-famicom-d8210ee6",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "963DD3C3",
+  "no_intro_name": "Circus Charlie (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "马戏团"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v2020"
+}

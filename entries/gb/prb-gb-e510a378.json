@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E510A378",
+   "name": "谋杀庄园(简)(AI汉化v0.9.8)(Deloo)(8Mb).gb",
+   "size": 1048576
+  }
+ ],
+ "group": "Murder Mansion (World) (v1.1.0) (GB Compatible)",
+ "hack_group": "Deloo",
+ "id": "prb-gb-e510a378",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Murder Mansion (World) (v1.1.0) (GB Compatible)",
+  "region": "World"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "谋杀庄园"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v0.9.8"
+}

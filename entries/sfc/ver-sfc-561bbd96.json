@@ -11,10 +11,9 @@
    "size": 524288
   }
  ],
- "group": "16 Zhang Mahjong II - Xingzuo Nulang Pian",
+ "group": "16 Zhang Mahjong II - Xingzuo Nulang Pian (Hong Kong)",
+ "hack_group": "不明",
  "id": "ver-sfc-561bbd96",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "561BBD96",
   "no_intro_name": "16 Zhang Mahjong II - Xingzuo Nulang Pian (Hong Kong)",
@@ -23,12 +22,12 @@
  },
  "platform": "sfc",
  "script": "繁",
- "serial": "",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "16 Zhang Mahjong II - Xingzuo Nulang Pian (Hong Kong)",
   "zh-Hans": "十六张麻将 - 星座女郎篇"
  },
- "vendor": "不明",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

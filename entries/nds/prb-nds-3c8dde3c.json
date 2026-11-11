@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3C8DDE3C",
+   "name": "简单DS系列Vol.20 THE战舰(JP)(星组)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Simple DS Series Vol. 20 - The Senkan (Japan)",
+ "hack_group": "",
+ "id": "prb-nds-3c8dde3c",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "89A9B8CD",
+  "no_intro_name": "Simple DS Series Vol. 20 - The Senkan (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "简单DS系列Vol.20 THE战舰"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

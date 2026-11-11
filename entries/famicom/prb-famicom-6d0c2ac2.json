@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6D0C2AC2",
+   "name": "成龙踢馆(简)[高伟](JP)[ACT](0.31Mb).nes",
+   "size": 40976
+  }
+ ],
+ "group": "Spartan X (Japan) (En)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-6d0c2ac2",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Spartan X (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "成龙踢馆"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

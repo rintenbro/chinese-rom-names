@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2C942D85",
+   "name": "洛克人Zero[零组](简)(UE)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Mega Man Zero (USA, Europe)",
+ "hack_group": "UE 零组",
+ "id": "prb-gba-2c942d85",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "9707D2A1",
+  "no_intro_name": "Mega Man Zero (USA, Europe)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "洛克人Zero"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

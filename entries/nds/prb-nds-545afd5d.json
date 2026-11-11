@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "545AFD5D",
+   "name": "天诛 暗影(简)(aikika)(360Mb).nds",
+   "size": 45092012
+  }
+ ],
+ "group": "Tenchu - Dark Shadow (Japan)",
+ "hack_group": "aikika",
+ "id": "prb-nds-545afd5d",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "0B3D84B7",
+  "no_intro_name": "Tenchu - Dark Shadow (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "天诛 暗影"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

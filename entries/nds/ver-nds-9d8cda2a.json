@@ -11,10 +11,9 @@
    "size": 8199752
   }
  ],
- "group": "Pic Pic",
+ "group": "Pic Pic (Europe)",
+ "hack_group": "xedftxz",
  "id": "ver-nds-9d8cda2a",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "867B2364",
   "no_intro_name": "Pic Pic (Europe)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YPXP",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Pic Pic (Europe)",
   "zh-Hans": "绘图"
  },
- "vendor": "xedftxz",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

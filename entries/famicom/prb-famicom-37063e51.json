@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "37063E51",
+   "name": "忍者 阿修罗之章(v1.0)(简)[高伟](JP)[ACT](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Ninja-kun - Ashura no Shou (Japan)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-37063e51",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "8553F657",
+  "no_intro_name": "Ninja-kun - Ashura no Shou (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "忍者 阿修罗之章"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

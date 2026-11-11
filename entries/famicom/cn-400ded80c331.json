@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-d1f2ea320007/title.png"
+ },
+ "files": [
+  {
+   "crc32": "64638706",
+   "name": "卓越之剑(简)[恒格电子](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "卓越之剑",
+ "hack_group": "恒格电子",
+ "id": "cn-400ded80c331",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "卓越之剑"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D477C582",
+   "name": "钢之炼金术士 - 回忆之奏鸣曲[第三世纪](简)(JP)(65.77Mb).gba",
+   "size": 8621272
+  }
+ ],
+ "group": "Hagane no Renkinjutsushi - Omoide no Sonata (Japan)",
+ "hack_group": "第三世纪",
+ "id": "prb-gba-d477c582",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "C6144316",
+  "no_intro_name": "Hagane no Renkinjutsushi - Omoide no Sonata (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "钢之炼金术士 - 回忆之奏鸣曲"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

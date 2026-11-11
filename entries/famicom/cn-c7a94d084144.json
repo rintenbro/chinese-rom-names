@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-424f0aa2b67d/title.png"
+ },
+ "files": [
+  {
+   "crc32": "5BDDE1BC",
+   "name": "梦幻 香帅传奇之血海飘零(简)[恒格电子](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "梦幻 香帅传奇之血海飘零",
+ "hack_group": "恒格电子",
+ "id": "cn-c7a94d084144",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "梦幻 香帅传奇之血海飘零"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C659A12E",
+   "name": "超人特攻队[天使汉化组](简)(JP)(65.37Mb).gba",
+   "size": 8569088
+  }
+ ],
+ "group": "Mr. Incredible (Japan)",
+ "hack_group": "天使汉化组",
+ "id": "prb-gba-c659a12e",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "73FA8B2A",
+  "no_intro_name": "Mr. Incredible (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超人特攻队"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

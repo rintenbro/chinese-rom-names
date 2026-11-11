@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7E494170",
+   "name": "怪物制造者3 光之魔术师(简)(V2)(跟大佬学习编程的新兵蛋子)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Monster Maker III - Hikari no Majutsushi (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-7e494170",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Monster Maker III - Hikari no Majutsushi (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "怪物制造者3 光之魔术师"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "V2"
+}

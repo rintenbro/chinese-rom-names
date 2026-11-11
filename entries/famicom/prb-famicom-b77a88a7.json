@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B77A88A7",
+   "name": "快打旋风(修正版)(简)[模拟中文网+MS](US)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Final Fight 3 (Taiwan) (En) (Pirate)",
+ "hack_group": "模拟中文网+MS",
+ "id": "prb-famicom-b77a88a7",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "E3417A8D",
+  "no_intro_name": "Final Fight 3 (Taiwan) (En) (Pirate)",
+  "region": "Taiwan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "快打旋风"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "45DEEB66",
+   "name": "不朽的巫师(简)(SGGG汉化组)(CN2汉化)(16Mb).bin",
+   "size": 2097152
+  }
+ ],
+ "group": "Wizard of the Immortal (Japan)",
+ "hack_group": "SGGG汉化组",
+ "id": "prb-megadrive-45deeb66",
+ "platform": "megadrive",
+ "probable_original": {
+  "crc32": "C99FAD92",
+  "no_intro_name": "Wizard of the Immortal (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "不朽的巫师"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

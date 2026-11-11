@@ -11,10 +11,9 @@
    "size": 134217728
   }
  ],
- "group": "MapleStory DS",
+ "group": "MapleStory DS (Korea)",
+ "hack_group": "KS PLAY汉化组&兔友汉化组",
  "id": "ver-nds-d34d5320",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "985A9F45",
   "no_intro_name": "MapleStory DS (Korea)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "YMPK",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "MapleStory DS (Korea)",
   "zh-Hans": "冒险岛DS"
  },
- "vendor": "KS / PLAY汉化组&兔友汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

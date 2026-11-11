@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5478CA94",
+   "name": "掌中乐练 地球排列法(JP)(cubacupa)(64Mb).nds",
+   "size": 8388608
+  }
+ ],
+ "group": "Tenohira Gakushuu - Chikyuu no Narabe Kata (Japan)",
+ "hack_group": "cubacupa",
+ "id": "prb-nds-5478ca94",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "211A3AE2",
+  "no_intro_name": "Tenohira Gakushuu - Chikyuu no Narabe Kata (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "掌中乐练 地球排列法"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

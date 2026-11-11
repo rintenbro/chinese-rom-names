@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Assassin's Creed II - Discovery",
+ "group": "Assassin's Creed II - Discovery (USA) (En,Fr,Es) (NDSi Enhanced)",
+ "hack_group": "fciq配音小组",
  "id": "ver-nds-3caf589c",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "3B902942",
   "no_intro_name": "Assassin's Creed II - Discovery (USA) (En,Fr,Es) (NDSi Enhanced)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "VACE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Assassin's Creed II - Discovery (USA) (En,Fr,Es) (NDSi Enhanced)",
   "zh-Hans": "刺客信条2 英文字幕+中文配音最终版"
  },
- "vendor": "fciq配音小组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

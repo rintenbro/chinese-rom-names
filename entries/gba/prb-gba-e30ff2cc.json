@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E30FF2CC",
+   "name": "银河战士 - 零号任务[狂细胞](简)(US)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Metroid - Zero Mission (USA, Australia)",
+ "hack_group": "狂细胞",
+ "id": "prb-gba-e30ff2cc",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "5C61A844",
+  "no_intro_name": "Metroid - Zero Mission (USA, Australia)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "银河战士 - 零号任务"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

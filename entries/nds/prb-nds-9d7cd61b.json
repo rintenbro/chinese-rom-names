@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9D7CD61B",
+   "name": "恶魔城 废墟的肖像(迷宫的画廊) v20240829修正(简)(JP)(罪人之塔+YYJoy汉化组+GGWY)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Akumajou Dracula - Gallery of Labyrinth (Japan)",
+ "hack_group": "罪人之塔+YYJoy汉化组+GGWY",
+ "id": "prb-nds-9d7cd61b",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "D97D85AE",
+  "no_intro_name": "Akumajou Dracula - Gallery of Labyrinth (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "恶魔城 废墟的肖像 v20240829修正"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

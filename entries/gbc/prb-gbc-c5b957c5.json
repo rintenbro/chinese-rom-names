@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-02534f46792c/title.png"
+ },
+ "files": [
+  {
+   "crc32": "C5B957C5",
+   "name": "英雄传说(简)(外星科技)(8MB).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Ying Xiong Chuan Shuo (China) [CHS]",
+ "hack_group": "",
+ "id": "prb-gbc-c5b957c5",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Ying Xiong Chuan Shuo (China) [CHS]",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "英雄传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

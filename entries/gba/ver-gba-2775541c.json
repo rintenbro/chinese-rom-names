@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Medal of Honor - Infiltrator",
+ "group": "Medal of Honor - Infiltrator (USA, Europe) (En,Fr,De)",
+ "hack_group": "UE 盗版&Kunlunshen",
  "id": "ver-gba-2775541c",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "F23150A4",
   "no_intro_name": "Medal of Honor - Infiltrator (USA, Europe) (En,Fr,De)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BMHE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Medal of Honor - Infiltrator (USA, Europe) (En,Fr,De)",
   "zh-Hans": "荣誉勋章 – 渗透者"
  },
- "vendor": "UE / 盗版&Kunlunshen",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

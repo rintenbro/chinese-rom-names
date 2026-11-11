@@ -11,10 +11,9 @@
    "size": 4194304
   }
  ],
- "group": "Tsuukin Hitofude",
+ "group": "Tsuukin Hitofude (Japan)",
+ "hack_group": "Rom的传人",
  "id": "ver-gba-f7288a2d",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "5A7E762B",
   "no_intro_name": "Tsuukin Hitofude (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BIIJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Tsuukin Hitofude (Japan)",
   "zh-Hans": "通勤一笔"
  },
- "vendor": "Rom的传人",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

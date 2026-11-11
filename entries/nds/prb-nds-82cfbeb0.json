@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "82CFBEB0",
+   "name": "魔法门之英雄交锋(US)(远离汉化组)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Might & Magic - Clash of Heroes (USA) (En,Fr,Es)",
+ "hack_group": "远离汉化组",
+ "id": "prb-nds-82cfbeb0",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "2831F1D8",
+  "no_intro_name": "Might & Magic - Clash of Heroes (USA) (En,Fr,Es)",
+  "region": "USA"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "魔法门之英雄交锋"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

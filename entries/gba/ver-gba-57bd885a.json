@@ -11,10 +11,9 @@
    "size": 18986304
   }
  ],
- "group": "Shaman King - Master of Spirits 2",
+ "group": "Shaman King - Master of Spirits 2 (USA)",
+ "hack_group": "Advance汉化组",
  "id": "ver-gba-57bd885a",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "201E3412",
   "no_intro_name": "Shaman King - Master of Spirits 2 (USA)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "B2ME",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Shaman King - Master of Spirits 2 (USA)",
   "zh-Hans": "通灵王2"
  },
- "vendor": "Advance汉化组",
+ "type": "game",
+ "vendor": "",
  "version": "v1.0"
 }

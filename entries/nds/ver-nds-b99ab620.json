@@ -11,10 +11,9 @@
    "size": 65761356
   }
  ],
- "group": "Blue Dragon Plus",
+ "group": "Blue Dragon Plus (Japan)",
+ "hack_group": "CG汉化组",
  "id": "ver-nds-b99ab620",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "C7B76136",
   "no_intro_name": "Blue Dragon Plus (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YYBJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Blue Dragon Plus (Japan)",
   "zh-Hans": "蓝龙PLUS 不死机修正版"
  },
- "vendor": "CG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

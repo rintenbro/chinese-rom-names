@@ -1,0 +1,33 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7C161C48",
+   "name": "成吉思汗2 - 元朝秘史之苍狼与白鹿 (繁) (SKOB)(10Mb).md",
+   "size": 1310720
+  }
+ ],
+ "group": "Chengjisihan II - Yuanchao Mishi Zhi Canglang Yu Bailu (China) (Pirate)",
+ "hack_group": "SKOB",
+ "id": "ver-megadrive-7c161c48",
+ "original": {
+  "crc32": "7C161C48",
+  "no_intro_name": "Chengjisihan II - Yuanchao Mishi Zhi Canglang Yu Bailu (China) (Pirate)",
+  "region": "China",
+  "size": 1310720
+ },
+ "platform": "megadrive",
+ "script": "繁",
+ "source": "no-intro",
+ "status": "verified",
+ "titles": {
+  "zh-Hans": "成吉思汗2 - 元朝秘史之苍狼与白鹿"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6E781C6C",
+   "name": "太平记 (简) (cslrxyz)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "NHK Taiga Drama - Taiheiki (Japan)",
+ "hack_group": "cslrxyz",
+ "id": "prb-megadrive-6e781c6c",
+ "platform": "megadrive",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "NHK Taiga Drama - Taiheiki (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "太平记"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

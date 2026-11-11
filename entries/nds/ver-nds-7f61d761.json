@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Daikoukai Jidai IV - Rota Nova",
+ "group": "Daikoukai Jidai IV - Rota Nova (Japan)",
+ "hack_group": "APEX汉化组",
  "id": "ver-nds-7f61d761",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "446D516B",
   "no_intro_name": "Daikoukai Jidai IV - Rota Nova (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "ADKJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Daikoukai Jidai IV - Rota Nova (Japan)",
   "zh-Hans": "大航海时代DS 0.94"
  },
- "vendor": "APEX汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

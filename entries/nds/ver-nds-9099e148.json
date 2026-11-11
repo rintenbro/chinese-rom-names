@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Utacchi",
+ "group": "Utacchi (Japan)",
+ "hack_group": "marinakir",
  "id": "ver-nds-9099e148",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "E16083C6",
   "no_intro_name": "Utacchi (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "BPOJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Utacchi (Japan)",
   "zh-Hans": "触摸歌唱完整版"
  },
- "vendor": "marinakir",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

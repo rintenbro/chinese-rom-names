@@ -11,10 +11,9 @@
    "size": 57154516
   }
  ],
- "group": "Solatorobo - Sorekara Coda e",
+ "group": "Solatorobo - Sorekara Coda e (Japan) (NDSi Enhanced)",
+ "hack_group": "猫犬协奏曲吧吧友汉化组",
  "id": "ver-nds-68cdc536",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "BE951CEA",
   "no_intro_name": "Solatorobo - Sorekara Coda e (Japan) (NDSi Enhanced)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "VCDJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Solatorobo - Sorekara Coda e (Japan) (NDSi Enhanced)",
   "zh-Hans": "天空机器人 飞向CODA"
  },
- "vendor": "猫犬协奏曲吧吧友汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

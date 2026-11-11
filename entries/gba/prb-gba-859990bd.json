@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "859990BD",
+   "name": "反斗王子邪流丸 一起在月光町散步吧[1d4444+CLARK.H](v1.0)(简)(32Mb).gba",
+   "size": 4217663
+  }
+ ],
+ "group": "Ojarumaru - Gekkouchou Sanpo de Ojaru (Japan)",
+ "hack_group": "1d4444+CLARK.H",
+ "id": "prb-gba-859990bd",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "6043595E",
+  "no_intro_name": "Ojarumaru - Gekkouchou Sanpo de Ojaru (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "反斗王子邪流丸 一起在月光町散步吧"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

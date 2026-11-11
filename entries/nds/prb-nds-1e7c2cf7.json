@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1E7C2CF7",
+   "name": "最终幻想水晶编年史 时之回声(繁)免死机存档补丁1.1(JP)(akairyusei)(1024Mb).nds",
+   "size": 115892736
+  }
+ ],
+ "group": "Final Fantasy Crystal Chronicles - Echoes of Time (Japan)",
+ "hack_group": "akairyusei",
+ "id": "prb-nds-1e7c2cf7",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "CA98AD59",
+  "no_intro_name": "Final Fantasy Crystal Chronicles - Echoes of Time (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "最终幻想水晶编年史 时之回声免死机存档补丁1.1"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

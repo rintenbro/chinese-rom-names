@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "24605E15",
+   "name": "口袋妖怪蓝(精灵宝可梦蓝) (繁)(完美LOGO)(unknown+RickyL1213)(8Mb).gb",
+   "size": 1048576
+  }
+ ],
+ "group": "Pokemon - Blue Version (USA, Europe) (SGB Enhanced)",
+ "hack_group": "unknown+RickyL1213",
+ "id": "prb-gb-24605e15",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "D6DA8A1A",
+  "no_intro_name": "Pokemon - Blue Version (USA, Europe) (SGB Enhanced)",
+  "region": "USA"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪蓝"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-e7415e6bf74b/title.png"
+ },
+ "files": [
+  {
+   "crc32": "26F442FB",
+   "name": "科王中英文电脑学习卡(v3.1)(简)[科达](CN)[ETC](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "科王中英文电脑学习卡",
+ "hack_group": "科达",
+ "id": "cn-8ef5eeb006d4",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "科王中英文电脑学习卡"
+ },
+ "type": "hack",
+ "vendor": "",
+ "version": "v3.1"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4F1685AD",
+   "name": "北斗神拳7 (简) (部分汉化)(madcell)(20Mb).sfc",
+   "size": 2621440
+  }
+ ],
+ "group": "Hokuto no Ken 7 - Seiken Retsuden Denshousha e no Michi (Japan)",
+ "hack_group": "madcell",
+ "id": "prb-sfc-4f1685ad",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "143E5A7D",
+  "no_intro_name": "Hokuto no Ken 7 - Seiken Retsuden Denshousha e no Michi (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "北斗神拳7"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

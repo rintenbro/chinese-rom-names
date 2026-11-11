@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Spitfire Heroes - Tales of the Royal Air Force",
+ "group": "Spitfire Heroes - Tales of the Royal Air Force (USA)",
+ "hack_group": "Lamer汉化组",
  "id": "ver-nds-001cb76e",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "DCD52FBC",
   "no_intro_name": "Spitfire Heroes - Tales of the Royal Air Force (USA)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YRAE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Spitfire Heroes - Tales of the Royal Air Force (USA)",
   "zh-Hans": "烈火英雄 皇家空军传奇"
  },
- "vendor": "Lamer汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

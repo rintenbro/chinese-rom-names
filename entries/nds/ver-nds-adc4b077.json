@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Nanashi no Geemu",
+ "group": "Nanashi no Geemu (Japan)",
+ "hack_group": "",
  "id": "ver-nds-adc4b077",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "057D0B3F",
   "no_intro_name": "Nanashi no Geemu (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YFQJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Nanashi no Geemu (Japan)",
   "zh-Hans": "死于七日"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

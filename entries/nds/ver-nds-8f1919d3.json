@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Steal Princess - Touzoku Koujo",
+ "group": "Steal Princess - Touzoku Koujo (Japan)",
+ "hack_group": "ACG汉化组",
  "id": "ver-nds-8f1919d3",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "A92BAD7E",
   "no_intro_name": "Steal Princess - Touzoku Koujo (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YP9J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Steal Princess - Touzoku Koujo (Japan)",
   "zh-Hans": "盗贼皇女"
  },
- "vendor": "ACG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

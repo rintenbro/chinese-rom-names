@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C1C08E03",
+   "name": "战国四川省(繁)[全崴资讯](CN)[TAB](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Zhanguo Sichuan Sheng (Taiwan) (En) (C&E)",
+ "hack_group": "全崴资讯",
+ "id": "prb-famicom-c1c08e03",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "13D36279",
+  "no_intro_name": "Zhanguo Sichuan Sheng (Taiwan) (En) (C&E)",
+  "region": "Taiwan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "战国四川省"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

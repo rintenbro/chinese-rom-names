@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D26E4D56",
+   "name": "狮子王 (简) (少量汉化)(死神DIY)(24Mb).sfc",
+   "size": 3145728
+  }
+ ],
+ "group": "Lion King, The (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-d26e4d56",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "79A9B2D0",
+  "no_intro_name": "Lion King, The (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "狮子王"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

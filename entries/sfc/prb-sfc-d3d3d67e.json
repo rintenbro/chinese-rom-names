@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D3D3D67E",
+   "name": "怪物圣地(简)(小鬼混+阿刃)(20Mb).smc",
+   "size": 2621440
+  }
+ ],
+ "group": "Monstania (Japan)",
+ "hack_group": "小鬼混+阿刃",
+ "id": "prb-sfc-d3d3d67e",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "F3887022",
+  "no_intro_name": "Monstania (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "怪物圣地"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

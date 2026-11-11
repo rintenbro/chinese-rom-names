@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Bokura no Taiyou - Taiyou Action RPG",
+ "group": "Bokura no Taiyou - Taiyou Action RPG (Japan)",
+ "hack_group": "TGB & 太阳少年爱好者汉化组",
  "id": "ver-gba-ac52552f",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "A09C0807",
   "no_intro_name": "Bokura no Taiyou - Taiyou Action RPG (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "U3IJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Bokura no Taiyou - Taiyou Action RPG (Japan)",
   "zh-Hans": "我们的太阳 - 太阳动作RPG"
  },
- "vendor": "TGB & 太阳少年爱好者汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

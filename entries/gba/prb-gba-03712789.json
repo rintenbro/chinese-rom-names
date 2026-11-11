@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "03712789",
+   "name": "钢弹SEED - 与你共赴战场[盗版&Kunlunshen](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Kidou Senshi Gundam SEED - Tomo to Kimi to Koko de. (Japan)",
+ "hack_group": "盗版&Kunlunshen",
+ "id": "prb-gba-03712789",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "73BF384B",
+  "no_intro_name": "Kidou Senshi Gundam SEED - Tomo to Kimi to Koko de. (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "钢弹SEED - 与你共赴战场"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

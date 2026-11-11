@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A4F621D2",
+   "name": "封神榜 伏魔三太子(繁)[晶科泰](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "Fengshenbang (China) (Jncota)",
+ "hack_group": "晶科泰",
+ "id": "prb-famicom-a4f621d2",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "97198B50",
+  "no_intro_name": "Fengshenbang (China) (Jncota)",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "封神榜 伏魔三太子"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

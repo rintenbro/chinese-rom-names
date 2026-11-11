@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "95265FCD",
+   "name": "特蕾西亚 致艾米尔 V3(简)(oidoid+Xiao9+小方)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Theresia.. - Dear Emile (Japan)",
+ "hack_group": "oidoid+Xiao9+小方",
+ "id": "prb-nds-95265fcd",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "0D1E0F8D",
+  "no_intro_name": "Theresia.. - Dear Emile (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "特蕾西亚 致艾米尔 V3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

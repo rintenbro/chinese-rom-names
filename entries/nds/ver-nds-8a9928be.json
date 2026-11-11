@@ -11,10 +11,9 @@
    "size": 64492576
   }
  ],
- "group": "Call of Duty 4 - Modern Warfare",
+ "group": "Call of Duty 4 - Modern Warfare (USA)",
+ "hack_group": "巴士汉化组",
  "id": "ver-nds-8a9928be",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "E9DCBAFC",
   "no_intro_name": "Call of Duty 4 - Modern Warfare (USA)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YCOE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Call of Duty 4 - Modern Warfare (USA)",
   "zh-Hans": "使命召唤4 现代战争"
  },
- "vendor": "巴士汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

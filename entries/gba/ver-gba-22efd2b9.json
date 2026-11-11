@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Castlevania - Akatsuki no Minuet",
+ "group": "Castlevania - Akatsuki no Minuet (Japan)",
+ "hack_group": "九柳",
  "id": "ver-gba-22efd2b9",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "284E3092",
   "no_intro_name": "Castlevania - Akatsuki no Minuet (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "A2CJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Castlevania - Akatsuki no Minuet (Japan)",
   "zh-Hans": "恶魔城 - 晓月圆舞曲"
  },
- "vendor": "九柳",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

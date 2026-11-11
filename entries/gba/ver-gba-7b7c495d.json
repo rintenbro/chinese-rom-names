@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Higanbana",
+ "group": "Higanbana (Japan) (Rev 1)",
+ "hack_group": "1d4444",
  "id": "ver-gba-7b7c495d",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "C23AC287",
   "no_intro_name": "Higanbana (Japan) (Rev 1)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AHZJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Higanbana (Japan) (Rev 1)",
   "zh-Hans": "彼岸花"
  },
- "vendor": "1d4444",
+ "type": "game",
+ "vendor": "",
  "version": "v1.0"
 }

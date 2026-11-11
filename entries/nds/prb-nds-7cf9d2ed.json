@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7CF9D2ED",
+   "name": "俄罗斯方块聚会 豪华版 模拟器版(JP)(ACG汉化组)(256Mb).nds",
+   "size": 19467436
+  }
+ ],
+ "group": "Tetris Party Premium (Japan)",
+ "hack_group": "ACG汉化组",
+ "id": "prb-nds-7cf9d2ed",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "BF9768ED",
+  "no_intro_name": "Tetris Party Premium (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "俄罗斯方块聚会 豪华版 模拟器版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

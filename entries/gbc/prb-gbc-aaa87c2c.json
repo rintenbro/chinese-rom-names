@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AAA87C2C",
+   "name": "大贝兽物语 - 波永的迷宫2 (简) (unknown).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Daikaijuu Monogatari - Poyon no Dungeon Room 2 (Japan)",
+ "hack_group": "unknown",
+ "id": "prb-gbc-aaa87c2c",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "5E312730",
+  "no_intro_name": "Daikaijuu Monogatari - Poyon no Dungeon Room 2 (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "大贝兽物语 - 波永的迷宫2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

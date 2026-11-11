@@ -11,10 +11,9 @@
    "size": 2097152
   }
  ],
- "group": "Super Fighters 99",
+ "group": "Super Fighters 99 (Taiwan) (SGB Enhanced)",
+ "hack_group": "",
  "id": "ver-gbc-ce41b1bb",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "CE41B1BB",
   "no_intro_name": "Super Fighters 99 (Taiwan) (SGB Enhanced)",
@@ -23,12 +22,12 @@
  },
  "platform": "gbc",
  "script": "繁",
- "serial": "",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Super Fighters 99 (Taiwan) (SGB Enhanced)",
   "zh-Hans": "超级格斗99"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

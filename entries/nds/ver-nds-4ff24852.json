@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Korg DS-10 Synthesizer",
+ "group": "Korg DS-10 Synthesizer (Japan) (En)",
+ "hack_group": "Kulabbc",
  "id": "ver-nds-4ff24852",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "3DB18D10",
   "no_intro_name": "Korg DS-10 Synthesizer (Japan) (En)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YJ9J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Korg DS-10 Synthesizer (Japan) (En)",
   "zh-Hans": "KORG DS-10 电子乐合成模拟软件"
  },
- "vendor": "Kulabbc",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

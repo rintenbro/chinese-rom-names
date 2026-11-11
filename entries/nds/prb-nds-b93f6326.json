@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B93F6326",
+   "name": "生徒會一存(繁)4.25(JP)(zzz5655)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Seitokai no Ichizon - DS Suru Seitokai (Japan)",
+ "hack_group": "zzz5655",
+ "id": "prb-nds-b93f6326",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "FF360D06",
+  "no_intro_name": "Seitokai no Ichizon - DS Suru Seitokai (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "生徒會一存4.25"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

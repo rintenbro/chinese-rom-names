@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A812A9DC",
+   "name": "越南大战Advance[九班](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Metal Slug Advance (Japan)",
+ "hack_group": "九班",
+ "id": "prb-gba-a812a9dc",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "0CABA589",
+  "no_intro_name": "Metal Slug Advance (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "越南大战Advance"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

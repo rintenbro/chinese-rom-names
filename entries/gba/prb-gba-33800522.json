@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "33800522",
+   "name": "铁臂阿童木 - 阿童木心之秘密[Sakura0s](简)(JP)(63.23Mb).gba",
+   "size": 8287751
+  }
+ ],
+ "group": "Astro Boy - Tetsuwan Atom - Atom Heart no Himitsu (Japan)",
+ "hack_group": "Sakura0s",
+ "id": "prb-gba-33800522",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "E2D94B0D",
+  "no_intro_name": "Astro Boy - Tetsuwan Atom - Atom Heart no Himitsu (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "铁臂阿童木 - 阿童木心之秘密"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

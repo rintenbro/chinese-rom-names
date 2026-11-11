@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "949A0269",
+   "name": "小霸王中英文电脑学习卡(v6+)(简)[小霸王](CN)[ETC](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "小霸王中英文电脑学习卡",
+ "hack_group": "v6+ 小霸王",
+ "id": "cn-cc346bde2742",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "小霸王中英文电脑学习卡"
+ },
+ "type": "hack",
+ "vendor": "",
+ "version": ""
+}

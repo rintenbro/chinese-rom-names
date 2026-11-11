@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0A1A849E",
+   "name": "幽游白书2 格斗之章(简)(v1.8)(九尾猫)(32Mb).smc",
+   "size": 4194304
+  }
+ ],
+ "group": "Yu Yu Hakusho 2 - Kakutou no Shou (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-0a1a849e",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "EEF45A93",
+  "no_intro_name": "Yu Yu Hakusho 2 - Kakutou no Shou (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "幽游白书2 格斗之章"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.8"
+}

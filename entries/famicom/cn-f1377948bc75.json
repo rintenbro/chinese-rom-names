@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-109bd1c76a45/title.png"
+ },
+ "files": [
+  {
+   "crc32": "6EAEE999",
+   "name": "甲A 中国足球俱乐部之经营(简)[外星科技](CN)[SLG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "甲A 中国足球俱乐部之经营",
+ "hack_group": "外星科技",
+ "id": "cn-f1377948bc75",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "甲A 中国足球俱乐部之经营"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

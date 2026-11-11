@@ -11,10 +11,9 @@
    "size": 5242880
   }
  ],
- "group": "Super Dodge Ball Advance",
+ "group": "Super Dodge Ball Advance (USA)",
+ "hack_group": "天使汉化组",
  "id": "ver-gba-7c229741",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "1D31DC6B",
   "no_intro_name": "Super Dodge Ball Advance (USA)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "繁",
- "serial": "ADFE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Super Dodge Ball Advance (USA)",
   "zh-Hans": "超级躲避球Advance"
  },
- "vendor": "天使汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

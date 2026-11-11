@@ -11,10 +11,9 @@
    "size": 58051968
   }
  ],
- "group": "Meitantei Conan - Kako Kara no Zensou Kyoku",
+ "group": "Meitantei Conan - Kako Kara no Zensou Kyoku (Japan)",
+ "hack_group": "ACG汉化组",
  "id": "ver-nds-8d1ea568",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "EAB2134E",
   "no_intro_name": "Meitantei Conan - Kako Kara no Zensou Kyoku (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "TMKJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Meitantei Conan - Kako Kara no Zensou Kyoku (Japan)",
   "zh-Hans": "名侦探柯南 来自过去的前奏曲"
  },
- "vendor": "ACG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

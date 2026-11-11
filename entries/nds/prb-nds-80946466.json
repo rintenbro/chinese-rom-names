@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "80946466",
+   "name": "水坝与迷宫 v1.2(简)(罗伊SD)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Dun-Dam - Dungeons & Dam (Japan)",
+ "hack_group": "",
+ "id": "prb-nds-80946466",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "26A6DB4B",
+  "no_intro_name": "Dun-Dam - Dungeons & Dam (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "水坝与迷宫 v1.2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 134217728
   }
  ],
- "group": "Hoshi no Kirby Ultra Super Deluxe",
+ "group": "Hoshi no Kirby Ultra Super Deluxe (Japan)",
+ "hack_group": "KS 可伸缩汉化组",
  "id": "ver-nds-f44aefbb",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "46342D80",
   "no_intro_name": "Hoshi no Kirby Ultra Super Deluxe (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YKWJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Hoshi no Kirby Ultra Super Deluxe (Japan)",
   "zh-Hans": "星之卡比超究极豪华版"
  },
- "vendor": "KS / 可伸缩汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

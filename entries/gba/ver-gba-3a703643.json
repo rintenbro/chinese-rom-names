@@ -11,10 +11,9 @@
    "size": 8394016
   }
  ],
- "group": "Invader",
+ "group": "Invader (Europe)",
+ "hack_group": "",
  "id": "ver-gba-3a703643",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "A94D6058",
   "no_intro_name": "Invader (Europe)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AIVP",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Invader (Europe)",
   "zh-Hans": "侵略者"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

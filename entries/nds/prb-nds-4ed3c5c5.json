@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4ED3C5C5",
+   "name": "千万不能看(JP)(ACG汉化组)(512Mb).nds",
+   "size": 44739112
+  }
+ ],
+ "group": "Miteha Ikenai (Japan)",
+ "hack_group": "ACG汉化组",
+ "id": "prb-nds-4ed3c5c5",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "C2B94EEC",
+  "no_intro_name": "Miteha Ikenai (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "千万不能看"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

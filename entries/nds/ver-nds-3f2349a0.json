@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Plants vs. Zombies",
+ "group": "Plants vs. Zombies (USA)",
+ "hack_group": "Advance汉化组",
  "id": "ver-nds-3f2349a0",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "1ABDCC9C",
   "no_intro_name": "Plants vs. Zombies (USA)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "BWBE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Plants vs. Zombies (USA)",
   "zh-Hans": "植物大战僵尸"
  },
- "vendor": "Advance汉化组",
+ "type": "game",
+ "vendor": "",
  "version": "v1.0.1"
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FCEF3257",
+   "name": "朱卡和单音麦纳斯[Advance汉化组](v1.0)(简)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Juka and the Monophonic Menace (USA) (En,Fr,Es)",
+ "hack_group": "Advance汉化组",
+ "id": "prb-gba-fcef3257",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "0C04A2F9",
+  "no_intro_name": "Juka and the Monophonic Menace (USA) (En,Fr,Es)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "朱卡和单音麦纳斯"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

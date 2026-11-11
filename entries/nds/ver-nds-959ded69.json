@@ -11,10 +11,9 @@
    "size": 62084096
   }
  ],
- "group": "Blood of Bahamut",
+ "group": "Blood of Bahamut (Japan)",
+ "hack_group": "小黑屋汉化组",
  "id": "ver-nds-959ded69",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "1306A2ED",
   "no_intro_name": "Blood of Bahamut (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "繁",
- "serial": "CYJJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Blood of Bahamut (Japan)",
   "zh-Hans": "巴哈姆特之血 V2"
  },
- "vendor": "小黑屋汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

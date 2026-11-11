@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C707436E",
+   "name": "2048-打开天堂大门.gba",
+   "size": 16777216
+  }
+ ],
+ "group": "MAER Heaven - Knockin' on Heaven's Door (Japan)",
+ "hack_group": "",
+ "id": "prb-gba-c707436e",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "EF6807CA",
+  "no_intro_name": "MAER Heaven - Knockin' on Heaven's Door (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "打开天堂大门"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

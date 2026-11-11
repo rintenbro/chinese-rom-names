@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AA4C4B5C",
+   "name": "猫捉老鼠(简)[奇玉](JP)[ACT](0.18Mb).nes",
+   "size": 24592
+  }
+ ],
+ "group": "Mappy (Japan) (En)",
+ "hack_group": "奇玉",
+ "id": "prb-famicom-aa4c4b5c",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Mappy (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "猫捉老鼠"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

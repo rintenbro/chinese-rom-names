@@ -11,10 +11,9 @@
    "size": 8415616
   }
  ],
- "group": "King of Fighters EX, The - NeoBlood",
+ "group": "King of Fighters EX, The - NeoBlood (Japan)",
+ "hack_group": "qqgba",
  "id": "ver-gba-2f318d09",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "0814C78D",
   "no_intro_name": "King of Fighters EX, The - NeoBlood (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AKOJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "King of Fighters EX, The - NeoBlood (Japan)",
   "zh-Hans": "拳皇EX - 新血"
  },
- "vendor": "qqgba",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

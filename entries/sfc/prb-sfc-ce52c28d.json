@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CE52C28D",
+   "name": "魔兽使传说(简)(修正版)(小鬼混)(16Mb).sfc",
+   "size": 2097152
+  }
+ ],
+ "group": "Power of the Hired (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-ce52c28d",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "CF276C80",
+  "no_intro_name": "Power of the Hired (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "魔兽使传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

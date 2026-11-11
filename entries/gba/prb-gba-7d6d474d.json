@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7D6D474D",
+   "name": "洛克人Battle Network 2[Flyeyes](v20090527) (繁)(US)(77.43Mb).gba",
+   "size": 10150016
+  }
+ ],
+ "group": "Mega Man - Battle Network 2 (USA)",
+ "hack_group": "Flyeyes",
+ "id": "prb-gba-7d6d474d",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "6D961F82",
+  "no_intro_name": "Mega Man - Battle Network 2 (USA)",
+  "region": "USA"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "洛克人Battle Network 2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20090527"
+}

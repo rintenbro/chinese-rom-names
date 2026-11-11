@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Rockman ZX - Advent",
+ "group": "Rockman ZX - Advent (Japan)",
+ "hack_group": "Japan",
  "id": "ver-nds-89c919bc",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "89C919BC",
   "no_intro_name": "Rockman ZX - Advent (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YZXJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Rockman ZX - Advent (Japan)",
   "zh-Hans": "Rockman ZX - Advent"
  },
- "vendor": "Japan",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

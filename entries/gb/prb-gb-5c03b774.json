@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5C03B774",
+   "name": "哆啦A梦2 动物星历险记(动物行星传说)(简)(v1.0)(RangerMarsh)(2Mb).gb",
+   "size": 262144
+  }
+ ],
+ "group": "Doraemon 2 - Animal Planet Densetsu (Japan)",
+ "hack_group": "RangerMarsh",
+ "id": "prb-gb-5c03b774",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "843BD5BC",
+  "no_intro_name": "Doraemon 2 - Animal Planet Densetsu (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "哆啦A梦2 动物星历险记"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

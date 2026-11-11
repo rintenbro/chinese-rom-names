@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "324FE6C5",
+   "name": "最终幻想6 (简) (v1.1) (日菜单)(勇者汉化组)(28Mb).sfc",
+   "size": 3670016
+  }
+ ],
+ "group": "Final Fantasy VI (Japan)",
+ "hack_group": "勇者汉化组",
+ "id": "prb-sfc-324fe6c5",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Final Fantasy VI (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "最终幻想6"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

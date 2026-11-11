@@ -11,10 +11,9 @@
    "size": 33554432
   }
  ],
- "group": "Puyo Puyo! - Puyopuyo 15th Anniversary",
+ "group": "Puyo Puyo! - Puyopuyo 15th Anniversary (Japan)",
+ "hack_group": "珊瑚汉化组",
  "id": "ver-nds-8bf2105d",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "6F0D0B44",
   "no_intro_name": "Puyo Puyo! - Puyopuyo 15th Anniversary (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "APUJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Puyo Puyo! - Puyopuyo 15th Anniversary (Japan)",
   "zh-Hans": "噗哟噗哟15周年"
  },
- "vendor": "珊瑚汉化组",
+ "type": "game",
+ "vendor": "",
  "version": "v01"
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E69950D6",
+   "name": "1500 DS Spirits Vol.10 围棋(JP)(HOho汉化组)(64Mb).nds",
+   "size": 8198432
+  }
+ ],
+ "group": "1500 DS Spirits Vol. 10 - Igo (Japan)",
+ "hack_group": "HOho汉化组",
+ "id": "prb-nds-e69950d6",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "2177A1BF",
+  "no_intro_name": "1500 DS Spirits Vol. 10 - Igo (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "1500 DS Spirits Vol.10 围棋"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

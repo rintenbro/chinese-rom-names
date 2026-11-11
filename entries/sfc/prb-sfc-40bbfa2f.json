@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "40BBFA2F",
+   "name": "幽幽白书特别篇(简)(九尾猫)(32Mb).smc",
+   "size": 4194304
+  }
+ ],
+ "group": "Yu Yu Hakusho - Tokubetsu Hen (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-40bbfa2f",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Yu Yu Hakusho - Tokubetsu Hen (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "幽幽白书特别篇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

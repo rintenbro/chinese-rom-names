@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "351124CC",
+   "name": "热血高校躲避球部 足球篇(繁)[热血的鱼缸](JP)[SPG](7Mb).nes",
+   "size": 917536
+  }
+ ],
+ "group": "Nekketsu Koukou Dodgeball-bu - Soccer Hen (Japan)",
+ "hack_group": "热血的鱼缸",
+ "id": "prb-famicom-351124cc",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "DF44D99C",
+  "no_intro_name": "Nekketsu Koukou Dodgeball-bu - Soccer Hen (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "热血高校躲避球部 足球篇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

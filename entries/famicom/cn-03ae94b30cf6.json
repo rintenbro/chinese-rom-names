@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-122ca3f41b70/title.png"
+ },
+ "files": [
+  {
+   "crc32": "1EFF66B9",
+   "name": "仙剑奇侠(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "group": "仙剑奇侠",
+ "hack_group": "南晶科技",
+ "id": "cn-03ae94b30cf6",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "仙剑奇侠"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

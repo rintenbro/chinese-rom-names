@@ -11,10 +11,9 @@
    "size": 33554432
   }
  ],
- "group": "Mother 3",
+ "group": "Mother 3 (Japan)",
+ "hack_group": "Mother3 漫游+空气+少年不知愁",
  "id": "ver-gba-a1e9070d",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "42AC9CB9",
   "no_intro_name": "Mother 3 (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "A3UJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Mother 3 (Japan)",
   "zh-Hans": "地球冒险3"
  },
- "vendor": "Mother3 / 漫游+空气+少年不知愁",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

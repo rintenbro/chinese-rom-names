@@ -11,10 +11,9 @@
    "size": 4949819
   }
  ],
- "group": "Advance Wars",
+ "group": "Advance Wars (USA)",
+ "hack_group": "千岛",
  "id": "ver-gba-4ca9d5aa",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "DBEF116C",
   "no_intro_name": "Advance Wars (USA)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AWRE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Advance Wars (USA)",
   "zh-Hans": "高级战争"
  },
- "vendor": "千岛",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AE3B9873",
+   "name": "勇者斗恶龙4(实机修复)(简)[外星科技](JP)[RPG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Dragon Quest IV - Michibikareshi Monotachi (Japan)",
+ "hack_group": "外星科技",
+ "id": "prb-famicom-ae3b9873",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "D2ABF4D7",
+  "no_intro_name": "Dragon Quest IV - Michibikareshi Monotachi (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "勇者斗恶龙4"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

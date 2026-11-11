@@ -1,0 +1,33 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "429FAF0A",
+   "name": "皇室血裔 (繁) (永盛)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Huangshi Xue Yi (China) (Pirate)",
+ "hack_group": "",
+ "id": "ver-megadrive-429faf0a",
+ "original": {
+  "crc32": "429FAF0A",
+  "no_intro_name": "Huangshi Xue Yi (China) (Pirate)",
+  "region": "China",
+  "size": 1048576
+ },
+ "platform": "megadrive",
+ "script": "繁",
+ "source": "no-intro",
+ "status": "verified",
+ "titles": {
+  "zh-Hans": "皇室血裔"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

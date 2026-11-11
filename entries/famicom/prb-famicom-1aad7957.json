@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-48f386363770/title.png"
+ },
+ "files": [
+  {
+   "crc32": "1AAD7957",
+   "name": "梁山英雄(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "group": "Liang Shan Heroes (China) [CHS]",
+ "hack_group": "南晶科技",
+ "id": "prb-famicom-1aad7957",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Liang Shan Heroes (China) [CHS]",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "梁山英雄"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

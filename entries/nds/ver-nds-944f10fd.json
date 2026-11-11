@@ -11,10 +11,9 @@
    "size": 61921832
   }
  ],
- "group": "Metal Saga - Hagane no Kisetsu",
+ "group": "Metal Saga - Hagane no Kisetsu (Japan)",
+ "hack_group": "PGCG汉化组",
  "id": "ver-nds-944f10fd",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "09D9E5F1",
   "no_intro_name": "Metal Saga - Hagane no Kisetsu (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "AMSJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Metal Saga - Hagane no Kisetsu (Japan)",
   "zh-Hans": "重装机兵 钢之季节"
  },
- "vendor": "PGCG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

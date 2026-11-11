@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D2C4A56E",
+   "name": "光明与黑暗 (简) (灰米等)(12Mb).md",
+   "size": 1572864
+  }
+ ],
+ "group": "Shining and the Darkness (Japan)",
+ "hack_group": "",
+ "id": "prb-megadrive-d2c4a56e",
+ "platform": "megadrive",
+ "probable_original": {
+  "crc32": "496AF51C",
+  "no_intro_name": "Shining and the Darkness (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "光明与黑暗"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "415D7C05",
+   "name": "魔界村(简)[Advance](JP)[STG](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Makaimura (Japan) (En)",
+ "hack_group": "Advance",
+ "id": "prb-famicom-415d7c05",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "1BF83927",
+  "no_intro_name": "Makaimura (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "魔界村"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "42060F7F",
+   "name": "数码宝贝传说 日光 最终版(JP)(小黑屋&ACG汉化组)(512Mb).nds",
+   "size": 60515520
+  }
+ ],
+ "group": "Digimon Story - Sunburst (Japan)",
+ "hack_group": "小黑屋&ACG汉化组",
+ "id": "prb-nds-42060f7f",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "2D26E7DE",
+  "no_intro_name": "Digimon Story - Sunburst (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "数码宝贝传说 日光 最终版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

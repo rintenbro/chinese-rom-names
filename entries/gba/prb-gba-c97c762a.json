@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C97C762A",
+   "name": "哈利波特 - 魔法石[shikeyu](v0.1)(简)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Harry Potter to Kenja no Ishi (Japan)",
+ "hack_group": "shikeyu",
+ "id": "prb-gba-c97c762a",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "A069750D",
+  "no_intro_name": "Harry Potter to Kenja no Ishi (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "哈利波特 - 魔法石"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v0.1"
+}

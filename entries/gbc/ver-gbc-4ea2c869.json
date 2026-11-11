@@ -11,10 +11,9 @@
    "size": 1048576
   }
  ],
- "group": "2003 Harry Potter 3",
+ "group": "2003 Harry Potter 3 (Taiwan)",
+ "hack_group": "",
  "id": "ver-gbc-4ea2c869",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "4EA2C869",
   "no_intro_name": "2003 Harry Potter 3 (Taiwan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gbc",
  "script": "繁",
- "serial": "",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "2003 Harry Potter 3 (Taiwan)",
   "zh-Hans": "哈利波特3"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

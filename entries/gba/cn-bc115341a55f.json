@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gba/cn-0052896fac73/title.png"
+ },
+ "files": [
+  {
+   "crc32": "3B3A72B1",
+   "name": "空花补完2.2.gba",
+   "size": 33554432
+  }
+ ],
+ "group": "空花补完2.2",
+ "hack_group": "",
+ "id": "cn-bc115341a55f",
+ "platform": "gba",
+ "script": "未标注",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "空花补完2.2"
+ },
+ "type": "hack",
+ "vendor": "",
+ "version": ""
+}

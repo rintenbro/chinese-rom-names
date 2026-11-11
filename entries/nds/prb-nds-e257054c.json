@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E257054C",
+   "name": "召唤之夜 双生时代 精灵们的共鸣(繁)(JP)(巴士汉化组&PGCG汉化组)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Summon Night Twin Age - Seirei-tachi no Koe (Japan)",
+ "hack_group": "巴士汉化组&PGCG汉化组",
+ "id": "prb-nds-e257054c",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "3592C2E8",
+  "no_intro_name": "Summon Night Twin Age - Seirei-tachi no Koe (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "召唤之夜 双生时代 精灵们的共鸣"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

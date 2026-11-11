@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "53B6CACF",
+   "name": "风之克罗帝亚G2 梦幻冠军锦标赛[飞雨影](v1.01)(简)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Kaze no Klonoa G2 - Dream Champ Tournament (Japan)",
+ "hack_group": "飞雨影",
+ "id": "prb-gba-53b6cacf",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "8D98DC2C",
+  "no_intro_name": "Kaze no Klonoa G2 - Dream Champ Tournament (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "风之克罗帝亚G2 梦幻冠军锦标赛"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.01"
+}

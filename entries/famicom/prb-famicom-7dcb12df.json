@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7DCB12DF",
+   "name": "太阳超人(简)[MM之神](EU)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Sunman (Europe) (Proto)",
+ "hack_group": "MM之神",
+ "id": "prb-famicom-7dcb12df",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "7E0A81CF",
+  "no_intro_name": "Sunman (Europe) (Proto)",
+  "region": "Europe"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "太阳超人"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

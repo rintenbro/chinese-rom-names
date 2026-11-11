@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "71CD0FA7",
+   "name": "口袋妖怪红(宝可梦红)(v1.2.0)(简)(星夜之幻+TomJinW)(8Mb).gb",
+   "size": 2097152
+  }
+ ],
+ "group": "Pocket Monsters - Aka (Japan) (SGB Enhanced)",
+ "hack_group": "星夜之幻+TomJinW",
+ "id": "prb-gb-71cd0fa7",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Pocket Monsters - Aka (Japan) (SGB Enhanced)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪红"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.2.0"
+}

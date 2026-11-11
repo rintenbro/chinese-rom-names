@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C2DC480B",
+   "name": "恶魔城 废墟的肖像(繁)(JP)(Goldeneye)(512Mb).nds",
+   "size": 47159520
+  }
+ ],
+ "group": "Akumajou Dracula - Gallery of Labyrinth (Japan)",
+ "hack_group": "Goldeneye",
+ "id": "prb-nds-c2dc480b",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "D97D85AE",
+  "no_intro_name": "Akumajou Dracula - Gallery of Labyrinth (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "恶魔城 废墟的肖像"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

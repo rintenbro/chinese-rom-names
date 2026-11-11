@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "94F396B6",
+   "name": "超级马力欧乐园2 6个金币 上色版(字体优化)(简)(verkkars)(8Mb).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Super Mario Land 2 - 6 Golden Coins (USA, Europe)",
+ "hack_group": "verkkars",
+ "id": "prb-gbc-94f396b6",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Super Mario Land 2 - 6 Golden Coins (USA, Europe)",
+  "region": "USA, Europe"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级马力欧乐园2 6个金币 上色版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "LEGO Star Wars - The Video Game",
+ "group": "LEGO Star Wars - The Video Game (Japan)",
+ "hack_group": "空气",
  "id": "ver-gba-15ce797e",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "55A5AAF2",
   "no_intro_name": "LEGO Star Wars - The Video Game (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BLWJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "LEGO Star Wars - The Video Game (Japan)",
   "zh-Hans": "乐高星球大战 - 影视游戏"
  },
- "vendor": "空气",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

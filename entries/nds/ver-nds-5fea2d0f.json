@@ -11,10 +11,9 @@
    "size": 102909120
   }
  ],
- "group": "Final Fantasy III",
+ "group": "Final Fantasy III (Japan)",
+ "hack_group": "Goldeneye",
  "id": "ver-nds-5fea2d0f",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "54B95690",
   "no_intro_name": "Final Fantasy III (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "繁",
- "serial": "AFFJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Final Fantasy III (Japan)",
   "zh-Hans": "最终幻想3V5 Goldeneye"
  },
- "vendor": "Goldeneye",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

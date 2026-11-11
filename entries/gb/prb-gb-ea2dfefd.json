@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "EA2DFEFD",
+   "name": "超级马里奥大陆(简)(v2.0)(星夜之幻)(0.5Mb).gb",
+   "size": 131072
+  }
+ ],
+ "group": "Super Mario Land (World)",
+ "hack_group": "",
+ "id": "prb-gb-ea2dfefd",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Super Mario Land (World)",
+  "region": "World"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级马里奥大陆"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v2.0"
+}

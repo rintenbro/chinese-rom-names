@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BF42A72C",
+   "name": "魔法假日 五星连珠(简)(爱折腾的咕)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Magical Starsign (USA)",
+ "hack_group": "",
+ "id": "prb-nds-bf42a72c",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "260E90B2",
+  "no_intro_name": "Magical Starsign (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "魔法假日 五星连珠"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

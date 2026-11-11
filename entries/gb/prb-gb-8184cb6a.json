@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8184CB6A",
+   "name": "第二次机器人大战G(简)(D商+罗伊SD)(8Mb).gb",
+   "size": 1048576
+  }
+ ],
+ "group": "Dai-2-ji Super Robot Taisen G (Japan) (SGB Enhanced)",
+ "hack_group": "D商+罗伊SD",
+ "id": "prb-gb-8184cb6a",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "DF8B2B20",
+  "no_intro_name": "Dai-2-ji Super Robot Taisen G (Japan) (SGB Enhanced)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "第二次机器人大战G"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 7095848
   }
  ],
- "group": "Rekishi Adventure - Quiz Sangokushi Tsuu DS",
+ "group": "Rekishi Adventure - Quiz Sangokushi Tsuu DS (Japan)",
+ "hack_group": "ACG汉化组",
  "id": "ver-nds-9002e573",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "F8B0B86C",
   "no_intro_name": "Rekishi Adventure - Quiz Sangokushi Tsuu DS (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "CQ9J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Rekishi Adventure - Quiz Sangokushi Tsuu DS (Japan)",
   "zh-Hans": "历史冒险 问答三国志通DS"
  },
- "vendor": "ACG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

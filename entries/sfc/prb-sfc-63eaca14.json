@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "63EACA14",
+   "name": "兰古瑞萨Der (简) (v20101105)(madcell & dehepo)(24Mb).sfc",
+   "size": 3145728
+  }
+ ],
+ "group": "Langrisser, Der (Japan)",
+ "hack_group": "madcell & dehepo",
+ "id": "prb-sfc-63eaca14",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "7AEDD703",
+  "no_intro_name": "Langrisser, Der (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "兰古瑞萨Der"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20101105"
+}

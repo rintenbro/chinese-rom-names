@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-1198c73bb41b/title.png"
+ },
+ "files": [
+  {
+   "crc32": "30755957",
+   "name": "小学语文达标乐园(简)[小霸王](CN)[ETC](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "group": "小学语文达标乐园",
+ "hack_group": "小霸王",
+ "id": "cn-7fbfc51cec4d",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "小学语文达标乐园"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

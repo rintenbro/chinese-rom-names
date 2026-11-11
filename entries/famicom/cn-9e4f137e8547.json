@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-b820c1c237b0/title.png"
+ },
+ "files": [
+  {
+   "crc32": "E5119EED",
+   "name": "美猴王(解密版)(简)[外星科技+WXN](CN)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "美猴王",
+ "hack_group": "外星科技+WXN",
+ "id": "cn-9e4f137e8547",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "美猴王"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

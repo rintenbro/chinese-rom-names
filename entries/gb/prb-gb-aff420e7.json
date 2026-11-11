@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AFF420E7",
+   "name": "坦克大战 (简) (madcell)(0.25Mb).gb",
+   "size": 32768
+  }
+ ],
+ "group": "BattleCity (Japan) (En)",
+ "hack_group": "madcell",
+ "id": "prb-gb-aff420e7",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "A37A814A",
+  "no_intro_name": "BattleCity (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "坦克大战"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

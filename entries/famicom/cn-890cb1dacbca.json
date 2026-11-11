@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-da5487f8808f/title.png"
+ },
+ "files": [
+  {
+   "crc32": "4B2FE379",
+   "name": "英语词霸(简)[小霸王](CN)[ETC](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "英语词霸",
+ "hack_group": "小霸王",
+ "id": "cn-890cb1dacbca",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "英语词霸"
+ },
+ "type": "tool",
+ "vendor": "",
+ "version": ""
+}

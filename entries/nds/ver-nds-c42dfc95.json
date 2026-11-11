@@ -11,10 +11,9 @@
    "size": 103146720
   }
  ],
- "group": "Ragnarok Online DS",
+ "group": "Ragnarok Online DS (Japan)",
+ "hack_group": "ACG汉化组&翼之梦",
  "id": "ver-nds-c42dfc95",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "ABD8B717",
   "no_intro_name": "Ragnarok Online DS (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "YRBJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Ragnarok Online DS (Japan)",
   "zh-Hans": "仙境传说DS"
  },
- "vendor": "ACG汉化组&翼之梦",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

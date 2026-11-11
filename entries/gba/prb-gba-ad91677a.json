@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AD91677A",
+   "name": "奥特警备队 怪兽袭击[Advance汉化组](v2.6)(简)(128Mb).gba",
+   "size": 16854304
+  }
+ ],
+ "group": "Ultra Keibitai - Monster Attack (Japan)",
+ "hack_group": "Advance汉化组",
+ "id": "prb-gba-ad91677a",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "C03785C7",
+  "no_intro_name": "Ultra Keibitai - Monster Attack (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "奥特警备队 怪兽袭击"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v2.6"
+}

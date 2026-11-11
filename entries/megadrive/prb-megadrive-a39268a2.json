@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A39268A2",
+   "name": "梦幻模拟战(修正版)(简)(永盛&Lancelot)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Langrisser (Japan)",
+ "hack_group": "永盛&Lancelot",
+ "id": "prb-megadrive-a39268a2",
+ "platform": "megadrive",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Langrisser (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "梦幻模拟战"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

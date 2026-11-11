@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Nounai Kakusei Honeycomb Beat",
+ "group": "Nounai Kakusei Honeycomb Beat (Japan)",
+ "hack_group": "GV胜利汉化组",
  "id": "ver-nds-8242d2a7",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "648B2933",
   "no_intro_name": "Nounai Kakusei Honeycomb Beat (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "AH6J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Nounai Kakusei Honeycomb Beat (Japan)",
   "zh-Hans": "脑内觉醒"
  },
- "vendor": "GV胜利汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

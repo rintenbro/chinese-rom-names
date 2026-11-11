@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "EA2A572A",
+   "name": "摸摸瓦力欧制造(繁)(CN)(laubong1)(256Mb).nds",
+   "size": 33191592
+  }
+ ],
+ "group": "Momo Waliou Zhizao (China) (iDS)",
+ "hack_group": "laubong1",
+ "id": "prb-nds-ea2a572a",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "29E379F3",
+  "no_intro_name": "Momo Waliou Zhizao (China) (iDS)",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "摸摸瓦力欧制造"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

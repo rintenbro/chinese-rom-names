@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "EF0FCB69",
+   "name": "鬼神童子 - 烈斗雷传 (繁) (v0.9)(勇者汉化组)(16Mb).sfc",
+   "size": 2097152
+  }
+ ],
+ "group": "Kishin Douji Zenki - Battle Raiden (Japan)",
+ "hack_group": "勇者汉化组",
+ "id": "prb-sfc-ef0fcb69",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "0BECFC92",
+  "no_intro_name": "Kishin Douji Zenki - Battle Raiden (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "鬼神童子 - 烈斗雷传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v0.9"
+}

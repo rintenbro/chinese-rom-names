@@ -11,10 +11,9 @@
    "size": 15628368
   }
  ],
- "group": "Saiyuuki Kinkaku Ginkaku no Inbou",
+ "group": "Saiyuuki Kinkaku Ginkaku no Inbou (Japan)",
+ "hack_group": "的士汉化组",
  "id": "ver-nds-c41dcaeb",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "AC197404",
   "no_intro_name": "Saiyuuki Kinkaku Ginkaku no Inbou (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "AUQJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Saiyuuki Kinkaku Ginkaku no Inbou (Japan)",
   "zh-Hans": "西游记 金角·银角的阴谋"
  },
- "vendor": "的士汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

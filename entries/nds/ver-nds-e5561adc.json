@@ -11,10 +11,9 @@
    "size": 9843160
   }
  ],
- "group": "Kiwami Birei Aquarium - Sekai no Sakana to Iruka Kujira-tachi",
+ "group": "Kiwami Birei Aquarium - Sekai no Sakana to Iruka Kujira-tachi (Japan)",
+ "hack_group": "兔友汉化组",
  "id": "ver-nds-e5561adc",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "B90E74BB",
   "no_intro_name": "Kiwami Birei Aquarium - Sekai no Sakana to Iruka Kujira-tachi (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "CQIJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Kiwami Birei Aquarium - Sekai no Sakana to Iruka Kujira-tachi (Japan)",
   "zh-Hans": "美丽水族馆 世界的鱼和海豚、鲸鱼"
  },
- "vendor": "兔友汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

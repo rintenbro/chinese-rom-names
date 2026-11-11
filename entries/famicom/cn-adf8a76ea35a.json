@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-45b73c30c663/title.png"
+ },
+ "files": [
+  {
+   "crc32": "725A7EAE",
+   "name": "口袋怪兽3(简)[恒格电子](CN)[RPG](8Mb).nes",
+   "size": 1048848
+  }
+ ],
+ "group": "口袋怪兽3",
+ "hack_group": "恒格电子",
+ "id": "cn-adf8a76ea35a",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "口袋怪兽3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

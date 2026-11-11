@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F5FFCCFB",
+   "name": "星之卡比 驾到怪盗洛切团(参上！多罗奇团)官译汉化版(那个汉化组)(512Mb).nds",
+   "size": 51727724
+  }
+ ],
+ "group": "Hoshi no Kirby - Sanjou! Dorotche Dan (Japan)",
+ "hack_group": "那个汉化组",
+ "id": "prb-nds-f5ffccfb",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "F21DBBB8",
+  "no_intro_name": "Hoshi no Kirby - Sanjou! Dorotche Dan (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "星之卡比 驾到怪盗洛切团官译汉化版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Touhoku Daigaku Mirai Kagaku Gijutsu Kyoudou Kenkyuu Center - Kawashima Ryuuta Kyouju Kanshuu - Nou o Kitaeru Otona no DS Training",
+ "group": "Touhoku Daigaku Mirai Kagaku Gijutsu Kyoudou Kenkyuu Center - Kawashima Ryuuta Kyouju Kanshuu - Nou o Kitaeru Otona no DS Training (Japan)",
+ "hack_group": "TGB",
  "id": "ver-nds-6c4f670e",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "6CF8DD39",
   "no_intro_name": "Touhoku Daigaku Mirai Kagaku Gijutsu Kyoudou Kenkyuu Center - Kawashima Ryuuta Kyouju Kanshuu - Nou o Kitaeru Otona no DS Training (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "ANDJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Touhoku Daigaku Mirai Kagaku Gijutsu Kyoudou Kenkyuu Center - Kawashima Ryuuta Kyouju Kanshuu - Nou o Kitaeru Otona no DS Training (Japan)",
   "zh-Hans": "川岛隆太教授之脑力锻炼 大人的DS练习"
  },
- "vendor": "TGB",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

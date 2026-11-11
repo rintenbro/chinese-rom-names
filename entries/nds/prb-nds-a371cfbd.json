@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A371CFBD",
+   "name": "牧场物语 风之集市 黑体版(JP)(SOMA&YOME汉化组)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Bokujou Monogatari - Youkoso! Kaze no Bazaar e (Japan)",
+ "hack_group": "SOMA&YOME汉化组",
+ "id": "prb-nds-a371cfbd",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "90C10BD9",
+  "no_intro_name": "Bokujou Monogatari - Youkoso! Kaze no Bazaar e (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "牧场物语 风之集市 黑体版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "53352015",
+   "name": "快打旋风3 (简)(Advance汉化组)(32Mb).smc",
+   "size": 4194304
+  }
+ ],
+ "group": "Final Fight Tough (Japan)",
+ "hack_group": "Advance汉化组",
+ "id": "prb-sfc-53352015",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Final Fight Tough (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "快打旋风3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

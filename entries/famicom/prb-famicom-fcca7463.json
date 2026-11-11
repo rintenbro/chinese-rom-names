@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FCCA7463",
+   "name": "口袋里的妖怪(简)[高伟](US)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Monster in My Pocket (USA)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-fcca7463",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Monster in My Pocket (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋里的妖怪"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

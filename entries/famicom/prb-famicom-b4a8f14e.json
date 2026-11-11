@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B4A8F14E",
+   "name": "塞外奇侠传(简)[恒格电子](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Saiwai Qixia Zhuan (China)",
+ "hack_group": "恒格电子",
+ "id": "prb-famicom-b4a8f14e",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "FEB75E01",
+  "no_intro_name": "Saiwai Qixia Zhuan (China)",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "塞外奇侠传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

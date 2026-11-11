@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "97C23C78",
+   "name": "名侦探柯南与金田一 交错的两位名侦探(JP)(ACG汉化组)(512Mb).nds",
+   "size": 45505236
+  }
+ ],
+ "group": "Meitantei Conan & Kindaichi Shounen no Jikenbo - Meguriau Futari no Meitantei (Japan)",
+ "hack_group": "ACG汉化组",
+ "id": "prb-nds-97c23c78",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "2C0870E9",
+  "no_intro_name": "Meitantei Conan & Kindaichi Shounen no Jikenbo - Meguriau Futari no Meitantei (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "名侦探柯南与金田一 交错的两位名侦探"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3D53C8AD",
+   "name": "中东战争(v1.1)(简)[汉化你妹](US)[STG](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Silk Worm (USA)",
+ "hack_group": "汉化你妹",
+ "id": "prb-famicom-3d53c8ad",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Silk Worm (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "中东战争"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

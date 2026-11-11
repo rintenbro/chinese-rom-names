@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DCA634D8",
+   "name": "四狂神战记2(v241225)(繁)(飞雨影)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Estpolis Denki II (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-dca634d8",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Estpolis Denki II (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "四狂神战记2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v241225"
+}

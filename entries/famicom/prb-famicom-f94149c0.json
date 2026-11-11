@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F94149C0",
+   "name": "赌神 掷骰战士(修正版)(简)[先锋卡通+星夜之幻](JP)[TAB](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Sugoro Quest - Dice no Senshitachi (Japan)",
+ "hack_group": "先锋卡通+星夜之幻",
+ "id": "prb-famicom-f94149c0",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Sugoro Quest - Dice no Senshitachi (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "赌神 掷骰战士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

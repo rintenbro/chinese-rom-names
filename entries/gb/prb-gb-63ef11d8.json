@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "63EF11D8",
+   "name": "口袋妖怪红(精灵宝可梦红)(繁)(美版港译)(盗商+ljoyy)(8Mb).gb",
+   "size": 1048576
+  }
+ ],
+ "group": "Pokemon - Red Version (USA, Europe) (SGB Enhanced)",
+ "hack_group": "盗商+ljoyy",
+ "id": "prb-gb-63ef11d8",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "9F7FDD53",
+  "no_intro_name": "Pokemon - Red Version (USA, Europe) (SGB Enhanced)",
+  "region": "USA"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪红"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

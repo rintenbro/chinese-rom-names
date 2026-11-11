@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-8a2268c5dcb2/title.png"
+ },
+ "files": [
+  {
+   "crc32": "7CDF4636",
+   "name": "十面埋伏 - 风云篇 (繁) (天才小子).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Ambush from Ten Sides - Fung Wan Chapter (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-gbc-7cdf4636",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Ambush from Ten Sides - Fung Wan Chapter (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "十面埋伏 - 风云篇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "779B5BC5",
+   "name": "月面的阿努比斯(简)(v1.0)(1d4444+CLARK.H)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Getsumen no Anubis (Japan)",
+ "hack_group": "1d4444+CLARK.H",
+ "id": "prb-sfc-779b5bc5",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Getsumen no Anubis (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "月面的阿努比斯"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

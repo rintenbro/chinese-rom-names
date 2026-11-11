@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "531F59E7",
+   "name": "水管工马里奥(v2)(简)[MS](JUE)[ACT](0.18Mb).nes",
+   "size": 24592
+  }
+ ],
+ "group": "Mario Bros. (Europe) (PAL-MA-0)",
+ "hack_group": "JUE",
+ "id": "prb-famicom-531f59e7",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "BA8659C0",
+  "no_intro_name": "Mario Bros. (Europe) (PAL-MA-0)",
+  "region": "Europe"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "水管工马里奥"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v2"
+}

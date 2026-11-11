@@ -11,10 +11,9 @@
    "size": 4194304
   }
  ],
- "group": "Minna no Soft Series - Shanghai",
+ "group": "Minna no Soft Series - Shanghai (Japan)",
+ "hack_group": "",
  "id": "ver-gba-09aebf7f",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "FEEFEDDC",
   "no_intro_name": "Minna no Soft Series - Shanghai (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BSHJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Minna no Soft Series - Shanghai (Japan)",
   "zh-Hans": "大众软件系列 - 上海"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

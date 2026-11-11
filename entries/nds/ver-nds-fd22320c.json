@@ -11,10 +11,9 @@
    "size": 125953952
   }
  ],
- "group": "Subarashiki Kono Sekai - It's a Wonderful World",
+ "group": "Subarashiki Kono Sekai - It's a Wonderful World (Japan) (Rev 1)",
+ "hack_group": "ACG汉化组",
  "id": "ver-nds-fd22320c",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "7CD47400",
   "no_intro_name": "Subarashiki Kono Sekai - It's a Wonderful World (Japan) (Rev 1)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "AWLJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Subarashiki Kono Sekai - It's a Wonderful World (Japan) (Rev 1)",
   "zh-Hans": "美丽世界"
  },
- "vendor": "ACG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

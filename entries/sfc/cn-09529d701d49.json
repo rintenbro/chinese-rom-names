@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/sfc/cn-bcb737679301/title.png"
+ },
+ "files": [
+  {
+   "crc32": "C1D16A61",
+   "name": "塞尔达传说 MSU-1版(简)(花屏文字修正)(Dark_Link+hlken)(16Mb).sfc",
+   "size": 2097152
+  }
+ ],
+ "group": "塞尔达传说 MSU-1版",
+ "hack_group": "Dark_Link+hlken",
+ "id": "cn-09529d701d49",
+ "platform": "sfc",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "塞尔达传说 MSU-1版"
+ },
+ "type": "hack",
+ "vendor": "",
+ "version": ""
+}

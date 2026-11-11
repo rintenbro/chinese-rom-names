@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4F4B3EA9",
+   "name": "花式撞球(v1.0)(日版)(简)[星空+庞先生+儿童乐园](JP)[SPG](1.43Mb).nes",
+   "size": 188432
+  }
+ ],
+ "group": "Side Pocket (Japan)",
+ "hack_group": "星空+庞先生+儿童乐园",
+ "id": "prb-famicom-4f4b3ea9",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "BD52D4D0",
+  "no_intro_name": "Side Pocket (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "花式撞球"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

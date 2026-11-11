@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9D08844B",
+   "name": "GB战争(v1.00)(简)(bmmm906)(1Mb).gb",
+   "size": 262144
+  }
+ ],
+ "group": "Game Boy Wars (Japan)",
+ "hack_group": "bmmm906",
+ "id": "prb-gb-9d08844b",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "F5D364DB",
+  "no_intro_name": "Game Boy Wars (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "GB战争"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.00"
+}

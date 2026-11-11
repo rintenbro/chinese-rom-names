@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4D6E0959",
+   "name": "银河骑兵机器人(简)(剧情汉化v0.5)(laoding)(12Mb).sfc",
+   "size": 1572864
+  }
+ ],
+ "group": "Galaxy Robo (Japan)",
+ "hack_group": "laoding",
+ "id": "prb-sfc-4d6e0959",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "BEE62812",
+  "no_intro_name": "Galaxy Robo (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "银河骑兵机器人"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v0.5"
+}

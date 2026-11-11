@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2BD76722",
+   "name": "女神转生外传-最后的圣经2(口袋王国)(黑白版) (繁)(盗商+呆呆鼠)(4Mb).gb",
+   "size": 524288
+  }
+ ],
+ "group": "Megami Tensei Gaiden - Last Bible II (Japan)",
+ "hack_group": "盗商+呆呆鼠",
+ "id": "prb-gb-2bd76722",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "F8E519D9",
+  "no_intro_name": "Megami Tensei Gaiden - Last Bible II (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "女神转生外传-最后的圣经2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

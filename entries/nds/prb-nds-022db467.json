@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "022DB467",
+   "name": "触摸侦探 小沢里奈(JP)(ACG汉化组)(128Mb).nds",
+   "size": 14189636
+  }
+ ],
+ "group": "Osawari Tantei - Ozawa Rina (Japan)",
+ "hack_group": "ACG汉化组",
+ "id": "prb-nds-022db467",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "7A20B478",
+  "no_intro_name": "Osawari Tantei - Ozawa Rina (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "触摸侦探 小沢里奈"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

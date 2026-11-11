@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Kumatanchi",
+ "group": "Kumatanchi (Japan)",
+ "hack_group": "",
  "id": "ver-nds-a0906e55",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "08678139",
   "no_intro_name": "Kumatanchi (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "CKUJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Kumatanchi (Japan)",
   "zh-Hans": "熊姬和她的伙伴们 不完全汉化版"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

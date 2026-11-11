@@ -11,10 +11,9 @@
    "size": 60931264
   }
  ],
- "group": "Kousoku Card Battle - Card Hero",
+ "group": "Kousoku Card Battle - Card Hero (Japan)",
+ "hack_group": "的士汉化组",
  "id": "ver-nds-ba1a5528",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "6F1E3C0E",
   "no_intro_name": "Kousoku Card Battle - Card Hero (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YCHJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Kousoku Card Battle - Card Hero (Japan)",
   "zh-Hans": "高速卡片战斗 卡片英雄"
  },
- "vendor": "的士汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

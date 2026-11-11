@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "769B7942",
+   "name": "魂斗罗Advance - 异型战争EX[Hulihutu](简)(US)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "Contra Advance - The Alien Wars EX (USA)",
+ "hack_group": "Hulihutu",
+ "id": "prb-gba-769b7942",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "59781C54",
+  "no_intro_name": "Contra Advance - The Alien Wars EX (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "魂斗罗Advance - 异型战争EX"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

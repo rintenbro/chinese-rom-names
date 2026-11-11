@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "642F843F",
+   "name": "平成新鬼岛 后篇(简)(AI汉化测试版)(AFOLF)(32MB).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Heisei Shin Onigashima - Kouhen (Japan)",
+ "hack_group": "AFOLF",
+ "id": "prb-sfc-642f843f",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "0E4C28FE",
+  "no_intro_name": "Heisei Shin Onigashima - Kouhen (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "平成新鬼岛 后篇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

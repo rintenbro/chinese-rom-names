@@ -11,10 +11,9 @@
    "size": 7289484
   }
  ],
- "group": "Shanghai",
+ "group": "Shanghai (Japan)",
+ "hack_group": "TGB汉化工作室",
  "id": "ver-nds-df4580f9",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "A5E4356C",
   "no_intro_name": "Shanghai (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "AS8J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Shanghai (Japan)",
   "zh-Hans": "上海"
  },
- "vendor": "TGB汉化工作室",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

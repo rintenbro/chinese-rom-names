@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "021D6EBA",
+   "name": "游戏王3 三圣战神降临(简)(DMG汉化组)(32Mb).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Yu-Gi-Oh! Duel Monsters III - Tri Holy God Advant (Japan)",
+ "hack_group": "DMG汉化组",
+ "id": "prb-gbc-021d6eba",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Yu-Gi-Oh! Duel Monsters III - Tri Holy God Advant (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "游戏王3 三圣战神降临"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 9256960
   }
  ],
- "group": "Ougon no Taiyou - Hirakareshi Fuuin",
+ "group": "Ougon no Taiyou - Hirakareshi Fuuin (Japan)",
+ "hack_group": "CGP&Elffinal",
  "id": "ver-gba-c48e291f",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "FB96D9DE",
   "no_intro_name": "Ougon no Taiyou - Hirakareshi Fuuin (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AGSJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Ougon no Taiyou - Hirakareshi Fuuin (Japan)",
   "zh-Hans": "黄金太阳 - 开启的封印"
  },
- "vendor": "CGP&Elffinal",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

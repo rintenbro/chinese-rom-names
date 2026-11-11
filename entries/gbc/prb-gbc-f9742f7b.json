@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F9742F7B",
+   "name": "大刀 (繁) (unknown).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Daikatana (USA) (Proto 2)",
+ "hack_group": "unknown",
+ "id": "prb-gbc-f9742f7b",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "7D451688",
+  "no_intro_name": "Daikatana (USA) (Proto 2)",
+  "region": "USA"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "大刀"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

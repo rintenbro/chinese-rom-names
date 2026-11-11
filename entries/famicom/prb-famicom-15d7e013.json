@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "15D7E013",
+   "name": "吃豆小精灵(简)[高伟](JP)[PUZ](0.18Mb).nes",
+   "size": 24592
+  }
+ ],
+ "group": "Pac-Man (Japan) (En)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-15d7e013",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "F953CB69",
+  "no_intro_name": "Pac-Man (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "吃豆小精灵"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

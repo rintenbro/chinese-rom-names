@@ -11,10 +11,9 @@
    "size": 134217728
   }
  ],
- "group": "Suzumiya Haruhi no Chokuretsu",
+ "group": "Suzumiya Haruhi no Chokuretsu (Japan)",
+ "hack_group": "七不思议+kurio",
  "id": "ver-nds-09bcdfa2",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "8A58F646",
   "no_intro_name": "Suzumiya Haruhi no Chokuretsu (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "C44J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Suzumiya Haruhi no Chokuretsu (Japan)",
   "zh-Hans": "凉宫春日的直列 v0.2"
  },
- "vendor": "七不思议+kurio",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Screw Breaker - Goushin DoriRureRo",
+ "group": "Screw Breaker - Goushin DoriRureRo (Japan)",
+ "hack_group": "天使汉化组",
  "id": "ver-gba-bc471bda",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "B17532EE",
   "no_intro_name": "Screw Breaker - Goushin DoriRureRo (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "V49J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Screw Breaker - Goushin DoriRureRo (Japan)",
   "zh-Hans": "螺旋破坏者 - 轰振钻子"
  },
- "vendor": "天使汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FA0BFC4B",
+   "name": "机动战士高达F91 方程式战记0122(简)(小鬼混+阿刃+飞雨影+agugu2000)(12Mb).sfc",
+   "size": 1179648
+  }
+ ],
+ "group": "Kidou Senshi Gundam F91 - Formula Senki 0122 (Japan)",
+ "hack_group": "小鬼混+阿刃+飞雨影+agugu2000",
+ "id": "prb-sfc-fa0bfc4b",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "CEAF5365",
+  "no_intro_name": "Kidou Senshi Gundam F91 - Formula Senki 0122 (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "机动战士高达F91 方程式战记0122"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

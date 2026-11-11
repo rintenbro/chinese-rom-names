@@ -11,10 +11,9 @@
    "size": 2097152
   }
  ],
- "group": "Dragon Ball Z Gedou 2005",
+ "group": "Dragon Ball Z Gedou 2005 (Taiwan)",
+ "hack_group": "unknown",
  "id": "ver-gbc-d1c48145",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "D1C48145",
   "no_intro_name": "Dragon Ball Z Gedou 2005 (Taiwan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gbc",
  "script": "繁",
- "serial": "",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Dragon Ball Z Gedou 2005 (Taiwan)",
   "zh-Hans": "龙珠格斗2005"
  },
- "vendor": "unknown",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

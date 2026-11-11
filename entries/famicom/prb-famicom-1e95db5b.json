@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1E95DB5B",
+   "name": "星之卡比 梦之泉的物语(简)[烈火暴龙](JP)[ACT](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "Hoshi no Kirby - Yume no Izumi no Monogatari (Japan)",
+ "hack_group": "烈火暴龙",
+ "id": "prb-famicom-1e95db5b",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Hoshi no Kirby - Yume no Izumi no Monogatari (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "星之卡比 梦之泉的物语"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

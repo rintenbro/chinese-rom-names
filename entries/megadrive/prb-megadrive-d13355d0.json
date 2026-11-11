@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D13355D0",
+   "name": "重装机兵雷诺斯(简)(v241218)(SchreckgSoldat+阿刃)(8Mb).bin",
+   "size": 655360
+  }
+ ],
+ "group": "Juusou Kihei Leynos (Japan)",
+ "hack_group": "SchreckgSoldat+阿刃",
+ "id": "prb-megadrive-d13355d0",
+ "platform": "megadrive",
+ "probable_original": {
+  "crc32": "CDDF62D3",
+  "no_intro_name": "Juusou Kihei Leynos (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "重装机兵雷诺斯"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v241218"
+}

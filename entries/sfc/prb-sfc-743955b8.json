@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "743955B8",
+   "name": "皇家骑士团 (简) (v0.04a)(无花泥)(12Mb).sfc",
+   "size": 1572864
+  }
+ ],
+ "group": "Densetsu no Ogre Battle - The March of the Black Queen (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-743955b8",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Densetsu no Ogre Battle - The March of the Black Queen (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "皇家骑士团"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v0.04a"
+}

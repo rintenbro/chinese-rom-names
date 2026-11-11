@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-276f50dfc4ed/title.png"
+ },
+ "files": [
+  {
+   "crc32": "740CB065",
+   "name": "圣斗士星矢 黄金传说(v1.0)(简)[汉化你妹](JP)[RPG](10Mb).nes",
+   "size": 1310736
+  }
+ ],
+ "group": "圣斗士星矢 黄金传说",
+ "hack_group": "汉化你妹",
+ "id": "cn-f388cf31df01",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "圣斗士星矢 黄金传说"
+ },
+ "type": "hack",
+ "vendor": "",
+ "version": "v1.0"
+}

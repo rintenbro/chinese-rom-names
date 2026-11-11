@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8A04BBA3",
+   "name": "龙珠Z超悟空传 激突篇(简)(汉化公测版)(HLKEN+XSIN)(12Mb).sfc",
+   "size": 2621440
+  }
+ ],
+ "group": "Dragon Ball Z - Super Gokuu Den - Totsugeki Hen (Japan)",
+ "hack_group": "HLKEN+XSIN",
+ "id": "prb-sfc-8a04bba3",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "D531289B",
+  "no_intro_name": "Dragon Ball Z - Super Gokuu Den - Totsugeki Hen (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "龙珠Z超悟空传 激突篇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 17097216
   }
  ],
- "group": "Spider-Man - Battle for New York",
+ "group": "Spider-Man - Battle for New York (Europe) (En,Fr,De,Es,It)",
+ "hack_group": "Advance-005",
  "id": "ver-gba-0e765848",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "AD2C404C",
   "no_intro_name": "Spider-Man - Battle for New York (Europe) (En,Fr,De,Es,It)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BC9P",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Spider-Man - Battle for New York (Europe) (En,Fr,De,Es,It)",
   "zh-Hans": "蜘蛛侠 - 纽约之战"
  },
- "vendor": "Advance-005",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

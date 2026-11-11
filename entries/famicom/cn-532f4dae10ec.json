@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-2b5bc9f9ed1c/title.png"
+ },
+ "files": [
+  {
+   "crc32": "ACB2F470",
+   "name": "趣味成语屋+马步迷阵(简)[小霸王](CN)[PUZ](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "趣味成语屋+马步迷阵",
+ "hack_group": "小霸王",
+ "id": "cn-532f4dae10ec",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "趣味成语屋+马步迷阵"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

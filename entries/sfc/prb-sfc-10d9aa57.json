@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "10D9AA57",
+   "name": "迦楼罗王(简)[小鬼混](8Mb).smc",
+   "size": 1048576
+  }
+ ],
+ "group": "Karura Ou (Japan)",
+ "hack_group": "小鬼混",
+ "id": "prb-sfc-10d9aa57",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "5CF9A482",
+  "no_intro_name": "Karura Ou (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "迦楼罗王"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

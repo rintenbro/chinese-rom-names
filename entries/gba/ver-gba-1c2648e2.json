@@ -11,10 +11,9 @@
    "size": 5623072
   }
  ],
- "group": "Downtown - Nekketsu Monogatari EX",
+ "group": "Downtown - Nekketsu Monogatari EX (Japan)",
+ "hack_group": "chenstack",
  "id": "ver-gba-1c2648e2",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "32E9A0BD",
   "no_intro_name": "Downtown - Nekketsu Monogatari EX (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BDTJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Downtown - Nekketsu Monogatari EX (Japan)",
   "zh-Hans": "热血物语EX2007"
  },
- "vendor": "chenstack",
+ "type": "game",
+ "vendor": "",
  "version": "v0.5"
 }

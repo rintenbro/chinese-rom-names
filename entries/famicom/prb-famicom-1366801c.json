@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1366801C",
+   "name": "武士魂(简)[Rex](CN)[FTG](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Samurai Shodown III (Taiwan) (En) (Pirate)",
+ "hack_group": "Rex",
+ "id": "prb-famicom-1366801c",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Samurai Shodown III (Taiwan) (En) (Pirate)",
+  "region": "Taiwan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "武士魂"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

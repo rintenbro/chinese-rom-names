@@ -11,10 +11,9 @@
    "size": 2097152
   }
  ],
- "group": "Bingyuan Lixian Ji II",
+ "group": "Bingyuan Lixian Ji II (Taiwan)",
+ "hack_group": "",
  "id": "ver-gbc-b149f421",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "B149F421",
   "no_intro_name": "Bingyuan Lixian Ji II (Taiwan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gbc",
  "script": "繁",
- "serial": "",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Bingyuan Lixian Ji II (Taiwan)",
   "zh-Hans": "冰河世纪II"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

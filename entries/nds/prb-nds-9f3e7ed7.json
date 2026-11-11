@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9F3E7ED7",
+   "name": "最终幻想外传 光之四战士(JP)(ACG汉化组)(512Mb).nds",
+   "size": 43589032
+  }
+ ],
+ "group": "Hikari no 4 Senshi - Final Fantasy Gaiden (Japan)",
+ "hack_group": "ACG汉化组",
+ "id": "prb-nds-9f3e7ed7",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "EF9413A4",
+  "no_intro_name": "Hikari no 4 Senshi - Final Fantasy Gaiden (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "最终幻想外传 光之四战士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

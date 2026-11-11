@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "490ACFF6",
+   "name": "1500 DS Spirits Vol.3 打砖块(JP)(E.Wings汉化组)(64Mb).nds",
+   "size": 8388608
+  }
+ ],
+ "group": "1500 DS Spirits Vol. 3 - Block Kuzushi (Japan)",
+ "hack_group": "E.Wings汉化组",
+ "id": "prb-nds-490acff6",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "04F3BF00",
+  "no_intro_name": "1500 DS Spirits Vol. 3 - Block Kuzushi (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "1500 DS Spirits Vol.3 打砖块"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

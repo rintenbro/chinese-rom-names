@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9DE5D044",
+   "name": "塞尔达传说 - 时空之章 (简) (啪嗒啪嗒 & 小笨笨 & 怕淋).gbc",
+   "size": 1310720
+  }
+ ],
+ "group": "Legend of Zelda, The - Oracle of Ages (USA, Australia)",
+ "hack_group": "啪嗒啪嗒 & 小笨笨 & 怕淋",
+ "id": "prb-gbc-9de5d044",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "3800A387",
+  "no_intro_name": "Legend of Zelda, The - Oracle of Ages (USA, Australia)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "塞尔达传说 - 时空之章"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

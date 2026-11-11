@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C26C2187",
+   "name": "爆走战记 - 钢铁之友情 (v20161101) (繁) (修正版) (sss888).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Bakusou Senki Metal Walker GB - Koutetsu no Yuujou (Japan) (GB Compatible)",
+ "hack_group": "sss888",
+ "id": "prb-gbc-c26c2187",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "D514C9A0",
+  "no_intro_name": "Bakusou Senki Metal Walker GB - Koutetsu no Yuujou (Japan) (GB Compatible)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "爆走战记 - 钢铁之友情"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20161101"
+}

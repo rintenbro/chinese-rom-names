@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "58687FEB",
+   "name": "加油吧！大力工头阿源君 (简)(v1.1)(Advance汉化组)(10Mb).smc",
+   "size": 1310720
+  }
+ ],
+ "group": "Ganbare! Daiku no Gen-san (Japan)",
+ "hack_group": "Advance汉化组",
+ "id": "prb-sfc-58687feb",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "206BD866",
+  "no_intro_name": "Ganbare! Daiku no Gen-san (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "加油吧！大力工头阿源君"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

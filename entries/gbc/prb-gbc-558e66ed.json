@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "558E66ED",
+   "name": "超级马力欧乐园3 瓦里奥乐园DX上色版(简)(狸克)(8MB).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Super Mario Bros. Deluxe (Japan) (NP)",
+ "hack_group": "",
+ "id": "prb-gbc-558e66ed",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "866B1212",
+  "no_intro_name": "Super Mario Bros. Deluxe (Japan) (NP)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级马力欧乐园3 瓦里奥乐园DX上色版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

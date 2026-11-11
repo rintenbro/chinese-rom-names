@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-cd23db591f3f/title.png"
+ },
+ "files": [
+  {
+   "crc32": "126A0D1D",
+   "name": "超级大富豪(繁)(外星科技+babypkzhu+星夜之幻)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Super Richman (China) [CHT]",
+ "hack_group": "外星科技+babypkzhu+星夜之幻",
+ "id": "prb-gbc-126a0d1d",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Super Richman (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级大富豪"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

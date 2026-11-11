@@ -11,10 +11,9 @@
    "size": 130109052
   }
  ],
- "group": "Tales of Innocence",
+ "group": "Tales of Innocence (Japan)",
+ "hack_group": "巴士汉化组",
  "id": "ver-nds-65affc0d",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "AFA9C467",
   "no_intro_name": "Tales of Innocence (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "繁",
- "serial": "AYTJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Tales of Innocence (Japan)",
   "zh-Hans": "圣洁传说"
  },
- "vendor": "巴士汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D7E6AF10",
+   "name": "弹珠台(简)[高伟](JU)[TAB](0.18Mb).nes",
+   "size": 24592
+  }
+ ],
+ "group": "Pinball (Europe, Asia) (En)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-d7e6af10",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Pinball (Europe, Asia) (En)",
+  "region": "Europe / Asia"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "弹珠台"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

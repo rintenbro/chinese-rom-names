@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8769BB1E",
+   "name": "鬼太郎 - 危机一发!妖怪列岛[混沌星辰](简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Gegege no Kitarou - Kikiippatsu! Youkai Rettou (Japan)",
+ "hack_group": "混沌星辰",
+ "id": "prb-gba-8769bb1e",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "7F2B2657",
+  "no_intro_name": "Gegege no Kitarou - Kikiippatsu! Youkai Rettou (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "鬼太郎 - 危机一发!妖怪列岛"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

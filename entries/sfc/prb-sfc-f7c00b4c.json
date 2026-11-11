@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F7C00B4C",
+   "name": "幽游白书(简)(九尾猫)(32Mb).smc",
+   "size": 4194304
+  }
+ ],
+ "group": "Yu Yu Hakusho (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-f7c00b4c",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "EC96D517",
+  "no_intro_name": "Yu Yu Hakusho (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "幽游白书"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Virtua Tennis",
+ "group": "Virtua Tennis (USA)",
+ "hack_group": "Kinglly",
  "id": "ver-gba-e43d2708",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "E0BD3B75",
   "no_intro_name": "Virtua Tennis (USA)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AVTE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Virtua Tennis (USA)",
   "zh-Hans": "虚拟网球"
  },
- "vendor": "Kinglly",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

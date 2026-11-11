@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7EC4968C",
+   "name": "世界传说 - 换装迷宫3[盗版&9c](简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Tales of the World - Narikiri Dungeon 3 (Japan)",
+ "hack_group": "盗版&9c",
+ "id": "prb-gba-7ec4968c",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "1867CCEF",
+  "no_intro_name": "Tales of the World - Narikiri Dungeon 3 (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "世界传说 - 换装迷宫3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

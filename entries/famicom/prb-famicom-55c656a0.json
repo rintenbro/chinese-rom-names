@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "55C656A0",
+   "name": "加纳战机(美版)(简)[孔雀天](US)[STG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Gun Nac (USA)",
+ "hack_group": "孔雀天",
+ "id": "prb-famicom-55c656a0",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Gun Nac (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "加纳战机"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

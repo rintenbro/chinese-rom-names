@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3A4F86A5",
+   "name": "口袋妖怪 - 叶绿[盗版&Sanchidiantai](简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Pocket Monsters - LeafGreen (Japan)",
+ "hack_group": "盗版&Sanchidiantai",
+ "id": "prb-gba-3a4f86a5",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "0A48556B",
+  "no_intro_name": "Pocket Monsters - LeafGreen (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪 - 叶绿"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

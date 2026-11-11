@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gb/cn-290f3fda01be/title.png"
+ },
+ "files": [
+  {
+   "crc32": "9039CBDB",
+   "name": "迷途之旅 (繁) (Gowin)(0.5Mb).gb",
+   "size": 65536
+  }
+ ],
+ "group": "Puzzle Path (China) [CHT]",
+ "hack_group": "Gowin",
+ "id": "prb-gb-9039cbdb",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Puzzle Path (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "迷途之旅"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

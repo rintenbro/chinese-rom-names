@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B5F950FC",
+   "name": "大盗伍佑卫门 天下宝藏(简)[外星科技](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "Ganbare Goemon! - Karakuri Douchuu (Japan)",
+ "hack_group": "外星科技",
+ "id": "prb-famicom-b5f950fc",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "364C906A",
+  "no_intro_name": "Ganbare Goemon! - Karakuri Douchuu (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "大盗伍佑卫门 天下宝藏"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

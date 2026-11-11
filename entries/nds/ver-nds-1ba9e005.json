@@ -11,10 +11,9 @@
    "size": 37902164
   }
  ],
- "group": "World Soccer - Winning Eleven DS",
+ "group": "World Soccer - Winning Eleven DS (Japan)",
+ "hack_group": "YYJoy汉化组",
  "id": "ver-nds-1ba9e005",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "A4CAC320",
   "no_intro_name": "World Soccer - Winning Eleven DS (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "AWEJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "World Soccer - Winning Eleven DS (Japan)",
   "zh-Hans": "胜利11人DS"
  },
- "vendor": "YYJoy汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

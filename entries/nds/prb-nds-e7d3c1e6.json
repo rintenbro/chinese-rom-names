@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E7D3C1E6",
+   "name": "结界师 鸟森妖奇谈 0.5测试版(JP)(SOMA汉化组)(256Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Kekkaishi - Karasumori Ayakashi Kidan (Japan)",
+ "hack_group": "SOMA汉化组",
+ "id": "prb-nds-e7d3c1e6",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "D9380423",
+  "no_intro_name": "Kekkaishi - Karasumori Ayakashi Kidan (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "结界师 鸟森妖奇谈 0.5测试版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

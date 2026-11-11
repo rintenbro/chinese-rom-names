@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "53C1EFE4",
+   "name": "贤者世界 v20260930(简)(深邃天空+罗伊SD+小郑)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "WiZmans World (Japan)",
+ "hack_group": "深邃天空+罗伊SD+小郑",
+ "id": "prb-nds-53c1efe4",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "04FA8BAB",
+  "no_intro_name": "WiZmans World (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "贤者世界 v20260930"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

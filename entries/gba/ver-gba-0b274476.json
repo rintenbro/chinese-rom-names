@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Konjiki no Gashbell!! Yuujou no Zakeru - Dream Tag Tournament",
+ "group": "Konjiki no Gashbell!! Yuujou no Zakeru - Dream Tag Tournament (Japan)",
+ "hack_group": "DMG汉化组",
  "id": "ver-gba-0b274476",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "FB5516AD",
   "no_intro_name": "Konjiki no Gashbell!! Yuujou no Zakeru - Dream Tag Tournament (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BUDJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Konjiki no Gashbell!! Yuujou no Zakeru - Dream Tag Tournament (Japan)",
   "zh-Hans": "金童卡修 友情的电击 梦幻标签锦标赛"
  },
- "vendor": "DMG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

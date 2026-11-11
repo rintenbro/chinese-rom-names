@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6932B3FD",
+   "name": "古惑狼Advance 激动友情大作战[Advance汉化组](v1.0)(简)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Crash Bandicoot Advance - Wakuwaku Tomodachi Daisakusen! (Japan)",
+ "hack_group": "Advance汉化组",
+ "id": "prb-gba-6932b3fd",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "0E6A4FEE",
+  "no_intro_name": "Crash Bandicoot Advance - Wakuwaku Tomodachi Daisakusen! (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "古惑狼Advance 激动友情大作战"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

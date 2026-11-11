@@ -1,0 +1,33 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "880A916E",
+   "name": "悟空外传 (繁) (三协资讯)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Wukong Waizhuan (Taiwan)",
+ "hack_group": "",
+ "id": "ver-megadrive-880a916e",
+ "original": {
+  "crc32": "880A916E",
+  "no_intro_name": "Wukong Waizhuan (Taiwan)",
+  "region": "Taiwan",
+  "size": 2097152
+ },
+ "platform": "megadrive",
+ "script": "繁",
+ "source": "no-intro",
+ "status": "verified",
+ "titles": {
+  "zh-Hans": "悟空外传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

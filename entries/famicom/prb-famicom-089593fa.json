@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "089593FA",
+   "name": "成龙踢馆2(简)[逆游の五彩魚](JP)[ACT](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Spartan X 2 (Japan)",
+ "hack_group": "逆游の五彩魚",
+ "id": "prb-famicom-089593fa",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Spartan X 2 (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "成龙踢馆2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

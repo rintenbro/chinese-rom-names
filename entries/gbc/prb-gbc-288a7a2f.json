@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-deb5e3c1576f/title.png"
+ },
+ "files": [
+  {
+   "crc32": "288A7A2F",
+   "name": "剑侠情缘(简)(修正版)(外星科技+星夜之幻)(8Mb).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Jian Xia Qing Yuan (China) [CHS]",
+ "hack_group": "外星科技+星夜之幻",
+ "id": "prb-gbc-288a7a2f",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Jian Xia Qing Yuan (China) [CHS]",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "剑侠情缘"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

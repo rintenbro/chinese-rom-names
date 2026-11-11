@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-3ec2ef7d06f3/title.png"
+ },
+ "files": [
+  {
+   "crc32": "E8FD000F",
+   "name": "星球大战II - 克隆人战役 (简) (新特奇).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Star Wars Episode II - Attack of the Clones (China) [CHS]",
+ "hack_group": "",
+ "id": "prb-gbc-e8fd000f",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Star Wars Episode II - Attack of the Clones (China) [CHS]",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "星球大战II - 克隆人战役"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

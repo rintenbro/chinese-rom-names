@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2C866C70",
+   "name": "塞尔达传说 (简) (部分汉化)(Dark_Link)(12Mb).sfc",
+   "size": 1572864
+  }
+ ],
+ "group": "Zelda no Densetsu - Kamigami no Triforce (Japan)",
+ "hack_group": "Dark_Link",
+ "id": "prb-sfc-2c866c70",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Zelda no Densetsu - Kamigami no Triforce (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "塞尔达传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A568590B",
+   "name": "机械战警 未来的执法者(简)[LSP](US)[ACT](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "RoboCop (USA)",
+ "hack_group": "",
+ "id": "prb-famicom-a568590b",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "RoboCop (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "机械战警 未来的执法者"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

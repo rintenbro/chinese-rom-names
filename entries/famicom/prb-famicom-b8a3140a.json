@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B8A3140A",
+   "name": "最后的使命(简)[高伟](JP)[STG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Final Mission (Japan)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-b8a3140a",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "290DD12F",
+  "no_intro_name": "Final Mission (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "最后的使命"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

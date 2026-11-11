@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-cc558b0ec290/title.png"
+ },
+ "files": [
+  {
+   "crc32": "D4F4CE79",
+   "name": "异度空间(繁)(外星科技)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Cyber Space (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-gbc-d4f4ce79",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Cyber Space (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "异度空间"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B0DB511B",
+   "name": "名侦探柯南2 (简)(修复版)(盗商+sss888)(4Mb).gb",
+   "size": 524288
+  }
+ ],
+ "group": "Meitantei Conan - Giwaku no Gouka Ressha (Japan) (SGB Enhanced)",
+ "hack_group": "盗商+sss888",
+ "id": "prb-gb-b0db511b",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Meitantei Conan - Giwaku no Gouka Ressha (Japan) (SGB Enhanced)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "名侦探柯南2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

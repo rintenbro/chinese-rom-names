@@ -11,10 +11,9 @@
    "size": 31605448
   }
  ],
- "group": "Rittai Picross",
+ "group": "Rittai Picross (Japan)",
+ "hack_group": "ACG汉化组",
  "id": "ver-nds-db13d1ef",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "04CD8DF2",
   "no_intro_name": "Rittai Picross (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "C6PJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Rittai Picross (Japan)",
   "zh-Hans": "立体绘图方块 完美汉化版"
  },
- "vendor": "ACG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

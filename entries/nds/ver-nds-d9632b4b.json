@@ -11,10 +11,9 @@
    "size": 134217728
   }
  ],
- "group": "Final Fantasy IV",
+ "group": "Final Fantasy IV (Japan)",
+ "hack_group": "巴士汉化组",
  "id": "ver-nds-d9632b4b",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "856E17F4",
   "no_intro_name": "Final Fantasy IV (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "YF4J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Final Fantasy IV (Japan)",
   "zh-Hans": "最终幻想4"
  },
- "vendor": "巴士汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

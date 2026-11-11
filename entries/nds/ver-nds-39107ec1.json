@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Call of Duty 4 - Modern Warfare",
+ "group": "Call of Duty 4 - Modern Warfare (USA)",
+ "hack_group": "Mobile0.74+fciq配音小组",
  "id": "ver-nds-39107ec1",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "E9DCBAFC",
   "no_intro_name": "Call of Duty 4 - Modern Warfare (USA)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YCOE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Call of Duty 4 - Modern Warfare (USA)",
   "zh-Hans": "使命召唤4 现代战争 大字体版v2025+中文配音"
  },
- "vendor": "Mobile0.74+fciq配音小组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

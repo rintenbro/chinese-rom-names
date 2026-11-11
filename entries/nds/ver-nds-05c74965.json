@@ -11,10 +11,9 @@
    "size": 134217728
   }
  ],
- "group": "Final Fantasy III",
+ "group": "Final Fantasy III (Japan)",
+ "hack_group": "NdsBBS汉化组&NDSMAN&LevelUp&天幻网",
  "id": "ver-nds-05c74965",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "54B95690",
   "no_intro_name": "Final Fantasy III (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "AFFJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Final Fantasy III (Japan)",
   "zh-Hans": "最终幻想3"
  },
- "vendor": "NdsBBS汉化组&NDSMAN&LevelUp&天幻网",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

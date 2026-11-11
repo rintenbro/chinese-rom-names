@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Zelda no Densetsu - Mugen no Sunadokei",
+ "group": "Zelda no Densetsu - Mugen no Sunadokei (Japan)",
+ "hack_group": "巴士汉化组",
  "id": "ver-nds-9b9e0280",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "430A9713",
   "no_intro_name": "Zelda no Densetsu - Mugen no Sunadokei (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "繁",
- "serial": "AZEJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Zelda no Densetsu - Mugen no Sunadokei (Japan)",
   "zh-Hans": "塞尔达传说 幻影沙漏 修正版"
  },
- "vendor": "巴士汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

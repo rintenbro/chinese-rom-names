@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-c4611e45533d/title.png"
+ },
+ "files": [
+  {
+   "crc32": "FDA80268",
+   "name": "咸蛋超人(繁)(新特奇)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Xian Dan Chao Ren - Ultraman (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-gbc-fda80268",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Xian Dan Chao Ren - Ultraman (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "咸蛋超人"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

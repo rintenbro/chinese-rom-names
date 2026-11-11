@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-6ec2c11720b6/title.png"
+ },
+ "files": [
+  {
+   "crc32": "44484CFC",
+   "name": "最终幻想 - 无尽沙加 (繁) (新特奇).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Final Fantasy - Saishuu Gensou (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-gbc-44484cfc",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Final Fantasy - Saishuu Gensou (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "最终幻想 - 无尽沙加"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

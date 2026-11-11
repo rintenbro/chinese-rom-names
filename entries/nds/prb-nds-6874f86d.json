@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6874F86D",
+   "name": "魂斗罗4(JP)(苹果梨(gpra8764))(256Mb).nds",
+   "size": 31369128
+  }
+ ],
+ "group": "Contra - Dual Spirits (Japan)",
+ "hack_group": "",
+ "id": "prb-nds-6874f86d",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "5AF85B83",
+  "no_intro_name": "Contra - Dual Spirits (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "魂斗罗4"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

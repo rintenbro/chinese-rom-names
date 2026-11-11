@@ -11,10 +11,9 @@
    "size": 33554432
   }
  ],
- "group": "Yu-Gi-Oh! Duel Monsters GX - Mezase Duel King!",
+ "group": "Yu-Gi-Oh! Duel Monsters GX - Mezase Duel King! (Japan)",
+ "hack_group": "天使汉化组",
  "id": "ver-gba-3c7a3025",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "F4295DA8",
   "no_intro_name": "Yu-Gi-Oh! Duel Monsters GX - Mezase Duel King! (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BYGJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Yu-Gi-Oh! Duel Monsters GX - Mezase Duel King! (Japan)",
   "zh-Hans": "游戏王! - 怪兽决斗GX 决战王者"
  },
- "vendor": "天使汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

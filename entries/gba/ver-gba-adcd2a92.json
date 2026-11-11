@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Onimusha Tactics",
+ "group": "Onimusha Tactics (Japan)",
+ "hack_group": "熊组",
  "id": "ver-gba-adcd2a92",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "B521C635",
   "no_intro_name": "Onimusha Tactics (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "繁",
- "serial": "A6OJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Onimusha Tactics (Japan)",
   "zh-Hans": "鬼武者战略版"
  },
- "vendor": "熊组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

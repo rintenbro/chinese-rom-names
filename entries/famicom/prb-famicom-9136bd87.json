@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9136BD87",
+   "name": "圣火列传(繁)[全崴资讯](CN)[RPG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Sheng Huo Lie Zhuan (China)",
+ "hack_group": "全崴资讯",
+ "id": "prb-famicom-9136bd87",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "C61AB4A3",
+  "no_intro_name": "Sheng Huo Lie Zhuan (China)",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "圣火列传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

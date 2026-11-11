@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "97720585",
+   "name": "神宫寺三郎 新宿中央公园杀人事件 汉化体验版(JP)(扑家汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Tantei Jinguuji Saburou DS - Inishie no Kioku (Japan)",
+ "hack_group": "扑家汉化组",
+ "id": "prb-nds-97720585",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "0D7AB717",
+  "no_intro_name": "Tantei Jinguuji Saburou DS - Inishie no Kioku (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "神宫寺三郎 新宿中央公园杀人事件 汉化体验版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

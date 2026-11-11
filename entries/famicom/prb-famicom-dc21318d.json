@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DC21318D",
+   "name": "七宝奇谋(v20250617)(简+繁)[NOKOH](JP)[ACT](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Goonies (Japan) (En)",
+ "hack_group": "NOKOH",
+ "id": "prb-famicom-dc21318d",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "7B12E8E6",
+  "no_intro_name": "Goonies (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "七宝奇谋"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20250617"
+}

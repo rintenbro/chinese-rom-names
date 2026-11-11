@@ -11,10 +11,9 @@
    "size": 13799976
   }
  ],
- "group": "Pokemon Trose",
+ "group": "Pokemon Trose (Japan)",
+ "hack_group": "火卫一汉化组",
  "id": "ver-nds-84cf9b99",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "A6374EA6",
   "no_intro_name": "Pokemon Trose (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "APTJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Pokemon Trose (Japan)",
   "zh-Hans": "口袋妖怪方块"
  },
- "vendor": "火卫一汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

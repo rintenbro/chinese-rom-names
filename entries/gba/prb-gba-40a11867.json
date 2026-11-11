@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "40A11867",
+   "name": "禁货猎人：时空的冒险者[TGB](Beta) (20160319)[简](JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Croket! Great - Toki no Boukensha (Japan)",
+ "hack_group": "",
+ "id": "prb-gba-40a11867",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "F0E81971",
+  "no_intro_name": "Croket! Great - Toki no Boukensha (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "禁货猎人：时空的冒险者"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

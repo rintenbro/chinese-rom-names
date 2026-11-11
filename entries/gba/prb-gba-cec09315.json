@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CEC09315",
+   "name": "植木的法则 - 神器炸裂! 能力者格斗[PGCG+流星-落月](2026年汉化修正)(简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Ueki no Housoku - Jingi Sakuretsu! Nouryokusha Battle (Japan)",
+ "hack_group": "PGCG+流星-落月",
+ "id": "prb-gba-cec09315",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "ED368EF1",
+  "no_intro_name": "Ueki no Housoku - Jingi Sakuretsu! Nouryokusha Battle (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "植木的法则 - 神器炸裂! 能力者格斗"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "56703AD2",
+   "name": "伊苏4 (简) (v1.0)(ACG)(16Mb).sfc",
+   "size": 2097152
+  }
+ ],
+ "group": "Ys IV - Mask of the Sun (Japan)",
+ "hack_group": "ACG",
+ "id": "prb-sfc-56703ad2",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "CA7B4DB9",
+  "no_intro_name": "Ys IV - Mask of the Sun (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "伊苏4"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

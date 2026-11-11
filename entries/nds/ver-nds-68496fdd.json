@@ -11,10 +11,9 @@
    "size": 119486512
   }
  ],
- "group": "Nostalgeo no Kaze",
+ "group": "Nostalgeo no Kaze (Japan)",
+ "hack_group": "ACG汉化组",
  "id": "ver-nds-68496fdd",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "96CF5544",
   "no_intro_name": "Nostalgeo no Kaze (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "CJKJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Nostalgeo no Kaze (Japan)",
   "zh-Hans": "思乡之风 简体中文修正版"
  },
- "vendor": "ACG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

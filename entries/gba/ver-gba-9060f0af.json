@@ -11,10 +11,9 @@
    "size": 33554432
   }
  ],
- "group": "Dragon Ball GT - Transformation",
+ "group": "Dragon Ball GT - Transformation (USA)",
+ "hack_group": "Advance汉化组",
  "id": "ver-gba-9060f0af",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "AD964A91",
   "no_intro_name": "Dragon Ball GT - Transformation (USA)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BT4E",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Dragon Ball GT - Transformation (USA)",
   "zh-Hans": "龙珠GT 突变"
  },
- "vendor": "Advance汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

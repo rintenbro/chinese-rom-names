@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7F7DC25D",
+   "name": "女神转生外传II (简) (修正版) (sss888).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Megami Tensei Gaiden - Last Bible II (Japan) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "sss888",
+ "id": "prb-gbc-7f7dc25d",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Megami Tensei Gaiden - Last Bible II (Japan) (SGB Enhanced) (GB Compatible)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "女神转生外传II"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

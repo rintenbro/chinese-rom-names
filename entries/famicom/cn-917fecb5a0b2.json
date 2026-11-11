@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-4ff0c2013700/title.png"
+ },
+ "files": [
+  {
+   "crc32": "3E31AE74",
+   "name": "机甲战士(简)[外星科技](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "机甲战士",
+ "hack_group": "外星科技",
+ "id": "cn-917fecb5a0b2",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "机甲战士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

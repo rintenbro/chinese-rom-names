@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A716C2CD",
+   "name": "百眼巨神(简)[虫虫](JP)[STG](0.37Mb).nes",
+   "size": 49168
+  }
+ ],
+ "group": "Argus (Japan) (En)",
+ "hack_group": "虫虫",
+ "id": "prb-famicom-a716c2cd",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "F8A22D45",
+  "no_intro_name": "Argus (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "百眼巨神"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

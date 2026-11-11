@@ -11,10 +11,9 @@
    "size": 29561888
   }
  ],
- "group": "Picross DS",
+ "group": "Picross DS (Japan)",
+ "hack_group": "xedftxz",
  "id": "ver-nds-2884e19d",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "1666C9AE",
   "no_intro_name": "Picross DS (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "AXPJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Picross DS (Japan)",
   "zh-Hans": "绘图方块DS 不完全汉化版"
  },
- "vendor": "xedftxz",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

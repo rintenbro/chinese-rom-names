@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-8dc8fef8c95b/title.png"
+ },
+ "files": [
+  {
+   "crc32": "2153A74A",
+   "name": "混沌世界(简)[外星科技](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "混沌世界",
+ "hack_group": "外星科技",
+ "id": "cn-05410e01b42f",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "混沌世界"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-af508c80a95c/title.png"
+ },
+ "files": [
+  {
+   "crc32": "828FE536",
+   "name": "地狱神探(简)[恒格电子](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "地狱神探",
+ "hack_group": "恒格电子",
+ "id": "cn-d0a58929b5b2",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "地狱神探"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

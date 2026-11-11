@@ -11,10 +11,9 @@
    "size": 4194304
   }
  ],
- "group": "Lode Runner",
+ "group": "Lode Runner (Japan)",
+ "hack_group": "",
  "id": "ver-gba-03b87cc4",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "3E2CF3FF",
   "no_intro_name": "Lode Runner (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "A39J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Lode Runner (Japan)",
   "zh-Hans": "淘金者"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

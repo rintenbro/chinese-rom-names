@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "375BF357",
+   "name": "地狱极乐丸(v1.0)(简)[DMG](JP)[ACT](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Jigoku Gokuraku Maru (Japan)",
+ "hack_group": "",
+ "id": "prb-famicom-375bf357",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Jigoku Gokuraku Maru (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "地狱极乐丸"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

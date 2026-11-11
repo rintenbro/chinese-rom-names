@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Zombie Shiki - Eigo Ryoku Sosei Jutsu - English of the Dead",
+ "group": "Zombie Shiki - Eigo Ryoku Sosei Jutsu - English of the Dead (Japan)",
+ "hack_group": "",
  "id": "ver-nds-b4924fea",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "FEF506E1",
   "no_intro_name": "Zombie Shiki - Eigo Ryoku Sosei Jutsu - English of the Dead (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YZNJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Zombie Shiki - Eigo Ryoku Sosei Jutsu - English of the Dead (Japan)",
   "zh-Hans": "僵尸式英语能力复活术 死亡英语鬼屋 文本测试版"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "14C1F419",
+   "name": "扭蛋！迪诺机 蓝版[Advance汉化组](简)(96Mb).gba",
+   "size": 11611424
+  }
+ ],
+ "group": "Gachasute! Dino Device - Blue (Japan)",
+ "hack_group": "Advance汉化组",
+ "id": "prb-gba-14c1f419",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "EB9F6F11",
+  "no_intro_name": "Gachasute! Dino Device - Blue (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "扭蛋！迪诺机 蓝版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

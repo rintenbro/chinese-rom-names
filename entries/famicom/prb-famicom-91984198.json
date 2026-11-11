@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "91984198",
+   "name": "双鹰 乔兄弟的复仇(简)[虫儿](JP)[STG](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Twin Eagle (Japan) (En)",
+ "hack_group": "虫儿",
+ "id": "prb-famicom-91984198",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Twin Eagle (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "双鹰 乔兄弟的复仇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

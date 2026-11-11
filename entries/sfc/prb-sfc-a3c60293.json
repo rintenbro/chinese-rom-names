@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A3C60293",
+   "name": "吞食天地 - 三国群雄传 (简) (v1.01)(cslrxyz)(12Mb).sfc",
+   "size": 1572864
+  }
+ ],
+ "group": "Tenchi o Kurau - Sangokushi Gunyuuden (Japan)",
+ "hack_group": "cslrxyz",
+ "id": "prb-sfc-a3c60293",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "4740C9E4",
+  "no_intro_name": "Tenchi o Kurau - Sangokushi Gunyuuden (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "吞食天地 - 三国群雄传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.01"
+}

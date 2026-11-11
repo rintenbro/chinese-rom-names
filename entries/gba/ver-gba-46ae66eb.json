@@ -11,10 +11,9 @@
    "size": 8454144
   }
  ],
- "group": "Spider-Man - Mysterio no Kyoui",
+ "group": "Spider-Man - Mysterio no Kyoui (Japan)",
+ "hack_group": "天使汉化组",
  "id": "ver-gba-46ae66eb",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "F8125C4B",
   "no_intro_name": "Spider-Man - Mysterio no Kyoui (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "繁",
- "serial": "ASEJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Spider-Man - Mysterio no Kyoui (Japan)",
   "zh-Hans": "蜘蛛侠 - 密斯特里奥的威胁"
  },
- "vendor": "天使汉化组",
+ "type": "game",
+ "vendor": "",
  "version": "v20060306"
 }

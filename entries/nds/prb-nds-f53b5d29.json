@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F53B5D29",
+   "name": "玛丽&嘉利一起学科学 中秋0.5完整剧情测试版(JP)(SOMA汉化组)(128Mb).nds",
+   "size": 15270832
+  }
+ ],
+ "group": "Marie & Gali no Let's Science (Japan)",
+ "hack_group": "SOMA汉化组",
+ "id": "prb-nds-f53b5d29",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "5AA6CB60",
+  "no_intro_name": "Marie & Gali no Let's Science (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "玛丽&嘉利一起学科学 中秋0.5完整剧情测试版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

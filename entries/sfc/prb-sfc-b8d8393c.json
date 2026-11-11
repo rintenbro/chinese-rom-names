@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B8D8393C",
+   "name": "战斗机器人烈传(简)(v1.0)(小鬼混+星组)(32Mb).smc",
+   "size": 4194304
+  }
+ ],
+ "group": "Battle Robot Retsuden (Japan)",
+ "hack_group": "小鬼混+星组",
+ "id": "prb-sfc-b8d8393c",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "B72BF1F2",
+  "no_intro_name": "Battle Robot Retsuden (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "战斗机器人烈传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

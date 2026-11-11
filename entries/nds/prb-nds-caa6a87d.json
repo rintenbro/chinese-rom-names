@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CAA6A87D",
+   "name": "欢迎回来！小机器人！开心富裕大扫除！ 1.1(JP)(兔友汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Okaeri! Chibi-Robo! - Happy Rich Oosouji! (Japan)",
+ "hack_group": "兔友汉化组",
+ "id": "prb-nds-caa6a87d",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "30DEDCA9",
+  "no_intro_name": "Okaeri! Chibi-Robo! - Happy Rich Oosouji! (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "欢迎回来！小机器人！开心富裕大扫除！ 1.1"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

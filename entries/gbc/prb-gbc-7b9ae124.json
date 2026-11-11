@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7B9AE124",
+   "name": "名侦探柯南 被诅咒的航路(简)(v1.0)(RangerMarsh)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Meitantei Conan - Norowareta Kouro (Japan) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "RangerMarsh",
+ "id": "prb-gbc-7b9ae124",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "CABDD802",
+  "no_intro_name": "Meitantei Conan - Norowareta Kouro (Japan) (SGB Enhanced) (GB Compatible)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "名侦探柯南 被诅咒的航路"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

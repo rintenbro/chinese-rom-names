@@ -11,10 +11,9 @@
    "size": 119655040
   }
  ],
- "group": "Ghost Trick",
+ "group": "Ghost Trick (Japan)",
+ "hack_group": "逆转ACE&TGB汉化工作室",
  "id": "ver-nds-72f79b4b",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "105DDD9E",
   "no_intro_name": "Ghost Trick (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "BGTJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Ghost Trick (Japan)",
   "zh-Hans": "幽灵侦探 完美汉化宋体版"
  },
- "vendor": "逆转ACE&TGB汉化工作室",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

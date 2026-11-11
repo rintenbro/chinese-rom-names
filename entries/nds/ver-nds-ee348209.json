@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Dragon Ball DS",
+ "group": "Dragon Ball DS (Japan)",
+ "hack_group": "集中营汉化组",
  "id": "ver-nds-ee348209",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "4472F77A",
   "no_intro_name": "Dragon Ball DS (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "CG7J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Dragon Ball DS (Japan)",
   "zh-Hans": "龙珠DS 1.0"
  },
- "vendor": "集中营汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

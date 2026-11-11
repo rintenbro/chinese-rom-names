@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DC386335",
+   "name": "空中魂斗罗 最终任务(v1.0)(简)[星空](JP)[STG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Final Mission (Japan)",
+ "hack_group": "星空",
+ "id": "prb-famicom-dc386335",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "290DD12F",
+  "no_intro_name": "Final Mission (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "空中魂斗罗 最终任务"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

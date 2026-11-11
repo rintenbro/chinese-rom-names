@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C84BBFB5",
+   "name": "超级机器人大战LB (v1.3)(简)(DMG汉化组)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Super Robot Taisen - Link Battler (Japan) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "DMG汉化组",
+ "id": "prb-gbc-c84bbfb5",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Super Robot Taisen - Link Battler (Japan) (SGB Enhanced) (GB Compatible)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级机器人大战LB"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.3"
+}

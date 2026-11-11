@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Calciobit",
+ "group": "Calciobit (Japan)",
+ "hack_group": "Hyopo",
  "id": "ver-gba-a16f5d12",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "498443DA",
   "no_intro_name": "Calciobit (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BIXJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Calciobit (Japan)",
   "zh-Hans": "轻松玩欢乐足球"
  },
- "vendor": "Hyopo",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

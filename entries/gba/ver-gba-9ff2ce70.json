@@ -11,10 +11,9 @@
    "size": 33554432
   }
  ],
- "group": "Get Ride! Amdriver - Senkou no Hero Tanjou!",
+ "group": "Get Ride! Amdriver - Senkou no Hero Tanjou! (Japan)",
+ "hack_group": "盗商译超级机器人大战OG3 盗商&YY小龙虾",
  "id": "ver-gba-9ff2ce70",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "9CF6887C",
   "no_intro_name": "Get Ride! Amdriver - Senkou no Hero Tanjou! (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BGIJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Get Ride! Amdriver - Senkou no Hero Tanjou! (Japan)",
   "zh-Hans": "重装骑士 – 闪光英雄的诞生"
  },
- "vendor": "盗商译超级机器人大战OG3 / 盗商&YY小龙虾",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B7692A2A",
+   "name": "三世奇缘(简)(小鬼混)(32Mb).smc",
+   "size": 4194304
+  }
+ ],
+ "group": "Trinea (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-b7692a2a",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "C20419EC",
+  "no_intro_name": "Trinea (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "三世奇缘"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

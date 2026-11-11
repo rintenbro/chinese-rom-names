@@ -11,10 +11,9 @@
    "size": 8716032
   }
  ],
- "group": "Hoshi no Kirby - Yume no Izumi Deluxe",
+ "group": "Hoshi no Kirby - Yume no Izumi Deluxe (Japan)",
+ "hack_group": "",
  "id": "ver-gba-f1e1dac9",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "C55A3C2C",
   "no_intro_name": "Hoshi no Kirby - Yume no Izumi Deluxe (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "A7KJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Hoshi no Kirby - Yume no Izumi Deluxe (Japan)",
   "zh-Hans": "星之卡比 - 梦之泉"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

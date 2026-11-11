@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "16C99E87",
+   "name": "王国之心 358／2天 V2(JP)(天幻&扑家&シロ)(-2048Mb).nds",
+   "size": 268435456
+  }
+ ],
+ "group": "Kingdom Hearts - 358-2 Days (Japan)",
+ "hack_group": "天幻&扑家&シロ",
+ "id": "prb-nds-16c99e87",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "6ACFDFDB",
+  "no_intro_name": "Kingdom Hearts - 358-2 Days (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "王国之心 358／2天 V2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

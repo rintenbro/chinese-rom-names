@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "65F55013",
+   "name": "宇宙巡航机(美版)(简)[虫虫](US)[STG](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Gradius (USA)",
+ "hack_group": "虫虫",
+ "id": "prb-famicom-65f55013",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "54F1AF1F",
+  "no_intro_name": "Gradius (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "宇宙巡航机"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

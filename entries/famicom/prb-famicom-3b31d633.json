@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3B31D633",
+   "name": "卡洛夫(简)[高伟](JP)[STG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Karnov (Japan)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-3b31d633",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Karnov (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "卡洛夫"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

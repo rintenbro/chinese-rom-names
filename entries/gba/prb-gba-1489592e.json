@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1489592E",
+   "name": "口袋梦幻! - 梦幻寻宝幸存挑战![TGB](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Croket! - Yume no Banker Survival! (Japan)",
+ "hack_group": "",
+ "id": "prb-gba-1489592e",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "A2AAD079",
+  "no_intro_name": "Croket! - Yume no Banker Survival! (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋梦幻! - 梦幻寻宝幸存挑战!"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

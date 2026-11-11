@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5673A41E",
+   "name": "平成BT帝国战(简)[小鬼混](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Heisei Tensai Bakabon (Japan)",
+ "hack_group": "小鬼混",
+ "id": "prb-famicom-5673a41e",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Heisei Tensai Bakabon (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "平成BT帝国战"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

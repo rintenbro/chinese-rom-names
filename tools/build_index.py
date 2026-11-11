@@ -10,12 +10,13 @@ for plat in sorted(os.listdir(os.path.join(ROOT,"entries"))):
         if not fn.endswith(".json"): continue
         p=os.path.join(d,fn); blob=open(p,encoding="utf-8").read()
         e=json.loads(blob)
-        idx.append({"id":e["id"],"layer":e["layer"],"platform":e["platform"],"group":e.get("group"),
+        idx.append({"id":e["id"],"status":e.get("status"),"platform":e["platform"],"group":e.get("group"),
                     "titles":e["titles"],"crc32":[f["crc32"] for f in e["files"]],
                     "assets":e.get("assets",{}),"hash":hashlib.sha256(blob.encode()).hexdigest()[:16]})
 old=json.load(open(os.path.join(ROOT,"index.json"),encoding="utf-8")) if os.path.exists(os.path.join(ROOT,"index.json")) else {}
 json.dump({"version":old.get("version","0.1.0"),"generated_at":datetime.datetime.now().isoformat(timespec="seconds"),
-           "count":len(idx),"counts":{"verified":sum(1 for x in idx if x["layer"]=="verified"),
-                                       "self":sum(1 for x in idx if x["layer"]=="self")},
+           "count":len(idx),"counts":{"verified":sum(1 for x in idx if x["status"]=="verified"),
+                                       "probable":sum(1 for x in idx if x["status"]=="probable"),
+                                       "self":sum(1 for x in idx if x["status"]=="self")},
            "entries":idx},open(os.path.join(ROOT,"index.json"),"w",encoding="utf-8"),ensure_ascii=False,indent=1)
 print(f"{len(idx)} entries -> index.json")

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4809986D",
+   "name": "神术 - 幻想世界的诞生(最终幻想X)(简)(修正版)(盗版&dhx)(4Mb).gb",
+   "size": 524288
+  }
+ ],
+ "group": "God Medicine - Fantasy Sekai no Tanjou (Japan)",
+ "hack_group": "",
+ "id": "prb-gb-4809986d",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "A1B29AB8",
+  "no_intro_name": "God Medicine - Fantasy Sekai no Tanjou (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "神术 - 幻想世界的诞生"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

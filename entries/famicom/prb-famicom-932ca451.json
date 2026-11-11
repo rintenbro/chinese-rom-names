@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "932CA451",
+   "name": "绝代英雄(繁)[外星科技](JP)[SLG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Juedai Yingxiong (China) (970489) (Pirate)",
+ "hack_group": "外星科技",
+ "id": "prb-famicom-932ca451",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "EFB3929C",
+  "no_intro_name": "Juedai Yingxiong (China) (970489) (Pirate)",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "绝代英雄"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

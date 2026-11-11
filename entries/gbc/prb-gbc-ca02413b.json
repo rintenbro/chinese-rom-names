@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-7a8708f17bff/title.png"
+ },
+ "files": [
+  {
+   "crc32": "CA02413B",
+   "name": "时空星兽 (繁) (广誉科技).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Timer Monster (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-gbc-ca02413b",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Timer Monster (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "时空星兽"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

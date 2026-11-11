@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D1142A47",
+   "name": "趣味方块(v1.0)(简)[高伟](JP)[PUZ](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Flipull - An Exciting Cube Game (Japan) (En)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-d1142a47",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "E0BBB461",
+  "no_intro_name": "Flipull - An Exciting Cube Game (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "趣味方块"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

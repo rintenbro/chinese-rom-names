@@ -11,10 +11,9 @@
    "size": 128110592
   }
  ],
- "group": "Tengai Makyou II - Manji Maru",
+ "group": "Tengai Makyou II - Manji Maru (Japan)",
+ "hack_group": "Advance汉化组",
  "id": "ver-nds-da9fe1c4",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "0DF79A80",
   "no_intro_name": "Tengai Makyou II - Manji Maru (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "ATMJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Tengai Makyou II - Manji Maru (Japan)",
   "zh-Hans": "天外魔境2 万字丸"
  },
- "vendor": "Advance汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -11,10 +11,9 @@
    "size": 9437184
   }
  ],
- "group": "Dragon Ball Z - Buu's Fury",
+ "group": "Dragon Ball Z - Buu's Fury (USA)",
+ "hack_group": "Advance汉化组",
  "id": "ver-gba-9b41d8d2",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "01C1707F",
   "no_intro_name": "Dragon Ball Z - Buu's Fury (USA)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BG3E",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Dragon Ball Z - Buu's Fury (USA)",
   "zh-Hans": "龙珠Z – 布欧的愤怒"
  },
- "vendor": "Advance汉化组",
+ "type": "game",
+ "vendor": "",
  "version": "v1.2"
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "83E171E4",
+   "name": "西部英豪 枪手的考验 (简)(v1.42)(hlken)(32Mb).smc",
+   "size": 4194304
+  }
+ ],
+ "group": "Ganpuru - Gunman's Proof (Japan)",
+ "hack_group": "hlken",
+ "id": "prb-sfc-83e171e4",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "AF415C24",
+  "no_intro_name": "Ganpuru - Gunman's Proof (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "西部英豪 枪手的考验"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.42"
+}

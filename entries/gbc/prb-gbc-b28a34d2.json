@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-f017a0a6ea95/title.png"
+ },
+ "files": [
+  {
+   "crc32": "B28A34D2",
+   "name": "最终幻想DX3 (繁) (BBD).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Final Fantasy DX (China) [CHT]",
+ "hack_group": "BBD",
+ "id": "prb-gbc-b28a34d2",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Final Fantasy DX (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "最终幻想DX3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

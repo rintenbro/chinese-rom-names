@@ -11,10 +11,9 @@
    "size": 115952128
   }
  ],
- "group": "Riz-Zoawd",
+ "group": "Riz-Zoawd (Japan)",
+ "hack_group": "akairyusei",
  "id": "ver-nds-fba30102",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "E4EBCB29",
   "no_intro_name": "Riz-Zoawd (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "繁",
- "serial": "COZJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Riz-Zoawd (Japan)",
   "zh-Hans": "绿野仙踪奇遇记V2 桃乐丝版"
  },
- "vendor": "akairyusei",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

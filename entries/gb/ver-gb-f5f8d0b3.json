@@ -11,10 +11,9 @@
    "size": 65536
   }
  ],
- "group": "Zuigao Jimi",
+ "group": "Zuigao Jimi (Top Secret) (Taiwan) (Multicart Rip)",
+ "hack_group": "Gowin",
  "id": "ver-gb-f5f8d0b3",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "F5F8D0B3",
   "no_intro_name": "Zuigao Jimi (Top Secret) (Taiwan) (Multicart Rip)",
@@ -23,12 +22,12 @@
  },
  "platform": "gb",
  "script": "繁",
- "serial": "",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Zuigao Jimi (Top Secret) (Taiwan) (Multicart Rip)",
   "zh-Hans": "最高机密"
  },
- "vendor": "Gowin",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

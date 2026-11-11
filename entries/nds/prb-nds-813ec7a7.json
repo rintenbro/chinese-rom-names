@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "813EC7A7",
+   "name": "真·三国无双 斗士之战 0.7版(JP)(woshiyizhiyu)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Shin Sangoku Musou DS - Fighter's Battle (Japan)",
+ "hack_group": "woshiyizhiyu",
+ "id": "prb-nds-813ec7a7",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "80E532EB",
+  "no_intro_name": "Shin Sangoku Musou DS - Fighter's Battle (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "真·三国无双 斗士之战 0.7版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

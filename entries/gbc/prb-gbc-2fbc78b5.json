@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2FBC78B5",
+   "name": "诸神战争 - 精灵王传说 (简) (emu618).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Gaiamaster Duel - Card Attackers (Japan)",
+ "hack_group": "emu618",
+ "id": "prb-gbc-2fbc78b5",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "78206460",
+  "no_intro_name": "Gaiamaster Duel - Card Attackers (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "诸神战争 - 精灵王传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

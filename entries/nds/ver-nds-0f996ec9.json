@@ -11,10 +11,9 @@
    "size": 134217728
   }
  ],
- "group": "SaGa 2 - Hihou Densetsu - Goddess of Destiny",
+ "group": "SaGa 2 - Hihou Densetsu - Goddess of Destiny (Japan)",
+ "hack_group": "兔友汉化组",
  "id": "ver-nds-0f996ec9",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "F47920FB",
   "no_intro_name": "SaGa 2 - Hihou Densetsu - Goddess of Destiny (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "CSGJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "SaGa 2 - Hihou Densetsu - Goddess of Destiny (Japan)",
   "zh-Hans": "沙迦2秘宝传说"
  },
- "vendor": "兔友汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

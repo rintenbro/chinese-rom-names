@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "RPG Tsukuru Advance",
+ "group": "RPG Tsukuru Advance (Japan)",
+ "hack_group": "林拓",
  "id": "ver-gba-0cfb26b1",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "E7FC81D0",
   "no_intro_name": "RPG Tsukuru Advance (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "A8TJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "RPG Tsukuru Advance (Japan)",
   "zh-Hans": "RPG制造Advance"
  },
- "vendor": "林拓",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

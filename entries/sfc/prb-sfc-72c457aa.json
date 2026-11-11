@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "72C457AA",
+   "name": "超级玛利欧 耀西岛(繁)(v20260615)(NOKOH)(16Mb).sfc",
+   "size": 2097152
+  }
+ ],
+ "group": "Super Mario - Yoshi Island (Japan)",
+ "hack_group": "NOKOH",
+ "id": "prb-sfc-72c457aa",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Super Mario - Yoshi Island (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级玛利欧 耀西岛"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20260615"
+}

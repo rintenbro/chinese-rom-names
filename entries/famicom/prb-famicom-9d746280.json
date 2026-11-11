@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9D746280",
+   "name": "阿贝道X(v1.0)(简)[高伟](JP)[STG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Abadox (Japan) (En)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-9d746280",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Abadox (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "阿贝道X"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

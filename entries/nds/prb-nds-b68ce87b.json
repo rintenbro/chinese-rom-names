@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B68CE87B",
+   "name": "刑事J.B. 哈罗德的事件簿 曼哈顿安魂曲&杀意之吻(JP)(GV胜利汉化组)(256Mb).nds",
+   "size": 27808020
+  }
+ ],
+ "group": "Keiji J.B. Harold no Jikenbo - Manhattan Requiem & Kiss of Murder (Japan)",
+ "hack_group": "GV胜利汉化组",
+ "id": "prb-nds-b68ce87b",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "ADA45CD8",
+  "no_intro_name": "Keiji J.B. Harold no Jikenbo - Manhattan Requiem & Kiss of Murder (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "刑事J.B. 哈罗德的事件簿 曼哈顿安魂曲&杀意之吻"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

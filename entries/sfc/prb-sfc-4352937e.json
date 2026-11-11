@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4352937E",
+   "name": "机动战士高达 交错维度0079 致赴死者的祈祷(简)(小鬼混+阿刃)(16Mb).smc",
+   "size": 2097152
+  }
+ ],
+ "group": "Kidou Senshi Gundam - Cross Dimension 0079 (Japan)",
+ "hack_group": "小鬼混+阿刃",
+ "id": "prb-sfc-4352937e",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "9AB3EB18",
+  "no_intro_name": "Kidou Senshi Gundam - Cross Dimension 0079 (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "机动战士高达 交错维度0079 致赴死者的祈祷"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Crazy Machines 2",
+ "group": "Crazy Machines 2 (Europe) (En,Fr,De,Es,It)",
+ "hack_group": "远离汉化组",
  "id": "ver-nds-a37c6690",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "B38DDE1C",
   "no_intro_name": "Crazy Machines 2 (Europe) (En,Fr,De,Es,It)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "BMZP",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Crazy Machines 2 (Europe) (En,Fr,De,Es,It)",
   "zh-Hans": "疯狂机器2"
  },
- "vendor": "远离汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

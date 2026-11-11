@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4DE8C95C",
+   "name": "名侦探柯南 地下游乐园杀人事件(简)(AI汉化大字版v1.0.5)(哇你是谁怎么傻乎乎)(4Mb).gb",
+   "size": 524288
+  }
+ ],
+ "group": "Meitantei Conan - Chika Yuuenchi Satsujin Jiken (Japan) (SGB Enhanced)",
+ "hack_group": "",
+ "id": "prb-gb-4de8c95c",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "3945BC0D",
+  "no_intro_name": "Meitantei Conan - Chika Yuuenchi Satsujin Jiken (Japan) (SGB Enhanced)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "名侦探柯南 地下游乐园杀人事件"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0.5"
+}

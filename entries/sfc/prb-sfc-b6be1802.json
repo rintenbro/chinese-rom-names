@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B6BE1802",
+   "name": "钟楼 (简)(Я929)(40Mb).smc",
+   "size": 3276800
+  }
+ ],
+ "group": "Clock Tower (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-b6be1802",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "CBCD0DAD",
+  "no_intro_name": "Clock Tower (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "钟楼"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

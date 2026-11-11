@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "DK - King of Swing",
+ "group": "DK - King of Swing (USA)",
+ "hack_group": "Flyeyes",
  "id": "ver-gba-292c2e97",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "D610B239",
   "no_intro_name": "DK - King of Swing (USA)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BBKE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "DK - King of Swing (USA)",
   "zh-Hans": "大金刚 - 摇摆之王"
  },
- "vendor": "Flyeyes",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

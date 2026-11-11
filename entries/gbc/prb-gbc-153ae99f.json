@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "153AE99F",
+   "name": "数码暴龙2 (繁) (Yong Yong).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Digimon 2 (Taiwan) (En)",
+ "hack_group": "Yong Yong",
+ "id": "prb-gbc-153ae99f",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "A43AB22B",
+  "no_intro_name": "Digimon 2 (Taiwan) (En)",
+  "region": "Taiwan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "数码暴龙2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

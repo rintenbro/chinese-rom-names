@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5F2DCAA1",
+   "name": "简单DS系列Vol.21 THE步兵 部队出击！战场之犬(JP)(兔友汉化组)(256Mb).nds",
+   "size": 31979904
+  }
+ ],
+ "group": "Simple DS Series Vol. 21 - The Hohei - Butai de Shutsugeki! Senjou no Inu-tachi (Japan)",
+ "hack_group": "兔友汉化组",
+ "id": "prb-nds-5f2dcaa1",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "09D8406F",
+  "no_intro_name": "Simple DS Series Vol. 21 - The Hohei - Butai de Shutsugeki! Senjou no Inu-tachi (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "简单DS系列Vol.21 THE步兵 部队出击！战场之犬"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

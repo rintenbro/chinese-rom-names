@@ -11,10 +11,9 @@
    "size": 60716544
   }
  ],
- "group": "Dragon Ball DS 2 - Totsugeki! Red Ribbon Gun",
+ "group": "Dragon Ball DS 2 - Totsugeki! Red Ribbon Gun (Japan)",
+ "hack_group": "兔友汉化组",
  "id": "ver-nds-7d78300e",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "9533A649",
   "no_intro_name": "Dragon Ball DS 2 - Totsugeki! Red Ribbon Gun (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "BDBJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Dragon Ball DS 2 - Totsugeki! Red Ribbon Gun (Japan)",
   "zh-Hans": "龙珠DS2 突击！红缎带军别字修正版"
  },
- "vendor": "兔友汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

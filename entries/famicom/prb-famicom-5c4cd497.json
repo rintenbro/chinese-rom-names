@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5C4CD497",
+   "name": "超级马里奥兄弟2(简)[卡通](US)[ACT](2Mb).nes",
+   "size": 262288
+  }
+ ],
+ "group": "Super Mario USA (Japan) (En)",
+ "hack_group": "卡通",
+ "id": "prb-famicom-5c4cd497",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "94076BF6",
+  "no_intro_name": "Super Mario USA (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级马里奥兄弟2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BEB0DC50",
+   "name": "侠盗猎车手 - 前进[Beq & LCPD](Beta) (v20160720)[简](JP)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Grand Theft Auto (Europe) (En,Fr,De,Es,It)",
+ "hack_group": "Beq & LCPD",
+ "id": "prb-gba-beb0dc50",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "4189E07F",
+  "no_intro_name": "Grand Theft Auto (Europe) (En,Fr,De,Es,It)",
+  "region": "Europe"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "侠盗猎车手 - 前进"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20160720"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F84F39C4",
+   "name": "镜中侦探(JP)(aeaecade)(512Mb).nds",
+   "size": 66645832
+  }
+ ],
+ "group": "Another Time, Another Leaf - Kagami no Naka no Tantei (Japan)",
+ "hack_group": "aeaecade",
+ "id": "prb-nds-f84f39c4",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "CAE12234",
+  "no_intro_name": "Another Time, Another Leaf - Kagami no Naka no Tantei (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "镜中侦探"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

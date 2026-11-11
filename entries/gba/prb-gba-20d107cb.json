@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "20D107CB",
+   "name": "合金神枪客[紫琥珀姐姐+阿刃](剧情汉化版)(简)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Metalgun Slinger (Japan)",
+ "hack_group": "紫琥珀姐姐+阿刃",
+ "id": "prb-gba-20d107cb",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "8DFB7A2F",
+  "no_intro_name": "Metalgun Slinger (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "合金神枪客"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

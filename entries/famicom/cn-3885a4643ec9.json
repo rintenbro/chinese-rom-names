@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-39c1ff51a60e/title.png"
+ },
+ "files": [
+  {
+   "crc32": "A30BBC68",
+   "name": "坦克1990(简)[九班](JP)[STG](0.31Mb).nes",
+   "size": 41104
+  }
+ ],
+ "group": "坦克1990",
+ "hack_group": "九班",
+ "id": "cn-3885a4643ec9",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "坦克1990"
+ },
+ "type": "hack",
+ "vendor": "",
+ "version": ""
+}

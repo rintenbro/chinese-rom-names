@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-513233c140df/title.png"
+ },
+ "files": [
+  {
+   "crc32": "FEF3CD45",
+   "name": "虎门硝烟(繁)[酷哥电子](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "虎门硝烟",
+ "hack_group": "酷哥电子",
+ "id": "cn-31319d2313cf",
+ "platform": "famicom",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "虎门硝烟"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0D6D06F6",
+   "name": "联合前线 (简) (cslrxyz)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Hybrid Front, The (Japan)",
+ "hack_group": "cslrxyz",
+ "id": "prb-megadrive-0d6d06f6",
+ "platform": "megadrive",
+ "probable_original": {
+  "crc32": "A1F1CFE7",
+  "no_intro_name": "Hybrid Front, The (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "联合前线"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

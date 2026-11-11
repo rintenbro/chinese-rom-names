@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D4AA0AED",
+   "name": "超级大脑提升(US)(xedftxz)(128Mb).nds",
+   "size": 15632420
+  }
+ ],
+ "group": "Mega Brain Boost (USA)",
+ "hack_group": "xedftxz",
+ "id": "prb-nds-d4aa0aed",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "81DB67F0",
+  "no_intro_name": "Mega Brain Boost (USA)",
+  "region": "USA"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级大脑提升"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

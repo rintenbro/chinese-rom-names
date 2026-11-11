@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AF434146",
+   "name": "数码宝贝传说 失落的进化(简)(机翻九版)(よろしく)(512Mb).nds",
+   "size": 61231164
+  }
+ ],
+ "group": "Digimon Story - Lost Evolution (Japan)",
+ "hack_group": "",
+ "id": "prb-nds-af434146",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "83878137",
+  "no_intro_name": "Digimon Story - Lost Evolution (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "数码宝贝传说 失落的进化"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

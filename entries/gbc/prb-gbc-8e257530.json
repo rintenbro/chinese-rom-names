@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8E257530",
+   "name": "生化危机 - 最终逃亡 (简) (unknown).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Biohazard Gaiden (Japan)",
+ "hack_group": "unknown",
+ "id": "prb-gbc-8e257530",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "C2531D36",
+  "no_intro_name": "Biohazard Gaiden (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "生化危机 - 最终逃亡"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

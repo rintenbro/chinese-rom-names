@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D00D0FC3",
+   "name": "口袋妖怪不可思议迷宫 时之探险队修正版(US)(Team Pokepals)(512Mb).nds",
+   "size": 65159520
+  }
+ ],
+ "group": "Pokemon Mystery Dungeon - Explorers of Time (USA)",
+ "hack_group": "Team Pokepals",
+ "id": "prb-nds-d00d0fc3",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "D4F9C8E7",
+  "no_intro_name": "Pokemon Mystery Dungeon - Explorers of Time (USA)",
+  "region": "USA"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪不可思议迷宫 时之探险队修正版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

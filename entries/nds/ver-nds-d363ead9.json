@@ -11,10 +11,9 @@
    "size": 121211432
   }
  ],
- "group": "SaGa 3 - Jikuu no Hasha - Shadow or Light",
+ "group": "SaGa 3 - Jikuu no Hasha - Shadow or Light (Japan)",
+ "hack_group": "ACG汉化组",
  "id": "ver-nds-d363ead9",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "D0C79AE7",
   "no_intro_name": "SaGa 3 - Jikuu no Hasha - Shadow or Light (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "BZ3J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "SaGa 3 - Jikuu no Hasha - Shadow or Light (Japan)",
   "zh-Hans": "沙迦3 时空之霸者 黑暗和光明"
  },
- "vendor": "ACG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

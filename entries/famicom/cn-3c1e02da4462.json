@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-bc0e0626d665/title.png"
+ },
+ "files": [
+  {
+   "crc32": "98E95ADF",
+   "name": "三国志 吕布传(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "group": "三国志 吕布传",
+ "hack_group": "南晶科技",
+ "id": "cn-3c1e02da4462",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "三国志 吕布传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

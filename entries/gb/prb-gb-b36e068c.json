@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B36E068C",
+   "name": "三国志 (繁) (unknown)(2Mb).gb",
+   "size": 262144
+  }
+ ],
+ "group": "Sangokushi - Game Boy Ban (Japan)",
+ "hack_group": "unknown",
+ "id": "prb-gb-b36e068c",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "83706E92",
+  "no_intro_name": "Sangokushi - Game Boy Ban (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "三国志"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

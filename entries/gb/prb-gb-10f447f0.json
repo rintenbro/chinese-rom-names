@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gb/cn-ad292dd83f04/title.png"
+ },
+ "files": [
+  {
+   "crc32": "10F447F0",
+   "name": "彩虹战士 (繁) (Gowin)(1Mb).gb",
+   "size": 131072
+  }
+ ],
+ "group": "Rainbow Prince (China) [CHT]",
+ "hack_group": "Gowin",
+ "id": "prb-gb-10f447f0",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Rainbow Prince (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "彩虹战士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

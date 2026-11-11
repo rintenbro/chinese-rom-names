@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7D604FA7",
+   "name": "全脑系列Vol.03 秋山仁教授监修 全脑JINJIN 2 全文本汉化版(JP)(叮当汉化组)(128Mb).nds",
+   "size": 15057852
+  }
+ ],
+ "group": "Zennou Series Vol. 03 - Akiyama Jin Kyouju Kanshuu - Zennou JinJin 2 (Japan)",
+ "hack_group": "叮当汉化组",
+ "id": "prb-nds-7d604fa7",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "88DA92E0",
+  "no_intro_name": "Zennou Series Vol. 03 - Akiyama Jin Kyouju Kanshuu - Zennou JinJin 2 (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "全脑系列Vol.03 秋山仁教授监修 全脑JINJIN 2 全文本汉化版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

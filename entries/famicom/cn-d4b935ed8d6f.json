@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-633d0eb1099b/title.png"
+ },
+ "files": [
+  {
+   "crc32": "3CB5D670",
+   "name": "鲨鱼！鲨鱼！(大字体)(简)[高伟](JP)[ACT](0.18Mb).nes",
+   "size": 24592
+  }
+ ],
+ "group": "鲨鱼！鲨鱼！",
+ "hack_group": "高伟",
+ "id": "cn-d4b935ed8d6f",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "鲨鱼！鲨鱼！"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

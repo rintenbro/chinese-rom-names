@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C661535B",
+   "name": "最终幻想5(简)(v2.0+战斗乱码修复)(Boco+飞雨影)(20Mb).sfc",
+   "size": 2621440
+  }
+ ],
+ "group": "Final Fantasy V (Japan)",
+ "hack_group": "v2.0+战斗乱码修复 Boco+飞雨影",
+ "id": "prb-sfc-c661535b",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Final Fantasy V (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "最终幻想5"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

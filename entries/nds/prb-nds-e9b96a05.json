@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E9B96A05",
+   "name": "小魔女之路(简)(JP)(兔友汉化组)(512Mb).nds",
+   "size": 66836804
+  }
+ ],
+ "group": "Majo ni Naru. (Japan)",
+ "hack_group": "兔友汉化组",
+ "id": "prb-nds-e9b96a05",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "B0410486",
+  "no_intro_name": "Majo ni Naru. (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "小魔女之路"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

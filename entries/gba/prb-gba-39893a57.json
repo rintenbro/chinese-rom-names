@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "39893A57",
+   "name": "博德之门 黑暗联盟[Umiiiiiii+大水杯](汉化修正版)(简)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Baldur's Gate - Dark Alliance (USA)",
+ "hack_group": "Umiiiiiii+大水杯",
+ "id": "prb-gba-39893a57",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "DEEDD7D9",
+  "no_intro_name": "Baldur's Gate - Dark Alliance (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "博德之门 黑暗联盟"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

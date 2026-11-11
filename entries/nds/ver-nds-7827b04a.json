@@ -11,10 +11,9 @@
    "size": 23007128
   }
  ],
- "group": "Mario Kart DS",
+ "group": "Mario Kart DS (Japan)",
+ "hack_group": "",
  "id": "ver-nds-7827b04a",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "226E8DB6",
   "no_intro_name": "Mario Kart DS (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "AMCJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Mario Kart DS (Japan)",
   "zh-Hans": "马里奥赛车DS"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

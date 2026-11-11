@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7CF6E170",
+   "name": "科乐美GB精选集3 (简) (DMG汉化组)(8Mb).gb",
+   "size": 1048576
+  }
+ ],
+ "group": "Konami GB Collection Vol.3 (Japan) (SGB Enhanced)",
+ "hack_group": "DMG汉化组",
+ "id": "prb-gb-7cf6e170",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Konami GB Collection Vol.3 (Japan) (SGB Enhanced)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "科乐美GB精选集3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

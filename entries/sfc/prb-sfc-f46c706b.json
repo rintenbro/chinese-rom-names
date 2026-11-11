@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F46C706B",
+   "name": "天使之翼5 (繁) (剧情汉化)(Angel_Poon)(24Mb).sfc",
+   "size": 3145728
+  }
+ ],
+ "group": "Captain Tsubasa V - Hasha no Shougou Campione (Japan)",
+ "hack_group": "Angel_Poon",
+ "id": "prb-sfc-f46c706b",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "E2B26D99",
+  "no_intro_name": "Captain Tsubasa V - Hasha no Shougou Campione (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "天使之翼5"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 134217728
   }
  ],
- "group": "Sora no Otoshimono Forte - Dreamy Season",
+ "group": "Sora no Otoshimono Forte - Dreamy Season (Japan)",
+ "hack_group": "",
  "id": "ver-nds-d8f561a2",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "E2820425",
   "no_intro_name": "Sora no Otoshimono Forte - Dreamy Season (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "TFLJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Sora no Otoshimono Forte - Dreamy Season (Japan)",
   "zh-Hans": "天降之物F 梦幻季节 1300318423"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gba/cn-4a88157dc012/title.png"
+ },
+ "files": [
+  {
+   "crc32": "2DB33357",
+   "name": "机器人大战终极版[广誉科技+Maxzhou88+Dangfer](fix2)(繁)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Robot Taisen Ultimate Edition (China) [CHT]",
+ "hack_group": "fix2 广誉科技+Maxzhou88+Dangfer",
+ "id": "prb-gba-2db33357",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Robot Taisen Ultimate Edition (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "机器人大战终极版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

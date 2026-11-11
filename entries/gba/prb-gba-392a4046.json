@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "392A4046",
+   "name": "游戏王! - 怪兽决斗EX 3[CGP](简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Yu-Gi-Oh! Duel Monsters Expert 3 (Japan) (En,Ja,Fr,De,Es,It)",
+ "hack_group": "",
+ "id": "prb-gba-392a4046",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "7AB1EC04",
+  "no_intro_name": "Yu-Gi-Oh! Duel Monsters Expert 3 (Japan) (En,Ja,Fr,De,Es,It)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "游戏王! - 怪兽决斗EX 3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

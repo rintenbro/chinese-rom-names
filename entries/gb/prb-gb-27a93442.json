@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "27A93442",
+   "name": "口袋妖怪红(精灵宝可梦红) (繁)(修正版+完美LOGO)(sss888+RickyL1213)(8Mb).gb",
+   "size": 1048576
+  }
+ ],
+ "group": "Pocket Monsters - Aka (Japan) (SGB Enhanced)",
+ "hack_group": "sss888+RickyL1213",
+ "id": "prb-gb-27a93442",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Pocket Monsters - Aka (Japan) (SGB Enhanced)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪红"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

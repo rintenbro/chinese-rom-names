@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-5f203cbc1984/title.png"
+ },
+ "files": [
+  {
+   "crc32": "B6FCA9F2",
+   "name": "超级机器人大战F完结篇 (繁) (SKOB).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Super Robot Taisen Final (China) [CHT]",
+ "hack_group": "SKOB",
+ "id": "prb-gbc-b6fca9f2",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Super Robot Taisen Final (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级机器人大战F完结篇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

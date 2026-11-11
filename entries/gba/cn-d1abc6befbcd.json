@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gba/cn-2f2a4503d915/title.png"
+ },
+ "files": [
+  {
+   "crc32": "E8D3977A",
+   "name": "魔戒奇兵[广誉科技+Dangfer](fix2)(繁)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "魔戒奇兵",
+ "hack_group": "fix2 广誉科技+Dangfer",
+ "id": "cn-d1abc6befbcd",
+ "platform": "gba",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "魔戒奇兵"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

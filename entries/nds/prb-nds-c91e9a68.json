@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C91E9A68",
+   "name": "恶魔城DS 苍月的十字架(繁)(JP)(dream75421)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Akumajou Dracula - Sougetsu no Juujika (Japan) (Rev 1)",
+ "hack_group": "dream75421",
+ "id": "prb-nds-c91e9a68",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "0DF769EE",
+  "no_intro_name": "Akumajou Dracula - Sougetsu no Juujika (Japan) (Rev 1)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "恶魔城DS 苍月的十字架"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DCFA3468",
+   "name": "勇者斗恶龙怪兽篇 - 特瑞迷失的世界 (不卡版) (简) (unknown).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Dragon Quest Monsters - Terry no Wonderland (Japan) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "unknown",
+ "id": "prb-gbc-dcfa3468",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Dragon Quest Monsters - Terry no Wonderland (Japan) (SGB Enhanced) (GB Compatible)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "勇者斗恶龙怪兽篇 - 特瑞迷失的世界"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

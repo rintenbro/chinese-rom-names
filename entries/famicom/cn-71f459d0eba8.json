@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-448aaa19fe51/title.png"
+ },
+ "files": [
+  {
+   "crc32": "5ABE6CDB",
+   "name": "Microsoft Windows 98(简)[maxzhou88](CN)[ETC](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Microsoft Windows 98",
+ "hack_group": "maxzhou88",
+ "id": "cn-71f459d0eba8",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "Microsoft Windows 98"
+ },
+ "type": "hack",
+ "vendor": "",
+ "version": ""
+}

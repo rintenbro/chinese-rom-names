@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AA5F3EB2",
+   "name": "真女神转生 奇幻之旅 V2(JP)(LNC汉化组)(1024Mb).nds",
+   "size": 127023616
+  }
+ ],
+ "group": "Shin Megami Tensei - Strange Journey (Japan)",
+ "hack_group": "LNC汉化组",
+ "id": "prb-nds-aa5f3eb2",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "E4D48825",
+  "no_intro_name": "Shin Megami Tensei - Strange Journey (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "真女神转生 奇幻之旅 V2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

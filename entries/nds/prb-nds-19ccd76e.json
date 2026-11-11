@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "19CCD76E",
+   "name": "黄金太阳 漆黑的黎明 1.1(JP)(ACG汉化组)(-2048Mb).nds",
+   "size": 218518136
+  }
+ ],
+ "group": "Ougon no Taiyou - Shikkoku Naru Yoake (Japan)",
+ "hack_group": "ACG汉化组",
+ "id": "prb-nds-19ccd76e",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "06A6F4EE",
+  "no_intro_name": "Ougon no Taiyou - Shikkoku Naru Yoake (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "黄金太阳 漆黑的黎明 1.1"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

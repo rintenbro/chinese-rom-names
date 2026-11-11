@@ -11,10 +11,9 @@
    "size": 64630288
   }
  ],
- "group": "Fushigi no Dungeon - Fuurai no Shiren 5 - Fortune Tower to Unmei no Dice",
+ "group": "Fushigi no Dungeon - Fuurai no Shiren 5 - Fortune Tower to Unmei no Dice (Japan)",
+ "hack_group": "ACG汉化组",
  "id": "ver-nds-39c15743",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "83AC95E9",
   "no_intro_name": "Fushigi no Dungeon - Fuurai no Shiren 5 - Fortune Tower to Unmei no Dice (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "B5FJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Fushigi no Dungeon - Fuurai no Shiren 5 - Fortune Tower to Unmei no Dice (Japan)",
   "zh-Hans": "风来的西林5 命运塔与命运的骰子"
  },
- "vendor": "ACG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0B8FD155",
+   "name": "七日死亡游戏 目(JP)(ACG&小黑屋汉化组)(512Mb).nds",
+   "size": 62839048
+  }
+ ],
+ "group": "Nanashi no Geemu Me (Japan)",
+ "hack_group": "ACG&小黑屋汉化组",
+ "id": "prb-nds-0b8fd155",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "F6D7CF2A",
+  "no_intro_name": "Nanashi no Geemu Me (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "七日死亡游戏 目"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 134217728
   }
  ],
- "group": "'Chou' Kowai Hanashi DS - Ao no Shou",
+ "group": "'Chou' Kowai Hanashi DS - Ao no Shou (Japan)",
+ "hack_group": "CG汉化组",
  "id": "ver-nds-fb456aa4",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "6131F00F",
   "no_intro_name": "'Chou' Kowai Hanashi DS - Ao no Shou (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "BKAJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "'Chou' Kowai Hanashi DS - Ao no Shou (Japan)",
   "zh-Hans": "超恐怖故事DS 青之章"
  },
- "vendor": "CG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "77BEEC2E",
+   "name": "猫女(纵横四海)(简)(盗商+Duyes)(8Mb).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Catwoman (USA)",
+ "hack_group": "盗商+Duyes",
+ "id": "prb-gbc-77beec2e",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "12F0C196",
+  "no_intro_name": "Catwoman (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "猫女"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

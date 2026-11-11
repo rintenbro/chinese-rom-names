@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6FBE559C",
+   "name": "让我们画画 汉化配音版(简)(fciq汉化配音小组)(272Mb).nds",
+   "size": 34986196
+  }
+ ],
+ "group": "Let's Draw! (USA) (En,Fr,Es)",
+ "hack_group": "",
+ "id": "prb-nds-6fbe559c",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "3DA02385",
+  "no_intro_name": "Let's Draw! (USA) (En,Fr,Es)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "让我们画画 汉化配音版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

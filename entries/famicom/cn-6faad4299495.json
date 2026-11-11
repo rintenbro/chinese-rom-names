@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-5dbd0698cd73/title.png"
+ },
+ "files": [
+  {
+   "crc32": "033C081E",
+   "name": "火焰使者(繁)[恒格电子](JP)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "火焰使者",
+ "hack_group": "恒格电子",
+ "id": "cn-6faad4299495",
+ "platform": "famicom",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "火焰使者"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

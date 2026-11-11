@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5BB8B7FE",
+   "name": "心跳回忆 Girl's Side 2nd Season 1.0(JP)(☆翼之梦☆推倒美男游戏汉化组)(2047.99Mb).nds",
+   "size": 268435456
+  }
+ ],
+ "group": "Tokimeki Memorial Girl's Side - 2nd Season (Japan)",
+ "hack_group": "☆翼之梦☆推倒美男游戏汉化组",
+ "id": "prb-nds-5bb8b7fe",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "8455FD93",
+  "no_intro_name": "Tokimeki Memorial Girl's Side - 2nd Season (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "心跳回忆 Girl's Side 2nd Season 1.0"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8B26E666",
+   "name": "星际战机(v1)(简)[高伟](JP)[STG](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Star Soldier (Japan)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-8b26e666",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "7ABE32DD",
+  "no_intro_name": "Star Soldier (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "星际战机"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1"
+}

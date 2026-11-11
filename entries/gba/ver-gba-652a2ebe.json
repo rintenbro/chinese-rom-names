@@ -11,10 +11,9 @@
    "size": 33554432
   }
  ],
- "group": "X Zhan Jing",
+ "group": "X Zhan Jing (Taiwan)",
+ "hack_group": "D商",
  "id": "ver-gba-652a2ebe",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "652A2EBE",
   "no_intro_name": "X Zhan Jing (Taiwan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "未标注",
- "serial": "",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "X Zhan Jing (Taiwan)",
   "zh-Hans": "X战警"
  },
- "vendor": "D商",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

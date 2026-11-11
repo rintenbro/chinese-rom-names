@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-ba3025e92ac8/title.png"
+ },
+ "files": [
+  {
+   "crc32": "FDE25A43",
+   "name": "民航客机Go! (v1.1) (简) (CKN).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Jet de Go! (Japan) [CHS]",
+ "hack_group": "CKN",
+ "id": "prb-gbc-fde25a43",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Jet de Go! (Japan) [CHS]",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "民航客机Go!"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

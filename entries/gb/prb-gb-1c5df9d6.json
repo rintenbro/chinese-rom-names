@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1C5DF9D6",
+   "name": "耀奇方块 (简) (天空联盟)(0.5Mb).gb",
+   "size": 65536
+  }
+ ],
+ "group": "Yoshi no Tamago (Japan)",
+ "hack_group": "天空联盟",
+ "id": "prb-gb-1c5df9d6",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Yoshi no Tamago (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "耀奇方块"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Koukou Juken Advance Series Eijukugo Hen - 650 Phrases Shuuroku",
+ "group": "Koukou Juken Advance Series Eijukugo Hen - 650 Phrases Shuuroku (Japan)",
+ "hack_group": "",
  "id": "ver-gba-d973718f",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "7F2F5017",
   "no_intro_name": "Koukou Juken Advance Series Eijukugo Hen - 650 Phrases Shuuroku (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "A53J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Koukou Juken Advance Series Eijukugo Hen - 650 Phrases Shuuroku (Japan)",
   "zh-Hans": "高校受验系列 英熟语篇-650片语收录"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

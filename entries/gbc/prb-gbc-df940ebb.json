@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DF940EBB",
+   "name": "唐老鸭(简)(春华秋实)(32Mb).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Donald Duck - Daisy o Sukue! (Japan)",
+ "hack_group": "",
+ "id": "prb-gbc-df940ebb",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Donald Duck - Daisy o Sukue! (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "唐老鸭"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

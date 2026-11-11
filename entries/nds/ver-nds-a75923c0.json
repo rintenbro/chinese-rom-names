@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Metal Max 2 - Reloaded",
+ "group": "Metal Max 2 - Reloaded (Japan)",
+ "hack_group": "RPC联合汉化组",
  "id": "ver-nds-a75923c0",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "4416E3EC",
   "no_intro_name": "Metal Max 2 - Reloaded (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "TMXJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Metal Max 2 - Reloaded (Japan)",
   "zh-Hans": "重装机兵2重制版 V0.94"
  },
- "vendor": "RPC联合汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

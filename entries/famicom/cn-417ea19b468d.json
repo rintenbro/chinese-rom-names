@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-8ad80a27259e/title.png"
+ },
+ "files": [
+  {
+   "crc32": "F5196372",
+   "name": "剑侠情缘(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "group": "剑侠情缘",
+ "hack_group": "南晶科技",
+ "id": "cn-417ea19b468d",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "剑侠情缘"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

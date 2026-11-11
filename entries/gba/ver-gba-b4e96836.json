@@ -11,10 +11,9 @@
    "size": 17304864
   }
  ],
- "group": "CT Special Forces",
+ "group": "CT Special Forces (USA) (En,Fr,De,Es,It,Nl)",
+ "hack_group": "Advance-003",
  "id": "ver-gba-b4e96836",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "AEA22AE0",
   "no_intro_name": "CT Special Forces (USA) (En,Fr,De,Es,It,Nl)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AC7E",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "CT Special Forces (USA) (En,Fr,De,Es,It,Nl)",
   "zh-Hans": "CT特种部队"
  },
- "vendor": "Advance-003",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

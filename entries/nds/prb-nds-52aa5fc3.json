@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "52AA5FC3",
+   "name": "精灵宝可梦+信长的野望 V3(JP)(口袋群星SP)(-2048Mb).nds",
+   "size": 159895188
+  }
+ ],
+ "group": "Pokemon Plus Nobunaga no Yabou (Japan) (NDSi Enhanced)",
+ "hack_group": "",
+ "id": "prb-nds-52aa5fc3",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "3EFB7C88",
+  "no_intro_name": "Pokemon Plus Nobunaga no Yabou (Japan) (NDSi Enhanced)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "精灵宝可梦+信长的野望 V3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

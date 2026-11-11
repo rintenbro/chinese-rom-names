@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A48366D4",
+   "name": "马里奥路易RPG2(US)(远离汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Mario & Luigi - Partners in Time (USA)",
+ "hack_group": "远离汉化组",
+ "id": "prb-nds-a48366d4",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "885E88AF",
+  "no_intro_name": "Mario & Luigi - Partners in Time (USA)",
+  "region": "USA"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "马里奥路易RPG2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

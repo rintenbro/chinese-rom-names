@@ -11,10 +11,9 @@
    "size": 33554432
   }
  ],
- "group": "Pokemon - Emerald Version",
+ "group": "Pokemon - Emerald Version (USA, Europe)",
+ "hack_group": "漫游&TGB+情人",
  "id": "ver-gba-f5a387ea",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "1F1C08FB",
   "no_intro_name": "Pokemon - Emerald Version (USA, Europe)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "繁",
- "serial": "BPEE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Pokemon - Emerald Version (USA, Europe)",
   "zh-Hans": "口袋妖怪 – 绿宝石"
  },
- "vendor": "漫游&TGB+情人",
+ "type": "game",
+ "vendor": "",
  "version": "v20110502"
 }

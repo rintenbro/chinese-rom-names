@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "413C4EF6",
+   "name": "指环王－王者归来(0.4b小字体)[Advance-004](简)(JP)(136Mb).gba",
+   "size": 17825792
+  }
+ ],
+ "group": "Lord of the Rings, The - Ou no Kikan (Japan)",
+ "hack_group": "Advance-004",
+ "id": "prb-gba-413c4ef6",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "465F2753",
+  "no_intro_name": "Lord of the Rings, The - Ou no Kikan (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "指环王－王者归来"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

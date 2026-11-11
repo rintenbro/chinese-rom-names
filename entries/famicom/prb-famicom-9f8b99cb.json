@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9F8B99CB",
+   "name": "菲力貓(v20230420)(简+繁)[NOKOH](US)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Felix the Cat (USA) (Hudson)",
+ "hack_group": "NOKOH",
+ "id": "prb-famicom-9f8b99cb",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Felix the Cat (USA) (Hudson)",
+  "region": "USA"
+ },
+ "script": "简繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "菲力貓"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20230420"
+}

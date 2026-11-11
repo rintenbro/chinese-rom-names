@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8C61F7C4",
+   "name": "特殊部队357 (简) (147201688繁转简)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Vixen 357 (Japan)",
+ "hack_group": "",
+ "id": "prb-megadrive-8c61f7c4",
+ "platform": "megadrive",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Vixen 357 (Japan)",
+  "region": "Japan"
+ },
+ "script": "简繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "特殊部队357"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

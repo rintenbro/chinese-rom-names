@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D9CE1737",
+   "name": "圣火徽章 索非亚复苏(v1.1)(简)[外星科技](JP)[SLG](5Mb).nes",
+   "size": 655376
+  }
+ ],
+ "group": "Shenghuo Huizhang Waizhuan (China) (Pirate)",
+ "hack_group": "外星科技",
+ "id": "prb-famicom-d9ce1737",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "45E6DE00",
+  "no_intro_name": "Shenghuo Huizhang Waizhuan (China) (Pirate)",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "圣火徽章 索非亚复苏"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

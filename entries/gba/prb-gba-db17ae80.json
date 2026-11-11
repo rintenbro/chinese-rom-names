@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DB17AE80",
+   "name": "口袋妖怪 – 不可思议的迷宫 赤之救助队[完全汉化版][Team Pokepals](简)(US)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Pokemon Mystery Dungeon - Red Rescue Team (USA, Australia)",
+ "hack_group": "Team Pokepals",
+ "id": "prb-gba-db17ae80",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "DD0AC86C",
+  "no_intro_name": "Pokemon Mystery Dungeon - Red Rescue Team (USA, Australia)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪 – 不可思议的迷宫 赤之救助队"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

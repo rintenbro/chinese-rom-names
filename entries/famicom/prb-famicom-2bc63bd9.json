@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2BC63BD9",
+   "name": "人间兵器(大字体)(简)[高伟](JP)[ACT](2.31Mb).nes",
+   "size": 303120
+  }
+ ],
+ "group": "Code Name - Viper (USA)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-2bc63bd9",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "5988DA29",
+  "no_intro_name": "Code Name - Viper (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "人间兵器"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

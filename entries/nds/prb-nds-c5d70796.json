@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C5D70796",
+   "name": "口袋妖怪 宝可梦巡护员 v3.0(EU)(白牧雪叶)(256Mb).nds",
+   "size": 31592664
+  }
+ ],
+ "group": "Pokemon Ranger (Europe) (En,Fr,De,Es,It)",
+ "hack_group": "",
+ "id": "prb-nds-c5d70796",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "1658A03A",
+  "no_intro_name": "Pokemon Ranger (Europe) (En,Fr,De,Es,It)",
+  "region": "Europe"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪 宝可梦巡护员 v3.0"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

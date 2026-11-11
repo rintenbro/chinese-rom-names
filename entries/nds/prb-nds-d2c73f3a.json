@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D2C73F3A",
+   "name": "陆行鸟与魔法画册 死机修正版(JP)(ACG汉化组)(512Mb).nds",
+   "size": 63416720
+  }
+ ],
+ "group": "Chocobo to Mahou no Ehon (Japan)",
+ "hack_group": "ACG汉化组",
+ "id": "prb-nds-d2c73f3a",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "040A701D",
+  "no_intro_name": "Chocobo to Mahou no Ehon (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "陆行鸟与魔法画册 死机修正版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

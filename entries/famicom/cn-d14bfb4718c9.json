@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-5a5fb8d0ee9a/title.png"
+ },
+ "files": [
+  {
+   "crc32": "1309FA69",
+   "name": "狮王传奇(简)[外星科技](CN)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "狮王传奇",
+ "hack_group": "外星科技",
+ "id": "cn-d14bfb4718c9",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "狮王传奇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

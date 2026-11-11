@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2BD4554D",
+   "name": "龙珠Z2 激战福尔摩沙!!之孙悟饭(繁)[小铭电脑](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "Dragon Ball Z II - Gekishin Freeza!! (Japan)",
+ "hack_group": "小铭电脑",
+ "id": "prb-famicom-2bd4554d",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Dragon Ball Z II - Gekishin Freeza!! (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "龙珠Z2 激战福尔摩沙!!之孙悟饭"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

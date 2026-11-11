@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D1DA1E2E",
+   "name": "载具王国DS YOU！驾驶哟(JP)(CG汉化组)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Norimono Oukoku DS - You! Unten Shichainayo! (Japan)",
+ "hack_group": "CG汉化组",
+ "id": "prb-nds-d1da1e2e",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "8204B68B",
+  "no_intro_name": "Norimono Oukoku DS - You! Unten Shichainayo! (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "载具王国DS YOU！驾驶哟"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

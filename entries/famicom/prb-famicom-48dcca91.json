@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "48DCCA91",
+   "name": "杀戮战场(v20100527)(简)[NOKOH+fciq](JP)[STG](0.37Mb).nes",
+   "size": 49168
+  }
+ ],
+ "group": "Field Combat (Japan) (En)",
+ "hack_group": "NOKOH+fciq",
+ "id": "prb-famicom-48dcca91",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "DC83D672",
+  "no_intro_name": "Field Combat (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "杀戮战场"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20100527"
+}

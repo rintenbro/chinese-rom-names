@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Rockman EXE 6 - Dennoujuu Falzar",
+ "group": "Rockman EXE 6 - Dennoujuu Falzar (Japan)",
+ "hack_group": "太阳少年&洛克人EXE6爱好者汉化组",
  "id": "ver-gba-d27c5df0",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "2DFB603E",
   "no_intro_name": "Rockman EXE 6 - Dennoujuu Falzar (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BR6J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Rockman EXE 6 - Dennoujuu Falzar (Japan)",
   "zh-Hans": "洛克人EXE6 凤凰对战"
  },
- "vendor": "太阳少年&洛克人EXE6爱好者汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

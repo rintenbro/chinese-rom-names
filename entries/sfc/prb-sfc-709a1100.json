@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "709A1100",
+   "name": "平成新鬼岛 前篇(简)(AI汉化测试版)(AFOLF)(32MB).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Heisei Shin Onigashima - Zenpen (Japan)",
+ "hack_group": "AFOLF",
+ "id": "prb-sfc-709a1100",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "1725E556",
+  "no_intro_name": "Heisei Shin Onigashima - Zenpen (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "平成新鬼岛 前篇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

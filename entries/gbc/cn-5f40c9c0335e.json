@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-3f88c852f3eb/title.png"
+ },
+ "files": [
+  {
+   "crc32": "AB6B8D07",
+   "name": "迷失的世界(简)(外星科技).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "迷失的世界",
+ "hack_group": "",
+ "id": "cn-5f40c9c0335e",
+ "platform": "gbc",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "迷失的世界"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

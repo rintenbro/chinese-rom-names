@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DD404FBA",
+   "name": "如梦似幻 (繁)v2.0(全对话+部分菜单汉化+片头乱码)(RickyL1213)(12Mb).smc",
+   "size": 1572864
+  }
+ ],
+ "group": "Yumemaboroshi no Gotoku (Japan)",
+ "hack_group": "RickyL1213",
+ "id": "prb-sfc-dd404fba",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "8F44FFF9",
+  "no_intro_name": "Yumemaboroshi no Gotoku (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "如梦似幻 v2.0"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

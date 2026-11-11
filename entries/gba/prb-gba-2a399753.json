@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2A399753",
+   "name": "KONAMI快乐小赛车[麻团](简)(JP)(32.59Mb).gba",
+   "size": 4271792
+  }
+ ],
+ "group": "Konami Wai Wai Racing Advance (Japan)",
+ "hack_group": "麻团",
+ "id": "prb-gba-2a399753",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "AA039A8A",
+  "no_intro_name": "Konami Wai Wai Racing Advance (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "KONAMI快乐小赛车"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

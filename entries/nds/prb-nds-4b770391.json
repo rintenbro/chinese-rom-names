@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4B770391",
+   "name": "高级战争 双重打击 v1.1(JP)(高级战争吧汉化组)(模拟器专用)(256Mb).nds",
+   "size": 28648608
+  }
+ ],
+ "group": "Famicom Wars DS (Japan)",
+ "hack_group": "高级战争吧汉化组",
+ "id": "prb-nds-4b770391",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "28DC469A",
+  "no_intro_name": "Famicom Wars DS (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "高级战争 双重打击 v1.1"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

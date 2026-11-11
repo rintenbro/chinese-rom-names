@@ -11,10 +11,9 @@
    "size": 268435456
   }
  ],
- "group": "Mugen Kouro",
+ "group": "Mugen Kouro (Japan)",
+ "hack_group": "",
  "id": "ver-nds-1e7a8112",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "6F65A386",
   "no_intro_name": "Mugen Kouro (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "C6CJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Mugen Kouro (Japan)",
   "zh-Hans": "无限航路"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

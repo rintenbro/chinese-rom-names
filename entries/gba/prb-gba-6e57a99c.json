@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6E57A99C",
+   "name": "哈罗机器人 机器人英雄大战[机密电钻](简)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Harobots - Robo Hero Battling!! (Japan)",
+ "hack_group": "机密电钻",
+ "id": "prb-gba-6e57a99c",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "F54976C8",
+  "no_intro_name": "Harobots - Robo Hero Battling!! (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "哈罗机器人 机器人英雄大战"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 2097152
   }
  ],
- "group": "Koutetsu Teikoku",
+ "group": "Koutetsu Teikoku (Japan)",
+ "hack_group": "熊组",
  "id": "ver-gba-c75e1cfa",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "CDFAC4EE",
   "no_intro_name": "Koutetsu Teikoku (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BKTJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Koutetsu Teikoku (Japan)",
   "zh-Hans": "钢铁帝国"
  },
- "vendor": "熊组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

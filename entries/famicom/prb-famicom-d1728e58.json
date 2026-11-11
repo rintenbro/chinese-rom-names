@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D1728E58",
+   "name": "街头 热血进行曲 前进吧!!大运动会(v20220219)(繁)[NOKOH](JP)[SPG](3.68Mb).nes",
+   "size": 483344
+  }
+ ],
+ "group": "Downtown - Nekketsu Koushinkyoku - Soreyuke Daiundoukai (Japan)",
+ "hack_group": "NOKOH",
+ "id": "prb-famicom-d1728e58",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Downtown - Nekketsu Koushinkyoku - Soreyuke Daiundoukai (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "街头 热血进行曲 前进吧!!大运动会"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20220219"
+}

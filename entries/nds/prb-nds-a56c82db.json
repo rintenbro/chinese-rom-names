@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A56C82DB",
+   "name": "侦探神宫寺三郎DS 过去的回忆 AI汉化(简)(AFOLF)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Tantei Jinguuji Saburou DS - Inishie no Kioku (Japan)",
+ "hack_group": "AFOLF",
+ "id": "prb-nds-a56c82db",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "0D7AB717",
+  "no_intro_name": "Tantei Jinguuji Saburou DS - Inishie no Kioku (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "侦探神宫寺三郎DS 过去的回忆 AI"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

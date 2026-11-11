@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Dokidoki Cooking Series 2 - Gourmet Kitchen - Suteki na Obentou",
+ "group": "Dokidoki Cooking Series 2 - Gourmet Kitchen - Suteki na Obentou (Japan)",
+ "hack_group": "恒星月",
  "id": "ver-gba-e2c3760b",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "08DFC956",
   "no_intro_name": "Dokidoki Cooking Series 2 - Gourmet Kitchen - Suteki na Obentou (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "A8OJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Dokidoki Cooking Series 2 - Gourmet Kitchen - Suteki na Obentou (Japan)",
   "zh-Hans": "心跳烹饪系列2 - 美味厨房 - 绝妙便当"
  },
- "vendor": "恒星月",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

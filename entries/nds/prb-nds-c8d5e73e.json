@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C8D5E73E",
+   "name": "数码宝贝物语 遗失的进化 v1.01(简)(遗失进化汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Digimon Story - Lost Evolution (Japan)",
+ "hack_group": "遗失进化汉化组",
+ "id": "prb-nds-c8d5e73e",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "83878137",
+  "no_intro_name": "Digimon Story - Lost Evolution (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "数码宝贝物语 遗失的进化 v1.01"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

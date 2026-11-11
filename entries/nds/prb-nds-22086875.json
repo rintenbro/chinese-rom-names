@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "22086875",
+   "name": "Super Lite 2500 麻辣数独2500问(JP)(HOho汉化组)(64Mb).nds",
+   "size": 8388608
+  }
+ ],
+ "group": "Gekikara Nanpure 2500 Mon (Japan)",
+ "hack_group": "HOho汉化组",
+ "id": "prb-nds-22086875",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "F9F797CF",
+  "no_intro_name": "Gekikara Nanpure 2500 Mon (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "Super Lite 2500 麻辣数独2500问"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

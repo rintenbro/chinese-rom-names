@@ -11,10 +11,9 @@
    "size": 9382468
   }
  ],
- "group": "Gyakuten Saiban",
+ "group": "Gyakuten Saiban (Japan)",
+ "hack_group": "",
  "id": "ver-gba-9ce98a00",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "C88F0952",
   "no_intro_name": "Gyakuten Saiban (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "ASBJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Gyakuten Saiban (Japan)",
   "zh-Hans": "逆转裁判"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

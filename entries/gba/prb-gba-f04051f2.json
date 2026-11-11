@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F04051F2",
+   "name": "大战略GBA[Jaychou001](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Daisenryaku for Game Boy Advance (Japan)",
+ "hack_group": "Jaychou001",
+ "id": "prb-gba-f04051f2",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "3D644946",
+  "no_intro_name": "Daisenryaku for Game Boy Advance (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "大战略GBA"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

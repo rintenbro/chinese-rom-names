@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "03284611",
+   "name": "大金刚(大字体)(简)[Madcell](JUE)[ACT](0.37Mb).nes",
+   "size": 49168
+  }
+ ],
+ "group": "Donkey Kong (Japan) (En)",
+ "hack_group": "JUE Madcell",
+ "id": "prb-famicom-03284611",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "92C40665",
+  "no_intro_name": "Donkey Kong (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "大金刚"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

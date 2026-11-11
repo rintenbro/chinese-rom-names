@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "45C6382B",
+   "name": "洛克人2 威利博士之谜(v20230321)(简)[NOKOH+fciq](JP)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Rockman 2 - Dr. Wily no Nazo (Japan)",
+ "hack_group": "NOKOH+fciq",
+ "id": "prb-famicom-45c6382b",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Rockman 2 - Dr. Wily no Nazo (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "洛克人2 威利博士之谜"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20230321"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DDDDA159",
+   "name": "光明之魂II [花屏与BUG修复版+修正部分名称][PGCG+suni007+21537450](简)(JP)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Shining Soul II (Japan)",
+ "hack_group": "PGCG+suni007+21537450",
+ "id": "prb-gba-dddda159",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "7B39A7B2",
+  "no_intro_name": "Shining Soul II (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "光明之魂II"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

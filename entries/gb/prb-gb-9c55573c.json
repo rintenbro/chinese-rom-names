@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9C55573C",
+   "name": "口袋妖怪蓝(精灵宝可梦蓝)(v1.2.0)(简)(星夜之幻+TomJinW)(8Mb).gb",
+   "size": 2097152
+  }
+ ],
+ "group": "Pocket Monsters - Ao (Japan) (SGB Enhanced)",
+ "hack_group": "星夜之幻+TomJinW",
+ "id": "prb-gb-9c55573c",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Pocket Monsters - Ao (Japan) (SGB Enhanced)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪蓝"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.2.0"
+}

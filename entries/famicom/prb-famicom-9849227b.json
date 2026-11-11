@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9849227B",
+   "name": "雷电节奏(简)[虫虫](US)[STG](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Thundercade (USA)",
+ "hack_group": "虫虫",
+ "id": "prb-famicom-9849227b",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Thundercade (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "雷电节奏"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4E1E5D90",
+   "name": "口袋妖怪 - 火红[盗版&三池典太](简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Pocket Monsters - FireRed (Japan)",
+ "hack_group": "盗版&三池典太",
+ "id": "prb-gba-4e1e5d90",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "3B2056E9",
+  "no_intro_name": "Pocket Monsters - FireRed (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪 - 火红"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3B346EE4",
+   "name": "高桥名人的冒险岛4(v3.0)(简)[九班](JP)[ACT](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Takahashi Meijin no Bouken-jima IV (Japan)",
+ "hack_group": "九班",
+ "id": "prb-famicom-3b346ee4",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "5EF1196B",
+  "no_intro_name": "Takahashi Meijin no Bouken-jima IV (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "高桥名人的冒险岛4"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v3.0"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "50D4D760",
+   "name": "数码宝贝传说 月光 最终版(JP)(小黑屋&ACG汉化组)(512Mb).nds",
+   "size": 60516032
+  }
+ ],
+ "group": "Digimon Story - Moonlight (Japan)",
+ "hack_group": "小黑屋&ACG汉化组",
+ "id": "prb-nds-50d4d760",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "CC1FF373",
+  "no_intro_name": "Digimon Story - Moonlight (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "数码宝贝传说 月光 最终版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

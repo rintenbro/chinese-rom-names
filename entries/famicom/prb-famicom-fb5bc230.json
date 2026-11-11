@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FB5BC230",
+   "name": "小人子射击(简)[高伟](JP)[STG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Insector X (Japan)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-fb5bc230",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Insector X (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "小人子射击"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

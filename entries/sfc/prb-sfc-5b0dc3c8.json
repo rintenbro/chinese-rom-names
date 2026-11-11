@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5B0DC3C8",
+   "name": "神奇J计划 (简)(汉化测试v20180520)(hlken)(日版为基础)(40Mb).smc",
+   "size": 4194304
+  }
+ ],
+ "group": "Wonder Project J - Kikai no Shounen Pino (Japan)",
+ "hack_group": "hlken",
+ "id": "prb-sfc-5b0dc3c8",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "AF8F4DB9",
+  "no_intro_name": "Wonder Project J - Kikai no Shounen Pino (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "神奇J计划"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20180520"
+}

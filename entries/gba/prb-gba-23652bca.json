@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "23652BCA",
+   "name": "克罗诺亚英雄 传说中的星之徽章[Anyhow_YLH](v1.3)(简)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Klonoa Heroes - Densetsu no Star Medal (Japan)",
+ "hack_group": "Anyhow_YLH",
+ "id": "prb-gba-23652bca",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "E7EADDCC",
+  "no_intro_name": "Klonoa Heroes - Densetsu no Star Medal (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "克罗诺亚英雄 传说中的星之徽章"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.3"
+}

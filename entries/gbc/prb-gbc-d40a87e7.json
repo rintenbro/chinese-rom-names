@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-f76a82400e07/title.png"
+ },
+ "files": [
+  {
+   "crc32": "D40A87E7",
+   "name": "魔兽争霸3 - 混乱之劫 (繁) (unknown).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Mo Shou Zheng Ba 3 - Hun Luan Zhi Jie (China) [CHT]",
+ "hack_group": "unknown",
+ "id": "prb-gbc-d40a87e7",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Mo Shou Zheng Ba 3 - Hun Luan Zhi Jie (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "魔兽争霸3 - 混乱之劫"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

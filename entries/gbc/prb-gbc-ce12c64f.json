@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CE12C64F",
+   "name": "鬼屋魅影(鬼屋魔影)(繁)(sss888)(32Mb).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Alone in the Dark - The New Nightmare (USA) (En,Fr,Es)",
+ "hack_group": "sss888",
+ "id": "prb-gbc-ce12c64f",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Alone in the Dark - The New Nightmare (USA) (En,Fr,Es)",
+  "region": "USA"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "鬼屋魅影"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

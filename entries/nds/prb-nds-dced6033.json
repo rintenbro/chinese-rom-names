@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DCED6033",
+   "name": "为你而生 完整汉化版(EU)(兔友汉化组)(1024Mb).nds",
+   "size": 133646948
+  }
+ ],
+ "group": "Rub Rabbits!, The (Europe) (En,Ja,Fr,De,Es,It)",
+ "hack_group": "兔友汉化组",
+ "id": "prb-nds-dced6033",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "8714020B",
+  "no_intro_name": "Rub Rabbits!, The (Europe) (En,Ja,Fr,De,Es,It)",
+  "region": "Europe"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "为你而生 完整汉化版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

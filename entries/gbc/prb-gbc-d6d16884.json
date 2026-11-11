@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D6D16884",
+   "name": "牧场物语 (繁) (unknown).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Harvest Moon GBC (USA) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "unknown",
+ "id": "prb-gbc-d6d16884",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "AB5738A1",
+  "no_intro_name": "Harvest Moon GBC (USA) (SGB Enhanced) (GB Compatible)",
+  "region": "USA"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "牧场物语"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

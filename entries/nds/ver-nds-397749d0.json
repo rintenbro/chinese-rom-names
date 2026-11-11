@@ -11,10 +11,9 @@
    "size": 111948800
   }
  ],
- "group": "Mugen no Frontier - Super Robot Taisen OG Saga",
+ "group": "Mugen no Frontier - Super Robot Taisen OG Saga (Japan)",
+ "hack_group": "akairyusei",
  "id": "ver-nds-397749d0",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "CF698077",
   "no_intro_name": "Mugen no Frontier - Super Robot Taisen OG Saga (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "繁",
- "serial": "CFRJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Mugen no Frontier - Super Robot Taisen OG Saga (Japan)",
   "zh-Hans": "无限边境 超级机器人大战OG传奇"
  },
- "vendor": "akairyusei",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

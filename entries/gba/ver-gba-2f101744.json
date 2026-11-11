@@ -11,10 +11,9 @@
    "size": 4194304
   }
  ],
- "group": "Lost Vikings, The",
+ "group": "Lost Vikings, The (USA)",
+ "hack_group": "Advance汉化组",
  "id": "ver-gba-2f101744",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "8CB58997",
   "no_intro_name": "Lost Vikings, The (USA)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "ALVE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Lost Vikings, The (USA)",
   "zh-Hans": "失落的维京人"
  },
- "vendor": "Advance汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

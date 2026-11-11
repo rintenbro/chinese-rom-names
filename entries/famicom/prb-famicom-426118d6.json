@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "426118D6",
+   "name": "筋肉人(简)[Madcell](JP)[FTG](0.25Mb).nes",
+   "size": 32784
+  }
+ ],
+ "group": "Kinnikuman - Muscle Tag Match (Japan)",
+ "hack_group": "Madcell",
+ "id": "prb-famicom-426118d6",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Kinnikuman - Muscle Tag Match (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "筋肉人"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-6217a6477909/title.png"
+ },
+ "files": [
+  {
+   "crc32": "1DC6AC62",
+   "name": "齐天大圣(简)[南晶科技](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "齐天大圣",
+ "hack_group": "南晶科技",
+ "id": "cn-3140435bf6ac",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "齐天大圣"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

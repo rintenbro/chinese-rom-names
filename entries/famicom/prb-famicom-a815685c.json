@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A815685C",
+   "name": "封神榜(繁)[外星科技](CN)[FTG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Fengshenbang - Myth Struggle (China) (Pirate)",
+ "hack_group": "外星科技",
+ "id": "prb-famicom-a815685c",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "97198B50",
+  "no_intro_name": "Fengshenbang - Myth Struggle (China) (Pirate)",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "封神榜"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

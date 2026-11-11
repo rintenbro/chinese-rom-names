@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Shin Bokura no Taiyou - Gyakushuu no Sabata",
+ "group": "Shin Bokura no Taiyou - Gyakushuu no Sabata (Japan)",
+ "hack_group": "TGB&逆转Ace & 太阳少年爱好者汉化组",
  "id": "ver-gba-29ca5ae1",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "AF453162",
   "no_intro_name": "Shin Bokura no Taiyou - Gyakushuu no Sabata (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "U33J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Shin Bokura no Taiyou - Gyakushuu no Sabata (Japan)",
   "zh-Hans": "新我们的太阳 - 逆袭的萨巴塔"
  },
- "vendor": "TGB&逆转Ace & 太阳少年爱好者汉化组",
+ "type": "game",
+ "vendor": "",
  "version": "v20160622"
 }

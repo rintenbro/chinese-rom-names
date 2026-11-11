@@ -11,10 +11,9 @@
    "size": 4194304
   }
  ],
- "group": "Yaoxi Dao",
+ "group": "Yaoxi Dao (China)",
+ "hack_group": "神游",
  "id": "ver-gba-9c32a829",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "9C32A829",
   "no_intro_name": "Yaoxi Dao (China)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "A3AC",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Yaoxi Dao (China)",
   "zh-Hans": "神游之耀西岛"
  },
- "vendor": "神游",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

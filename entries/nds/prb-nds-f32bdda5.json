@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F32BDDA5",
+   "name": "集合！卡比 不完全汉化版V1.6(JP)(xedftxz)(1024Mb).nds",
+   "size": 70091684
+  }
+ ],
+ "group": "Atsumete! Kirby (Japan)",
+ "hack_group": "xedftxz",
+ "id": "prb-nds-f32bdda5",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "47DB3918",
+  "no_intro_name": "Atsumete! Kirby (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "集合！卡比 不完全汉化版V1.6"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 115316284
   }
  ],
- "group": "Dragon Quest Monsters - Joker 2",
+ "group": "Dragon Quest Monsters - Joker 2 (Japan)",
+ "hack_group": "ACG汉化组",
  "id": "ver-nds-2c7aef08",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "D5A37B7E",
   "no_intro_name": "Dragon Quest Monsters - Joker 2 (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "CJRJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Dragon Quest Monsters - Joker 2 (Japan)",
   "zh-Hans": "勇者斗恶龙怪兽篇 joker2"
  },
- "vendor": "ACG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "95327CEC",
+   "name": "心灵传说 CG版(简)1.0(JP)(ACG汉化组)(2047.99Mb).nds",
+   "size": 245886064
+  }
+ ],
+ "group": "Tales of Hearts - Anime Movie Edition (Japan)",
+ "hack_group": "ACG汉化组",
+ "id": "prb-nds-95327cec",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "82C1282F",
+  "no_intro_name": "Tales of Hearts - Anime Movie Edition (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "心灵传说 CG版1.0"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

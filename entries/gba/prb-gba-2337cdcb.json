@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2337CDCB",
+   "name": "机兽传说[流星落月](v1.0)(简)(128Mb).gba",
+   "size": 11611424
+  }
+ ],
+ "group": "Zoids Saga (Japan)",
+ "hack_group": "流星落月",
+ "id": "prb-gba-2337cdcb",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "5975DDA8",
+  "no_intro_name": "Zoids Saga (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "机兽传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

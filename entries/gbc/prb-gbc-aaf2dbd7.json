@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AAF2DBD7",
+   "name": "游戏王4 – 最强决斗者战记 城之内篇(v1.1)(简)(Mezaransu)(JP)(32Mb).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (Japan)",
+ "hack_group": "Mezaransu",
+ "id": "prb-gbc-aaf2dbd7",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "游戏王4 – 最强决斗者战记 城之内篇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

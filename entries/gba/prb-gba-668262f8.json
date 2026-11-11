@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "668262F8",
+   "name": "光明之魂II[PGCG](繁)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Shining Soul II (Japan)",
+ "hack_group": "",
+ "id": "prb-gba-668262f8",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "7B39A7B2",
+  "no_intro_name": "Shining Soul II (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "光明之魂II"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

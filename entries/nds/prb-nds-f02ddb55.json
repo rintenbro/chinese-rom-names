@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F02DDB55",
+   "name": "口袋妖怪+信长的野望(JP)(ACG汉化组)(-2048Mb).nds",
+   "size": 158159508
+  }
+ ],
+ "group": "Pokemon Plus Nobunaga no Yabou (Japan) (NDSi Enhanced)",
+ "hack_group": "ACG汉化组",
+ "id": "prb-nds-f02ddb55",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "3EFB7C88",
+  "no_intro_name": "Pokemon Plus Nobunaga no Yabou (Japan) (NDSi Enhanced)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪+信长的野望"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

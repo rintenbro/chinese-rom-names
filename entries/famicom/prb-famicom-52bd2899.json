@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "52BD2899",
+   "name": "鸵鸟骑士(v3)(简)[高伟](JP)[ACT](0.18Mb).nes",
+   "size": 24592
+  }
+ ],
+ "group": "Joust (Japan) (En)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-52bd2899",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "55BA0B76",
+  "no_intro_name": "Joust (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "鸵鸟骑士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v3"
+}

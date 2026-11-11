@@ -11,10 +11,9 @@
    "size": 86258364
   }
  ],
- "group": "Zelda no Densetsu - Daichi no Kiteki",
+ "group": "Zelda no Densetsu - Daichi no Kiteki (Japan)",
+ "hack_group": "ACG汉化组",
  "id": "ver-nds-e72958c4",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "1821E161",
   "no_intro_name": "Zelda no Densetsu - Daichi no Kiteki (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "BKIJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Zelda no Densetsu - Daichi no Kiteki (Japan)",
   "zh-Hans": "塞尔达传说 灵魂轨迹"
  },
- "vendor": "ACG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

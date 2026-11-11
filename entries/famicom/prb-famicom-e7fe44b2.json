@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E7FE44B2",
+   "name": "敲冰块(简)[水火](JP)[ACT](0.37Mb).nes",
+   "size": 49168
+  }
+ ],
+ "group": "Ice Climber (Japan) (En)",
+ "hack_group": "水火",
+ "id": "prb-famicom-e7fe44b2",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "CC9EF940",
+  "no_intro_name": "Ice Climber (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "敲冰块"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

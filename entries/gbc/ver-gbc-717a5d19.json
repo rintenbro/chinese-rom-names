@@ -11,10 +11,9 @@
    "size": 4194304
   }
  ],
- "group": "Tomb Raider 2",
+ "group": "Tomb Raider 2 (Taiwan)",
+ "hack_group": "unknown",
  "id": "ver-gbc-717a5d19",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "717A5D19",
   "no_intro_name": "Tomb Raider 2 (Taiwan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gbc",
  "script": "简",
- "serial": "",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Tomb Raider 2 (Taiwan)",
   "zh-Hans": "古墓丽影 - 诅咒之剑"
  },
- "vendor": "unknown",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

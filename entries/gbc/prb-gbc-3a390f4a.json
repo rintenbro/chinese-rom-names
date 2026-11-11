@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3A390F4A",
+   "name": "口袋炸弹人 (简) (大字体) (unknown).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Pocket Bomberman (USA, Europe) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "unknown",
+ "id": "prb-gbc-3a390f4a",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "FA2A66E9",
+  "no_intro_name": "Pocket Bomberman (USA, Europe) (SGB Enhanced) (GB Compatible)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋炸弹人"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

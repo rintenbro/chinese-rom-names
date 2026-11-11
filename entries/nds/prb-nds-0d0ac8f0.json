@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0D0AC8F0",
+   "name": "魔术大全(JP)(APEX汉化组)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Magic Taizen (Japan)",
+ "hack_group": "APEX汉化组",
+ "id": "prb-nds-0d0ac8f0",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "41D3F077",
+  "no_intro_name": "Magic Taizen (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "魔术大全"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

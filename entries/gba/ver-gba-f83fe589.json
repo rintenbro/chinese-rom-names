@@ -11,10 +11,9 @@
    "size": 4194304
   }
  ],
- "group": "Minna no Shiiku Series 1 - Boku no Kabutomushi",
+ "group": "Minna no Shiiku Series 1 - Boku no Kabutomushi (Japan)",
+ "hack_group": "流星落月",
  "id": "ver-gba-f83fe589",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "F83FE589",
   "no_intro_name": "Minna no Shiiku Series 1 - Boku no Kabutomushi (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AB7J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Minna no Shiiku Series 1 - Boku no Kabutomushi (Japan)",
   "zh-Hans": "饲养物语 我的兜虫"
  },
- "vendor": "流星落月",
+ "type": "game",
+ "vendor": "",
  "version": "v1.0"
 }

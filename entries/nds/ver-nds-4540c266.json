@@ -11,10 +11,9 @@
    "size": 240073275
   }
  ],
- "group": "Dragon Quest IX - Hoshizora no Mamoribito",
+ "group": "Dragon Quest IX - Hoshizora no Mamoribito (Japan)",
+ "hack_group": "ACG汉化组",
  "id": "ver-nds-4540c266",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "E8E285F2",
   "no_intro_name": "Dragon Quest IX - Hoshizora no Mamoribito (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "繁",
- "serial": "YDQJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Dragon Quest IX - Hoshizora no Mamoribito (Japan)",
   "zh-Hans": "勇者斗恶龙9 星空守望者 最终完美版"
  },
- "vendor": "ACG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

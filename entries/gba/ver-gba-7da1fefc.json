@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Pokemon - LeafGreen Version",
+ "group": "Pokemon - LeafGreen Version (USA, Europe)",
+ "hack_group": "口袋群星SP+情人",
  "id": "ver-gba-7da1fefc",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "D69C96CC",
   "no_intro_name": "Pokemon - LeafGreen Version (USA, Europe)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "繁",
- "serial": "BPGE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Pokemon - LeafGreen Version (USA, Europe)",
   "zh-Hans": "口袋妖怪 – 叶绿"
  },
- "vendor": "口袋群星SP+情人",
+ "type": "game",
+ "vendor": "",
  "version": "v20120407"
 }

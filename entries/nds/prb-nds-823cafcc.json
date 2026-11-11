@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "823CAFCC",
+   "name": "心灵传说 CG版(繁)090729(JP)(akairyusei)(2047.99Mb).nds",
+   "size": 245110272
+  }
+ ],
+ "group": "Tales of Hearts - Anime Movie Edition (Japan)",
+ "hack_group": "akairyusei",
+ "id": "prb-nds-823cafcc",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "82C1282F",
+  "no_intro_name": "Tales of Hearts - Anime Movie Edition (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "心灵传说 CG版090729"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

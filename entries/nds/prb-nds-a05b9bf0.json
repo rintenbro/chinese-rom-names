@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A05B9BF0",
+   "name": "口袋妖怪救助队 波导勇者 1.1(JP)(口袋群星SP)(512Mb).nds",
+   "size": 55295076
+  }
+ ],
+ "group": "Pokemon Ranger - Batonnage (Japan)",
+ "hack_group": "",
+ "id": "prb-nds-a05b9bf0",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "C547D653",
+  "no_intro_name": "Pokemon Ranger - Batonnage (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪救助队 波导勇者 1.1"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

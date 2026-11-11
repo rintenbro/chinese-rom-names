@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6CEF8EAF",
+   "name": "简单DS系列Vol.32 THE僵尸危机(JP)(APEX汉化组)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Simple DS Series Vol. 32 - The Zombie Crisis (Japan)",
+ "hack_group": "APEX汉化组",
+ "id": "prb-nds-6cef8eaf",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "BA8607B1",
+  "no_intro_name": "Simple DS Series Vol. 32 - The Zombie Crisis (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "简单DS系列Vol.32 THE僵尸危机"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

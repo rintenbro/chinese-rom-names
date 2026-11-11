@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "64BAB6DE",
+   "name": "工人战记2(v20201030)(简)[Advance](JP)[ACT](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Don Doko Don 2 (Japan)",
+ "hack_group": "Advance",
+ "id": "prb-famicom-64bab6de",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Don Doko Don 2 (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "工人战记2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20201030"
+}

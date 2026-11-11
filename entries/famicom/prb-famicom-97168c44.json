@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "97168C44",
+   "name": "冲啊冲啊！热血曲棍球部 人仰马翻大乱斗(繁)[热血的鱼缸](JP)[SPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Ike Ike! Nekketsu Hockey-bu - Subette Koronde Dairantou (Japan)",
+ "hack_group": "热血的鱼缸",
+ "id": "prb-famicom-97168c44",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Ike Ike! Nekketsu Hockey-bu - Subette Koronde Dairantou (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "冲啊冲啊！热血曲棍球部 人仰马翻大乱斗"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

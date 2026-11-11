@@ -11,10 +11,9 @@
    "size": 134217728
   }
  ],
- "group": "Pocket Monsters - HeartGold",
+ "group": "Pocket Monsters - HeartGold (Japan)",
+ "hack_group": "ACG汉化组",
  "id": "ver-nds-6e9645b6",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "FC7D8F28",
   "no_intro_name": "Pocket Monsters - HeartGold (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "IPKJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Pocket Monsters - HeartGold (Japan)",
   "zh-Hans": "口袋妖怪 金心"
  },
- "vendor": "ACG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

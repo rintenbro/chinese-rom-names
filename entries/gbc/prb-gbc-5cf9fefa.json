@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5CF9FEFA",
+   "name": "游戏王4 - 最强决斗者战记 (繁) (unknown).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (Japan)",
+ "hack_group": "unknown",
+ "id": "prb-gbc-5cf9fefa",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "游戏王4 - 最强决斗者战记"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

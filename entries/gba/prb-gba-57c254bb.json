@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "57C254BB",
+   "name": "游戏王 决斗怪兽5 专家版1[Advance汉化组](v1.0)(简)(128Mb).gba",
+   "size": 13708576
+  }
+ ],
+ "group": "Yu-Gi-Oh! Duel Monsters 5 Expert 1 (Japan)",
+ "hack_group": "Advance汉化组",
+ "id": "prb-gba-57c254bb",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "F3041E7E",
+  "no_intro_name": "Yu-Gi-Oh! Duel Monsters 5 Expert 1 (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "游戏王 决斗怪兽5 专家版1"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

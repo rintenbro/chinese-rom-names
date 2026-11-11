@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "629953E2",
+   "name": "天地创造 MSU-1版(简)(v2.00花屏文字修正)(Necrosaro+hlken)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Tenchi Souzou (Japan)",
+ "hack_group": "Necrosaro+hlken",
+ "id": "prb-sfc-629953e2",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "3CC7FDF4",
+  "no_intro_name": "Tenchi Souzou (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "天地创造 MSU-1版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v2.00"
+}

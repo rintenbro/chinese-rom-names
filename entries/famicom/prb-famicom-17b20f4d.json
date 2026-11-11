@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "17B20F4D",
+   "name": "勇者斗恶龙6(简)[外星科技](JP)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Dragon Quest III - Soshite Densetsu e... (Japan)",
+ "hack_group": "外星科技",
+ "id": "prb-famicom-17b20f4d",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "E9F91164",
+  "no_intro_name": "Dragon Quest III - Soshite Densetsu e... (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "勇者斗恶龙6"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

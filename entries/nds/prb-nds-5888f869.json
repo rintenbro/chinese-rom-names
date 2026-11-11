@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5888F869",
+   "name": "洛克人ZX Advent(US)(飞眼汉化组)(512Mb).nds",
+   "size": 64039848
+  }
+ ],
+ "group": "Mega Man ZX - Advent (USA)",
+ "hack_group": "飞眼汉化组",
+ "id": "prb-nds-5888f869",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "6CA425E5",
+  "no_intro_name": "Mega Man ZX - Advent (USA)",
+  "region": "USA"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "洛克人ZX Advent"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-841500527f9c/title.png"
+ },
+ "files": [
+  {
+   "crc32": "C9B3CB23",
+   "name": "火焰纹章 圣战的系谱(简)[外星科技](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "火焰纹章 圣战的系谱",
+ "hack_group": "外星科技",
+ "id": "cn-942fe90cc4c8",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "火焰纹章 圣战的系谱"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

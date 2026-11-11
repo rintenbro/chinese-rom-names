@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "04833DD5",
+   "name": "对决! 奥特曼[DD](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Taiketsu! Ultra Hero (Japan)",
+ "hack_group": "",
+ "id": "prb-gba-04833dd5",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "4E6BDF8B",
+  "no_intro_name": "Taiketsu! Ultra Hero (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "对决! 奥特曼"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

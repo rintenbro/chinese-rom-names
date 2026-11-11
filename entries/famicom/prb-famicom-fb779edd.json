@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FB779EDD",
+   "name": "国雄君的热血全员集合(v0.8)(简)[热血的鱼缸](JP)[ACT](2.5Mb).nes",
+   "size": 327696
+  }
+ ],
+ "group": "Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan)",
+ "hack_group": "热血的鱼缸",
+ "id": "prb-famicom-fb779edd",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "国雄君的热血全员集合"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v0.8"
+}

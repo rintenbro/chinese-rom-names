@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-48e896679902/title.png"
+ },
+ "files": [
+  {
+   "crc32": "608E7235",
+   "name": "寻秦记(简)[南晶科技](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "寻秦记",
+ "hack_group": "南晶科技",
+ "id": "cn-98a7a3046e98",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "寻秦记"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "41122207",
+   "name": "圣诞夜惊魂-南瓜王[Crossztc](像素)[简](JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Tim Burton's The Nightmare Before Christmas - The Pumpkin King (Japan)",
+ "hack_group": "Crossztc",
+ "id": "prb-gba-41122207",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "9F16857D",
+  "no_intro_name": "Tim Burton's The Nightmare Before Christmas - The Pumpkin King (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "圣诞夜惊魂-南瓜王"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

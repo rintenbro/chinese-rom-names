@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9B22A577",
+   "name": "太空战士IV (简) (soma)(4Mb).gb",
+   "size": 524288
+  }
+ ],
+ "group": "Seiken Densetsu - Final Fantasy Gaiden (Japan)",
+ "hack_group": "soma",
+ "id": "prb-gb-9b22a577",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Seiken Densetsu - Final Fantasy Gaiden (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "太空战士IV"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

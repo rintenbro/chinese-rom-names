@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F89D547E",
+   "name": "荆轲新传(繁)[Super Tone](CN)[RPG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Jingke Xin Zhuan (China) (Jncota) (Pirate)",
+ "hack_group": "Super Tone",
+ "id": "prb-famicom-f89d547e",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Jingke Xin Zhuan (China) (Jncota) (Pirate)",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "荆轲新传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

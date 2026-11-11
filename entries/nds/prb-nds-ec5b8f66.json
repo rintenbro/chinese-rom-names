@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "EC5B8F66",
+   "name": "令旗所向(JP)(大一大万大吉汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Saihai no Yukue (Japan)",
+ "hack_group": "大一大万大吉汉化组",
+ "id": "prb-nds-ec5b8f66",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "6ADFBB12",
+  "no_intro_name": "Saihai no Yukue (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "令旗所向"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

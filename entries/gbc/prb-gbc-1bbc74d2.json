@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1BBC74D2",
+   "name": "超级马力欧乐园DX(字库优化版)(简)(verkkars)(8Mb).gbc",
+   "size": 131072
+  }
+ ],
+ "group": "Super Mario Bros. Deluxe (Japan) (NP)",
+ "hack_group": "verkkars",
+ "id": "prb-gbc-1bbc74d2",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "866B1212",
+  "no_intro_name": "Super Mario Bros. Deluxe (Japan) (NP)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级马力欧乐园DX"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

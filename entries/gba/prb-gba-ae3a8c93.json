@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AE3A8C93",
+   "name": "闪灵二人组 - 地狱的丑角[TGB](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "GetBackers Dakkanya - Jigoku no Scaramouche (Japan)",
+ "hack_group": "",
+ "id": "prb-gba-ae3a8c93",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "C0A0A979",
+  "no_intro_name": "GetBackers Dakkanya - Jigoku no Scaramouche (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "闪灵二人组 - 地狱的丑角"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

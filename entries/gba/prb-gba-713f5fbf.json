@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "713F5FBF",
+   "name": "超级机器人大战 - Original Generation 2[盗版&Colorcat](简)(JP)(122Mb).gba",
+   "size": 15990784
+  }
+ ],
+ "group": "Super Robot Taisen - Original Generation 2 (Japan)",
+ "hack_group": "盗版&Colorcat",
+ "id": "prb-gba-713f5fbf",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Super Robot Taisen - Original Generation 2 (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级机器人大战 - Original Generation 2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

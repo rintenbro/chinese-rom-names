@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8990767E",
+   "name": "热血高校躲避球全员集合 (简) (v1.0)(AXI AHE)(16Mb).sfc",
+   "size": 2097152
+  }
+ ],
+ "group": "Kunio-kun no Dodge Ball Da yo Zenin Shuugou! (Japan)",
+ "hack_group": "AXI AHE",
+ "id": "prb-sfc-8990767e",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Kunio-kun no Dodge Ball Da yo Zenin Shuugou! (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "热血高校躲避球全员集合"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

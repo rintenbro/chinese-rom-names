@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-f656d46a90d3/title.png"
+ },
+ "files": [
+  {
+   "crc32": "683E900F",
+   "name": "太空战士5(繁)[火星电子](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "太空战士5",
+ "hack_group": "火星电子",
+ "id": "cn-622180215982",
+ "platform": "famicom",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "太空战士5"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

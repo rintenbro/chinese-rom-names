@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5C293311",
+   "name": "永恒境之谜(繁)(v1.01)(aGuGU)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Secret of Evermore (USA)",
+ "hack_group": "aGuGU",
+ "id": "prb-sfc-5c293311",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "A5C0045E",
+  "no_intro_name": "Secret of Evermore (USA)",
+  "region": "USA"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "永恒境之谜"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.01"
+}

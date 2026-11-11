@@ -11,10 +11,9 @@
    "size": 33554432
   }
  ],
- "group": "Kingdom Hearts - Chain of Memories",
+ "group": "Kingdom Hearts - Chain of Memories (Japan)",
+ "hack_group": "狼组&天幻网",
  "id": "ver-gba-bb407638",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "8D5A0D84",
   "no_intro_name": "Kingdom Hearts - Chain of Memories (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "B8CJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Kingdom Hearts - Chain of Memories (Japan)",
   "zh-Hans": "王国之心 - 记忆之链"
  },
- "vendor": "狼组&天幻网",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/sfc/cn-73b65e6b5fe0/title.png"
+ },
+ "files": [
+  {
+   "crc32": "8FDD6ECE",
+   "name": "梦想家 (简) (Beta)(UTunnels)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Radical Dreamers - Nusume Nai Houseki (Japan) [CHS]",
+ "hack_group": "UTunnels",
+ "id": "prb-sfc-8fdd6ece",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Radical Dreamers - Nusume Nai Houseki (Japan) [CHS]",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "梦想家"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

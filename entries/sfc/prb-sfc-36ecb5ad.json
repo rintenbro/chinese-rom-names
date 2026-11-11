@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "36ECB5AD",
+   "name": "大航海时代2(简)(v1.01)(爱折腾的老家伙)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Daikoukai Jidai II (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-36ecb5ad",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "EEBC4170",
+  "no_intro_name": "Daikoukai Jidai II (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "大航海时代2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.01"
+}

@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Gyakuten Kenji 2",
+ "group": "Gyakuten Kenji 2 (Japan)",
+ "hack_group": "",
  "id": "ver-nds-ba8f0fd4",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "04D1A557",
   "no_intro_name": "Gyakuten Kenji 2 (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "BXOJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Gyakuten Kenji 2 (Japan)",
   "zh-Hans": "逆转检事2 完美汉化版"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

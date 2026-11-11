@@ -11,10 +11,9 @@
    "size": 9437184
   }
  ],
- "group": "Tales of the World - Narikiri Dungeon 2",
+ "group": "Tales of the World - Narikiri Dungeon 2 (Japan)",
+ "hack_group": "啪嗒啪嗒&代码熊",
  "id": "ver-gba-cb46f000",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "231B9FCA",
   "no_intro_name": "Tales of the World - Narikiri Dungeon 2 (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AN9J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Tales of the World - Narikiri Dungeon 2 (Japan)",
   "zh-Hans": "世界传说 - 换装迷宫2"
  },
- "vendor": "啪嗒啪嗒&代码熊",
+ "type": "game",
+ "vendor": "",
  "version": "v3.0"
 }

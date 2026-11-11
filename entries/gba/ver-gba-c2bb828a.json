@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Gachasute! Dino Device 2 - Dragon",
+ "group": "Gachasute! Dino Device 2 - Dragon (Japan)",
+ "hack_group": "Advance汉化组",
  "id": "ver-gba-c2bb828a",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "A63DFD2C",
   "no_intro_name": "Gachasute! Dino Device 2 - Dragon (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "A4XJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Gachasute! Dino Device 2 - Dragon (Japan)",
   "zh-Hans": "扭蛋！迪诺机2 龙版"
  },
- "vendor": "Advance汉化组",
+ "type": "game",
+ "vendor": "",
  "version": "v1.1"
 }

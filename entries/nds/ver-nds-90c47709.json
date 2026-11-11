@@ -11,10 +11,9 @@
    "size": 130540604
   }
  ],
- "group": "Inazuma Eleven",
+ "group": "Inazuma Eleven (Japan)",
+ "hack_group": "CG汉化组",
  "id": "ver-nds-90c47709",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "EDCFA217",
   "no_intro_name": "Inazuma Eleven (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YEEJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Inazuma Eleven (Japan)",
   "zh-Hans": "闪电十一人"
  },
- "vendor": "CG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

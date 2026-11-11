@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "73EF06F4",
+   "name": "疯狂阿给3 超级炸弹人(繁)(新特奇)(32Mb).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Feng Kuang A Gei III - Chao Ji Zha Dan Ren (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-gbc-73ef06f4",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Feng Kuang A Gei III - Chao Ji Zha Dan Ren (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "疯狂阿给3 超级炸弹人"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

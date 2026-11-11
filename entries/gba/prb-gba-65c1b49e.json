@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "65C1B49E",
+   "name": "多卡波王国Q - 怪兽猎人[Sjf](v20101222)(简)(US)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Dokapon - Monster Hunter (USA)",
+ "hack_group": "Sjf",
+ "id": "prb-gba-65c1b49e",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "5617E407",
+  "no_intro_name": "Dokapon - Monster Hunter (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "多卡波王国Q - 怪兽猎人"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20101222"
+}

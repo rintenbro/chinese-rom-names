@@ -11,10 +11,9 @@
    "size": 130503780
   }
  ],
- "group": "Ninja Gaiden - Dragon Sword",
+ "group": "Ninja Gaiden - Dragon Sword (Japan)",
+ "hack_group": "巴士汉化组",
  "id": "ver-nds-3e5c7cb1",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "5EF61EB8",
   "no_intro_name": "Ninja Gaiden - Dragon Sword (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YNGJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Ninja Gaiden - Dragon Sword (Japan)",
   "zh-Hans": "忍者龙剑传 龙剑 修正版"
  },
- "vendor": "巴士汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6081B821",
+   "name": "偷看扑克(大字体)(简)[高伟](CN)[TAB](0.75Mb).nes",
+   "size": 98320
+  }
+ ],
+ "group": "Peek-A-Boo Poker (USA)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-6081b821",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Peek-A-Boo Poker (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "偷看扑克"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

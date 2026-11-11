@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-330243893d61/title.png"
+ },
+ "files": [
+  {
+   "crc32": "25A7B66E",
+   "name": "钢弹物语II (繁) (星星科技).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "钢弹物语II",
+ "hack_group": "",
+ "id": "cn-ac7e5834a945",
+ "platform": "gbc",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "钢弹物语II"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

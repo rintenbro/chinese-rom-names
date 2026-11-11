@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4A5F3944",
+   "name": "海贼王 - 目标!赏金之王[模拟天下&枫雪动漫](简)(JP)(65.41Mb).gba",
+   "size": 8573700
+  }
+ ],
+ "group": "From TV Animation One Piece - Mezase! King of Berry (Japan)",
+ "hack_group": "模拟天下&枫雪动漫",
+ "id": "prb-gba-4a5f3944",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "E6F5BDD5",
+  "no_intro_name": "From TV Animation One Piece - Mezase! King of Berry (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "海贼王 - 目标!赏金之王"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-474aa5bb3272/title.png"
+ },
+ "files": [
+  {
+   "crc32": "07AB20A7",
+   "name": "扑克集锦(繁)[圣谦](CN)[TAB](0.18Mb).nes",
+   "size": 24592
+  }
+ ],
+ "group": "扑克集锦",
+ "hack_group": "圣谦",
+ "id": "cn-0b438f28a0dc",
+ "platform": "famicom",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "扑克集锦"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

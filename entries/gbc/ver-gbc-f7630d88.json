@@ -11,10 +11,9 @@
    "size": 1048576
   }
  ],
- "group": "Gedou Zhizun 2003",
+ "group": "Gedou Zhizun 2003 (Taiwan)",
+ "hack_group": "SKOB",
  "id": "ver-gbc-f7630d88",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "F7630D88",
   "no_intro_name": "Gedou Zhizun 2003 (Taiwan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gbc",
  "script": "简",
- "serial": "",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Gedou Zhizun 2003 (Taiwan)",
   "zh-Hans": "格斗至尊2003"
  },
- "vendor": "SKOB",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

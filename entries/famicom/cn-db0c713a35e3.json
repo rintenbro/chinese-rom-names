@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-f51a2649b704/title.png"
+ },
+ "files": [
+  {
+   "crc32": "97292018",
+   "name": "威洛传奇(简)[金巴比伦](JP)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "威洛传奇",
+ "hack_group": "金巴比伦",
+ "id": "cn-db0c713a35e3",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "威洛传奇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

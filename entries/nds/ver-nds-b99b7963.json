@@ -11,10 +11,9 @@
    "size": 47374720
   }
  ],
- "group": "Gouma Reifu Den Izuna Ni",
+ "group": "Gouma Reifu Den Izuna Ni (Japan)",
+ "hack_group": "",
  "id": "ver-nds-b99b7963",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "3D1DACE9",
   "no_intro_name": "Gouma Reifu Den Izuna Ni (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "繁",
- "serial": "YIZJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Gouma Reifu Den Izuna Ni (Japan)",
   "zh-Hans": "降魔灵符传 贰 黑屏修正版"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

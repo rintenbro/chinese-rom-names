@@ -11,10 +11,9 @@
    "size": 167696160
   }
  ],
- "group": "Sigma Harmonics",
+ "group": "Sigma Harmonics (Japan)",
+ "hack_group": "ACG汉化组",
  "id": "ver-nds-92fb3a85",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "81C7D250",
   "no_intro_name": "Sigma Harmonics (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "CGMJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Sigma Harmonics (Japan)",
   "zh-Hans": "西格玛和声 V2"
  },
- "vendor": "ACG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2E14F887",
+   "name": "特鲁尼克大冒险(简)(小鬼混+飞雨影+阿刃)(8Mb).smc",
+   "size": 2097152
+  }
+ ],
+ "group": "Torneko no Daibouken - Fushigi no Dungeon (Japan)",
+ "hack_group": "小鬼混+飞雨影+阿刃",
+ "id": "prb-sfc-2e14f887",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Torneko no Daibouken - Fushigi no Dungeon (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "特鲁尼克大冒险"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

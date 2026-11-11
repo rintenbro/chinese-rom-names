@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0187DC51",
+   "name": "斗智拼盘(繁)[晶碁电子](CN)[PUZ](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Dou Zhi Pinpan - Wisdom Boy (Asia) (Pirate)",
+ "hack_group": "晶碁电子",
+ "id": "prb-famicom-0187dc51",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "9ADB27D7",
+  "no_intro_name": "Dou Zhi Pinpan - Wisdom Boy (Asia) (Pirate)",
+  "region": "Asia"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "斗智拼盘"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 43453872
   }
  ],
- "group": "Uwasa no Midori-kun!! - Natsuiro Striker",
+ "group": "Uwasa no Midori-kun!! - Natsuiro Striker (Japan)",
+ "hack_group": "",
  "id": "ver-nds-16c840f2",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "ADC812AB",
   "no_intro_name": "Uwasa no Midori-kun!! - Natsuiro Striker (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YUNJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Uwasa no Midori-kun!! - Natsuiro Striker (Japan)",
   "zh-Hans": "传言的翠君 夏色射手"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

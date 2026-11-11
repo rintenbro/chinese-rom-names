@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DE166009",
+   "name": "决战三国[广誉科技+Dangfer](fix2)(繁)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Juezhan Sanguo (Taiwan)",
+ "hack_group": "fix2 广誉科技+Dangfer",
+ "id": "prb-gba-de166009",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "CEB670B2",
+  "no_intro_name": "Juezhan Sanguo (Taiwan)",
+  "region": "Taiwan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "决战三国"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

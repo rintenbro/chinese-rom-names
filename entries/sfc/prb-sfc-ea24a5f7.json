@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "EA24A5F7",
+   "name": "电精 (简) (v1.00)(Agemo等)(24Mb).sfc",
+   "size": 3145728
+  }
+ ],
+ "group": "Ghost Chaser Densei (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-ea24a5f7",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "DFD6385D",
+  "no_intro_name": "Ghost Chaser Densei (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "电精"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.00"
+}

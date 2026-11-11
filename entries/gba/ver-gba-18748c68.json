@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Bakuten Shoot Beyblade 2002 - Gekisen! Team Battle!! Seiryuu no Shou - Takao Hen",
+ "group": "Bakuten Shoot Beyblade 2002 - Gekisen! Team Battle!! Seiryuu no Shou - Takao Hen (Japan)",
+ "hack_group": "Fei Yun",
  "id": "ver-gba-18748c68",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "8778B36A",
   "no_intro_name": "Bakuten Shoot Beyblade 2002 - Gekisen! Team Battle!! Seiryuu no Shou - Takao Hen (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "A3WJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Bakuten Shoot Beyblade 2002 - Gekisen! Team Battle!! Seiryuu no Shou - Takao Hen (Japan)",
   "zh-Hans": "爆转陀螺2002 - 激战!组队决斗!!青龙之章 小龙篇"
  },
- "vendor": "Fei Yun",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

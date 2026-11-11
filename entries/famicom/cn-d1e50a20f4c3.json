@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-901713256b3a/title.png"
+ },
+ "files": [
+  {
+   "crc32": "71BFEC8A",
+   "name": "台湾花牌麻雀(繁)[圣谦](CN)[TAB](0.37Mb).nes",
+   "size": 49168
+  }
+ ],
+ "group": "台湾花牌麻雀",
+ "hack_group": "圣谦",
+ "id": "cn-d1e50a20f4c3",
+ "platform": "famicom",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "台湾花牌麻雀"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

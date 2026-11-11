@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A610D84E",
+   "name": "三国志 (简) (voidboy)(2Mb).gb",
+   "size": 262144
+  }
+ ],
+ "group": "Sangokushi - Game Boy Ban (Japan)",
+ "hack_group": "voidboy",
+ "id": "prb-gb-a610d84e",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "83706E92",
+  "no_intro_name": "Sangokushi - Game Boy Ban (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "三国志"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

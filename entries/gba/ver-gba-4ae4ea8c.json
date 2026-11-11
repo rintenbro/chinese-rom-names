@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Sister Princess - RePure",
+ "group": "Sister Princess - RePure (Japan)",
+ "hack_group": "",
  "id": "ver-gba-4ae4ea8c",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "6845C671",
   "no_intro_name": "Sister Princess - RePure (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "A4PJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Sister Princess - RePure (Japan)",
   "zh-Hans": "妹妹公主 - RePure"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

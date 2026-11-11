@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9746A10E",
+   "name": "洛克人X(简)[外星科技](JP)[TAB](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Rocman X (Asia) (En) (Pirate)",
+ "hack_group": "外星科技",
+ "id": "prb-famicom-9746a10e",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "39AC02CD",
+  "no_intro_name": "Rocman X (Asia) (En) (Pirate)",
+  "region": "Asia"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "洛克人X"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

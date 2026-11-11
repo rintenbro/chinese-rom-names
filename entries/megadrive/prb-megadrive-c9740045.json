@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C9740045",
+   "name": "星际枪骑兵(简)(SGGG)(v0.7修复红屏)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Advanced Busterhawk Gley Lancer (Japan)",
+ "hack_group": "SGGG",
+ "id": "prb-megadrive-c9740045",
+ "platform": "megadrive",
+ "probable_original": {
+  "crc32": "42CF9B5B",
+  "no_intro_name": "Advanced Busterhawk Gley Lancer (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "星际枪骑兵"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

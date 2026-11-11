@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DC531B54",
+   "name": "疯狂赛车(简)[高伟](JP)[RAC](0.18Mb).nes",
+   "size": 24592
+  }
+ ],
+ "group": "Zippy Race (Japan)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-dc531b54",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Zippy Race (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "疯狂赛车"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

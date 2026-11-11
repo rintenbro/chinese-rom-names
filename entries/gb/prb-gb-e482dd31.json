@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E482DD31",
+   "name": "口袋妖怪(精灵宝可梦) 皮卡丘 (v1.1)(简)(CKN & 群星)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Pocket Monsters - Pikachu (Japan) (SGB Enhanced)",
+ "hack_group": "CKN & 群星",
+ "id": "prb-gb-e482dd31",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Pocket Monsters - Pikachu (Japan) (SGB Enhanced)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪 皮卡丘"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

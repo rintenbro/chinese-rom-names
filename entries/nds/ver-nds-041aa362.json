@@ -11,10 +11,9 @@
    "size": 54448904
   }
  ],
- "group": "Juushin Enbu DS",
+ "group": "Juushin Enbu DS (Japan)",
+ "hack_group": "",
  "id": "ver-nds-041aa362",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "A868EE60",
   "no_intro_name": "Juushin Enbu DS (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "YJNJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Juushin Enbu DS (Japan)",
   "zh-Hans": "兽神演武DS 剧情"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

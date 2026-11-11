@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8455B02C",
+   "name": "超级马力欧RPG(简)(v1.2)(hlken)(40Mb).smc",
+   "size": 5242880
+  }
+ ],
+ "group": "Super Mario RPG (Japan)",
+ "hack_group": "hlken",
+ "id": "prb-sfc-8455b02c",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "5527071E",
+  "no_intro_name": "Super Mario RPG (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级马力欧RPG"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.2"
+}

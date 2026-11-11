@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-11c9f39359bd/title.png"
+ },
+ "files": [
+  {
+   "crc32": "A111E97D",
+   "name": "口袋精灵 金(解密版)(简)[外星科技+WXN](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "口袋精灵 金",
+ "hack_group": "外星科技+WXN",
+ "id": "cn-539e1224005b",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "口袋精灵 金"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

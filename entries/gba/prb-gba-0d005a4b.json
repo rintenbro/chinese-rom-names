@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0D005A4B",
+   "name": "机动战士 敢达SEED 君与友的战场[TGB](Beta) (v20160514)(简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Kidou Senshi Gundam SEED - Tomo to Kimi to Koko de. (Japan)",
+ "hack_group": "",
+ "id": "prb-gba-0d005a4b",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "73BF384B",
+  "no_intro_name": "Kidou Senshi Gundam SEED - Tomo to Kimi to Koko de. (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "机动战士 敢达SEED 君与友的战场"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20160514"
+}

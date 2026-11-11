@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Shin Sangoku Musou Advance",
+ "group": "Shin Sangoku Musou Advance (Japan)",
+ "hack_group": "星宇工作室",
  "id": "ver-gba-fc434645",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "FE1BE6C1",
   "no_intro_name": "Shin Sangoku Musou Advance (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "B36J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Shin Sangoku Musou Advance (Japan)",
   "zh-Hans": "真三国无双Advance"
  },
- "vendor": "星宇工作室",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

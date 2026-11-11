@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "624C7219",
+   "name": "雷顿教授与最后的时间旅行(简)(JP)(ACG汉化组)(2047.99Mb).nds",
+   "size": 252839028
+  }
+ ],
+ "group": "Layton Kyouju to Saigo no Jikan Ryokou (Japan)",
+ "hack_group": "ACG汉化组",
+ "id": "prb-nds-624c7219",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "280381AA",
+  "no_intro_name": "Layton Kyouju to Saigo no Jikan Ryokou (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "雷顿教授与最后的时间旅行"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

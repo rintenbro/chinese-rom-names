@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0F7790ED",
+   "name": "口袋妖怪 - 银(精灵宝可梦银)(简)(美版大字体汉化v1.1)(GB共通汉化版)(TomJinW)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Pokemon - Silver Version (USA, Europe) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "TomJinW",
+ "id": "prb-gbc-0f7790ed",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "8AD48636",
+  "no_intro_name": "Pokemon - Silver Version (USA, Europe) (SGB Enhanced) (GB Compatible)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪 - 银"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "60B6BB00",
+   "name": "热血时代剧(简)(AI汉化大字版v1.0.3)(哇你是谁怎么傻乎乎)(4Mb).gb",
+   "size": 524288
+  }
+ ],
+ "group": "Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan)",
+ "hack_group": "",
+ "id": "prb-gb-60b6bb00",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "229E9113",
+  "no_intro_name": "Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "热血时代剧"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0.3"
+}

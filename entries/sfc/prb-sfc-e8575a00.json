@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E8575A00",
+   "name": "最终幻想5 (繁) (v2.0)(Boco等)(20Mb).sfc",
+   "size": 2621440
+  }
+ ],
+ "group": "Final Fantasy V (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-e8575a00",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Final Fantasy V (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "最终幻想5"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v2.0"
+}

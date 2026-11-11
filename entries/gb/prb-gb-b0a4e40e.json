@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gb/cn-7cd4c57b17c8/title.png"
+ },
+ "files": [
+  {
+   "crc32": "B0A4E40E",
+   "name": "第五次机器人大战 (简) (unknown)(1Mb).gb",
+   "size": 131072
+  }
+ ],
+ "group": "Super Robot Taisen (Japan)",
+ "hack_group": "unknown",
+ "id": "prb-gb-b0a4e40e",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Super Robot Taisen (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "第五次机器人大战"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

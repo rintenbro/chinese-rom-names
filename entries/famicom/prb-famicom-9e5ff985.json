@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9E5FF985",
+   "name": "热血硬派国雄君(简)[热血的鱼缸](JP)[ACT](1.12Mb).nes",
+   "size": 147472
+  }
+ ],
+ "group": "Nekketsu Kouha Kunio-kun (Japan)",
+ "hack_group": "热血的鱼缸",
+ "id": "prb-famicom-9e5ff985",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Nekketsu Kouha Kunio-kun (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "热血硬派国雄君"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

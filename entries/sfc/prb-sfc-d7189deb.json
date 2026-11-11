@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D7189DEB",
+   "name": "忍者神龟 时空神龟(简)(v1.0)(DMG)(12Mb).sfc",
+   "size": 1310720
+  }
+ ],
+ "group": "Teenage Mutant Ninja Turtles - Turtles in Time (Japan)",
+ "hack_group": "DMG",
+ "id": "prb-sfc-d7189deb",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "BDBA1B55",
+  "no_intro_name": "Teenage Mutant Ninja Turtles - Turtles in Time (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "忍者神龟 时空神龟"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

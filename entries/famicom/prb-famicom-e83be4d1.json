@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E83BE4D1",
+   "name": "大话水浒(简)[南晶科技](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "Dahua Shuihu (China)",
+ "hack_group": "南晶科技",
+ "id": "prb-famicom-e83be4d1",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "72DBA27C",
+  "no_intro_name": "Dahua Shuihu (China)",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "大话水浒"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

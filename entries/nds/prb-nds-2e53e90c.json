@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2E53E90C",
+   "name": "新世纪福音战士 凌波丽育成计划与明日香补完计划 简体中文完美版(JP)(ACG&3DM汉化组)(2047.99Mb).nds",
+   "size": 224641428
+  }
+ ],
+ "group": "Shinseiki Evangelion - Ayanami Ikusei Keikaku DS with Asuka Hokan Keikaku (Japan)",
+ "hack_group": "ACG&3DM汉化组",
+ "id": "prb-nds-2e53e90c",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "3215498D",
+  "no_intro_name": "Shinseiki Evangelion - Ayanami Ikusei Keikaku DS with Asuka Hokan Keikaku (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "新世纪福音战士 凌波丽育成计划与明日香补完计划 简体中文完美版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-31a8fb009f22/title.png"
+ },
+ "files": [
+  {
+   "crc32": "91160598",
+   "name": "少林十三棍 - 英雄救主 (简) (新特奇).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Shao Lin Shi San Gun - Ying Xiong Jiu Zhu (China) [CHS]",
+ "hack_group": "",
+ "id": "prb-gbc-91160598",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Shao Lin Shi San Gun - Ying Xiong Jiu Zhu (China) [CHS]",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "少林十三棍 - 英雄救主"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

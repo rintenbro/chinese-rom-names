@@ -11,10 +11,9 @@
    "size": 63070176
   }
  ],
- "group": "Saihai no Yukue",
+ "group": "Saihai no Yukue (Japan)",
+ "hack_group": "",
  "id": "ver-nds-2c0935f9",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "6ADFBB12",
   "no_intro_name": "Saihai no Yukue (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "CI8J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Saihai no Yukue (Japan)",
   "zh-Hans": "谋略的未来 第一二章文本汉化版"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

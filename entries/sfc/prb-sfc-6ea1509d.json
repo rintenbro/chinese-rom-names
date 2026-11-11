@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6EA1509D",
+   "name": "超魔界村(繁)(v1.0)(agugu2000)(16Mb).sfc",
+   "size": 2097152
+  }
+ ],
+ "group": "Chou Makaimura (Japan)",
+ "hack_group": "agugu2000",
+ "id": "prb-sfc-6ea1509d",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Chou Makaimura (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超魔界村"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

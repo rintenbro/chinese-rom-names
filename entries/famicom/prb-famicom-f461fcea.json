@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F461FCEA",
+   "name": "超级马里奥兄弟3(v20240211)(美版)(简)[卡通](US)[ACT](3.06Mb).nes",
+   "size": 401424
+  }
+ ],
+ "group": "Super Mario Bros. 3 (USA)",
+ "hack_group": "卡通",
+ "id": "prb-famicom-f461fcea",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "661019C6",
+  "no_intro_name": "Super Mario Bros. 3 (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级马里奥兄弟3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20240211"
+}

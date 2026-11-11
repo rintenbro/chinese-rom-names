@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "57713870",
+   "name": "幽灵行动(简)[恒格电子](CN)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "Youling Xingdong - Shock (China)",
+ "hack_group": "恒格电子",
+ "id": "prb-famicom-57713870",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "F12C51EB",
+  "no_intro_name": "Youling Xingdong - Shock (China)",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "幽灵行动"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

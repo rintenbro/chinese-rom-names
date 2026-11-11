@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Hello Kitty no Paku Paku & Logic",
+ "group": "Hello Kitty no Paku Paku & Logic (Japan)",
+ "hack_group": "",
  "id": "ver-nds-e7f9e8c7",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "FF0F80DD",
   "no_intro_name": "Hello Kitty no Paku Paku & Logic (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "BHKJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Hello Kitty no Paku Paku & Logic (Japan)",
   "zh-Hans": "Hello_Kitty的帕库帕库&逻辑思维"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

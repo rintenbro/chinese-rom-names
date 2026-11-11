@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A8D069D8",
+   "name": "仙界异闻录准提大战 - 仙界传封神演义 (繁) (unknown).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Senkai Ibunroku Juntei Taisen - TV Animation Senkaiden Houshin Engi Yori (Japan) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "unknown",
+ "id": "prb-gbc-a8d069d8",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "23FA5F53",
+  "no_intro_name": "Senkai Ibunroku Juntei Taisen - TV Animation Senkaiden Houshin Engi Yori (Japan) (SGB Enhanced) (GB Compatible)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "仙界异闻录准提大战 - 仙界传封神演义"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

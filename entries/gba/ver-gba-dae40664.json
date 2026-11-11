@@ -11,10 +11,9 @@
    "size": 4194304
   }
  ],
- "group": "Double Dragon Advance",
+ "group": "Double Dragon Advance (Japan)",
+ "hack_group": "天使汉化组",
  "id": "ver-gba-dae40664",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "A3330E8F",
   "no_intro_name": "Double Dragon Advance (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "繁",
- "serial": "BDDJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Double Dragon Advance (Japan)",
   "zh-Hans": "双截龙Advance"
  },
- "vendor": "天使汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

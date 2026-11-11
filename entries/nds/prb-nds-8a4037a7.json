@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8A4037A7",
+   "name": "懒懒熊节拍 懒懒地音乐休闲(JP)(ACG汉化组)(256Mb).nds",
+   "size": 19757816
+  }
+ ],
+ "group": "Rilakkuma Rhythm - Mattari Kibun de Dararan Ran (Japan)",
+ "hack_group": "ACG汉化组",
+ "id": "prb-nds-8a4037a7",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "D0DA27AC",
+  "no_intro_name": "Rilakkuma Rhythm - Mattari Kibun de Dararan Ran (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "懒懒熊节拍 懒懒地音乐休闲"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

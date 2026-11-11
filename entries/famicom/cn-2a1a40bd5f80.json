@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-c09abc47e51e/title.png"
+ },
+ "files": [
+  {
+   "crc32": "000A667B",
+   "name": "银河时代(简)[外星科技](JP)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "银河时代",
+ "hack_group": "外星科技",
+ "id": "cn-2a1a40bd5f80",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "银河时代"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

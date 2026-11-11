@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D0015AD8",
+   "name": "鬼魂力量 创世纪 完整汉化版(JP)(小黑屋汉化组)(512Mb).nds",
+   "size": 63053824
+  }
+ ],
+ "group": "Spectral Force - Genesis (Japan)",
+ "hack_group": "小黑屋汉化组",
+ "id": "prb-nds-d0015ad8",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "8F062E72",
+  "no_intro_name": "Spectral Force - Genesis (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "鬼魂力量 创世纪 完整汉化版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

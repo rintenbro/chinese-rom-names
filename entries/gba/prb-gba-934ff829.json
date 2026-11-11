@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "934FF829",
+   "name": "口袋妖怪 - 叶绿[口袋吧](386)(简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Pocket Monsters - LeafGreen (Japan)",
+ "hack_group": "口袋吧",
+ "id": "prb-gba-934ff829",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "0A48556B",
+  "no_intro_name": "Pocket Monsters - LeafGreen (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪 - 叶绿"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

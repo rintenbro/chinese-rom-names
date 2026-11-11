@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D48B19FC",
+   "name": "魂斗罗(简)[星空](JP)[ACT](2.06Mb).nes",
+   "size": 270352
+  }
+ ],
+ "group": "Contra (Japan)",
+ "hack_group": "星空",
+ "id": "prb-famicom-d48b19fc",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "08789A28",
+  "no_intro_name": "Contra (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "魂斗罗"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

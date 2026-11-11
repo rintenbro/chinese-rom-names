@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DEA35B83",
+   "name": "蜘蛛侠II 邪恶六人组(简)(v1.0修正版)(sss888)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Spider-Man 2 - The Sinister Six (USA, Europe)",
+ "hack_group": "sss888",
+ "id": "prb-gbc-dea35b83",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "A7FAACCF",
+  "no_intro_name": "Spider-Man 2 - The Sinister Six (USA, Europe)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "蜘蛛侠II 邪恶六人组"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

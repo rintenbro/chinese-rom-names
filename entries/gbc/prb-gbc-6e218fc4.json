@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6E218FC4",
+   "name": "电车Go!2 (v4.0) (简) (CKN).gbc",
+   "size": 8388608
+  }
+ ],
+ "group": "Densha de Go! 2 (Japan)",
+ "hack_group": "CKN",
+ "id": "prb-gbc-6e218fc4",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Densha de Go! 2 (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "电车Go!2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v4.0"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1569F9AC",
+   "name": "三国志 中原之霸者(大字体)(v2019)(简)[谈魈疯生](JP)[SLG](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Sangokushi - Chuugen no Hasha (Japan)",
+ "hack_group": "谈魈疯生",
+ "id": "prb-famicom-1569f9ac",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "8513C501",
+  "no_intro_name": "Sangokushi - Chuugen no Hasha (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "三国志 中原之霸者"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v2019"
+}

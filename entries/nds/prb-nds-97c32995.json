@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "97C32995",
+   "name": "结界师 鸟森妖奇谈(JP)(sunnysun)(256Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Kekkaishi - Karasumori Ayakashi Kidan (Japan)",
+ "hack_group": "sunnysun",
+ "id": "prb-nds-97c32995",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "D9380423",
+  "no_intro_name": "Kekkaishi - Karasumori Ayakashi Kidan (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "结界师 鸟森妖奇谈"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

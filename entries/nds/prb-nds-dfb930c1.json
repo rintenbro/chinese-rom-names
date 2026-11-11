@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DFB930C1",
+   "name": "雷顿教授与魔神之笛 模拟器版(JP)(ACG汉化组)(2047.99Mb).nds",
+   "size": 268435456
+  }
+ ],
+ "group": "Layton Kyouju to Majin no Fue (Japan)",
+ "hack_group": "ACG汉化组",
+ "id": "prb-nds-dfb930c1",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "83C02FF8",
+  "no_intro_name": "Layton Kyouju to Majin no Fue (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "雷顿教授与魔神之笛 模拟器版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

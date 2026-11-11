@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9A483041",
+   "name": "怒3(大字体)(简)[高伟](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Ikari III (Japan) (En)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-9a483041",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "0B4BCA07",
+  "no_intro_name": "Ikari III (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "怒3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

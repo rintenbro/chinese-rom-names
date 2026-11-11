@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8B71AFA3",
+   "name": "BLEACH死神DS 4th 火焰传承者(JP)(兔友汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Bleach DS 4th - Flame Bringer (Japan)",
+ "hack_group": "兔友汉化组",
+ "id": "prb-nds-8b71afa3",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "72A7E748",
+  "no_intro_name": "Bleach DS 4th - Flame Bringer (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "BLEACH死神DS 4th 火焰传承者"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

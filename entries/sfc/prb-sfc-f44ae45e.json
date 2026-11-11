@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F44AE45E",
+   "name": "勇者斗恶龙1+2 (简) (1代汉化)(波波)(12Mb).sfc",
+   "size": 1572864
+  }
+ ],
+ "group": "Dragon Quest I & II (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-f44ae45e",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "98BB6853",
+  "no_intro_name": "Dragon Quest I & II (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "勇者斗恶龙1+2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 12582912
   }
  ],
- "group": "Gyakuten Saiban 2",
+ "group": "Gyakuten Saiban 2 (Japan)",
+ "hack_group": "Eastred Chapter 1",
  "id": "ver-gba-7fd7ff2e",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "191AD26A",
   "no_intro_name": "Gyakuten Saiban 2 (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "A3GJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Gyakuten Saiban 2 (Japan)",
   "zh-Hans": "逆转裁判2"
  },
- "vendor": "Eastred / Chapter 1",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

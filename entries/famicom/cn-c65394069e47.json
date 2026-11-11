@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-f80493d82738/title.png"
+ },
+ "files": [
+  {
+   "crc32": "D1AA8CDA",
+   "name": "霍元甲(简)[南晶科技](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "霍元甲",
+ "hack_group": "南晶科技",
+ "id": "cn-c65394069e47",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "霍元甲"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

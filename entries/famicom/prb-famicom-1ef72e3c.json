@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1EF72E3C",
+   "name": "里见八犬传(修正版)(简)[外星科技+逆游の五彩魚](JP)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Satomi Hakkenden (Japan)",
+ "hack_group": "外星科技+逆游の五彩魚",
+ "id": "prb-famicom-1ef72e3c",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "70209C38",
+  "no_intro_name": "Satomi Hakkenden (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "里见八犬传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

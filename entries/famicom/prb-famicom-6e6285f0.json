@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6E6285F0",
+   "name": "东方的传说(繁)[外星科技](JP)[RPG](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Dongfang de Chuanshuo - The Hyrule Fantasy (China) (Pirate)",
+ "hack_group": "外星科技",
+ "id": "prb-famicom-6e6285f0",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "4925F8A7",
+  "no_intro_name": "Dongfang de Chuanshuo - The Hyrule Fantasy (China) (Pirate)",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "东方的传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

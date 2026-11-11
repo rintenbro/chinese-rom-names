@@ -11,10 +11,9 @@
    "size": 33603348
   }
  ],
- "group": "Ryuusei no Rockman - Dragon",
+ "group": "Ryuusei no Rockman - Dragon (Japan)",
+ "hack_group": "电波人研究中心汉化组",
  "id": "ver-nds-d3c67c98",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "CB5CC109",
   "no_intro_name": "Ryuusei no Rockman - Dragon (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "A6CJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Ryuusei no Rockman - Dragon (Japan)",
   "zh-Hans": "流星洛克人 青龙 完全汉化版v3"
  },
- "vendor": "电波人研究中心汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

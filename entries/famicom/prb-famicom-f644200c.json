@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F644200C",
+   "name": "大眼蛙可洛比的大冒险2 甜甜圈池塘大骚动(v20230105)(简)[KasuraJ](JP)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Kero Kero Keroppi no Daibouken 2 - Donuts Ike wa Oosawagi!! (Japan)",
+ "hack_group": "KasuraJ",
+ "id": "prb-famicom-f644200c",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Kero Kero Keroppi no Daibouken 2 - Donuts Ike wa Oosawagi!! (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "大眼蛙可洛比的大冒险2 甜甜圈池塘大骚动"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20230105"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4319712F",
+   "name": "酷乐猫2 (简) (天空联盟).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Cyborg Kuro-chan 2 - White Woods no Gyakushuu (Japan)",
+ "hack_group": "天空联盟",
+ "id": "prb-gbc-4319712f",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Cyborg Kuro-chan 2 - White Woods no Gyakushuu (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "酷乐猫2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

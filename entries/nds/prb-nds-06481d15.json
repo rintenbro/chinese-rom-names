@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "06481D15",
+   "name": "恐怖校園 禁錮都市傳說 文本汉化版(繁)(JP)(zzz5655)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Twilight Syndrome - Kinjirareta Toshi Densetsu (Japan)",
+ "hack_group": "zzz5655",
+ "id": "prb-nds-06481d15",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "76F1DB67",
+  "no_intro_name": "Twilight Syndrome - Kinjirareta Toshi Densetsu (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "恐怖校園 禁錮都市傳說 文本汉化版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

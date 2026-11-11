@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C13653C5",
+   "name": "特种部队 A计划(简)(外星科技+白粥与榨菜+星夜之幻+babypkzhu)(8Mb).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Special Forces - Plan A (China) [CHS]",
+ "hack_group": "外星科技+白粥与榨菜+星夜之幻+babypkzhu",
+ "id": "prb-gbc-c13653c5",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Special Forces - Plan A (China) [CHS]",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "特种部队 A计划"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "52C262B4",
+   "name": "迷魂车(繁)[Puszta](CN)[ACT](0.75Mb).nes",
+   "size": 98320
+  }
+ ],
+ "group": "Jovial Race (Asia) (En)",
+ "hack_group": "Puszta",
+ "id": "prb-famicom-52c262b4",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "C65ECA5D",
+  "no_intro_name": "Jovial Race (Asia) (En)",
+  "region": "Asia"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "迷魂车"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

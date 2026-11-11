@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BD9E6FD5",
+   "name": "魔物之塔 (繁) (unknown).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Other Life - Azure Dreams GB (Japan) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "unknown",
+ "id": "prb-gbc-bd9e6fd5",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "C6F1ABD4",
+  "no_intro_name": "Other Life - Azure Dreams GB (Japan) (SGB Enhanced) (GB Compatible)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "魔物之塔"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

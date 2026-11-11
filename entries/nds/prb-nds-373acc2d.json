@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "373ACC2D",
+   "name": "游戏王5D'S 世界冠军大会2011 卡片汉化版v2.0(JP)(NW旅团)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Yu-Gi-Oh! 5D's - World Championship 2011 - Over the Nexus (Japan) (En,Ja,Fr,De,Es,It)",
+ "hack_group": "",
+ "id": "prb-nds-373acc2d",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "E2FEBCB7",
+  "no_intro_name": "Yu-Gi-Oh! 5D's - World Championship 2011 - Over the Nexus (Japan) (En,Ja,Fr,De,Es,It)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "游戏王5D'S 世界冠军大会2011 卡片汉化版v2.0"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

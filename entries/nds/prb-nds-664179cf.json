@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "664179CF",
+   "name": "风云！大笼城(JP)(APEX汉化组)(64Mb).nds",
+   "size": 16777216
+  }
+ ],
+ "group": "Fuuun! Dairoujou (Japan)",
+ "hack_group": "APEX汉化组",
+ "id": "prb-nds-664179cf",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "6B6C4FF6",
+  "no_intro_name": "Fuuun! Dairoujou (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "风云！大笼城"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

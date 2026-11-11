@@ -11,10 +11,9 @@
    "size": 61997716
   }
  ],
- "group": "Naruto RPG 3 - Reijuu vs Konoha Shoutai",
+ "group": "Naruto RPG 3 - Reijuu vs Konoha Shoutai (Japan)",
+ "hack_group": "",
  "id": "ver-nds-fe623ed4",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "62E6BB46",
   "no_intro_name": "Naruto RPG 3 - Reijuu vs Konoha Shoutai (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "ANTJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Naruto RPG 3 - Reijuu vs Konoha Shoutai (Japan)",
   "zh-Hans": "火影忍者RPG3 灵兽VS木叶小队 汉化测试版v36"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

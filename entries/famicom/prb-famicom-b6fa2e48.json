@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B6FA2E48",
+   "name": "任天堂战争(v1)(简)[九班](JP)[SLG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Famicom Wars (Japan)",
+ "hack_group": "九班",
+ "id": "prb-famicom-b6fa2e48",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "D70C59B9",
+  "no_intro_name": "Famicom Wars (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "任天堂战争"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1"
+}

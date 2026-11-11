@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FCEA0FA9",
+   "name": "黑白棋(v1.0)(简)[九班](US)[TAB](0.31Mb).nes",
+   "size": 40976
+  }
+ ],
+ "group": "Othello (Japan) (En) (HAL Laboratory)",
+ "hack_group": "九班",
+ "id": "prb-famicom-fcea0fa9",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Othello (Japan) (En) (HAL Laboratory)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "黑白棋"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "997426A2",
+   "name": "简单DS系列Vol.42 THE废屋病房 逃出被诅咒的医院(JP)(打酱油汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Simple DS Series Vol. 42 - The Haioku Byoutou - Norowareta Byouin kara no Dasshutsu (Japan)",
+ "hack_group": "打酱油汉化组",
+ "id": "prb-nds-997426a2",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "28D5BA34",
+  "no_intro_name": "Simple DS Series Vol. 42 - The Haioku Byoutou - Norowareta Byouin kara no Dasshutsu (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "简单DS系列Vol.42 THE废屋病房 逃出被诅咒的医院"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

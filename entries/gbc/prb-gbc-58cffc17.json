@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "58CFFC17",
+   "name": "幻想传说 - 换装迷宫(繁)(未知).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Tales of Phantasia - Narikiri Dungeon (Japan) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "未知",
+ "id": "prb-gbc-58cffc17",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "725CF31C",
+  "no_intro_name": "Tales of Phantasia - Narikiri Dungeon (Japan) (SGB Enhanced) (GB Compatible)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "幻想传说 - 换装迷宫"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

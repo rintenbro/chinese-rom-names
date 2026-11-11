@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-fe4661b293a5/title.png"
+ },
+ "files": [
+  {
+   "crc32": "C25F8786",
+   "name": "最终幻想7 核心危机(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "group": "最终幻想7 核心危机",
+ "hack_group": "南晶科技",
+ "id": "cn-540ffac48115",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "最终幻想7 核心危机"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

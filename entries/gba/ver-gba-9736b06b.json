@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Sims, The",
+ "group": "Sims, The (Japan)",
+ "hack_group": "完美汉化版 Advance-012",
  "id": "ver-gba-9736b06b",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "89956199",
   "no_intro_name": "Sims, The (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "B4PJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Sims, The (Japan)",
   "zh-Hans": "模拟人生 纯属意外"
  },
- "vendor": "完美汉化版 / Advance-012",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

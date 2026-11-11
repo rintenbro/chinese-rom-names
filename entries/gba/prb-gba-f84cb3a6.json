@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F84CB3A6",
+   "name": "ZERO ONE SP[Advance汉化组](v1.1)(简)(256Mb).gba",
+   "size": 31534368
+  }
+ ],
+ "group": "Zero One SP (Japan)",
+ "hack_group": "Advance汉化组",
+ "id": "prb-gba-f84cb3a6",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "FD6CE886",
+  "no_intro_name": "Zero One SP (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "ZERO ONE SP"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

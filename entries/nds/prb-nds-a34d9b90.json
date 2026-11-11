@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A34D9B90",
+   "name": "守护甜心！兴高采烈！甜心旋律(JP)(兔友汉化组)(1024Mb).nds",
+   "size": 98336160
+  }
+ ],
+ "group": "Shugo Chara! - Nori Nori! CharanaRhythm (Japan)",
+ "hack_group": "兔友汉化组",
+ "id": "prb-nds-a34d9b90",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "AAB4207F",
+  "no_intro_name": "Shugo Chara! - Nori Nori! CharanaRhythm (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "守护甜心！兴高采烈！甜心旋律"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

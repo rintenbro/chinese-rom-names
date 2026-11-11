@@ -11,10 +11,9 @@
    "size": 2097152
   }
  ],
- "group": "Shenghuo Jiangmo Lu Waizhuan",
+ "group": "Shenghuo Jiangmo Lu Waizhuan (Taiwan)",
+ "hack_group": "",
  "id": "ver-gbc-1066ec96",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "1066EC96",
   "no_intro_name": "Shenghuo Jiangmo Lu Waizhuan (Taiwan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gbc",
  "script": "繁",
- "serial": "",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Shenghuo Jiangmo Lu Waizhuan (Taiwan)",
   "zh-Hans": "新光明与黑暗"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

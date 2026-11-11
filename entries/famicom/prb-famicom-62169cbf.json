@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "62169CBF",
+   "name": "高桥名人的冒险岛3(简)[烈火暴龙](US)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Takahashi Meijin no Bouken-jima III (Japan)",
+ "hack_group": "烈火暴龙",
+ "id": "prb-famicom-62169cbf",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "D9D35F73",
+  "no_intro_name": "Takahashi Meijin no Bouken-jima III (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "高桥名人的冒险岛3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

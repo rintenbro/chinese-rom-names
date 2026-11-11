@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2A0F130C",
+   "name": "游戏王! - 怪兽决斗EX 2[九柳](Beta) (繁)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Yu-Gi-Oh! Duel Monsters 6 Expert 2 (Japan)",
+ "hack_group": "九柳",
+ "id": "prb-gba-2a0f130c",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "A7054D60",
+  "no_intro_name": "Yu-Gi-Oh! Duel Monsters 6 Expert 2 (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "游戏王! - 怪兽决斗EX 2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

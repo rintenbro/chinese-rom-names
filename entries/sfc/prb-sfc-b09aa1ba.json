@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B09AA1BA",
+   "name": "快打旋风 (简) (v1.0)(madcell)(10Mb).sfc",
+   "size": 1310720
+  }
+ ],
+ "group": "Final Fight (Japan)",
+ "hack_group": "madcell",
+ "id": "prb-sfc-b09aa1ba",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Final Fight (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "快打旋风"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0F70394A",
+   "name": "忍者龙剑传 (v1.1)(简)(DMG汉化组)(1Mb).gb",
+   "size": 131072
+  }
+ ],
+ "group": "Ninja Gaiden Shadow (USA)",
+ "hack_group": "DMG汉化组",
+ "id": "prb-gb-0f70394a",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "D3741A3A",
+  "no_intro_name": "Ninja Gaiden Shadow (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "忍者龙剑传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

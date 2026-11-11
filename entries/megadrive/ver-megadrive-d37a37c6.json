@@ -1,0 +1,33 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D37A37C6",
+   "name": "太空战士 - 魔法战士 (繁) (川普科技)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Taikong Zhanshi - Mofa Zhanshi (Barver Battle Saga) (Taiwan)",
+ "hack_group": "",
+ "id": "ver-megadrive-d37a37c6",
+ "original": {
+  "crc32": "D37A37C6",
+  "no_intro_name": "Taikong Zhanshi - Mofa Zhanshi (Barver Battle Saga) (Taiwan)",
+  "region": "Taiwan",
+  "size": 2097152
+ },
+ "platform": "megadrive",
+ "script": "繁",
+ "source": "no-intro",
+ "status": "verified",
+ "titles": {
+  "zh-Hans": "太空战士 - 魔法战士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

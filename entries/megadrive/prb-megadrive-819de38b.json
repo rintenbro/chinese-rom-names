@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "819DE38B",
+   "name": "天下统一 - 乱世的霸者 (繁) (cslrxyz)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Ransei no Hasha (Japan)",
+ "hack_group": "cslrxyz",
+ "id": "prb-megadrive-819de38b",
+ "platform": "megadrive",
+ "probable_original": {
+  "crc32": "A9A0083D",
+  "no_intro_name": "Ransei no Hasha (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "天下统一 - 乱世的霸者"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

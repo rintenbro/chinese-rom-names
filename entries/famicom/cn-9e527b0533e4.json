@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-1216e2025e59/title.png"
+ },
+ "files": [
+  {
+   "crc32": "45F46911",
+   "name": "二战 经典战役(简)[恒格电子](JP)[SLG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "二战 经典战役",
+ "hack_group": "恒格电子",
+ "id": "cn-9e527b0533e4",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "二战 经典战役"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

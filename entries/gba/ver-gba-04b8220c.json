@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Shinyaku Seiken Densetsu",
+ "group": "Shinyaku Seiken Densetsu (Japan)",
+ "hack_group": "勇者汉化组&狼组&天使汉化组",
  "id": "ver-gba-04b8220c",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "31B220E5",
   "no_intro_name": "Shinyaku Seiken Densetsu (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AVSJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Shinyaku Seiken Densetsu (Japan)",
   "zh-Hans": "新约圣剑传说"
  },
- "vendor": "勇者汉化组&狼组&天使汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

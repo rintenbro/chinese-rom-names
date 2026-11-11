@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E24F5E78",
+   "name": "忍者特训(简)[金明](JP)[ACT](0.18Mb).nes",
+   "size": 24592
+  }
+ ],
+ "group": "Circus Charlie (Japan) (En)",
+ "hack_group": "金明",
+ "id": "prb-famicom-e24f5e78",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Circus Charlie (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "忍者特训"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

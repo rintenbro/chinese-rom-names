@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Miteluode - Lingdian Renwu",
+ "group": "Miteluode - Lingdian Renwu (China)",
+ "hack_group": "神游",
  "id": "ver-gba-e951865c",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "E951865C",
   "no_intro_name": "Miteluode - Lingdian Renwu (China)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BMXC",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Miteluode - Lingdian Renwu (China)",
   "zh-Hans": "神游之密特罗德 - 零点任务"
  },
- "vendor": "神游",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

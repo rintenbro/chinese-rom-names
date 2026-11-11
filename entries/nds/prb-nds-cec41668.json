@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CEC41668",
+   "name": "右脑达人 爽解！找茬博物馆(繁)(JP)(Goldeneye)(256Mb).nds",
+   "size": 28103500
+  }
+ ],
+ "group": "Unou no Tatsujin - Soukai! Machigai Museum (Japan)",
+ "hack_group": "Goldeneye",
+ "id": "prb-nds-cec41668",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "9DEE267E",
+  "no_intro_name": "Unou no Tatsujin - Soukai! Machigai Museum (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "右脑达人 爽解！找茬博物馆"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

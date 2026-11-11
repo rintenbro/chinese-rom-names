@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F3B7DA9E",
+   "name": "冒险王比特 猎人之路[Advance汉化组](v1.1)(简)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Bouken-ou Beet - Busters Road (Japan)",
+ "hack_group": "Advance汉化组",
+ "id": "prb-gba-f3b7da9e",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "1CC42EBC",
+  "no_intro_name": "Bouken-ou Beet - Busters Road (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "冒险王比特 猎人之路"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

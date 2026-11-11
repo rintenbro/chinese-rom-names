@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5FAA8DE7",
+   "name": "风来的西林2：沙漠魔城(JP)(ACG汉化组)(256Mb).nds",
+   "size": 33153880
+  }
+ ],
+ "group": "Fushigi no Dungeon - Fuurai no Shiren DS 2 - Sabaku no Majou (Japan)",
+ "hack_group": "ACG汉化组",
+ "id": "prb-nds-5faa8de7",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "660857F1",
+  "no_intro_name": "Fushigi no Dungeon - Fuurai no Shiren DS 2 - Sabaku no Majou (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "风来的西林2：沙漠魔城"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

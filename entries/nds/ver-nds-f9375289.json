@@ -11,10 +11,9 @@
    "size": 128879424
   }
  ],
- "group": "Soma Bringer",
+ "group": "Soma Bringer (Japan)",
+ "hack_group": "巴士汉化组",
  "id": "ver-nds-f9375289",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "E5907146",
   "no_intro_name": "Soma Bringer (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "YBSJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Soma Bringer (Japan)",
   "zh-Hans": "灵光守护者 V3"
  },
- "vendor": "巴士汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

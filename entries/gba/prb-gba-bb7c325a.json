@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BB7C325A",
+   "name": "瓦力欧制造 - 迷你游戏大合集![Baicj](简)(US)(65.5Mb).gba",
+   "size": 8585216
+  }
+ ],
+ "group": "WarioWare, Inc. - Mega Microgame$! (USA)",
+ "hack_group": "Baicj",
+ "id": "prb-gba-bb7c325a",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "785D8B8C",
+  "no_intro_name": "WarioWare, Inc. - Mega Microgame$! (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "瓦力欧制造 - 迷你游戏大合集!"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

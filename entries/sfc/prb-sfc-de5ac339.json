@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DE5AC339",
+   "name": "伊迪亚之日(简)(AI汉化大字版)(美希命+飞雨影)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Idea no Hi (Japan)",
+ "hack_group": "美希命+飞雨影",
+ "id": "prb-sfc-de5ac339",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "2796523E",
+  "no_intro_name": "Idea no Hi (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "伊迪亚之日"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

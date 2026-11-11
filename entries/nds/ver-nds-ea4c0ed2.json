@@ -11,10 +11,9 @@
    "size": 33554432
   }
  ],
- "group": "Theme Park",
+ "group": "Theme Park (USA) (En,Ja,Fr,De,Es,It)",
+ "hack_group": "YYJoy汉化组",
  "id": "ver-nds-ea4c0ed2",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "6C26EFAE",
   "no_intro_name": "Theme Park (USA) (En,Ja,Fr,De,Es,It)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "A8QE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Theme Park (USA) (En,Ja,Fr,De,Es,It)",
   "zh-Hans": "主题公园"
  },
- "vendor": "YYJoy汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

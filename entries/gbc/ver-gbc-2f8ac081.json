@@ -11,10 +11,9 @@
    "size": 2097152
   }
  ],
- "group": "Capcom Fight 2003",
+ "group": "Capcom Fight 2003 (Hong Kong) (En)",
+ "hack_group": "",
  "id": "ver-gbc-2f8ac081",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "2F8AC081",
   "no_intro_name": "Capcom Fight 2003 (Hong Kong) (En)",
@@ -23,12 +22,12 @@
  },
  "platform": "gbc",
  "script": "简",
- "serial": "",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Capcom Fight 2003 (Hong Kong) (En)",
   "zh-Hans": "格斗天王2003"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

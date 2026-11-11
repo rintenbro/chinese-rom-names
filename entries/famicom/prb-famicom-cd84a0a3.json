@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CD84A0A3",
+   "name": "忍者神龟 激烈格斗(v20230622)(简)[NOKOH+fciq](US)[FTG](2.25Mb).nes",
+   "size": 294928
+  }
+ ],
+ "group": "Teenage Mutant Ninja Turtles - Tournament Fighters (USA)",
+ "hack_group": "NOKOH+fciq",
+ "id": "prb-famicom-cd84a0a3",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Teenage Mutant Ninja Turtles - Tournament Fighters (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "忍者神龟 激烈格斗"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20230622"
+}

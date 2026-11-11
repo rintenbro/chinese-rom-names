@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "31A0AA70",
+   "name": "细胞分裂2明日潘多拉[gpnux](宋体版)(简)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Tom Clancy's Splinter Cell - Pandora Tomorrow (USA) (En,Fr,Es)",
+ "hack_group": "gpnux",
+ "id": "prb-gba-31a0aa70",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "AEFB7B54",
+  "no_intro_name": "Tom Clancy's Splinter Cell - Pandora Tomorrow (USA) (En,Fr,Es)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "细胞分裂2明日潘多拉"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

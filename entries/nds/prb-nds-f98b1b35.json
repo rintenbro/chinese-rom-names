@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F98B1B35",
+   "name": "铁臂阿童木 菜单汉化版(US)(Kulabbc)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Astro Boy - The Video Game (USA) (En,Fr,De,Es,It)",
+ "hack_group": "Kulabbc",
+ "id": "prb-nds-f98b1b35",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "6AB7327F",
+  "no_intro_name": "Astro Boy - The Video Game (USA) (En,Fr,De,Es,It)",
+  "region": "USA"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "铁臂阿童木 菜单汉化版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

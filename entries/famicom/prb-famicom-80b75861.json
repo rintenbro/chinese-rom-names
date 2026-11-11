@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "80B75861",
+   "name": "宇宙巡航机(日版)(简)[卡通](JP)[STG](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Gradius (Japan)",
+ "hack_group": "卡通",
+ "id": "prb-famicom-80b75861",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "B913DC9E",
+  "no_intro_name": "Gradius (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "宇宙巡航机"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

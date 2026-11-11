@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "84EBE59D",
+   "name": "终结之弹(JP)(ACG&小黑屋汉化组)(1024Mb).nds",
+   "size": 92853660
+  }
+ ],
+ "group": "Last Bullet (Japan)",
+ "hack_group": "ACG&小黑屋汉化组",
+ "id": "prb-nds-84ebe59d",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "F9A87CAA",
+  "no_intro_name": "Last Bullet (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "终结之弹"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

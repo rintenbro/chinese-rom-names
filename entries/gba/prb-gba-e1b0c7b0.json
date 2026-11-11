@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E1B0C7B0",
+   "name": "哈利波特 - 消失的密室[施珂昱](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Harry Potter to Himitsu no Heya (Japan)",
+ "hack_group": "施珂昱",
+ "id": "prb-gba-e1b0c7b0",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "B485DABF",
+  "no_intro_name": "Harry Potter to Himitsu no Heya (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "哈利波特 - 消失的密室"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

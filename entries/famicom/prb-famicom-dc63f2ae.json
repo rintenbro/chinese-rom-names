@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DC63F2AE",
+   "name": "SD英雄总决战 打倒！恶之军团(简)[Zero Boy](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "SD Hero Soukessen - Taose! Aku no Gundan (Japan)",
+ "hack_group": "Zero Boy",
+ "id": "prb-famicom-dc63f2ae",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "60550575",
+  "no_intro_name": "SD Hero Soukessen - Taose! Aku no Gundan (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "SD英雄总决战 打倒！恶之军团"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

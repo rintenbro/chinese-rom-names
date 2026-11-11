@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "382F65CC",
+   "name": "时空之轮(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "group": "Chrono Trigger - Shikong Zhi Lun (China) (Pirate)",
+ "hack_group": "南晶科技",
+ "id": "prb-famicom-382f65cc",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "0CD5B4B6",
+  "no_intro_name": "Chrono Trigger - Shikong Zhi Lun (China) (Pirate)",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "时空之轮"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

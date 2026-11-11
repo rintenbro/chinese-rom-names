@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2A6533ED",
+   "name": "007 血石 简体汉化+中文配音(fciq汉化配音小组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "007 - Blood Stone (USA)",
+ "hack_group": "",
+ "id": "prb-nds-2a6533ed",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "8AA9E6C7",
+  "no_intro_name": "007 - Blood Stone (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "血石"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

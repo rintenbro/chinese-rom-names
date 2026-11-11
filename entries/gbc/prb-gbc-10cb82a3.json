@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-acaa385222b2/title.png"
+ },
+ "files": [
+  {
+   "crc32": "10CB82A3",
+   "name": "圣兽物语 - 神龙传说 (繁) (广誉科技).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Sheng Shou Wu Yu - Shen Long Chuan Shuo (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-gbc-10cb82a3",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Sheng Shou Wu Yu - Shen Long Chuan Shuo (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "圣兽物语 - 神龙传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

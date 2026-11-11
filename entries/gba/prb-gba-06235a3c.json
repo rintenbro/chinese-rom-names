@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "06235A3C",
+   "name": "侏罗纪公园研究所之旅 恐龙救援[Advance汉化组](v1.0)(简)(48Mb).gba",
+   "size": 5319968
+  }
+ ],
+ "group": "Jurassic Park Institute Tour - Dinosaur Rescue (Japan)",
+ "hack_group": "Advance汉化组",
+ "id": "prb-gba-06235a3c",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "7C75555E",
+  "no_intro_name": "Jurassic Park Institute Tour - Dinosaur Rescue (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "侏罗纪公园研究所之旅 恐龙救援"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

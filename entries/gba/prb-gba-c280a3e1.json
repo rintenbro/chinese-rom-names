@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C280A3E1",
+   "name": "人型电脑天使心GBA - 只属于我的人[PGCG](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Chobits for Game Boy Advance - Atashi Dake no Hito (Japan)",
+ "hack_group": "",
+ "id": "prb-gba-c280a3e1",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "DDC4B118",
+  "no_intro_name": "Chobits for Game Boy Advance - Atashi Dake no Hito (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "人型电脑天使心GBA - 只属于我的人"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

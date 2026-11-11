@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Erementar Gerad - Tozasareshi Uta",
+ "group": "Erementar Gerad - Tozasareshi Uta (Japan)",
+ "hack_group": "Advance汉化组",
  "id": "ver-gba-d0119518",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "8C1AFCA4",
   "no_intro_name": "Erementar Gerad - Tozasareshi Uta (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BEJJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Erementar Gerad - Tozasareshi Uta (Japan)",
   "zh-Hans": "武器种族传说 被封印的诗歌"
  },
- "vendor": "Advance汉化组",
+ "type": "game",
+ "vendor": "",
  "version": "v1.2"
 }

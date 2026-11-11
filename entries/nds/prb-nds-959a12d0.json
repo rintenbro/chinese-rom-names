@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "959A12D0",
+   "name": "第七龙神(七龙战记) 完整汉化版(JP)(Advance汉化组)(1024Mb).nds",
+   "size": 126361904
+  }
+ ],
+ "group": "7th Dragon (Japan)",
+ "hack_group": "Advance汉化组",
+ "id": "prb-nds-959a12d0",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "D888FF05",
+  "no_intro_name": "7th Dragon (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "第七龙神 完整汉化版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

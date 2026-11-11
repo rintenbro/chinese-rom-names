@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "48D744D8",
+   "name": "名侦探柯南 疑惑的豪华列车(简)(AI汉化大字版v1.0.4)(哇你是谁怎么傻乎乎)(8Mb).gb",
+   "size": 1048576
+  }
+ ],
+ "group": "Meitantei Conan - Giwaku no Gouka Ressha (Japan) (SGB Enhanced)",
+ "hack_group": "",
+ "id": "prb-gb-48d744d8",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "1DC5C31A",
+  "no_intro_name": "Meitantei Conan - Giwaku no Gouka Ressha (Japan) (SGB Enhanced)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "名侦探柯南 疑惑的豪华列车"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0.4"
+}

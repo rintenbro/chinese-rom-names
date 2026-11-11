@@ -1,0 +1,33 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "08652F5A",
+   "name": "无名传说(简)[外星科技](JP)[SLG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Wuming Chuanshuo (China) (Hengge) (Pirate)",
+ "hack_group": "外星科技",
+ "id": "ver-famicom-08652f5a",
+ "original": {
+  "crc32": "08652F5A",
+  "no_intro_name": "Wuming Chuanshuo (China) (Hengge) (Pirate)",
+  "region": "China",
+  "size": 262160
+ },
+ "platform": "famicom",
+ "script": "简",
+ "source": "no-intro",
+ "status": "verified",
+ "titles": {
+  "zh-Hans": "无名传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

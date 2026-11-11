@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-69aefc3c6886/title.png"
+ },
+ "files": [
+  {
+   "crc32": "C0BBEF37",
+   "name": "启智屋A(简)[小霸王](CN)[PUZ](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "启智屋A",
+ "hack_group": "小霸王",
+ "id": "cn-1f148adb1b55",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "启智屋A"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

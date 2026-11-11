@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "30CE0DDB",
+   "name": "007 黄金眼 大字体汉化v2+中文配音(fciq汉化配音小组)(512Mb).nds",
+   "size": 65569340
+  }
+ ],
+ "group": "GoldenEye 007 (USA)",
+ "hack_group": "",
+ "id": "prb-nds-30ce0ddb",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "7FE89DD0",
+  "no_intro_name": "GoldenEye 007 (USA)",
+  "region": "USA"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "黄金眼 大字体汉化v2+中文配音"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

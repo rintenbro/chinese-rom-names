@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "79B3ADFA",
+   "name": "枕美梦想 - 吟游默示录[CGP](v1.02)(简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Tanbi Musou - Meine Liebe (Japan)",
+ "hack_group": "",
+ "id": "prb-gba-79b3adfa",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "2785CB89",
+  "no_intro_name": "Tanbi Musou - Meine Liebe (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "枕美梦想 - 吟游默示录"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.02"
+}

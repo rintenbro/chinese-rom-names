@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Keitai Denjuu Telefang 2 - Power",
+ "group": "Keitai Denjuu Telefang 2 - Power (Japan)",
+ "hack_group": "盗版&Gymzatan",
  "id": "ver-gba-8f4c3f33",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "44DB280E",
   "no_intro_name": "Keitai Denjuu Telefang 2 - Power (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "ATPJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Keitai Denjuu Telefang 2 - Power (Japan)",
   "zh-Hans": "携带电兽2 - 力量版"
  },
- "vendor": "盗版&Gymzatan",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

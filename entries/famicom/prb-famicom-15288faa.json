@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "15288FAA",
+   "name": "迷宫组曲(v20241202)(繁)[NOKOH](JP)[ACT](1.5Mb).nes",
+   "size": 196624
+  }
+ ],
+ "group": "Milon's Secret Castle (USA)",
+ "hack_group": "NOKOH",
+ "id": "prb-famicom-15288faa",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "39961E36",
+  "no_intro_name": "Milon's Secret Castle (USA)",
+  "region": "USA"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "迷宫组曲"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20241202"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8B8EAA92",
+   "name": "逆境无赖开司 死中求生 全文本测试版(JP)(NDS吧)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Gyakkyou Burai Kaiji - Death or Survival (Japan)",
+ "hack_group": "",
+ "id": "prb-nds-8b8eaa92",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "5A7AE748",
+  "no_intro_name": "Gyakkyou Burai Kaiji - Death or Survival (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "逆境无赖开司 死中求生 全文本测试版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

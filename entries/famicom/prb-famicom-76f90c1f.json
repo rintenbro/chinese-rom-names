@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "76F90C1F",
+   "name": "F1赛车(简)[Madcell](JP)[RAC](0.25Mb).nes",
+   "size": 32784
+  }
+ ],
+ "group": "F1 Race (Japan) (En)",
+ "hack_group": "Madcell",
+ "id": "prb-famicom-76f90c1f",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "CE272FEF",
+  "no_intro_name": "F1 Race (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "F1赛车"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

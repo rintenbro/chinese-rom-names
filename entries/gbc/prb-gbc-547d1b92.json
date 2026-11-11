@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "547D1B92",
+   "name": "瓦里奥世界3 不可思议的八音盒 (v1.1)(简)(Mezaransu)(8Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Wario Land 3 (World) (En,Ja)",
+ "hack_group": "Mezaransu",
+ "id": "prb-gbc-547d1b92",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "480D0259",
+  "no_intro_name": "Wario Land 3 (World) (En,Ja)",
+  "region": "World"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "瓦里奥世界3 不可思议的八音盒"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "EA568B40",
+   "name": "隐忍传说 ONI2(v1.0)(简)(RangerMarsh)(4Mb).gb",
+   "size": 524288
+  }
+ ],
+ "group": "Oni II - Oni Densetsu (Japan)",
+ "hack_group": "RangerMarsh",
+ "id": "prb-gb-ea568b40",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Oni II - Oni Densetsu (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "隐忍传说 ONI2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

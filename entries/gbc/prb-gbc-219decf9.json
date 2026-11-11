@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-0968da4fd264/title.png"
+ },
+ "files": [
+  {
+   "crc32": "219DECF9",
+   "name": "饿狼 (繁) (unknown).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Mark of the Wolves (China) [CHT]",
+ "hack_group": "unknown",
+ "id": "prb-gbc-219decf9",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Mark of the Wolves (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "饿狼"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "410EE6F3",
+   "name": "万能先生的泡妞白天生活(JP)(星组)(256Mb).nds",
+   "size": 33504808
+  }
+ ],
+ "group": "Dekiru Otoko no Mote Life - Hiru no Mote Kouza Hen (Japan)",
+ "hack_group": "",
+ "id": "prb-nds-410ee6f3",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "BC35E6DA",
+  "no_intro_name": "Dekiru Otoko no Mote Life - Hiru no Mote Kouza Hen (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "万能先生的泡妞白天生活"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

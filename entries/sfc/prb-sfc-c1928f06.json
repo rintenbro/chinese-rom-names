@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C1928F06",
+   "name": "洛克人7 宿命的对决(简)(v3)(iused)(24Mb).sfc",
+   "size": 3145728
+  }
+ ],
+ "group": "Rockman 7 - Shukumei no Taiketsu! (Japan)",
+ "hack_group": "iused",
+ "id": "prb-sfc-c1928f06",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "31F18DDA",
+  "no_intro_name": "Rockman 7 - Shukumei no Taiketsu! (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "洛克人7 宿命的对决"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v3"
+}

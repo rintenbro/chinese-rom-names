@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D07EF6B4",
+   "name": "重装机兵(简)[恒格电子](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "Metal Max (Japan)",
+ "hack_group": "恒格电子",
+ "id": "prb-famicom-d07ef6b4",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "6D1E1743",
+  "no_intro_name": "Metal Max (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "重装机兵"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

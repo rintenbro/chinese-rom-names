@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4DBA1702",
+   "name": "魔界村外传 纹章篇(繁)(v1.0)(agugu2000)(24Mb).sfc",
+   "size": 3145728
+  }
+ ],
+ "group": "Demon's Blazon - Makaimura Monshou Hen (Japan)",
+ "hack_group": "agugu2000",
+ "id": "prb-sfc-4dba1702",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Demon's Blazon - Makaimura Monshou Hen (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "魔界村外传 纹章篇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

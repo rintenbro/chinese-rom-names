@@ -11,10 +11,9 @@
    "size": 19030368
   }
  ],
- "group": "Fire Emblem - Rekka no Ken",
+ "group": "Fire Emblem - Rekka no Ken (Japan)",
+ "hack_group": "",
  "id": "ver-gba-042c159c",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "F0C10E72",
   "no_intro_name": "Fire Emblem - Rekka no Ken (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AE7J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Fire Emblem - Rekka no Ken (Japan)",
   "zh-Hans": "火焰纹章 - 烈火之剑"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

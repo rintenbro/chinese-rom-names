@@ -39,3 +39,13 @@ REVIEWS.md                      尚未定论的争议条目（不入库）
 ## 许可
 
 数据部分 [CC BY 4.0](LICENSE)。素材版权归各自权利人，见 [NOTICE.md](NOTICE.md)。
+
+## 条目状态（status）
+
+| 状态 | 含义 | 应用行为 |
+|---|---|---|
+| `verified` | 原版对照由 CRC 或游戏卡带码硬命中（`match: "crc" / "game_code"`） | 可直接采用 `original` |
+| `probable` | 由名称、容量、题头等间接证据判定，未经硬命中 | 仅在「修正游戏匹配」窗口作为推荐候选，不自动套用；原版写在 `probable_original` |
+| `self` | No-Intro 未收录的中文原创 / 改版 / 合卡 / 工具卡 | 只用于显示名字层信息，无原版对照 |
+
+名字层字段（`titles.zh-Hans`、`vendor`、`hack_group`、`type`、`script`、`version`）描述的是文件本身，`verified` / `probable` / `self` 条目都会提供；原版层只有 `verified` 的 `original` 与 `probable` 的 `probable_original`。

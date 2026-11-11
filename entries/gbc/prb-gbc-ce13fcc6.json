@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CE13FCC6",
+   "name": "口袋妖怪 - 水晶 (v20170405 8x16字库测试) (简) (修正版) (sss888)(JP)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Pocket Monsters - Crystal Version (Japan)",
+ "hack_group": "sss888",
+ "id": "prb-gbc-ce13fcc6",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "270C4ECC",
+  "no_intro_name": "Pocket Monsters - Crystal Version (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪 - 水晶"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v201704058x"
+}

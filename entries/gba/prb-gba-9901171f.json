@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9901171F",
+   "name": "索尼克Advance 2[PGCG](简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Sonic Advance 2 (Japan) (En,Ja,Fr,De,Es,It)",
+ "hack_group": "",
+ "id": "prb-gba-9901171f",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "513804FF",
+  "no_intro_name": "Sonic Advance 2 (Japan) (En,Ja,Fr,De,Es,It)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "索尼克Advance 2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

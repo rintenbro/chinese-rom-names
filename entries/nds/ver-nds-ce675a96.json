@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Space Invaders Extreme 2",
+ "group": "Space Invaders Extreme 2 (Japan)",
+ "hack_group": "ACG汉化组",
  "id": "ver-nds-ce675a96",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "0ABB2A6F",
   "no_intro_name": "Space Invaders Extreme 2 (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "CV8J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Space Invaders Extreme 2 (Japan)",
   "zh-Hans": "太空侵略者EX2"
  },
- "vendor": "ACG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

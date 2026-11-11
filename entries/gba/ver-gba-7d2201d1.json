@@ -11,10 +11,9 @@
    "size": 6291456
   }
  ],
- "group": "Naruto - Konoha Senki",
+ "group": "Naruto - Konoha Senki (Japan)",
+ "hack_group": "熊组",
  "id": "ver-gba-7d2201d1",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "11829AFA",
   "no_intro_name": "Naruto - Konoha Senki (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AUEJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Naruto - Konoha Senki (Japan)",
   "zh-Hans": "火影忍者 - 木叶战记"
  },
- "vendor": "熊组",
+ "type": "game",
+ "vendor": "",
  "version": "v1.3"
 }

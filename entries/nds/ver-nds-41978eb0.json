@@ -11,10 +11,9 @@
    "size": 30505920
   }
  ],
- "group": "Inugamike no Ichizoku",
+ "group": "Inugamike no Ichizoku (Japan)",
+ "hack_group": "ACG汉化组",
  "id": "ver-nds-41978eb0",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "D467C061",
   "no_intro_name": "Inugamike no Ichizoku (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "CKYJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Inugamike no Ichizoku (Japan)",
   "zh-Hans": "犬神家一族"
  },
- "vendor": "ACG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

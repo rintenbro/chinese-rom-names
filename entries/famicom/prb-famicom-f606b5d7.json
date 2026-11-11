@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F606B5D7",
+   "name": "超级冲刺赛(日版)(大字体)(简)[高伟](JP)[RAC](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Super Sprint (Japan) (En)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-f606b5d7",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "05310638",
+  "no_intro_name": "Super Sprint (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级冲刺赛"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

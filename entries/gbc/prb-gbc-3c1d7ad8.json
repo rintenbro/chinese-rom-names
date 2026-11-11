@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3C1D7AD8",
+   "name": "数码暴龙 - 口袋版 (繁) (广誉科技).gbc",
+   "size": 524288
+  }
+ ],
+ "group": "Digimon Pocket (Taiwan) (Zh)",
+ "hack_group": "",
+ "id": "prb-gbc-3c1d7ad8",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Digimon Pocket (Taiwan) (Zh)",
+  "region": "Taiwan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "数码暴龙 - 口袋版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

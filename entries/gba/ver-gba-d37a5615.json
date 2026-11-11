@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Medarot G - Kuwagata",
+ "group": "Medarot G - Kuwagata (Japan)",
+ "hack_group": "Advance汉化组",
  "id": "ver-gba-d37a5615",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "14E3EBCC",
   "no_intro_name": "Medarot G - Kuwagata (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AGIJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Medarot G - Kuwagata (Japan)",
   "zh-Hans": "徽章战士G 锹甲版"
  },
- "vendor": "Advance汉化组",
+ "type": "game",
+ "vendor": "",
  "version": "v1.0"
 }

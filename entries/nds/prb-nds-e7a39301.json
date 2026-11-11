@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E7A39301",
+   "name": "流星洛克人2 恐龙 完全汉化版v2(简)(电波人研究中心汉化组)(192Mb).nds",
+   "size": 25166920
+  }
+ ],
+ "group": "Ryuusei no Rockman 2 - Berserk x Dinosaur (Japan)",
+ "hack_group": "电波人研究中心汉化组",
+ "id": "prb-nds-e7a39301",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "FD8B438E",
+  "no_intro_name": "Ryuusei no Rockman 2 - Berserk x Dinosaur (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "流星洛克人2 恐龙 完全汉化版v2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

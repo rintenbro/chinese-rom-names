@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "EE8141BB",
+   "name": "梦之勇士(v2)(简)[中伟](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Pajama Hero - Nemo (Japan)",
+ "hack_group": "中伟",
+ "id": "prb-famicom-ee8141bb",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Pajama Hero - Nemo (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "梦之勇士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v2"
+}

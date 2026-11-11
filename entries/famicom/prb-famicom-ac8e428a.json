@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AC8E428A",
+   "name": "兽王记(大字体)(简)[高伟](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Juuouki (Japan) (En)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-ac8e428a",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "DCCB28BC",
+  "no_intro_name": "Juuouki (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "兽王记"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

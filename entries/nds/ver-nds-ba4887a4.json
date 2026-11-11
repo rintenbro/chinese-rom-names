@@ -11,10 +11,9 @@
    "size": 268435456
   }
  ],
- "group": "Sangokushi Taisen Ten",
+ "group": "Sangokushi Taisen Ten (Japan)",
+ "hack_group": "",
  "id": "ver-nds-ba4887a4",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "138B9883",
   "no_intro_name": "Sangokushi Taisen Ten (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "CNTJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Sangokushi Taisen Ten (Japan)",
   "zh-Hans": "三国志大战 天 fix11"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

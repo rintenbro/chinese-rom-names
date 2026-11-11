@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9AAEDD8D",
+   "name": "阿尔戈斯战士(修正版)(简)[孔雀天+MS](JP)[ACT](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Argos no Senshi (Japan) (FamicomBox)",
+ "hack_group": "孔雀天+MS",
+ "id": "prb-famicom-9aaedd8d",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Argos no Senshi (Japan) (FamicomBox)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "阿尔戈斯战士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

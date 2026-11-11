@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7C9BF014",
+   "name": "超级机器人大战A[WGF](v1.1) (修正)(简)(JP)(65Mb).gba",
+   "size": 8520332
+  }
+ ],
+ "group": "Super Robot Taisen A (Japan)",
+ "hack_group": "",
+ "id": "prb-gba-7c9bf014",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Super Robot Taisen A (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级机器人大战A"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

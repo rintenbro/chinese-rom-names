@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5623D52C",
+   "name": "杀戮战场(简)[高伟](JP)[STG](0.18Mb).nes",
+   "size": 24592
+  }
+ ],
+ "group": "Field Combat (Japan) (En)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-5623d52c",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "DC83D672",
+  "no_intro_name": "Field Combat (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "杀戮战场"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

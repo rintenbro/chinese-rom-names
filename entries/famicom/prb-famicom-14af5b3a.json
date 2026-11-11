@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "14AF5B3A",
+   "name": "三国春秋 四川省(繁)[卡圣](CN)[TAB](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Sanguo Chunqiu - Sichuan Sheng (Asia) (Pirate)",
+ "hack_group": "卡圣",
+ "id": "prb-famicom-14af5b3a",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "306E1FC9",
+  "no_intro_name": "Sanguo Chunqiu - Sichuan Sheng (Asia) (Pirate)",
+  "region": "Asia"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "三国春秋 四川省"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

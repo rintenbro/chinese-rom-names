@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E822BCCC",
+   "name": "大剑 银眼的魔女(JP)(CG汉化组)(1024Mb).nds",
+   "size": 87020040
+  }
+ ],
+ "group": "Claymore - Gingan no Majo (Japan)",
+ "hack_group": "CG汉化组",
+ "id": "prb-nds-e822bccc",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "2C697197",
+  "no_intro_name": "Claymore - Gingan no Majo (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "大剑 银眼的魔女"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

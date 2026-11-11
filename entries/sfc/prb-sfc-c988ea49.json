@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C988EA49",
+   "name": "晦 月笼(简)(美希命)(64Mb).sfc",
+   "size": 8388608
+  }
+ ],
+ "group": "Tsukikomori (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-c988ea49",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Tsukikomori (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "晦 月笼"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

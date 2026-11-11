@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E82CF455",
+   "name": "空战神鹰II[PGCG](简)(JP)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "AirForce Delta II (Japan) (En,Ja,Fr,De)",
+ "hack_group": "",
+ "id": "prb-gba-e82cf455",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "58A972DF",
+  "no_intro_name": "AirForce Delta II (Japan) (En,Ja,Fr,De)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "空战神鹰II"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

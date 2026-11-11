@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6D8E226C",
+   "name": "洛克人5 布鲁斯的圈套(修正版)(简)[中伟+HK](JP)[ACT](8Mb).nes",
+   "size": 1048608
+  }
+ ],
+ "group": "Rockman 5 - Blues no Wana! (Japan)",
+ "hack_group": "中伟+HK",
+ "id": "prb-famicom-6d8e226c",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Rockman 5 - Blues no Wana! (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "洛克人5 布鲁斯的圈套"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

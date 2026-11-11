@@ -11,10 +11,9 @@
    "size": 33554432
   }
  ],
- "group": "Leiman IV - Guangming Zhi Lv",
+ "group": "Leiman IV - Guangming Zhi Lv (Taiwan)",
+ "hack_group": "D商",
  "id": "ver-gba-d05c8414",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "D05C8414",
   "no_intro_name": "Leiman IV - Guangming Zhi Lv (Taiwan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "未标注",
- "serial": "",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Leiman IV - Guangming Zhi Lv (Taiwan)",
   "zh-Hans": "雷曼4 光明之旅"
  },
- "vendor": "D商",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

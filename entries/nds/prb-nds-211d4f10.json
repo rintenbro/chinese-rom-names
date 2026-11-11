@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "211D4F10",
+   "name": "雷缪奥尔的炼金术师(JP)(扑家汉化组)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Lemyuoul no Renkinjutsushi (Japan)",
+ "hack_group": "扑家汉化组",
+ "id": "prb-nds-211d4f10",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "B69A44F4",
+  "no_intro_name": "Lemyuoul no Renkinjutsushi (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "雷缪奥尔的炼金术师"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

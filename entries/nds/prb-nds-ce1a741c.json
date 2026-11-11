@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CE1A741C",
+   "name": "风来的西林4 神之眼与恶魔的肚脐 1.2(JP)(ACG汉化组)(512Mb).nds",
+   "size": 63056056
+  }
+ ],
+ "group": "Fushigi no Dungeon - Fuurai no Shiren 4 - Kami no Hitomi to Akuma no Heso (Japan)",
+ "hack_group": "ACG汉化组",
+ "id": "prb-nds-ce1a741c",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "10FC13DD",
+  "no_intro_name": "Fushigi no Dungeon - Fuurai no Shiren 4 - Kami no Hitomi to Akuma no Heso (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "风来的西林4 神之眼与恶魔的肚脐 1.2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DFD0BC52",
+   "name": "火影忍者 - 忍术全开!最强忍者大集合[漫游](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Naruto - Ninjutsu Zenkai! Saikyou Ninja Daikesshuu (Japan)",
+ "hack_group": "漫游",
+ "id": "prb-gba-dfd0bc52",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "E15875FC",
+  "no_intro_name": "Naruto - Ninjutsu Zenkai! Saikyou Ninja Daikesshuu (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "火影忍者 - 忍术全开!最强忍者大集合"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

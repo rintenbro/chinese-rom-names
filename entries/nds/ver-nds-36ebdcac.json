@@ -11,10 +11,9 @@
    "size": 41430568
   }
  ],
- "group": "Dungeon Maker - Mahou no Shovel to Chiisana Yuusha",
+ "group": "Dungeon Maker - Mahou no Shovel to Chiisana Yuusha (Japan)",
+ "hack_group": "巴士汉化组",
  "id": "ver-nds-36ebdcac",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "45E4E96E",
   "no_intro_name": "Dungeon Maker - Mahou no Shovel to Chiisana Yuusha (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "YLDJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Dungeon Maker - Mahou no Shovel to Chiisana Yuusha (Japan)",
   "zh-Hans": "迷宫制造者 魔法铲和小勇者"
  },
- "vendor": "巴士汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

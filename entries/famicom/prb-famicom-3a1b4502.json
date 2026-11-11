@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3A1B4502",
+   "name": "塞尔达传说 三神之力(简)[外星科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "group": "Legend of Zelda, The (USA)",
+ "hack_group": "外星科技",
+ "id": "prb-famicom-3a1b4502",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "316CFF69",
+  "no_intro_name": "Legend of Zelda, The (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "塞尔达传说 三神之力"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

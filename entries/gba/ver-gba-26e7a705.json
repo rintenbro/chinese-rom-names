@@ -11,10 +11,9 @@
    "size": 8400392
   }
  ],
- "group": "Dancing Sword - Senkou",
+ "group": "Dancing Sword - Senkou (Japan)",
+ "hack_group": "",
  "id": "ver-gba-26e7a705",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "E2316D47",
   "no_intro_name": "Dancing Sword - Senkou (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "A9SJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Dancing Sword - Senkou (Japan)",
   "zh-Hans": "舞之刃 - 闪光"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

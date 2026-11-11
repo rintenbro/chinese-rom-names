@@ -11,10 +11,9 @@
    "size": 1048576
   }
  ],
- "group": "Luke Yingxiong Z",
+ "group": "Luke Yingxiong Z (Taiwan)",
+ "hack_group": "",
  "id": "ver-gbc-8ced0c21",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "8CED0C21",
   "no_intro_name": "Luke Yingxiong Z (Taiwan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gbc",
  "script": "繁",
- "serial": "",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Luke Yingxiong Z (Taiwan)",
   "zh-Hans": "路克英雄Z"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Soul Eater - Medusa no Inbou",
+ "group": "Soul Eater - Medusa no Inbou (Japan)",
+ "hack_group": "3DM&雨光临时汉化组",
  "id": "ver-nds-fcf00037",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "151439BC",
   "no_intro_name": "Soul Eater - Medusa no Inbou (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "CSEJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Soul Eater - Medusa no Inbou (Japan)",
   "zh-Hans": "噬魂师 美杜莎的阴谋 文本汉化版"
  },
- "vendor": "3DM&雨光临时汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

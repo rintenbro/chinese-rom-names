@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "EC167D8B",
+   "name": "勇者斗恶龙 - 旅团之心[盗版&Maxzhou88][繁](JP)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Dragon Quest Monsters - Caravan Heart (Japan)",
+ "hack_group": "盗版&Maxzhou88",
+ "id": "prb-gba-ec167d8b",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "3C24ABCC",
+  "no_intro_name": "Dragon Quest Monsters - Caravan Heart (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "勇者斗恶龙 - 旅团之心"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

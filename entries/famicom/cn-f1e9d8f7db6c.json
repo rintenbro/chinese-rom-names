@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B57A62C7",
+   "name": "龙珠Z外传 撒亚人灭绝计划(v0.97)(香港译名版)(繁)[外星科技+Lirdrepus](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "龙珠Z外传 撒亚人灭绝计划",
+ "hack_group": "外星科技+Lirdrepus",
+ "id": "cn-f1e9d8f7db6c",
+ "platform": "famicom",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "龙珠Z外传 撒亚人灭绝计划"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v0.97"
+}

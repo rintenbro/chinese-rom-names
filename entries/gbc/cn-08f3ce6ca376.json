@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-0c2782a8d9fd/title.png"
+ },
+ "files": [
+  {
+   "crc32": "DCCD5C5C",
+   "name": "仙剑E时代(Fix v2)(简)(dhx)(32Mb).gb",
+   "size": 4194304
+  }
+ ],
+ "group": "仙剑E时代",
+ "hack_group": "Fix v2 dhx",
+ "id": "cn-08f3ce6ca376",
+ "platform": "gbc",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "仙剑E时代"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

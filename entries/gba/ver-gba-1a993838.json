@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Crouching Tiger, Hidden Dragon",
+ "group": "Crouching Tiger, Hidden Dragon (USA) (En,Fr,Es)",
+ "hack_group": "廖永新",
  "id": "ver-gba-1a993838",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "579BA507",
   "no_intro_name": "Crouching Tiger, Hidden Dragon (USA) (En,Fr,Es)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AQDE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Crouching Tiger, Hidden Dragon (USA) (En,Fr,Es)",
   "zh-Hans": "卧虎藏龙"
  },
- "vendor": "廖永新",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

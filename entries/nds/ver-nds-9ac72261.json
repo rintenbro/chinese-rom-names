@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Camping Mama + Papa",
+ "group": "Camping Mama + Papa (Japan)",
+ "hack_group": "xedftxz",
  "id": "ver-nds-9ac72261",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "45DA8F03",
   "no_intro_name": "Camping Mama + Papa (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "TCMJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Camping Mama + Papa (Japan)",
   "zh-Hans": "野营妈妈爸爸 betaV1.1"
  },
- "vendor": "xedftxz",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

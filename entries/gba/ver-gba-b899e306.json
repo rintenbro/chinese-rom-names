@@ -11,10 +11,9 @@
    "size": 10485760
   }
  ],
- "group": "Summon Night - Craft Sword Monogatari",
+ "group": "Summon Night - Craft Sword Monogatari (Japan)",
+ "hack_group": "Fix SwordcraftStory",
  "id": "ver-gba-b899e306",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "A5D38236",
   "no_intro_name": "Summon Night - Craft Sword Monogatari (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AB4J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Summon Night - Craft Sword Monogatari (Japan)",
   "zh-Hans": "召唤之夜 - 铸剑物语"
  },
- "vendor": "Fix / SwordcraftStory",
+ "type": "game",
+ "vendor": "",
  "version": "v1.0"
 }

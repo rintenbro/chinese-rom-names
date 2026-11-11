@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2B571644",
+   "name": "风来的西林 (简) (v0.1)(fenghaim14)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Fushigi no Dungeon 2 - Fuurai no Shiren (Japan)",
+ "hack_group": "fenghaim14",
+ "id": "prb-sfc-2b571644",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "AF5703EE",
+  "no_intro_name": "Fushigi no Dungeon 2 - Fuurai no Shiren (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "风来的西林"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v0.1"
+}

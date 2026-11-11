@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8933EA07",
+   "name": "符文工房3 官中文本导入汉化版v1.5.3+中文配音(家在矿石镇汉化组)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Rune Factory 3 (Japan)",
+ "hack_group": "家在矿石镇汉化组",
+ "id": "prb-nds-8933ea07",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "4E0D536F",
+  "no_intro_name": "Rune Factory 3 (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "符文工房3 官中文本导入汉化版v1.5.3+中文配音"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

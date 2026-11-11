@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Fire Emblem - Seima no Kouseki",
+ "group": "Fire Emblem - Seima no Kouseki (Japan)",
+ "hack_group": "狼组&火花天龙剑",
  "id": "ver-gba-79609d14",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "9D76826F",
   "no_intro_name": "Fire Emblem - Seima no Kouseki (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BE8J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Fire Emblem - Seima no Kouseki (Japan)",
   "zh-Hans": "火焰纹章 - 圣魔之光石"
  },
- "vendor": "狼组&火花天龙剑",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

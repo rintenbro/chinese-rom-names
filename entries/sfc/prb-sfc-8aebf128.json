@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8AEBF128",
+   "name": "灌篮高手 SD版激斗升级 (简)(风干的包子)(32Mb) .sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "From TV Animation Slam Dunk - SD Heat Up!! (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-8aebf128",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "From TV Animation Slam Dunk - SD Heat Up!! (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "灌篮高手 SD版激斗升级"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

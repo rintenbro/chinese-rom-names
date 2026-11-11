@@ -11,10 +11,9 @@
    "size": 9943354
   }
  ],
- "group": "Ore no Sentouki",
+ "group": "Ore no Sentouki (Japan)",
+ "hack_group": "",
  "id": "ver-nds-e156efb7",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "D3AD00B7",
   "no_intro_name": "Ore no Sentouki (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "AGWJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Ore no Sentouki (Japan)",
   "zh-Hans": "我的战斗机V6 完美版"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

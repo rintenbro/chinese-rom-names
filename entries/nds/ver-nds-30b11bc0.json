@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Call of Duty - Modern Warfare - Mobilized",
+ "group": "Call of Duty - Modern Warfare - Mobilized (United Kingdom)",
+ "hack_group": "COD6临时汉化组",
  "id": "ver-nds-30b11bc0",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "35026EFB",
   "no_intro_name": "Call of Duty - Modern Warfare - Mobilized (United Kingdom)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "C62P",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Call of Duty - Modern Warfare - Mobilized (United Kingdom)",
   "zh-Hans": "使命召唤 现代战争 动员"
  },
- "vendor": "COD6临时汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

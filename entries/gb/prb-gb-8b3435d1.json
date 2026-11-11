@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8B3435D1",
+   "name": "光神话(简)(verkkars)(1Mb).gb",
+   "size": 131072
+  }
+ ],
+ "group": "Kid Icarus - Of Myths and Monsters (USA, Europe)",
+ "hack_group": "verkkars",
+ "id": "prb-gb-8b3435d1",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "0C042862",
+  "no_intro_name": "Kid Icarus - Of Myths and Monsters (USA, Europe)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "光神话"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

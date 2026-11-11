@@ -11,10 +11,9 @@
    "size": 134217728
   }
  ],
- "group": "Jet Impulse",
+ "group": "Jet Impulse (Japan)",
+ "hack_group": "PGCG汉化组",
  "id": "ver-nds-7ffcdc16",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "921AE94F",
   "no_intro_name": "Jet Impulse (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "AWGJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Jet Impulse (Japan)",
   "zh-Hans": "喷射脉冲 1.02"
  },
- "vendor": "PGCG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

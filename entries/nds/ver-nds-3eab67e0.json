@@ -11,10 +11,9 @@
    "size": 33554432
   }
  ],
- "group": "Ridge Racer DS",
+ "group": "Ridge Racer DS (USA, Europe)",
+ "hack_group": "",
  "id": "ver-nds-3eab67e0",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "0AD5A96F",
   "no_intro_name": "Ridge Racer DS (USA, Europe)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "ARRE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Ridge Racer DS (USA, Europe)",
   "zh-Hans": "山脊赛车 DS"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

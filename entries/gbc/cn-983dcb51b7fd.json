@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-bb95bcd7113a/title.png"
+ },
+ "files": [
+  {
+   "crc32": "F1F794DA",
+   "name": "明珠口袋怪兽II (繁) (星星科技).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "明珠口袋怪兽II",
+ "hack_group": "",
+ "id": "cn-983dcb51b7fd",
+ "platform": "gbc",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "明珠口袋怪兽II"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "53C8B10A",
+   "name": "好想告诉你 培育的思恋(JP)(【翼梦+兔友】君届汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Kimi ni Todoke - Sodateru Omoi (Japan)",
+ "hack_group": "【翼梦+兔友",
+ "id": "prb-nds-53c8b10a",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "80FF6DBA",
+  "no_intro_name": "Kimi ni Todoke - Sodateru Omoi (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "好想告诉你 培育的思恋君届汉化组"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

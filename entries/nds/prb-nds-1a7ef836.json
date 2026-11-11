@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1A7EF836",
+   "name": "学生会的一己之见DS(简)1297074806(JP)(萌狼计划)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Seitokai no Ichizon - DS Suru Seitokai (Japan)",
+ "hack_group": "",
+ "id": "prb-nds-1a7ef836",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "FF360D06",
+  "no_intro_name": "Seitokai no Ichizon - DS Suru Seitokai (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "学生会的一己之见DS1297074806"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

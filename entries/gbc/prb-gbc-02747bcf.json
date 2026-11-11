@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-1cb6954508af/title.png"
+ },
+ "files": [
+  {
+   "crc32": "02747BCF",
+   "name": "吞食天地 - 赤壁之战 (繁) (新特奇).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "San Goku Shi - Act C (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-gbc-02747bcf",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "San Goku Shi - Act C (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "吞食天地 - 赤壁之战"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

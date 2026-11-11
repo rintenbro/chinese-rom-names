@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C416176C",
+   "name": "超级街霸II X 复苏[DMG汉化组](简)(72Mb).gba",
+   "size": 9437184
+  }
+ ],
+ "group": "Super Street Fighter II X - Revival (Japan)",
+ "hack_group": "DMG汉化组",
+ "id": "prb-gba-c416176c",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "7A2C0D61",
+  "no_intro_name": "Super Street Fighter II X - Revival (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级街霸II X 复苏"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

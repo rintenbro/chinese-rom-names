@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A368FCEE",
+   "name": "力量刀锋(v1)(简)[逆游の五彩魚](US)[ACT](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Power Blade (USA)",
+ "hack_group": "逆游の五彩魚",
+ "id": "prb-famicom-a368fcee",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Power Blade (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "力量刀锋"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "87D55406",
+   "name": "樱大战 因为有你 汉化版(JP)(GV胜利汉化组)(512Mb).nds",
+   "size": 65209404
+  }
+ ],
+ "group": "Dramatic Dungeon - Sakura Taisen - Kimi Aru ga Tame (Japan)",
+ "hack_group": "GV胜利汉化组",
+ "id": "prb-nds-87d55406",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "C7AEA39A",
+  "no_intro_name": "Dramatic Dungeon - Sakura Taisen - Kimi Aru ga Tame (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "樱大战 因为有你 汉化版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

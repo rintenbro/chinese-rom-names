@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BB1057EA",
+   "name": "数码宝贝 - 战魂[烈火宝龙](v20061002)(简)(US)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "Digimon - Battle Spirit (USA)",
+ "hack_group": "烈火宝龙",
+ "id": "prb-gba-bb1057ea",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "CEEF2008",
+  "no_intro_name": "Digimon - Battle Spirit (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "数码宝贝 - 战魂"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20061002"
+}

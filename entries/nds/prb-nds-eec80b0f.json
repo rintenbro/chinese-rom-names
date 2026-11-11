@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "EEC80B0F",
+   "name": "1500 DS Spirits Vol.1 麻將(JP)(E.Wings汉化组)(64Mb).nds",
+   "size": 8388608
+  }
+ ],
+ "group": "1500 DS Spirits Vol. 1 - Mahjong (Japan)",
+ "hack_group": "E.Wings汉化组",
+ "id": "prb-nds-eec80b0f",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "3FF7E5D0",
+  "no_intro_name": "1500 DS Spirits Vol. 1 - Mahjong (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "1500 DS Spirits Vol.1 麻將"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

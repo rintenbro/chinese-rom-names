@@ -11,10 +11,9 @@
    "size": 524288
   }
  ],
- "group": "Rockman X3",
+ "group": "Rockman X3 (Taiwan)",
+ "hack_group": "",
  "id": "ver-gbc-7f4112a3",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "7F4112A3",
   "no_intro_name": "Rockman X3 (Taiwan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gbc",
  "script": "繁",
- "serial": "",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Rockman X3 (Taiwan)",
   "zh-Hans": "洛克人X3"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

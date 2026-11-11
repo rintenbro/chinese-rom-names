@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "125C9077",
+   "name": "勇者斗恶龙2(修正版)(v0100382)(简)[外星科技+庞先生](JP)[RPG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Dragon Quest II - Akuryou no Kamigami (Japan)",
+ "hack_group": "外星科技+庞先生",
+ "id": "prb-famicom-125c9077",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "ECFA97E3",
+  "no_intro_name": "Dragon Quest II - Akuryou no Kamigami (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "勇者斗恶龙2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v0100382"
+}

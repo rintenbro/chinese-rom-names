@@ -11,10 +11,9 @@
    "size": 61907712
   }
  ],
- "group": "Otome-teki Koi Kakumei - Love Revo!! DS",
+ "group": "Otome-teki Koi Kakumei - Love Revo!! DS (Japan)",
+ "hack_group": "☆翼之梦☆推倒美男游戏汉化组",
  "id": "ver-nds-d6c8cba8",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "CF35D82A",
   "no_intro_name": "Otome-teki Koi Kakumei - Love Revo!! DS (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YLVJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Otome-teki Koi Kakumei - Love Revo!! DS (Japan)",
   "zh-Hans": "少女恋爱革命DS 090304"
  },
- "vendor": "☆翼之梦☆推倒美男游戏汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

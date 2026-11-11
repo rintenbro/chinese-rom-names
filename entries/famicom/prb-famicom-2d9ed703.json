@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2D9ED703",
+   "name": "最终幻想3(简)[LSP](JP)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "Final Fantasy III (Japan)",
+ "hack_group": "",
+ "id": "prb-famicom-2d9ed703",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "4EA1E076",
+  "no_intro_name": "Final Fantasy III (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "最终幻想3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

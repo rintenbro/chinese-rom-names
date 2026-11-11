@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "97427FDB",
+   "name": "简单DS系列Vol.23 THE益智冒险 亚加利亚的骑士 小字体无阴影版(JP)(兔友汉化组)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Simple DS Series Vol. 23 - The Puzzle Quest - Agaria no Kishi (Japan)",
+ "hack_group": "兔友汉化组",
+ "id": "prb-nds-97427fdb",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "BDB579C1",
+  "no_intro_name": "Simple DS Series Vol. 23 - The Puzzle Quest - Agaria no Kishi (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "简单DS系列Vol.23 THE益智冒险 亚加利亚的骑士 小字体无阴影版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

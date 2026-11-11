@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Hoshi no Kirby - Kagami no Daimeikyuu",
+ "group": "Hoshi no Kirby - Kagami no Daimeikyuu (Japan) (Rev 1)",
+ "hack_group": "",
  "id": "ver-gba-e1023bd6",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "683D772C",
   "no_intro_name": "Hoshi no Kirby - Kagami no Daimeikyuu (Japan) (Rev 1)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "B8KJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Hoshi no Kirby - Kagami no Daimeikyuu (Japan) (Rev 1)",
   "zh-Hans": "星之卡比 - 镜之大迷宫"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

@@ -4,9 +4,8 @@
  "type": "object",
  "required": [
   "id",
-  "layer",
+  "status",
   "platform",
-  "group",
   "titles",
   "files",
   "source"
@@ -91,8 +90,10 @@
   },
   "type": {
    "enum": [
-    "original",
-    "hack"
+    "game",
+    "tool",
+    "hack",
+    "multicart"
    ]
   },
   "files": {
@@ -202,6 +203,36 @@
     "string",
     "null"
    ]
+  },
+  "status": {
+   "enum": [
+    "verified",
+    "probable",
+    "self"
+   ]
+  },
+  "probable_original": {
+   "type": [
+    "object",
+    "null"
+   ],
+   "properties": {
+    "no_intro_name": {
+     "type": "string"
+    },
+    "region": {
+     "type": "string"
+    },
+    "crc32": {
+     "type": [
+      "string",
+      "null"
+     ]
+    }
+   }
+  },
+  "hack_group": {
+   "type": "string"
   }
  }
 }

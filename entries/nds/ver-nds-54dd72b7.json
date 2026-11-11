@@ -11,10 +11,9 @@
    "size": 117446236
   }
  ],
- "group": "Okamiden - Chiisaki Taiyou",
+ "group": "Okamiden - Chiisaki Taiyou (Japan)",
+ "hack_group": "ACG汉化组",
  "id": "ver-nds-54dd72b7",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "C4283623",
   "no_intro_name": "Okamiden - Chiisaki Taiyou (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "BOOJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Okamiden - Chiisaki Taiyou (Japan)",
   "zh-Hans": "大神传 小小太阳"
  },
- "vendor": "ACG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

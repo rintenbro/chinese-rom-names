@@ -11,10 +11,9 @@
    "size": 65847328
   }
  ],
- "group": "Meteos",
+ "group": "Meteos (Japan)",
+ "hack_group": "陨石大战临时有爱汉化组",
  "id": "ver-nds-365b30fa",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "138556D1",
   "no_intro_name": "Meteos (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "AMTJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Meteos (Japan)",
   "zh-Hans": "陨石大战修正版"
  },
- "vendor": "陨石大战临时有爱汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

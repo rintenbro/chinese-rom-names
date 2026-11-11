@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-695267afaeb8/title.png"
+ },
+ "files": [
+  {
+   "crc32": "FEF8B4C5",
+   "name": "战神世界(简)[晶科泰](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "战神世界",
+ "hack_group": "晶科泰",
+ "id": "cn-fdb052ec6615",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "战神世界"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

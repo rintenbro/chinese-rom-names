@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FC12C174",
+   "name": "阿斯特堡三兄弟 (简)(官中修复)(Lanyer孟虎)(120Mb).bin",
+   "size": 15466496
+  }
+ ],
+ "group": "Astebros (World) (Demo 1)",
+ "hack_group": "",
+ "id": "prb-megadrive-fc12c174",
+ "platform": "megadrive",
+ "probable_original": {
+  "crc32": "D26AAB4A",
+  "no_intro_name": "Astebros (World) (Demo 1)",
+  "region": "World"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "阿斯特堡三兄弟"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

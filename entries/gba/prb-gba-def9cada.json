@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DEF9CADA",
+   "name": "简单2960好友系列Vol.1 - 桌面游戏合集[Guys](简)(JP)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "Simple 2960 Tomodachi Series Vol. 1 - The Table Game Collection - Mahjong, Shougi, Hanafuda, Reversi (Japan)",
+ "hack_group": "Guys",
+ "id": "prb-gba-def9cada",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "8B72BA3C",
+  "no_intro_name": "Simple 2960 Tomodachi Series Vol. 1 - The Table Game Collection - Mahjong, Shougi, Hanafuda, Reversi (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "简单2960好友系列Vol.1 - 桌面游戏合集"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-0990459c0aa4/title.png"
+ },
+ "files": [
+  {
+   "crc32": "1159836B",
+   "name": "超人特攻队(繁)(新特奇)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "超人特攻队",
+ "hack_group": "",
+ "id": "cn-b321b858a716",
+ "platform": "gbc",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "超人特攻队"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Saru Saru DS",
+ "group": "Saru Saru DS (Japan)",
+ "hack_group": "",
  "id": "ver-nds-51cf1b8a",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "86E91CCA",
   "no_intro_name": "Saru Saru DS (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "C3RJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Saru Saru DS (Japan)",
   "zh-Hans": "猿猿DS"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

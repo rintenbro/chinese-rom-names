@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "37800B02",
+   "name": "游戏王 决斗怪兽 世界冠军大赛2007 v1.4.0(简)(茶叶)(1024Mb).nds",
+   "size": 115042176
+  }
+ ],
+ "group": "Yu-Gi-Oh! Duel Monsters - World Championship 2007 (Japan) (En,Ja,Fr,De,Es,It)",
+ "hack_group": "",
+ "id": "prb-nds-37800b02",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "3BC97F19",
+  "no_intro_name": "Yu-Gi-Oh! Duel Monsters - World Championship 2007 (Japan) (En,Ja,Fr,De,Es,It)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "游戏王 决斗怪兽 世界冠军大赛2007 v1.4.0"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

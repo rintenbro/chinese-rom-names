@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F1DB9566",
+   "name": "第3次超级机器人大战 (繁) (v0.99)(Mszl100等)(16Mb).sfc",
+   "size": 2097152
+  }
+ ],
+ "group": "Dai-3-ji Super Robot Taisen (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-f1db9566",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Dai-3-ji Super Robot Taisen (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "第3次超级机器人大战"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v0.99"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "14A284C5",
+   "name": "洛克人 网络战斗 3 - 蓝版[Flyeyes][简](US)(80.06Mb).gba",
+   "size": 10493952
+  }
+ ],
+ "group": "Mega Man - Battle Network 3 - Blue Version (USA)",
+ "hack_group": "Flyeyes",
+ "id": "prb-gba-14a284c5",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "C0C780F9",
+  "no_intro_name": "Mega Man - Battle Network 3 - Blue Version (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "洛克人 网络战斗 3 - 蓝版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

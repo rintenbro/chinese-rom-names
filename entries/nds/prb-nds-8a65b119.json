@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8A65B119",
+   "name": "勇者斗恶龙9 星空守望者 DStwo优化版(简)(JP)(ACG汉化组)(2047.99Mb).nds",
+   "size": 240073276
+  }
+ ],
+ "group": "Dragon Quest IX - Hoshizora no Mamoribito (Japan)",
+ "hack_group": "ACG汉化组",
+ "id": "prb-nds-8a65b119",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "E8E285F2",
+  "no_intro_name": "Dragon Quest IX - Hoshizora no Mamoribito (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "勇者斗恶龙9 星空守望者 DStwo优化版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

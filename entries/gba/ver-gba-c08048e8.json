@@ -11,10 +11,9 @@
    "size": 8702208
   }
  ],
- "group": "Astro Boy - Omega Factor",
+ "group": "Astro Boy - Omega Factor (USA) (En,Ja,Fr,De,Es,It)",
+ "hack_group": "心灵的冬天",
  "id": "ver-gba-c08048e8",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "E8619031",
   "no_intro_name": "Astro Boy - Omega Factor (USA) (En,Ja,Fr,De,Es,It)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BTAE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Astro Boy - Omega Factor (USA) (En,Ja,Fr,De,Es,It)",
   "zh-Hans": "铁臂阿童木-阿童木之心的秘密"
  },
- "vendor": "心灵的冬天",
+ "type": "game",
+ "vendor": "",
  "version": "v1.0"
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-0d71fc908ca9/title.png"
+ },
+ "files": [
+  {
+   "crc32": "3A08C8EB",
+   "name": "口袋妖怪 - 蓝宝石 (繁) (新特奇).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Pocket Monsters - Sapphire (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-gbc-3a08c8eb",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Pocket Monsters - Sapphire (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪 - 蓝宝石"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

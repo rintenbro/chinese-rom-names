@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CFD37B45",
+   "name": "精灵宝可梦 白2 V3(JP)(ACG汉化组&口袋群星SP)(0Mb).nds",
+   "size": 319784376
+  }
+ ],
+ "group": "Pocket Monsters - White 2 (Japan) (Rev 1) (NDSi Enhanced)",
+ "hack_group": "ACG汉化组&口袋群星SP",
+ "id": "prb-nds-cfd37b45",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "A9833314",
+  "no_intro_name": "Pocket Monsters - White 2 (Japan) (Rev 1) (NDSi Enhanced)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "精灵宝可梦 白2 V3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

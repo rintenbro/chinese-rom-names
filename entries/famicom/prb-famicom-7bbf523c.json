@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7BBF523C",
+   "name": "烈火92(修正版)(简)[幻想+MS](JP)[STG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Summer Carnival '92 - Recca (Japan) (En)",
+ "hack_group": "幻想+MS",
+ "id": "prb-famicom-7bbf523c",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Summer Carnival '92 - Recca (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "烈火92"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

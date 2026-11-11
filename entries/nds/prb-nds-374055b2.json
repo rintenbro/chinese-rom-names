@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "374055B2",
+   "name": "粉色街道 闪耀音乐时间(JP)(E.Wings汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Pinky Street - Kirakira Music Hour (Japan)",
+ "hack_group": "E.Wings汉化组",
+ "id": "prb-nds-374055b2",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "1767EC93",
+  "no_intro_name": "Pinky Street - Kirakira Music Hour (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "粉色街道 闪耀音乐时间"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

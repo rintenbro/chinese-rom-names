@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "145D1041",
+   "name": "沙罗曼蛇2(v3)(简)[MS](JP)[STG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Gradius II (Japan) (En)",
+ "hack_group": "",
+ "id": "prb-famicom-145d1041",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Gradius II (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "沙罗曼蛇2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v3"
+}

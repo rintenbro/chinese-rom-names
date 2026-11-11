@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6A53768A",
+   "name": "心灵泡泡(JP)(兔友汉化组)(256Mb).nds",
+   "size": 33687128
+  }
+ ],
+ "group": "Awa Tama (Japan)",
+ "hack_group": "兔友汉化组",
+ "id": "prb-nds-6a53768a",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "2545E971",
+  "no_intro_name": "Awa Tama (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "心灵泡泡"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

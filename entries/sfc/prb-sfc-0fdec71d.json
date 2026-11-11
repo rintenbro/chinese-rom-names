@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0FDEC71D",
+   "name": "魔神转生2 (繁) (v1.4)(Monkeyking等)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Majin Tensei II - Spiral Nemesis (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-0fdec71d",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Majin Tensei II - Spiral Nemesis (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "魔神转生2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.4"
+}

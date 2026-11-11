@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B3D607FD",
+   "name": "究极截拳道 - 金太郎的复仇[Kinglly](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Gekido Advance - Kintaro's Revenge (Europe) (En,Fr,De,Es,It)",
+ "hack_group": "Kinglly",
+ "id": "prb-gba-b3d607fd",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "2FB5B819",
+  "no_intro_name": "Gekido Advance - Kintaro's Revenge (Europe) (En,Fr,De,Es,It)",
+  "region": "Europe"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "究极截拳道 - 金太郎的复仇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

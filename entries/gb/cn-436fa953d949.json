@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gb/cn-7868a2a890f0/title.png"
+ },
+ "files": [
+  {
+   "crc32": "DC7F3E17",
+   "name": "魂斗罗2006(简)(盗商+dhx)(8Mb).gb",
+   "size": 1048576
+  }
+ ],
+ "group": "魂斗罗2006",
+ "hack_group": "盗商+dhx",
+ "id": "cn-436fa953d949",
+ "platform": "gb",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "魂斗罗2006"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Kikaika Guntai - Mech Platoon",
+ "group": "Kikaika Guntai - Mech Platoon (Japan)",
+ "hack_group": "Jaychou001",
  "id": "ver-gba-569d0cf7",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "A2FA4248",
   "no_intro_name": "Kikaika Guntai - Mech Platoon (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AKGJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Kikaika Guntai - Mech Platoon (Japan)",
   "zh-Hans": "机械化军队 - Mech Platoon"
  },
- "vendor": "Jaychou001",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

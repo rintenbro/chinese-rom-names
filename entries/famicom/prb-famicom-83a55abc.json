@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "83A55ABC",
+   "name": "街头 热血进行曲(简)[PKome](JP)[SPG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Downtown - Nekketsu Koushinkyoku - Soreyuke Daiundoukai (Japan)",
+ "hack_group": "PKome",
+ "id": "prb-famicom-83a55abc",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Downtown - Nekketsu Koushinkyoku - Soreyuke Daiundoukai (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "街头 热血进行曲"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

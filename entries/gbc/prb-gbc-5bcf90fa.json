@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-a5f834259457/title.png"
+ },
+ "files": [
+  {
+   "crc32": "5BCF90FA",
+   "name": "拳霸天下 (繁) (新特奇).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Quan Ba Tian Xia (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-gbc-5bcf90fa",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Quan Ba Tian Xia (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "拳霸天下"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

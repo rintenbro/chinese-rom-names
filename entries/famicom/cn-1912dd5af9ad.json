@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-79a7147d29cf/title.png"
+ },
+ "files": [
+  {
+   "crc32": "C0EF015B",
+   "name": "黑客(简)[南晶科技](CN)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "黑客",
+ "hack_group": "南晶科技",
+ "id": "cn-1912dd5af9ad",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "黑客"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8DB8C512",
+   "name": "宠物进化史(简)[外星科技](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "Chongwu Jinhua Shi (Pet Evolve) (China)",
+ "hack_group": "外星科技",
+ "id": "prb-famicom-8db8c512",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "B91182DF",
+  "no_intro_name": "Chongwu Jinhua Shi (Pet Evolve) (China)",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "宠物进化史"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "621D0C31",
+   "name": "简单DS系列Vol.39 THE消防队(JP)(罗伊SD)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Simple DS Series Vol. 39 - The Shouboutai (Japan)",
+ "hack_group": "",
+ "id": "prb-nds-621d0c31",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "2DBDD360",
+  "no_intro_name": "Simple DS Series Vol. 39 - The Shouboutai (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "简单DS系列Vol.39 THE消防队"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

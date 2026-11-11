@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2986CDFF",
+   "name": "棋王(繁)[小天才](CN)[TAB](0.75Mb).nes",
+   "size": 98320
+  }
+ ],
+ "group": "Qi Wang - Chinese Chess (Asia) (Pirate)",
+ "hack_group": "小天才",
+ "id": "prb-famicom-2986cdff",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Qi Wang - Chinese Chess (Asia) (Pirate)",
+  "region": "Asia"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "棋王"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

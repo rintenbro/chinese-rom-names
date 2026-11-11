@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AD8F2DA1",
+   "name": "俄罗斯方块(v1.1)(简)[九班](US)[PUZ](0.5Mb).nes",
+   "size": 65680
+  }
+ ],
+ "group": "Tetris (China) (Pirate)",
+ "hack_group": "九班",
+ "id": "prb-famicom-ad8f2da1",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "F947BF86",
+  "no_intro_name": "Tetris (China) (Pirate)",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "俄罗斯方块"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

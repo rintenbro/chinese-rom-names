@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "820253F4",
+   "name": "火焰之纹章外传(修正版)(简)[外星科技+庞先生+寒雪使者](JP)[SLG](5Mb).nes",
+   "size": 655376
+  }
+ ],
+ "group": "Shenghuo Huizhang Waizhuan (China) (Pirate)",
+ "hack_group": "外星科技+庞先生+寒雪使者",
+ "id": "prb-famicom-820253f4",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "45E6DE00",
+  "no_intro_name": "Shenghuo Huizhang Waizhuan (China) (Pirate)",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "火焰之纹章外传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

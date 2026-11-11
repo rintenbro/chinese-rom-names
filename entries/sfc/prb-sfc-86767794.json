@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "86767794",
+   "name": "魔洞历险记之水晶豆(晶沙之城堡探险)(简)(小鬼混)(16Mb).smc",
+   "size": 2097152
+  }
+ ],
+ "group": "Crystal Beans from Dungeon Explorer (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-86767794",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "79663A93",
+  "no_intro_name": "Crystal Beans from Dungeon Explorer (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "魔洞历险记之水晶豆"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

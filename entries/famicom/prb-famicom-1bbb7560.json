@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1BBB7560",
+   "name": "赤影战士(简)[来福](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Yami no Shigotonin Kage (Japan)",
+ "hack_group": "来福",
+ "id": "prb-famicom-1bbb7560",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "232E97AB",
+  "no_intro_name": "Yami no Shigotonin Kage (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "赤影战士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

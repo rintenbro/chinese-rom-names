@@ -11,10 +11,9 @@
    "size": 134217728
   }
  ],
- "group": "Eigo ga Nigate na Otona no DS Training - Motto Eigo Zuke",
+ "group": "Eigo ga Nigate na Otona no DS Training - Motto Eigo Zuke (Japan)",
+ "hack_group": "DDV",
  "id": "ver-nds-1e7696eb",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "38A85935",
   "no_intro_name": "Eigo ga Nigate na Otona no DS Training - Motto Eigo Zuke (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "ANHJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Eigo ga Nigate na Otona no DS Training - Motto Eigo Zuke (Japan)",
   "zh-Hans": "英语苦手的成人DS训练 更多的英语难题"
  },
- "vendor": "DDV",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

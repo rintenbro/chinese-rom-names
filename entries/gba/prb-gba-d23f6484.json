@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D23F6484",
+   "name": "口袋妖怪 - 绿宝石[盗版&Awaixp](简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Pocket Monsters - Emerald (Japan)",
+ "hack_group": "盗版&Awaixp",
+ "id": "prb-gba-d23f6484",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "4881F3F8",
+  "no_intro_name": "Pocket Monsters - Emerald (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪 - 绿宝石"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "35EA3E7C",
+   "name": "昆虫战争(JP)(的士汉化组)(512Mb).nds",
+   "size": 57739264
+  }
+ ],
+ "group": "Konchuu Wars (Japan)",
+ "hack_group": "的士汉化组",
+ "id": "prb-nds-35ea3e7c",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "22F672F4",
+  "no_intro_name": "Konchuu Wars (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "昆虫战争"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

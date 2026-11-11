@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2C5538C9",
+   "name": "塞尔达传说四支剑 25周年纪念版(简)(Monado汉化组)(108Mb).nds",
+   "size": 14217216
+  }
+ ],
+ "group": "Zelda no Densetsu - 4-tsu no Tsurugi - 25th Kinen Edition (Japan)",
+ "hack_group": "Monado汉化组",
+ "id": "prb-nds-2c5538c9",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Zelda no Densetsu - 4-tsu no Tsurugi - 25th Kinen Edition (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "塞尔达传说四支剑 25周年纪念版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

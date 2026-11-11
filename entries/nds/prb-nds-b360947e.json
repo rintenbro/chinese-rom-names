@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B360947E",
+   "name": "解迷同伴 数字游戏同伴(JP)(ACG汉化组)(128Mb).nds",
+   "size": 11153472
+  }
+ ],
+ "group": "Puzzle Mate DS - Nanpure Mate (Japan)",
+ "hack_group": "ACG汉化组",
+ "id": "prb-nds-b360947e",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "8A7FF8A3",
+  "no_intro_name": "Puzzle Mate DS - Nanpure Mate (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "解迷同伴 数字游戏同伴"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

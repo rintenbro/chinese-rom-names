@@ -1,0 +1,33 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DECDF740",
+   "name": "欢乐淘气鼠 (繁) (川普科技)(4Mb).md",
+   "size": 524288
+  }
+ ],
+ "group": "Huanle Taoqi Shu - Smart Mouse (Taiwan) (En)",
+ "hack_group": "",
+ "id": "ver-megadrive-decdf740",
+ "original": {
+  "crc32": "DECDF740",
+  "no_intro_name": "Huanle Taoqi Shu - Smart Mouse (Taiwan) (En)",
+  "region": "Taiwan",
+  "size": 524288
+ },
+ "platform": "megadrive",
+ "script": "繁",
+ "source": "no-intro",
+ "status": "verified",
+ "titles": {
+  "zh-Hans": "欢乐淘气鼠"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

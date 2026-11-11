@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "71514067",
+   "name": "重装机兵2 (简) (v0.6)(狼组)(16Mb).sfc",
+   "size": 2097152
+  }
+ ],
+ "group": "Metal Max 2 (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-71514067",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "9516BF39",
+  "no_intro_name": "Metal Max 2 (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "重装机兵2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v0.6"
+}

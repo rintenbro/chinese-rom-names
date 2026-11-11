@@ -11,10 +11,9 @@
    "size": 33554432
   }
  ],
- "group": "Gu Huo Lang 4",
+ "group": "Gu Huo Lang 4 (Taiwan)",
+ "hack_group": "D商+dcillbleed",
  "id": "ver-gba-1608f6db",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "1608F6DB",
   "no_intro_name": "Gu Huo Lang 4 (Taiwan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "未标注",
- "serial": "",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Gu Huo Lang 4 (Taiwan)",
   "zh-Hans": "古惑狼4"
  },
- "vendor": "D商+dcillbleed",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

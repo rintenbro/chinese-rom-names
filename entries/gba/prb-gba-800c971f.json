@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "800C971F",
+   "name": "最终幻想V Advance[狼组&APEX&Tring](2023修正版v0.1r)(简)(JP)(64Mb).gba",
+   "size": 8388304
+  }
+ ],
+ "group": "Final Fantasy V Advance (Japan)",
+ "hack_group": "狼组&APEX&Tring",
+ "id": "prb-gba-800c971f",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "FC7909A7",
+  "no_intro_name": "Final Fantasy V Advance (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "最终幻想V Advance"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v0.1r"
+}

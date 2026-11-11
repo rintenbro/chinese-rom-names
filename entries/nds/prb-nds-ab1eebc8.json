@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AB1EEBC8",
+   "name": "Super Lite 2500 绯红房间(简)(JP)(HOho汉化组)(64Mb).nds",
+   "size": 8388608
+  }
+ ],
+ "group": "Crimson Room (Japan)",
+ "hack_group": "HOho汉化组",
+ "id": "prb-nds-ab1eebc8",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "152030EE",
+  "no_intro_name": "Crimson Room (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "Super Lite 2500 绯红房间"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

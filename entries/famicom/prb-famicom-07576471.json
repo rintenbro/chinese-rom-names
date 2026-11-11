@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "07576471",
+   "name": "三国志2 霸王的大陆(楷体)(v0.9976)(简)[kagnhweu+渣渣皮+数字兄](JP)[SLG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Sangokushi II - Haou no Tairiku (Japan)",
+ "hack_group": "kagnhweu+渣渣皮+数字兄",
+ "id": "prb-famicom-07576471",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "400D5A0B",
+  "no_intro_name": "Sangokushi II - Haou no Tairiku (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "三国志2 霸王的大陆"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v0.9976"
+}

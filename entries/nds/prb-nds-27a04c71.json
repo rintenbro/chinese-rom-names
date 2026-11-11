@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "27A04C71",
+   "name": "二之国 漆黑的魔导士(JP)(ACG汉化组&小黑屋汉化组)(0Mb).nds",
+   "size": 481758268
+  }
+ ],
+ "group": "Ni no Kuni - Shikkoku no Madoushi (Japan)",
+ "hack_group": "ACG汉化组&小黑屋汉化组",
+ "id": "prb-nds-27a04c71",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "68B796B1",
+  "no_intro_name": "Ni no Kuni - Shikkoku no Madoushi (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "二之国 漆黑的魔导士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

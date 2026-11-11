@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-6bc7b1e2dd43/title.png"
+ },
+ "files": [
+  {
+   "crc32": "4B9988E9",
+   "name": "格兰蒂亚传说(简)[外星科技](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "格兰蒂亚传说",
+ "hack_group": "外星科技",
+ "id": "cn-68fea9d1c816",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "格兰蒂亚传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

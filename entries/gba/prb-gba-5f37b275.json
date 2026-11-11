@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5F37B275",
+   "name": "班卓卡祖伊格兰蒂的复仇(v1.01)[Advance-007](简)(70Mb).gba",
+   "size": 9073440
+  }
+ ],
+ "group": "Banjo-Kazooie - Grunty's Revenge (USA, Europe)",
+ "hack_group": "Advance-007",
+ "id": "prb-gba-5f37b275",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "DFB5ABA3",
+  "no_intro_name": "Banjo-Kazooie - Grunty's Revenge (USA, Europe)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "班卓卡祖伊格兰蒂的复仇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.01"
+}

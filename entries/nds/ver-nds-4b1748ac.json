@@ -11,10 +11,9 @@
    "size": 211314088
   }
  ],
- "group": "Bakumatsu Renka Shinsengumi DS",
+ "group": "Bakumatsu Renka Shinsengumi DS (Japan)",
+ "hack_group": "扑家汉化组",
  "id": "ver-nds-4b1748ac",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "9C2D9F87",
   "no_intro_name": "Bakumatsu Renka Shinsengumi DS (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "CCGJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Bakumatsu Renka Shinsengumi DS (Japan)",
   "zh-Hans": "幕末恋华新选组"
  },
- "vendor": "扑家汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

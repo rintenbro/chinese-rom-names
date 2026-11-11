@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AB96370D",
+   "name": "战区88(简)(小鬼混+飞雨影+阿刃)(8Mb).sfc",
+   "size": 1179648
+  }
+ ],
+ "group": "Area 88 (Japan)",
+ "hack_group": "小鬼混+飞雨影+阿刃",
+ "id": "prb-sfc-ab96370d",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Area 88 (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "战区88"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 66565632
   }
  ],
- "group": "Rockman ZX",
+ "group": "Rockman ZX (Japan)",
+ "hack_group": "[洛克人ZX汉化组",
  "id": "ver-nds-cd001ea5",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "B577BBE0",
   "no_intro_name": "Rockman ZX (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "ARZJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Rockman ZX (Japan)",
   "zh-Hans": "洛克人 ZX"
  },
- "vendor": "[洛克人ZX汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

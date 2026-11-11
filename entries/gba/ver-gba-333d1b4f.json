@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Super Real Mahjong Dousoukai",
+ "group": "Super Real Mahjong Dousoukai (Japan)",
+ "hack_group": "Rom的传人",
  "id": "ver-gba-333d1b4f",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "9E90456B",
   "no_intro_name": "Super Real Mahjong Dousoukai (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BDMJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Super Real Mahjong Dousoukai (Japan)",
   "zh-Hans": "超写真麻雀同窗会"
  },
- "vendor": "Rom的传人",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

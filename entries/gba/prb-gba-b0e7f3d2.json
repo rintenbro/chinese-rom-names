@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B0E7F3D2",
+   "name": "西格玛星际传说[飞云](v1.1)(简)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Sigma Star Saga DX (World) (Limited Run Games)",
+ "hack_group": "飞云",
+ "id": "prb-gba-b0e7f3d2",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Sigma Star Saga DX (World) (Limited Run Games)",
+  "region": "World"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "西格玛星际传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

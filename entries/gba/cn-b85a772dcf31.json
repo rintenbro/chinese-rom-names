@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gba/cn-2f0dd35d66c0/title.png"
+ },
+ "files": [
+  {
+   "crc32": "25337675",
+   "name": "口袋妖怪改版 漆黑的魅影 5.0EX+ 无尽混沌 DP(简)(US)(256Mb).gba",
+   "size": 33554188
+  }
+ ],
+ "group": "口袋妖怪改版 漆黑的魅影 5.0EX+ 无尽混沌 DP",
+ "hack_group": "",
+ "id": "cn-b85a772dcf31",
+ "platform": "gba",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "口袋妖怪改版 漆黑的魅影 5.0EX+ 无尽混沌 DP"
+ },
+ "type": "hack",
+ "vendor": "",
+ "version": ""
+}

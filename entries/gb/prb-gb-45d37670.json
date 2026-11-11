@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "45D37670",
+   "name": "高达外传 骑士高达物语(简)(v1.0)(RangerMarsh)(4Mb).gb",
+   "size": 524288
+  }
+ ],
+ "group": "Shin SD Gundam Gaiden - Knight Gundam Monogatari (Japan) (SGB Enhanced)",
+ "hack_group": "RangerMarsh",
+ "id": "prb-gb-45d37670",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Shin SD Gundam Gaiden - Knight Gundam Monogatari (Japan) (SGB Enhanced)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "高达外传 骑士高达物语"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

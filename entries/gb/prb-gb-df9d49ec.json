@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DF9D49EC",
+   "name": "GB原人乐园 万岁！奇酷王国(简)(v1.1)(RangerMarsh)(2Mb).gb",
+   "size": 262144
+  }
+ ],
+ "group": "GB Genjin Land - Viva! Chikkun Oukoku (Japan)",
+ "hack_group": "RangerMarsh",
+ "id": "prb-gb-df9d49ec",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "B08BB116",
+  "no_intro_name": "GB Genjin Land - Viva! Chikkun Oukoku (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "GB原人乐园 万岁！奇酷王国"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "26E7D504",
+   "name": "口袋妖怪不可思议的迷宫 青之救助队(JP)(口袋群星SP)(256Mb).nds",
+   "size": 31765956
+  }
+ ],
+ "group": "Pokemon Fushigi no Dungeon - Ao no Kyuujotai (Japan)",
+ "hack_group": "",
+ "id": "prb-nds-26e7d504",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "BF479590",
+  "no_intro_name": "Pokemon Fushigi no Dungeon - Ao no Kyuujotai (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪不可思议的迷宫 青之救助队"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

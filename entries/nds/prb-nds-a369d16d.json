@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A369D16D",
+   "name": "神游 - 摸摸耀西云中漫步(神游)(官方简中)(128Mb).nds",
+   "size": 16777216
+  }
+ ],
+ "group": "Momo Yaoxi - Yun Zhong Manbu (China) (iDS)",
+ "hack_group": "",
+ "id": "prb-nds-a369d16d",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "B9F7E087",
+  "no_intro_name": "Momo Yaoxi - Yun Zhong Manbu (China) (iDS)",
+  "region": "China"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "神游 - 摸摸耀西云中漫步"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

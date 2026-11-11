@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-3d8b2aefb117/title.png"
+ },
+ "files": [
+  {
+   "crc32": "519867BB",
+   "name": "幻世录(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "group": "幻世录",
+ "hack_group": "南晶科技",
+ "id": "cn-1a28233b9742",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "幻世录"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

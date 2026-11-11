@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Bakuman. - Mangaka e no Michi",
+ "group": "Bakuman. - Mangaka e no Michi (Japan)",
+ "hack_group": "",
  "id": "ver-nds-f95cf65c",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "F871A469",
   "no_intro_name": "Bakuman. - Mangaka e no Michi (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "TBQJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Bakuman. - Mangaka e no Michi (Japan)",
   "zh-Hans": "爆漫王 漫画家之道 剧情"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8FCF4A9B",
+   "name": "简单DS系列Vol.45 THE密室逃脱2 全文本汉化版(JP)(YOME汉化组)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Simple DS Series Vol. 45 - The Misshitsu kara no Dasshutsu 2 (Japan)",
+ "hack_group": "YOME汉化组",
+ "id": "prb-nds-8fcf4a9b",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "F45A8AA9",
+  "no_intro_name": "Simple DS Series Vol. 45 - The Misshitsu kara no Dasshutsu 2 (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "简单DS系列Vol.45 THE密室逃脱2 全文本汉化版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

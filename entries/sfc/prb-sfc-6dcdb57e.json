@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6DCDB57E",
+   "name": "钓鱼太郎 (简) (完全汉化)(Angel_Poon等)(16Mb).sfc",
+   "size": 2097152
+  }
+ ],
+ "group": "Tsuri Tarou (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-6dcdb57e",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "BBBFF8D8",
+  "no_intro_name": "Tsuri Tarou (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "钓鱼太郎"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

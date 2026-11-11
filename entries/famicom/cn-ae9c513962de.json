@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-7d06cf2076eb/title.png"
+ },
+ "files": [
+  {
+   "crc32": "08278D88",
+   "name": "七龙珠(简)[外星科技](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "七龙珠",
+ "hack_group": "外星科技",
+ "id": "cn-ae9c513962de",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "七龙珠"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

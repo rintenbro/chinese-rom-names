@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Monster Summoner",
+ "group": "Monster Summoner (Japan)",
+ "hack_group": "星组",
  "id": "ver-gba-9cb49022",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "F8A085E2",
   "no_intro_name": "Monster Summoner (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "A3NJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Monster Summoner (Japan)",
   "zh-Hans": "怪物召唤士"
  },
- "vendor": "星组",
+ "type": "game",
+ "vendor": "",
  "version": "v1.0"
 }

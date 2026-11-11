@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8B9C9A8D",
+   "name": "超级大战略(解密版)(简)[未知+WXN](JP)[SLG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Chaoji Dazhanlue (China) (970487) (Pirate)",
+ "hack_group": "未知+WXN",
+ "id": "prb-famicom-8b9c9a8d",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "4800E33A",
+  "no_intro_name": "Chaoji Dazhanlue (China) (970487) (Pirate)",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级大战略"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

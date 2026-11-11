@@ -11,10 +11,9 @@
    "size": 16327392
   }
  ],
- "group": "Kurupoto - Atama ni Piritto Supplement Puzzle",
+ "group": "Kurupoto - Atama ni Piritto Supplement Puzzle (Japan)",
+ "hack_group": "小黑屋汉化组",
  "id": "ver-nds-23eea569",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "0A891AD6",
   "no_intro_name": "Kurupoto - Atama ni Piritto Supplement Puzzle (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "AQBJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Kurupoto - Atama ni Piritto Supplement Puzzle (Japan)",
   "zh-Hans": "回转门"
  },
- "vendor": "小黑屋汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

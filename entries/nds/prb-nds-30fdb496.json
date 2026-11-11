@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "30FDB496",
+   "name": "许愿屋 天使的记忆 黑屏補丁(繁)(JP)(YYJoy汉化组)(1024Mb).nds",
+   "size": 124307456
+  }
+ ],
+ "group": "Wish Room - Tenshi no Kioku (Japan)",
+ "hack_group": "YYJoy汉化组",
+ "id": "prb-nds-30fdb496",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "F717E806",
+  "no_intro_name": "Wish Room - Tenshi no Kioku (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "许愿屋 天使的记忆 黑屏補丁"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

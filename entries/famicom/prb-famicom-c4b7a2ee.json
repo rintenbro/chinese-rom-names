@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C4B7A2EE",
+   "name": "动动脑2 国中英文(繁)[圣谦](CN)[ETC](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Dong Dongnao II - Guozhong Yingwen (Yi) (Taiwan)",
+ "hack_group": "圣谦",
+ "id": "prb-famicom-c4b7a2ee",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "03F6C6F0",
+  "no_intro_name": "Dong Dongnao II - Guozhong Yingwen (Yi) (Taiwan)",
+  "region": "Taiwan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "动动脑2 国中英文"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D15E8D6D",
+   "name": "触摸！卡比(JP)(蛤蟆+水灵加加)(512Mb).nds",
+   "size": 53314152
+  }
+ ],
+ "group": "Touch! Kirby (Japan)",
+ "hack_group": "蛤蟆+水灵加加",
+ "id": "prb-nds-d15e8d6d",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "00247816",
+  "no_intro_name": "Touch! Kirby (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "触摸！卡比"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

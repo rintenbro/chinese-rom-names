@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "201ADCCE",
+   "name": "无限边境 超级机器人大战OG传说 超越 字体美化(简)(JOKER浴缸汉化组+yggdra)(2048Mb).nds",
+   "size": 259767296
+  }
+ ],
+ "group": "Mugen no Frontier Exceed - Super Robot Taisen OG Saga (Japan)",
+ "hack_group": "JOKER浴缸汉化组+yggdra",
+ "id": "prb-nds-201adcce",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "4770E0EA",
+  "no_intro_name": "Mugen no Frontier Exceed - Super Robot Taisen OG Saga (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "无限边境 超级机器人大战OG传说 超越 字体美化"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

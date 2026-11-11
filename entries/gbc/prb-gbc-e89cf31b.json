@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E89CF31B",
+   "name": "风来西林2 - 沙漠迷城 (繁) (修正版) (unknown).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Fushigi no Dungeon - Fuurai no Shiren GB 2 - Sabaku no Majou (Japan) (AFMJ)",
+ "hack_group": "unknown",
+ "id": "prb-gbc-e89cf31b",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "2C97E90F",
+  "no_intro_name": "Fushigi no Dungeon - Fuurai no Shiren GB 2 - Sabaku no Majou (Japan) (AFMJ)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "风来西林2 - 沙漠迷城"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

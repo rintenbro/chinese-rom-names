@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B08021F4",
+   "name": "真女神转生 恶魔之子 暗之书[Advance汉化组](v1.0)(简)(96Mb).gba",
+   "size": 12660000
+  }
+ ],
+ "group": "Shin Megami Tensei Devil Children - Yami no Sho (Japan)",
+ "hack_group": "Advance汉化组",
+ "id": "prb-gba-b08021f4",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "E0E153B7",
+  "no_intro_name": "Shin Megami Tensei Devil Children - Yami no Sho (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "真女神转生 恶魔之子 暗之书"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

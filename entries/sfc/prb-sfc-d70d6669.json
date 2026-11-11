@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D70D6669",
+   "name": "盖亚幻想纪 (繁) (v1.0)(MagicMirror等)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Gaia Gensouki (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-d70d6669",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "B344E9A0",
+  "no_intro_name": "Gaia Gensouki (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "盖亚幻想纪"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-c28f2ad3bd99/title.png"
+ },
+ "files": [
+  {
+   "crc32": "D827D37E",
+   "name": "魔戒3 - 不完美的世界 (繁) (广誉科技).gbc",
+   "size": 524288
+  }
+ ],
+ "group": "Lord of the Rings 3, The - No Perfect World (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-gbc-d827d37e",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Lord of the Rings 3, The - No Perfect World (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "魔戒3 - 不完美的世界"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

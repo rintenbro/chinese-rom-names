@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-728ef0ca87f2/title.png"
+ },
+ "files": [
+  {
+   "crc32": "21F84BF8",
+   "name": "外星探险之星球大战(繁)(新特奇)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Wai Xing Tan Xian Zhi Xing Qiu Da Zhan (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-gbc-21f84bf8",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Wai Xing Tan Xian Zhi Xing Qiu Da Zhan (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "外星探险之星球大战"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

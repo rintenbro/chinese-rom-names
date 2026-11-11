@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0B5726EA",
+   "name": "为你而生(EU)(gunner,MonoChrom,帆)(1024Mb).nds",
+   "size": 133482032
+  }
+ ],
+ "group": "Rub Rabbits!, The (Europe) (En,Ja,Fr,De,Es,It)",
+ "hack_group": "",
+ "id": "prb-nds-0b5726ea",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "8714020B",
+  "no_intro_name": "Rub Rabbits!, The (Europe) (En,Ja,Fr,De,Es,It)",
+  "region": "Europe"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "为你而生"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

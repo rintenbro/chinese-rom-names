@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6F7596FD",
+   "name": "魂斗罗(简)(v1.0)(Stephen)(8Mb).gb",
+   "size": 1048576
+  }
+ ],
+ "group": "Contra (Japan) (En)",
+ "hack_group": "Stephen",
+ "id": "prb-gb-6f7596fd",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "CDE6DE15",
+  "no_intro_name": "Contra (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "魂斗罗"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

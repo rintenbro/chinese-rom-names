@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "50693B9F",
+   "name": "索尼克Advance 3[Rom的传人](简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Sonic Advance 3 (Japan) (En,Ja,Fr,De,Es,It)",
+ "hack_group": "Rom的传人",
+ "id": "prb-gba-50693b9f",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "4375F1D6",
+  "no_intro_name": "Sonic Advance 3 (Japan) (En,Ja,Fr,De,Es,It)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "索尼克Advance 3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

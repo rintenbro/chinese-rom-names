@@ -11,10 +11,9 @@
    "size": 25905728
   }
  ],
- "group": "Gouma Reifu Den Izuna",
+ "group": "Gouma Reifu Den Izuna (Japan)",
+ "hack_group": "巴士汉化组",
  "id": "ver-nds-5ec3ae42",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "0279E1FF",
   "no_intro_name": "Gouma Reifu Den Izuna (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "AHSJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Gouma Reifu Den Izuna (Japan)",
   "zh-Hans": "降魔灵符传"
  },
- "vendor": "巴士汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

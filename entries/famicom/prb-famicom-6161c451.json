@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6161C451",
+   "name": "水浒新传(繁)[未知](CN)[SLG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Shuihu Xin Zhuan (China)",
+ "hack_group": "未知",
+ "id": "prb-famicom-6161c451",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "2C8FBA61",
+  "no_intro_name": "Shuihu Xin Zhuan (China)",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "水浒新传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

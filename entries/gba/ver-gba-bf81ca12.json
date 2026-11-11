@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Power Pro Kun Pocket 5",
+ "group": "Power Pro Kun Pocket 5 (Japan)",
+ "hack_group": "星组",
  "id": "ver-gba-bf81ca12",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "06F0F8D4",
   "no_intro_name": "Power Pro Kun Pocket 5 (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "繁",
- "serial": "A5PJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Power Pro Kun Pocket 5 (Japan)",
   "zh-Hans": "口袋实况棒球5"
  },
- "vendor": "星组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

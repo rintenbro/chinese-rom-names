@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C3AAAB3C",
+   "name": "超级阿拉伯(v2)(简)[高伟](JP)[ACT](0.18Mb).nes",
+   "size": 24592
+  }
+ ],
+ "group": "Super Arabian (Japan) (En)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-c3aaab3c",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "574374A2",
+  "no_intro_name": "Super Arabian (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级阿拉伯"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v2"
+}

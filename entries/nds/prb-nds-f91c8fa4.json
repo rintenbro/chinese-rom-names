@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F91C8FA4",
+   "name": "太鼓达人DS 七岛大冒险(JP)(太鼓DS2临时汉化组)(512Mb).nds",
+   "size": 96097200
+  }
+ ],
+ "group": "Metcha! Taiko no Tatsujin DS - 7-tsu no Shima no Daibouken (Japan)",
+ "hack_group": "太鼓DS2临时汉化组",
+ "id": "prb-nds-f91c8fa4",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "0B111C4C",
+  "no_intro_name": "Metcha! Taiko no Tatsujin DS - 7-tsu no Shima no Daibouken (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "太鼓达人DS 七岛大冒险"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

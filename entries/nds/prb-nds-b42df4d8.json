@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B42DF4D8",
+   "name": "Super Lite 2500 东京台场赌场(JP)(星组)(64Mb).nds",
+   "size": 5748088
+  }
+ ],
+ "group": "Tokyo Odaiba Casino (Japan)",
+ "hack_group": "",
+ "id": "prb-nds-b42df4d8",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "70D2B71A",
+  "no_intro_name": "Tokyo Odaiba Casino (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "Super Lite 2500 东京台场赌场"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

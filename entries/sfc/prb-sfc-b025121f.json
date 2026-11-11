@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B025121F",
+   "name": "国夫的关东煮(简)(风干的包子)(8Mb).smc",
+   "size": 720896
+  }
+ ],
+ "group": "Kunio no Oden (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-b025121f",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Kunio no Oden (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "国夫的关东煮"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

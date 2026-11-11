@@ -11,10 +11,9 @@
    "size": 9514272
   }
  ],
- "group": "Power Pro Kun Pocket 3",
+ "group": "Power Pro Kun Pocket 3 (Japan)",
+ "hack_group": "流星落月",
  "id": "ver-gba-a5f6ea21",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "4314D8BC",
   "no_intro_name": "Power Pro Kun Pocket 3 (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AP3J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Power Pro Kun Pocket 3 (Japan)",
   "zh-Hans": "口袋棒球3"
  },
- "vendor": "流星落月",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

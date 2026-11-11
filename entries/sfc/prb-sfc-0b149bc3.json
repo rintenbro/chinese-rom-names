@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0B149BC3",
+   "name": "3x3只眼 兽魔奉还(简)(小鬼混)(16Mb).smc",
+   "size": 2097152
+  }
+ ],
+ "group": "3x3 Eyes - Juuma Houkan (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-0b149bc3",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "AD4AD163",
+  "no_intro_name": "3x3 Eyes - Juuma Houkan (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "3x3只眼 兽魔奉还"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

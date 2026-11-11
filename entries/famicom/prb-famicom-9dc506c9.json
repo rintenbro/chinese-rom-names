@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9DC506C9",
+   "name": "魂斗罗力量(修正版)(简)[谈魈疯生+渣渣皮](US)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Contra Force (USA)",
+ "hack_group": "谈魈疯生+渣渣皮",
+ "id": "prb-famicom-9dc506c9",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Contra Force (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "魂斗罗力量"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

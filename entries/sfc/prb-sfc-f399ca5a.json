@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F399CA5A",
+   "name": "勇者斗恶龙3(简)(v0.99.2乱码修复)(精灵制作组+飞雨影)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Dragon Quest III - Soshite Densetsu e... (Japan)",
+ "hack_group": "精灵制作组+飞雨影",
+ "id": "prb-sfc-f399ca5a",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "13836BD2",
+  "no_intro_name": "Dragon Quest III - Soshite Densetsu e... (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "勇者斗恶龙3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

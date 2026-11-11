@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "57267F2E",
+   "name": "恶魔城 漆黑的前奏曲 (简) (DMG汉化组)(1Mb).gb",
+   "size": 262144
+  }
+ ],
+ "group": "Akumajou Dracula - Shikkoku Taru Zensoukyoku - Dark Night Prelude (Japan) (SGB Enhanced)",
+ "hack_group": "DMG汉化组",
+ "id": "prb-gb-57267f2e",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Akumajou Dracula - Shikkoku Taru Zensoukyoku - Dark Night Prelude (Japan) (SGB Enhanced)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "恶魔城 漆黑的前奏曲"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B38B9D55",
+   "name": "人生游戏(超级大富翁)(繁)(修正版)(8Mb).gb",
+   "size": 524288
+  }
+ ],
+ "group": "Jinsei Game (Japan) (SGB Enhanced)",
+ "hack_group": "",
+ "id": "prb-gb-b38b9d55",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "09F53D55",
+  "no_intro_name": "Jinsei Game (Japan) (SGB Enhanced)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "人生游戏"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

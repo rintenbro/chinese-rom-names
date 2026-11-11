@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "08D326A3",
+   "name": "皇牌空战ADVANCE[aikika](v1.01)(简)(48Mb).gba",
+   "size": 5293308
+  }
+ ],
+ "group": "Ace Combat Advance (USA, Europe)",
+ "hack_group": "aikika",
+ "id": "prb-gba-08d326a3",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "43F5E157",
+  "no_intro_name": "Ace Combat Advance (USA, Europe)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "皇牌空战ADVANCE"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.01"
+}

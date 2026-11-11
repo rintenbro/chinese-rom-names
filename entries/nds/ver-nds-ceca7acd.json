@@ -11,10 +11,9 @@
    "size": 78789640
   }
  ],
- "group": "Tales of the Tempest",
+ "group": "Tales of the Tempest (Japan)",
+ "hack_group": "PGCG汉化组",
  "id": "ver-nds-ceca7acd",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "8B52BE99",
   "no_intro_name": "Tales of the Tempest (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "ALEJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Tales of the Tempest (Japan)",
   "zh-Hans": "风雨传说"
  },
- "vendor": "PGCG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

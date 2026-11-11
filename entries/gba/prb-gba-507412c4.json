@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "507412C4",
+   "name": "可乐饼 Great! 时空冒险者[痴狂小黑](简)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Croket! Great - Toki no Boukensha (Japan)",
+ "hack_group": "痴狂小黑",
+ "id": "prb-gba-507412c4",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "F0E81971",
+  "no_intro_name": "Croket! Great - Toki no Boukensha (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "可乐饼 Great! 时空冒险者"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

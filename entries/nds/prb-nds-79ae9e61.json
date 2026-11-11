@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "79AE9E61",
+   "name": "由我来守护你 繁中标题版(JP)(akairyusei)(512Mb).nds",
+   "size": 66883072
+  }
+ ],
+ "group": "Ore ga Omae o Mamoru (Japan)",
+ "hack_group": "akairyusei",
+ "id": "prb-nds-79ae9e61",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "ECF425B6",
+  "no_intro_name": "Ore ga Omae o Mamoru (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "由我来守护你 繁中标题版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C588F5DA",
+   "name": "第二次机器人大战G(简)(重翻汉化版v1.25ListRepair)(废宅抱大腿汉化没有组)(8Mb).gb",
+   "size": 1048576
+  }
+ ],
+ "group": "Dai-2-ji Super Robot Taisen G (Japan) (SGB Enhanced)",
+ "hack_group": "",
+ "id": "prb-gb-c588f5da",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "DF8B2B20",
+  "no_intro_name": "Dai-2-ji Super Robot Taisen G (Japan) (SGB Enhanced)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "第二次机器人大战G"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

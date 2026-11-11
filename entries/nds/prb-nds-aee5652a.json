@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AEE5652A",
+   "name": "Game & Watch游戏合集(CN)(3DM汉化组)(64Mb).nds",
+   "size": 1368416
+  }
+ ],
+ "group": "Game & Watch Collection (USA, Europe) (Club Nintendo)",
+ "hack_group": "3DM汉化组",
+ "id": "prb-nds-aee5652a",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "35AA841F",
+  "no_intro_name": "Game & Watch Collection (USA, Europe) (Club Nintendo)",
+  "region": "USA"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "Game & Watch游戏合集"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

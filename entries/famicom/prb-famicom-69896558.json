@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "69896558",
+   "name": "宇宙巡航机2(简)[虫虫](JP)[STG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Gradius II (Japan) (En)",
+ "hack_group": "虫虫",
+ "id": "prb-famicom-69896558",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "AC05FFF5",
+  "no_intro_name": "Gradius II (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "宇宙巡航机2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

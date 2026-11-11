@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "86EDC127",
+   "name": "GABU GABU星球 80%汉化(JP)(罗伊SD)(512Mb).nds",
+   "size": 34767400
+  }
+ ],
+ "group": "Gabu Gabu Planet (Japan)",
+ "hack_group": "",
+ "id": "prb-nds-86edc127",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "710B2414",
+  "no_intro_name": "Gabu Gabu Planet (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "GABU GABU星球 80%"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

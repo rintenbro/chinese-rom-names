@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B493322C",
+   "name": "神游 - 神游马力欧(超级马里奥)64DS(神游)(官方简中)(128Mb).nds",
+   "size": 16777216
+  }
+ ],
+ "group": "Shenyou Maliou DS (China) (iDS)",
+ "hack_group": "",
+ "id": "prb-nds-b493322c",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "AE0D03C6",
+  "no_intro_name": "Shenyou Maliou DS (China) (iDS)",
+  "region": "China"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "神游 - 神游马力欧64DS"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

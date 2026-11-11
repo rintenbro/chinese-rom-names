@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F45234CF",
+   "name": "武四青龙传 两名忍者(简)(v1.01)(小鬼混+阿刃)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Bushi Seiryuuden - Futari no Yuusha (Japan)",
+ "hack_group": "小鬼混+阿刃",
+ "id": "prb-sfc-f45234cf",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "62D31295",
+  "no_intro_name": "Bushi Seiryuuden - Futari no Yuusha (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "武四青龙传 两名忍者"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.01"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7C9B9B33",
+   "name": "光之神话 射箭小天使(简)[虫虫](UE)[ACT](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Kid Icarus (USA, Europe)",
+ "hack_group": "UE 虫虫",
+ "id": "prb-famicom-7c9b9b33",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Kid Icarus (USA, Europe)",
+  "region": "USA, Europe"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "光之神话 射箭小天使"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

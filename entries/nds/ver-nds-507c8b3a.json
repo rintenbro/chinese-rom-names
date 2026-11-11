@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Minna de Taikan Dokusho DS - Choo Kowaai! - Gakkou no Kaidan",
+ "group": "Minna de Taikan Dokusho DS - Choo Kowaai! - Gakkou no Kaidan (Japan)",
+ "hack_group": "ACG汉化组",
  "id": "ver-nds-507c8b3a",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "CF4340FF",
   "no_intro_name": "Minna de Taikan Dokusho DS - Choo Kowaai! - Gakkou no Kaidan (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "BDXJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Minna de Taikan Dokusho DS - Choo Kowaai! - Gakkou no Kaidan (Japan)",
   "zh-Hans": "大家来体感读书DS 超恐怖学校怪谈"
  },
- "vendor": "ACG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

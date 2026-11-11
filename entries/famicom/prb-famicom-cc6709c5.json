@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CC6709C5",
+   "name": "马戏团(v20100512)(繁)[NOKOH](JP)[ACT](0.37Mb).nes",
+   "size": 49168
+  }
+ ],
+ "group": "Circus Charlie (Japan) (En)",
+ "hack_group": "NOKOH",
+ "id": "prb-famicom-cc6709c5",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "963DD3C3",
+  "no_intro_name": "Circus Charlie (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "马戏团"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20100512"
+}

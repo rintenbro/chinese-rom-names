@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Zelda no Densetsu - Fushigi no Boushi",
+ "group": "Zelda no Densetsu - Fushigi no Boushi (Japan)",
+ "hack_group": "天使汉化组",
  "id": "ver-gba-7c32326c",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "6CE771A5",
   "no_intro_name": "Zelda no Densetsu - Fushigi no Boushi (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "繁",
- "serial": "BZMJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Zelda no Densetsu - Fushigi no Boushi (Japan)",
   "zh-Hans": "塞尔达传说 - 缩小帽"
  },
- "vendor": "天使汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Huo-Wen Zhanji - Fengyin Zhi Jian",
+ "group": "Huo-Wen Zhanji - Fengyin Zhi Jian (China) (Proto)",
+ "hack_group": "未发售",
  "id": "ver-gba-8cebef1e",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "8CEBEF1E",
   "no_intro_name": "Huo-Wen Zhanji - Fengyin Zhi Jian (China) (Proto)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AFEC",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Huo-Wen Zhanji - Fengyin Zhi Jian (China) (Proto)",
   "zh-Hans": "神游 火纹战记 封印之剑"
  },
- "vendor": "未发售",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

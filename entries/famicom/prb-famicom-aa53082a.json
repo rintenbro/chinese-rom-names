@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AA53082A",
+   "name": "双截龙3 神秘魔石之谜(简)[幻想](US)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Double Dragon III - The Sacred Stones (USA)",
+ "hack_group": "幻想",
+ "id": "prb-famicom-aa53082a",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "EB44EEFC",
+  "no_intro_name": "Double Dragon III - The Sacred Stones (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "双截龙3 神秘魔石之谜"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

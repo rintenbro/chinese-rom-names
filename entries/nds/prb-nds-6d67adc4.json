@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6D67ADC4",
+   "name": "游戏王DS 噩梦的吟游诗人 完全汉化版(简)(JP)(NdsBBS&天使汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Yu-Gi-Oh! Duel Monsters - Nightmare Troubadour (Japan)",
+ "hack_group": "NdsBBS&天使汉化组",
+ "id": "prb-nds-6d67adc4",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "5FA2E64B",
+  "no_intro_name": "Yu-Gi-Oh! Duel Monsters - Nightmare Troubadour (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "游戏王DS 噩梦的吟游诗人 完全汉化版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-e1d06278ffe2/title.png"
+ },
+ "files": [
+  {
+   "crc32": "1EFAA0D3",
+   "name": "夺宝小英豪 光明与黑暗传说(繁)[外星科技](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "夺宝小英豪 光明与黑暗传说",
+ "hack_group": "外星科技",
+ "id": "cn-848ea5a79e42",
+ "platform": "famicom",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "夺宝小英豪 光明与黑暗传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

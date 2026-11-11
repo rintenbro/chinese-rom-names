@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "21CE1EC9",
+   "name": "巴巴罗萨 (简) (剧情汉化)(cslrxyz)(8Mb).sfc",
+   "size": 1048576
+  }
+ ],
+ "group": "Barbarossa (Japan)",
+ "hack_group": "cslrxyz",
+ "id": "prb-sfc-21ce1ec9",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "5283E505",
+  "no_intro_name": "Barbarossa (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "巴巴罗萨"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

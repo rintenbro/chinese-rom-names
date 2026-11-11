@@ -11,10 +11,9 @@
    "size": 33554432
   }
  ],
- "group": "Bokujou Monogatari - Colobockle Station",
+ "group": "Bokujou Monogatari - Colobockle Station (Japan)",
+ "hack_group": "ADVANCE汉化组",
  "id": "ver-nds-ed901631",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "5A2DC942",
   "no_intro_name": "Bokujou Monogatari - Colobockle Station (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "ABCJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Bokujou Monogatari - Colobockle Station (Japan)",
   "zh-Hans": "牧场物语 精灵驿站 v1.1"
  },
- "vendor": "ADVANCE汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

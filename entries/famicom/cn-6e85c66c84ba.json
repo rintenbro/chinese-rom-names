@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-ede4c653490f/title.png"
+ },
+ "files": [
+  {
+   "crc32": "E7FA620B",
+   "name": "骑士物语2 光之骑士(简)[外星科技](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "骑士物语2 光之骑士",
+ "hack_group": "外星科技",
+ "id": "cn-6e85c66c84ba",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "骑士物语2 光之骑士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

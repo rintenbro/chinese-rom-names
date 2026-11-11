@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A58CC049",
+   "name": "野狼行动(简)[高伟](US)[STG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Operation Wolf (USA)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-a58cc049",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "7836E480",
+  "no_intro_name": "Operation Wolf (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "野狼行动"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

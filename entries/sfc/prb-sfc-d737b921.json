@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D737B921",
+   "name": "绀碧之舰队 (简)(cslrxyz)(12Mb).sfc",
+   "size": 1572864
+  }
+ ],
+ "group": "Konpeki no Kantai (Japan)",
+ "hack_group": "cslrxyz",
+ "id": "prb-sfc-d737b921",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "E57583EF",
+  "no_intro_name": "Konpeki no Kantai (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "绀碧之舰队"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

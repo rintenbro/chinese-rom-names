@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5DA54CC5",
+   "name": "怪兽战略 迷宫兵团战(简)(小字体汉化补完v1.12)(江户城子+星夜之幻+willzyj)(32Mb).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Kakurenbo Battle - Monster Tactics (Japan)",
+ "hack_group": "江户城子+星夜之幻+willzyj",
+ "id": "prb-gbc-5da54cc5",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "9CFA76C3",
+  "no_intro_name": "Kakurenbo Battle - Monster Tactics (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "怪兽战略 迷宫兵团战"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

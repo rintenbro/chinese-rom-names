@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gb/cn-e4bcd74aecfb/title.png"
+ },
+ "files": [
+  {
+   "crc32": "0AF9089E",
+   "name": "魔法球 (繁) (Gowin)(1Mb).gb",
+   "size": 131072
+  }
+ ],
+ "group": "Magic Ball (China) [CHT]",
+ "hack_group": "Gowin",
+ "id": "prb-gb-0af9089e",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Magic Ball (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "魔法球"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

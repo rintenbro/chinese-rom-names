@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "ED13B074",
+   "name": "三国志2 霸王大陆(简)[QQXD](JP)[SLG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Sangokushi II (Japan)",
+ "hack_group": "",
+ "id": "prb-famicom-ed13b074",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "C2D9B87E",
+  "no_intro_name": "Sangokushi II (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "三国志2 霸王大陆"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

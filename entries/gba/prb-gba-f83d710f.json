@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F83D710F",
+   "name": "鬼屋魔影[盗版&Sz_fox&Maxzhou88][简](US)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Monster House (USA) (En,Fr)",
+ "hack_group": "盗版&Sz_fox&Maxzhou88",
+ "id": "prb-gba-f83d710f",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "148B5072",
+  "no_intro_name": "Monster House (USA) (En,Fr)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "鬼屋魔影"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

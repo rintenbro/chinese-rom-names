@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C3B6D630",
+   "name": "闪电十一人3 面向世界的挑战 The 王牙(JP)(ACG汉化组)(0Mb).nds",
+   "size": 469376572
+  }
+ ],
+ "group": "Inazuma Eleven 3 - Sekai e no Chousen!! - The Ogre (Japan)",
+ "hack_group": "ACG汉化组",
+ "id": "prb-nds-c3b6d630",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "A9754AEA",
+  "no_intro_name": "Inazuma Eleven 3 - Sekai e no Chousen!! - The Ogre (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "闪电十一人3 面向世界的挑战 The 王牙"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

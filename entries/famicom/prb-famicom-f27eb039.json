@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F27EB039",
+   "name": "Raf世界(v2.0)(简)[九班](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Rough World (Japan)",
+ "hack_group": "九班",
+ "id": "prb-famicom-f27eb039",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Rough World (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "Raf世界"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v2.0"
+}

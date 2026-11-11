@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Chou Shittou Caduceus",
+ "group": "Chou Shittou Caduceus (Japan)",
+ "hack_group": "A9VG",
  "id": "ver-nds-32383bfa",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "7A5EFCC4",
   "no_intro_name": "Chou Shittou Caduceus (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "繁",
- "serial": "AKDJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Chou Shittou Caduceus (Japan)",
   "zh-Hans": "超执刀 无头版"
  },
- "vendor": "A9VG",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CDAEBA8D",
+   "name": "孙孙(v20220219)(简)[NOKOH+fciq](JP)[STG](0.62Mb).nes",
+   "size": 81936
+  }
+ ],
+ "group": "Son Son (Japan) (En)",
+ "hack_group": "NOKOH+fciq",
+ "id": "prb-famicom-cdaeba8d",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "6AD03AB3",
+  "no_intro_name": "Son Son (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "孙孙"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20220219"
+}

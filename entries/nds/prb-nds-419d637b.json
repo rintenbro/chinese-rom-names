@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "419D637B",
+   "name": "雷顿教授与不可思议的小镇(繁)(JP)(巴士汉化组)(512Mb).nds",
+   "size": 66913984
+  }
+ ],
+ "group": "Layton Kyouju to Fushigi na Machi (Japan)",
+ "hack_group": "巴士汉化组",
+ "id": "prb-nds-419d637b",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "D5F05023",
+  "no_intro_name": "Layton Kyouju to Fushigi na Machi (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "雷顿教授与不可思议的小镇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

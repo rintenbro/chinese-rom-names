@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gba/cn-a400d757e11c/title.png"
+ },
+ "files": [
+  {
+   "crc32": "159FF629",
+   "name": "好狗狗星系(星际好狗)(v1.3)(官中)(简)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Goodboy Galaxy (Japan) [CHS]",
+ "hack_group": "",
+ "id": "prb-gba-159ff629",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Goodboy Galaxy (Japan) [CHS]",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "好狗狗星系"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.3"
+}

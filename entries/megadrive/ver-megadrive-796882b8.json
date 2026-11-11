@@ -1,0 +1,33 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "796882B8",
+   "name": "花木兰 (繁) (三协资讯)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Mulan (Taiwan)",
+ "hack_group": "",
+ "id": "ver-megadrive-796882b8",
+ "original": {
+  "crc32": "796882B8",
+  "no_intro_name": "Mulan (Taiwan)",
+  "region": "Taiwan",
+  "size": 2097152
+ },
+ "platform": "megadrive",
+ "script": "繁",
+ "source": "no-intro",
+ "status": "verified",
+ "titles": {
+  "zh-Hans": "花木兰"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

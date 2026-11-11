@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "04B0FCC3",
+   "name": "牧场物语3 (简) (unknown).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Harvest Moon 3 GBC (USA)",
+ "hack_group": "unknown",
+ "id": "prb-gbc-04b0fcc3",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "A0D67417",
+  "no_intro_name": "Harvest Moon 3 GBC (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "牧场物语3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

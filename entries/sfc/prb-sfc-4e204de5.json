@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4E204DE5",
+   "name": "龙珠Z超悟空传 - 觉醒篇 (简) (少量汉化)(天空汉化组)(16Mb).sfc",
+   "size": 2097152
+  }
+ ],
+ "group": "Dragon Ball Z - Super Gokuu Den - Kakusei Hen (Japan)",
+ "hack_group": "天空汉化组",
+ "id": "prb-sfc-4e204de5",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "3172CD4F",
+  "no_intro_name": "Dragon Ball Z - Super Gokuu Den - Kakusei Hen (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "龙珠Z超悟空传 - 觉醒篇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

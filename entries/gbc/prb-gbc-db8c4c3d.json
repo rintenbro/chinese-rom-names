@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-3a7be1aa6dd9/title.png"
+ },
+ "files": [
+  {
+   "crc32": "DB8C4C3D",
+   "name": "异形vs铁血战士(繁)(新特奇)(32Mb).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Yi Xing VS Tie Xue Zhan Shi (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-gbc-db8c4c3d",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Yi Xing VS Tie Xue Zhan Shi (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "异形vs铁血战士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

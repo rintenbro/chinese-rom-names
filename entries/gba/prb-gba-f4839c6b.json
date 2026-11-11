@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F4839C6B",
+   "name": "真女神转生 恶魔之子 光之书[Advance汉化组](v1.0)(简)(96Mb).gba",
+   "size": 12660000
+  }
+ ],
+ "group": "Shin Megami Tensei Devil Children - Hikari no Sho (Japan)",
+ "hack_group": "Advance汉化组",
+ "id": "prb-gba-f4839c6b",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "5D7EE5AF",
+  "no_intro_name": "Shin Megami Tensei Devil Children - Hikari no Sho (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "真女神转生 恶魔之子 光之书"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

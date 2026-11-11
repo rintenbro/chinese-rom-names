@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B638CD5B",
+   "name": "高桥名人之冒险岛3(v20110101)(繁)[NOKOH](JP)[ACT](2.18Mb).nes",
+   "size": 286736
+  }
+ ],
+ "group": "Takahashi Meijin no Bouken-jima III (Japan)",
+ "hack_group": "NOKOH",
+ "id": "prb-famicom-b638cd5b",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "D9D35F73",
+  "no_intro_name": "Takahashi Meijin no Bouken-jima III (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "高桥名人之冒险岛3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20110101"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DB418B9B",
+   "name": "四叶草 圣石之路 完美汉化版(DE)(Deutsch临时有爱汉化小组)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Keltis - Das Spiel von Reiner Knizia (Germany)",
+ "hack_group": "DE Deutsch临时有爱汉化小组",
+ "id": "prb-nds-db418b9b",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "6EB5C9C9",
+  "no_intro_name": "Keltis - Das Spiel von Reiner Knizia (Germany)",
+  "region": "Germany"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "四叶草 圣石之路 完美汉化版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

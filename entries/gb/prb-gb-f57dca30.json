@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F57DCA30",
+   "name": "噗呦噗呦 (简) (CKN)(2Mb).gb",
+   "size": 262144
+  }
+ ],
+ "group": "Puyo Puyo (Japan) (SGB Enhanced)",
+ "hack_group": "CKN",
+ "id": "prb-gb-f57dca30",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "9E372D13",
+  "no_intro_name": "Puyo Puyo (Japan) (SGB Enhanced)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "噗呦噗呦"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D4EC25A3",
+   "name": "罗罗大冒险(简)[高伟](US)[PUZ](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Adventures of Lolo II (Japan)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-d4ec25a3",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "1620F77D",
+  "no_intro_name": "Adventures of Lolo II (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "罗罗大冒险"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

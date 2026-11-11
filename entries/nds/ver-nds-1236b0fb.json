@@ -11,10 +11,9 @@
    "size": 5325860
   }
  ],
- "group": "Astro Invaders",
+ "group": "Astro Invaders (USA) (En,Fr,Es)",
+ "hack_group": "",
  "id": "ver-nds-1236b0fb",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "A453F0FB",
   "no_intro_name": "Astro Invaders (USA) (En,Fr,Es)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "BA8E",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Astro Invaders (USA) (En,Fr,Es)",
   "zh-Hans": "天文入侵者 菜单汉化版"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "08275694",
+   "name": "超级扑克 (繁) (未知)(32Mb).md",
+   "size": 4194304
+  }
+ ],
+ "group": "Chaoji Poker (Taiwan) (En)",
+ "hack_group": "未知",
+ "id": "prb-megadrive-08275694",
+ "platform": "megadrive",
+ "probable_original": {
+  "crc32": "C37E6858",
+  "no_intro_name": "Chaoji Poker (Taiwan) (En)",
+  "region": "Taiwan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级扑克"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-113a8669f0ca/title.png"
+ },
+ "files": [
+  {
+   "crc32": "036D87B4",
+   "name": "金曲KTV(简)[未知](CN)[ETC](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "金曲KTV",
+ "hack_group": "未知",
+ "id": "cn-a1bd36b4e9ae",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "金曲KTV"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

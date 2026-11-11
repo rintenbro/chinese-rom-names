@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-edf8ce90bf69/title.png"
+ },
+ "files": [
+  {
+   "crc32": "33670BC2",
+   "name": "英雄剑II (简) (Hitek).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Heroic Sword (China) [CHS]",
+ "hack_group": "Hitek",
+ "id": "prb-gbc-33670bc2",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Heroic Sword (China) [CHS]",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "英雄剑II"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

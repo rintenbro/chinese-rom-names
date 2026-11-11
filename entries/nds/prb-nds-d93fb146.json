@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D93FB146",
+   "name": "最终幻想战略版A2修正2022.nds",
+   "size": 116264748
+  }
+ ],
+ "group": "Final Fantasy Tactics A2 - Fuuketsu no Grimoire (Japan)",
+ "hack_group": "",
+ "id": "prb-nds-d93fb146",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "765172F6",
+  "no_intro_name": "Final Fantasy Tactics A2 - Fuuketsu no Grimoire (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "最终幻想战略版A2修正2022"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

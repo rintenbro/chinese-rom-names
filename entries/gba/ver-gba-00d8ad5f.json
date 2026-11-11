@@ -11,10 +11,9 @@
    "size": 8465528
   }
  ],
- "group": "Pocket Monsters - Ruby",
+ "group": "Pocket Monsters - Ruby (Japan)",
+ "hack_group": "",
  "id": "ver-gba-00d8ad5f",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "CEE9471A",
   "no_intro_name": "Pocket Monsters - Ruby (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AXVJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Pocket Monsters - Ruby (Japan)",
   "zh-Hans": "口袋妖怪 - 红宝石"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

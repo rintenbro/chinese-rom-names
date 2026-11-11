@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Groove Adventure Rave - Hikari to Yami no Daikessen 2",
+ "group": "Groove Adventure Rave - Hikari to Yami no Daikessen 2 (Japan)",
+ "hack_group": "Advance汉化组",
  "id": "ver-gba-b69d90b5",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "006F9150",
   "no_intro_name": "Groove Adventure Rave - Hikari to Yami no Daikessen 2 (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "ARIJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Groove Adventure Rave - Hikari to Yami no Daikessen 2 (Japan)",
   "zh-Hans": "圣石小子 光与暗的大决战2"
  },
- "vendor": "Advance汉化组",
+ "type": "game",
+ "vendor": "",
  "version": "v0.3"
 }

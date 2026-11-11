@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "534A19F3",
+   "name": "瞬感龙珠(US)(E.Wings汉化组)(64Mb).nds",
+   "size": 7338560
+  }
+ ],
+ "group": "Magnetica (USA)",
+ "hack_group": "E.Wings汉化组",
+ "id": "prb-nds-534a19f3",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "AD5C0DD2",
+  "no_intro_name": "Magnetica (USA)",
+  "region": "USA"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "瞬感龙珠"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

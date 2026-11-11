@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9E4C0B00",
+   "name": "熊猫太子(繁)[dragon2snow](CN)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Panda Prince, The (Taiwan) (En) (Pirate)",
+ "hack_group": "dragon2snow",
+ "id": "prb-famicom-9e4c0b00",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Panda Prince, The (Taiwan) (En) (Pirate)",
+  "region": "Taiwan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "熊猫太子"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

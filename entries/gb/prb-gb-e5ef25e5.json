@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E5EF25E5",
+   "name": "龙珠Z 悟空飞翔传(简)(DMG汉化组)(4Mb).gb",
+   "size": 524288
+  }
+ ],
+ "group": "Dragon Ball Z - Gokuu Hishouden (Japan) (SGB Enhanced)",
+ "hack_group": "DMG汉化组",
+ "id": "prb-gb-e5ef25e5",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "38DA46D7",
+  "no_intro_name": "Dragon Ball Z - Gokuu Hishouden (Japan) (SGB Enhanced)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "龙珠Z 悟空飞翔传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

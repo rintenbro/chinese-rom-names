@@ -11,10 +11,9 @@
    "size": 33554432
   }
  ],
- "group": "Sekaiju no Meikyuu III - Seikai no Raihousha",
+ "group": "Sekaiju no Meikyuu III - Seikai no Raihousha (Japan)",
+ "hack_group": "Xzonn",
  "id": "ver-nds-d0e4075c",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "7673037D",
   "no_intro_name": "Sekaiju no Meikyuu III - Seikai no Raihousha (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "BJ3J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Sekaiju no Meikyuu III - Seikai no Raihousha (Japan)",
   "zh-Hans": "世界树迷宫3 星海的访客 v1.1.1"
  },
- "vendor": "Xzonn",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Iron Kid",
+ "group": "Iron Kid (Korea)",
+ "hack_group": "1d4444",
  "id": "ver-gba-877ddb0e",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "326E7A8E",
   "no_intro_name": "Iron Kid (Korea)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BIRK",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Iron Kid (Korea)",
   "zh-Hans": "铁拳小子"
  },
- "vendor": "1d4444",
+ "type": "game",
+ "vendor": "",
  "version": "v1.0"
 }

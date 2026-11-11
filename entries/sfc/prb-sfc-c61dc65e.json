@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C61DC65E",
+   "name": "浪漫沙加2(简)(v1.1)(Meltina+Jinghaoyi+MagicMirror+哇哇的天空有咿呀咿呀的云)(20Mb).sfc",
+   "size": 2621440
+  }
+ ],
+ "group": "Romancing Sa-Ga 2 (Japan)",
+ "hack_group": "Meltina+Jinghaoyi+MagicMirror+哇哇的天空有咿呀咿呀的云",
+ "id": "prb-sfc-c61dc65e",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Romancing Sa-Ga 2 (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "浪漫沙加2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

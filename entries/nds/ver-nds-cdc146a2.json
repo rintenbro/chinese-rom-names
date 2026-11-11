@@ -11,10 +11,9 @@
    "size": 174228028
   }
  ],
- "group": "Dragon Quest Monsters - Joker 2 - Professional",
+ "group": "Dragon Quest Monsters - Joker 2 - Professional (Japan)",
+ "hack_group": "ACG汉化组",
  "id": "ver-nds-cdc146a2",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "16DE7317",
   "no_intro_name": "Dragon Quest Monsters - Joker 2 - Professional (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "B2JJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Dragon Quest Monsters - Joker 2 - Professional (Japan)",
   "zh-Hans": "勇者斗恶龙怪兽篇 joker2 专家版"
  },
- "vendor": "ACG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

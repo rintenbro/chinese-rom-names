@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0A680EFB",
+   "name": "龙战士(v1.0)(简)[高伟](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Dragon Fighter (Japan) (En)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-0a680efb",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "EC81CBF4",
+  "no_intro_name": "Dragon Fighter (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "龙战士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

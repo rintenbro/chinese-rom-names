@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gb/cn-41974257503c/title.png"
+ },
+ "files": [
+  {
+   "crc32": "8F96B796",
+   "name": "侏罗纪3 (繁) (unknown)(4Mb).gb",
+   "size": 524288
+  }
+ ],
+ "group": "Jurassic Park 3 (China) [CHT]",
+ "hack_group": "unknown",
+ "id": "prb-gb-8f96b796",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Jurassic Park 3 (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "侏罗纪3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D6205C8B",
+   "name": "龙珠Z 悟空激斗传 (繁)(修复版)(盗商+yy小龙虾)(8Mb).gb",
+   "size": 1048576
+  }
+ ],
+ "group": "Dragon Ball Z - Gokuu Gekitouden (Japan) (SGB Enhanced)",
+ "hack_group": "盗商+yy小龙虾",
+ "id": "prb-gb-d6205c8b",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "FF3C027D",
+  "no_intro_name": "Dragon Ball Z - Gokuu Gekitouden (Japan) (SGB Enhanced)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "龙珠Z 悟空激斗传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "EC8EB115",
+   "name": "神游 iQue影音中心[未发售](简)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "iQue Video & Audio (China)",
+ "hack_group": "未发售",
+ "id": "prb-gba-ec8eb115",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "iQue Video & Audio (China)",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "神游 iQue影音中心"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

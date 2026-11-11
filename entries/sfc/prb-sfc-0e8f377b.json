@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0E8F377B",
+   "name": "梦幻模拟战Der(兰古利萨Der)(繁)(v1.32)(痕+雪剑冰刀+Doi_Doi)(32Mb).smc",
+   "size": 4194304
+  }
+ ],
+ "group": "Langrisser, Der (Japan)",
+ "hack_group": "痕+雪剑冰刀+Doi_Doi",
+ "id": "prb-sfc-0e8f377b",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Langrisser, Der (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "梦幻模拟战Der"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.32"
+}

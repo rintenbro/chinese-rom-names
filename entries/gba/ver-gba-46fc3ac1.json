@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Don-chan Puzzle - Hanabi de Doon! Advance",
+ "group": "Don-chan Puzzle - Hanabi de Doon! Advance (Japan)",
+ "hack_group": "",
  "id": "ver-gba-46fc3ac1",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "500922E8",
   "no_intro_name": "Don-chan Puzzle - Hanabi de Doon! Advance (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BDAJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Don-chan Puzzle - Hanabi de Doon! Advance (Japan)",
   "zh-Hans": "花火大会Advance"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

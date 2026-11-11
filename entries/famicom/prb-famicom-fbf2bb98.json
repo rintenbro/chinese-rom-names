@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FBF2BB98",
+   "name": "兔宝宝大冒险(简)[逆游の五彩魚](JP)[ACT](2.62Mb).nes",
+   "size": 344080
+  }
+ ],
+ "group": "Tiny Toon Adventures (Japan)",
+ "hack_group": "逆游の五彩魚",
+ "id": "prb-famicom-fbf2bb98",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "935D29C2",
+  "no_intro_name": "Tiny Toon Adventures (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "兔宝宝大冒险"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

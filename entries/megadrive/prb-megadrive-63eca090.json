@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "63ECA090",
+   "name": "吞食天地2 - 火烧赤壁 (繁) (三协资讯)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Sanguo Yanyi - Huoshao Chibi (Taiwan)",
+ "hack_group": "",
+ "id": "prb-megadrive-63eca090",
+ "platform": "megadrive",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Sanguo Yanyi - Huoshao Chibi (Taiwan)",
+  "region": "Taiwan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "吞食天地2 - 火烧赤壁"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

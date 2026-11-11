@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-de155582a8d6/title.png"
+ },
+ "files": [
+  {
+   "crc32": "933513A6",
+   "name": "卧虎藏龙 (简) (Gowin).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Tiger A Dragon (China) [CHS]",
+ "hack_group": "Gowin",
+ "id": "prb-gbc-933513a6",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Tiger A Dragon (China) [CHS]",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "卧虎藏龙"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

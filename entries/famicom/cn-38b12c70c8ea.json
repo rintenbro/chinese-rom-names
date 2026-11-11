@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-b1a86d76122c/title.png"
+ },
+ "files": [
+  {
+   "crc32": "A8B1C2F5",
+   "name": "决战太平洋(繁)[外星科技](CN)[SLG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "决战太平洋",
+ "hack_group": "外星科技",
+ "id": "cn-38b12c70c8ea",
+ "platform": "famicom",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "决战太平洋"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

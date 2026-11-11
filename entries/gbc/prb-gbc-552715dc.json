@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-ac30ced339f6/title.png"
+ },
+ "files": [
+  {
+   "crc32": "552715DC",
+   "name": "西游记 - 孙悟空 (繁) (广誉科技).gbc",
+   "size": 524288
+  }
+ ],
+ "group": "Journey to the West - Sun WuKong (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-gbc-552715dc",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Journey to the West - Sun WuKong (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "西游记 - 孙悟空"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

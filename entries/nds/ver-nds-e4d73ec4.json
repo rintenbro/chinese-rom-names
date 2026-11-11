@@ -11,10 +11,9 @@
    "size": 268435456
   }
  ],
- "group": "Ookami to Koushinryou - Umi o Wataru Kaze",
+ "group": "Ookami to Koushinryou - Umi o Wataru Kaze (Japan)",
+ "hack_group": "",
  "id": "ver-nds-e4d73ec4",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "B2EA6D73",
   "no_intro_name": "Ookami to Koushinryou - Umi o Wataru Kaze (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "BOKJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Ookami to Koushinryou - Umi o Wataru Kaze (Japan)",
   "zh-Hans": "狼与香辛料 渡海之风"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

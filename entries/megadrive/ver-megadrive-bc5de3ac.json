@@ -1,0 +1,33 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BC5DE3AC",
+   "name": "巫术神界 (简) (修正版) (小鬼混修正)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Wushu Shen Jie (China) (Pirate)",
+ "hack_group": "",
+ "id": "ver-megadrive-bc5de3ac",
+ "original": {
+  "crc32": "BC5DE3AC",
+  "no_intro_name": "Wushu Shen Jie (China) (Pirate)",
+  "region": "China",
+  "size": 1048576
+ },
+ "platform": "megadrive",
+ "script": "简",
+ "source": "no-intro",
+ "status": "verified",
+ "titles": {
+  "zh-Hans": "巫术神界"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

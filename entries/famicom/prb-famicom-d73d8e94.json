@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D73D8E94",
+   "name": "摩艾君(简)[九班](JP)[PUZ](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Moai-kun (Japan)",
+ "hack_group": "九班",
+ "id": "prb-famicom-d73d8e94",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "8D76A40E",
+  "no_intro_name": "Moai-kun (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "摩艾君"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

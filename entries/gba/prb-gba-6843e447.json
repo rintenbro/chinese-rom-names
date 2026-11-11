@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6843E447",
+   "name": "奥特警备队 怪兽袭击[流星落月](v1.0)(简)(128Mb).gba",
+   "size": 16854304
+  }
+ ],
+ "group": "Ultra Keibitai - Monster Attack (Japan)",
+ "hack_group": "流星落月",
+ "id": "prb-gba-6843e447",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "C03785C7",
+  "no_intro_name": "Ultra Keibitai - Monster Attack (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "奥特警备队 怪兽袭击"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

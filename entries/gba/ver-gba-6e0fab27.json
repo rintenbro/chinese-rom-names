@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Metroid Fusion",
+ "group": "Metroid Fusion (USA)",
+ "hack_group": "Chrono",
  "id": "ver-gba-6e0fab27",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "6C75479C",
   "no_intro_name": "Metroid Fusion (USA)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AMTE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Metroid Fusion (USA)",
   "zh-Hans": "银河战士 - 融合"
  },
- "vendor": "Chrono",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

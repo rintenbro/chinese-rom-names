@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5092BE10",
+   "name": "游戏王 (繁)(unknown)(8Mb).gb",
+   "size": 2097152
+  }
+ ],
+ "group": "Yu-Gi-Oh! Duel Monsters (Japan) (SGB Enhanced)",
+ "hack_group": "unknown",
+ "id": "prb-gb-5092be10",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "8875EC54",
+  "no_intro_name": "Yu-Gi-Oh! Duel Monsters (Japan) (SGB Enhanced)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "游戏王"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

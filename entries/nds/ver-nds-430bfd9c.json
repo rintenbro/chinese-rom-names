@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Chou Soujuu Mecha MG",
+ "group": "Chou Soujuu Mecha MG (Japan)",
+ "hack_group": "",
  "id": "ver-nds-430bfd9c",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "288F5E78",
   "no_intro_name": "Chou Soujuu Mecha MG (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "AIGJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Chou Soujuu Mecha MG (Japan)",
   "zh-Hans": "超操纵机器MG v1.0.1"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

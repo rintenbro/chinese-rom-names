@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "17EEE1AF",
+   "name": "勇者斗恶龙6 (简) (v0.92) (英菜单)(勇者汉化组)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Dragon Quest VI - Maboroshi no Daichi (Japan)",
+ "hack_group": "勇者汉化组",
+ "id": "prb-sfc-17eee1af",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Dragon Quest VI - Maboroshi no Daichi (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "勇者斗恶龙6"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v0.92"
+}

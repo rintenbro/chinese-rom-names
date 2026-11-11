@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-66e413602da1/title.png"
+ },
+ "files": [
+  {
+   "crc32": "FAB140AB",
+   "name": "小太极 - 神话历险 (繁) (新特奇).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Taichi Kid - Mythology Adventure (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-gbc-fab140ab",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Taichi Kid - Mythology Adventure (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "小太极 - 神话历险"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

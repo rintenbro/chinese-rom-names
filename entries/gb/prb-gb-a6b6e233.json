@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A6B6E233",
+   "name": "太空战士IV (繁) (unknown)(4Mb).gb",
+   "size": 524288
+  }
+ ],
+ "group": "Seiken Densetsu - Final Fantasy Gaiden (Japan)",
+ "hack_group": "unknown",
+ "id": "prb-gb-a6b6e233",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Seiken Densetsu - Final Fantasy Gaiden (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "太空战士IV"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

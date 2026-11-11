@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5DCFB9A9",
+   "name": "奇异 – 猴子们的宝岛 (简)(v1.1)(hlken)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Marvelous - Mouhitotsu no Takara-jima (Japan)",
+ "hack_group": "hlken",
+ "id": "prb-sfc-5dcfb9a9",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "CEDF3BA7",
+  "no_intro_name": "Marvelous - Mouhitotsu no Takara-jima (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "奇异 – 猴子们的宝岛"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

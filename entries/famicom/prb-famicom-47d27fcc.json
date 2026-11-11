@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "47D27FCC",
+   "name": "快打旋风3(简)[dfqshy](CN)[ACT](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "Final Fight 3 (Taiwan) (En) (Pirate)",
+ "hack_group": "dfqshy",
+ "id": "prb-famicom-47d27fcc",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "E3417A8D",
+  "no_intro_name": "Final Fight 3 (Taiwan) (En) (Pirate)",
+  "region": "Taiwan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "快打旋风3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

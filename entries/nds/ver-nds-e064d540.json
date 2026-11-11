@@ -11,10 +11,9 @@
    "size": 56658204
   }
  ],
- "group": "Kyuukyuu Kyuumei Caduceus 2",
+ "group": "Kyuukyuu Kyuumei Caduceus 2 (Japan)",
+ "hack_group": "joyful",
  "id": "ver-nds-e064d540",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "41081D21",
   "no_intro_name": "Kyuukyuu Kyuumei Caduceus 2 (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YYKJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Kyuukyuu Kyuumei Caduceus 2 (Japan)",
   "zh-Hans": "超执刀2 全文本汉化版"
  },
- "vendor": "joyful",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

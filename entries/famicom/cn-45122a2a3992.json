@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BCD00F2D",
+   "name": "武林外传(简)[南晶科技](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "武林外传",
+ "hack_group": "南晶科技",
+ "id": "cn-45122a2a3992",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "武林外传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

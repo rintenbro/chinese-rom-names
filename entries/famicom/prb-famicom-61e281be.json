@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "61E281BE",
+   "name": "康体舞王(繁)[未知](CN)[ETC](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Kangti Wu Wang (China) (En) (Pirate)",
+ "hack_group": "未知",
+ "id": "prb-famicom-61e281be",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Kangti Wu Wang (China) (En) (Pirate)",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "康体舞王"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

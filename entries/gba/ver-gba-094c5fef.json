@@ -11,10 +11,9 @@
    "size": 4194304
   }
  ],
- "group": "Ice Age",
+ "group": "Ice Age (Japan)",
+ "hack_group": "没必要汉化汉化组",
  "id": "ver-gba-094c5fef",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "6D457F4C",
   "no_intro_name": "Ice Age (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AIAJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Ice Age (Japan)",
   "zh-Hans": "冰河世纪"
  },
- "vendor": "没必要汉化汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

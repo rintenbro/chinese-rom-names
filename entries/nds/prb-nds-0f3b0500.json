@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0F3B0500",
+   "name": "美少女麻将 封印九尾狐Remix 图文完全汉化版(JP)(APEX汉化组)(512Mb).nds",
+   "size": 34538832
+  }
+ ],
+ "group": "Chuukana Janshi Tenho Painyan Remix (Japan)",
+ "hack_group": "APEX汉化组",
+ "id": "prb-nds-0f3b0500",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Chuukana Janshi Tenho Painyan Remix (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "美少女麻将 封印九尾狐Remix 图文完全汉化版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

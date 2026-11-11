@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D58216A1",
+   "name": "激斗大力机甲(简)(v1.02)(求真)(8Mb).gb",
+   "size": 1048576
+  }
+ ],
+ "group": "Gekitou Power Modeller (Japan) (SGB Enhanced)",
+ "hack_group": "",
+ "id": "prb-gb-d58216a1",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "48C1EE22",
+  "no_intro_name": "Gekitou Power Modeller (Japan) (SGB Enhanced)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "激斗大力机甲"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.02"
+}

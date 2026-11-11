@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DE922EFE",
+   "name": "红线 命运DS(JP)(扑家汉化组)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Akai Ito Destiny DS (Japan)",
+ "hack_group": "扑家汉化组",
+ "id": "prb-nds-de922efe",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "DB592926",
+  "no_intro_name": "Akai Ito Destiny DS (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "红线 命运DS"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

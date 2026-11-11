@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "784FC411",
+   "name": "西游记世界2 天上界的魔神(简)[Nineswords](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Saiyuuki World 2 - Tenjoukai no Majin (Japan)",
+ "hack_group": "Nineswords",
+ "id": "prb-famicom-784fc411",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "9B540713",
+  "no_intro_name": "Saiyuuki World 2 - Tenjoukai no Majin (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "西游记世界2 天上界的魔神"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-5cdbde16bb37/title.png"
+ },
+ "files": [
+  {
+   "crc32": "A7B53474",
+   "name": "风之谷II (简) (新特奇).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "风之谷II",
+ "hack_group": "",
+ "id": "cn-f0331818102c",
+ "platform": "gbc",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "风之谷II"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "23C066ED",
+   "name": "火焰之纹章3 - 纹章之谜(简)(v1.03乱码修复)(狼组+飞雨影)(24Mb).sfc",
+   "size": 3145728
+  }
+ ],
+ "group": "Fire Emblem - Monshou no Nazo (Japan)",
+ "hack_group": "狼组+飞雨影",
+ "id": "prb-sfc-23c066ed",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "25D214F4",
+  "no_intro_name": "Fire Emblem - Monshou no Nazo (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "火焰之纹章3 - 纹章之谜"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

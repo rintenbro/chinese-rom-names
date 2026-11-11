@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Boukyaku no Senritsu",
+ "group": "Boukyaku no Senritsu (Japan)",
+ "hack_group": "1d4444+CLARK.H",
  "id": "ver-gba-253ef788",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "128EDC4F",
   "no_intro_name": "Boukyaku no Senritsu (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BBSJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Boukyaku no Senritsu (Japan)",
   "zh-Hans": "忘却的旋律"
  },
- "vendor": "1d4444+CLARK.H",
+ "type": "game",
+ "vendor": "",
  "version": "v1.0"
 }

@@ -11,10 +11,9 @@
    "size": 45159636
   }
  ],
- "group": "Sakasete! Chibi-Robo!",
+ "group": "Sakasete! Chibi-Robo! (Japan)",
+ "hack_group": "巴士汉化组",
  "id": "ver-nds-056b62c9",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "B77D7EA5",
   "no_intro_name": "Sakasete! Chibi-Robo! (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "AJBJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Sakasete! Chibi-Robo! (Japan)",
   "zh-Hans": "开花吧！小机器人 V8完美版"
  },
- "vendor": "巴士汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

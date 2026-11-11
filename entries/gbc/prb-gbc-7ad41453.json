@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7AD41453",
+   "name": "勇者斗恶龙怪兽篇2 - 鲁卡大冒险(简)(修正版v0.49)(hqqqqtv)(32Mb).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Dragon Quest Monsters 2 - Maruta no Fushigina Kagi - Ruka no Tabidachi (Japan) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "hqqqqtv",
+ "id": "prb-gbc-7ad41453",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Dragon Quest Monsters 2 - Maruta no Fushigina Kagi - Ruka no Tabidachi (Japan) (SGB Enhanced) (GB Compatible)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "勇者斗恶龙怪兽篇2 - 鲁卡大冒险"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v0.49"
+}

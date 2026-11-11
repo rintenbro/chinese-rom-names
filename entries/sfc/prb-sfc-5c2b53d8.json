@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5C2B53D8",
+   "name": "SD高达外传2 圆桌骑士(简)(小鬼混+阿刃+飞雨影)(16Mb).sfc",
+   "size": 1572864
+  }
+ ],
+ "group": "SD Gundam Gaiden 2 - Entaku no Kishi (Japan)",
+ "hack_group": "小鬼混+阿刃+飞雨影",
+ "id": "prb-sfc-5c2b53d8",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "SD Gundam Gaiden 2 - Entaku no Kishi (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "SD高达外传2 圆桌骑士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

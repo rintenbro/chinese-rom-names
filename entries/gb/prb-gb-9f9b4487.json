@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9F9B4487",
+   "name": "SD高达外传 (繁) (修正版) (Mezaransu)(4Mb).gb",
+   "size": 524288
+  }
+ ],
+ "group": "SD Gundam Gaiden - Lacroan' Heroes (Japan)",
+ "hack_group": "Mezaransu",
+ "id": "prb-gb-9f9b4487",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "SD Gundam Gaiden - Lacroan' Heroes (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "SD高达外传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

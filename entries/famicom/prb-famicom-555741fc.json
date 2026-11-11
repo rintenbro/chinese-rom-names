@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "555741FC",
+   "name": "1942(简)[6502](JU)[STG](0.62Mb).nes",
+   "size": 81936
+  }
+ ],
+ "group": "1942 (Japan, USA) (En)",
+ "hack_group": "",
+ "id": "prb-famicom-555741fc",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "74D7BAE1",
+  "no_intro_name": "1942 (Japan, USA) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "1942"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 33554432
   }
  ],
- "group": "Riviera - Yakusoku no Chi Riviera",
+ "group": "Riviera - Yakusoku no Chi Riviera (Japan)",
+ "hack_group": "PromisedLand",
  "id": "ver-gba-96e75ee1",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "F73B840F",
   "no_intro_name": "Riviera - Yakusoku no Chi Riviera (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BREJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Riviera - Yakusoku no Chi Riviera (Japan)",
   "zh-Hans": "约束之地 - 利维艾拉"
  },
- "vendor": "PromisedLand",
+ "type": "game",
+ "vendor": "",
  "version": "v1.05"
 }

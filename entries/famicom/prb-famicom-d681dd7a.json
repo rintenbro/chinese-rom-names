@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D681DD7A",
+   "name": "荒野大镖客(v3)(修正版)(简)[高艳龙+MS](US)[STG](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Gun.Smoke (USA)",
+ "hack_group": "高艳龙+MS",
+ "id": "prb-famicom-d681dd7a",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "FC48FC3C",
+  "no_intro_name": "Gun.Smoke (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "荒野大镖客"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v3"
+}

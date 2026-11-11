@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4CB917BC",
+   "name": "双截龙3 罗塞塔石碑(简)[Madcell](JP)[ACT](2.25Mb).nes",
+   "size": 294928
+  }
+ ],
+ "group": "Double Dragon III - The Sacred Stones (USA)",
+ "hack_group": "Madcell",
+ "id": "prb-famicom-4cb917bc",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "EB44EEFC",
+  "no_intro_name": "Double Dragon III - The Sacred Stones (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "双截龙3 罗塞塔石碑"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

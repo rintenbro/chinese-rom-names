@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Sangokushi - Eiketsuden",
+ "group": "Sangokushi - Eiketsuden (Japan)",
+ "hack_group": "Dangfer",
  "id": "ver-gba-f3af6089",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "A4A1C956",
   "no_intro_name": "Sangokushi - Eiketsuden (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "B3EJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Sangokushi - Eiketsuden (Japan)",
   "zh-Hans": "三国志英杰传"
  },
- "vendor": "Dangfer",
+ "type": "game",
+ "vendor": "",
  "version": "v1.0"
 }

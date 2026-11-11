@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "52B5D37A",
+   "name": "海腹川背 旬 Second Edition 完全版(JP)(ACG汉化组)(256Mb).nds",
+   "size": 19788832
+  }
+ ],
+ "group": "Umihara Kawase Shun - Second Edition Kanzen Ban (Japan)",
+ "hack_group": "ACG汉化组",
+ "id": "prb-nds-52b5d37a",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "FF1F3223",
+  "no_intro_name": "Umihara Kawase Shun - Second Edition Kanzen Ban (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "海腹川背 旬 Second Edition 完全版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

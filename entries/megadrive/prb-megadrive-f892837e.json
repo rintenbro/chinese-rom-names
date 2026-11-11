@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F892837E",
+   "name": "斩-夜叉圆舞曲 (简) (cslrxyz)(4Mb).md",
+   "size": 524288
+  }
+ ],
+ "group": "Zan - Yasha Enbukyoku (Japan)",
+ "hack_group": "cslrxyz",
+ "id": "prb-megadrive-f892837e",
+ "platform": "megadrive",
+ "probable_original": {
+  "crc32": "637FE8F3",
+  "no_intro_name": "Zan - Yasha Enbukyoku (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "斩-夜叉圆舞曲"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

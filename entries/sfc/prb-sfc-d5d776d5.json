@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D5D776D5",
+   "name": "横山光辉三国志 (繁) (v1.2)(混沌星辰)(8Mb).sfc",
+   "size": 1048576
+  }
+ ],
+ "group": "Yokoyama Mitsuteru Sangokushi (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-d5d776d5",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "E386D2BE",
+  "no_intro_name": "Yokoyama Mitsuteru Sangokushi (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "横山光辉三国志"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.2"
+}

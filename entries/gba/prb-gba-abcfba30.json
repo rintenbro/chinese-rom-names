@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "ABCFBA30",
+   "name": "成龙历险记 黑手党传说[Advance汉化组](v1.1)(简)(64Mb).gba",
+   "size": 7941408
+  }
+ ],
+ "group": "Jackie Chan Adventures - Legend of the Dark Hand (USA, Europe)",
+ "hack_group": "Advance汉化组",
+ "id": "prb-gba-abcfba30",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "13247954",
+  "no_intro_name": "Jackie Chan Adventures - Legend of the Dark Hand (USA, Europe)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "成龙历险记 黑手党传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

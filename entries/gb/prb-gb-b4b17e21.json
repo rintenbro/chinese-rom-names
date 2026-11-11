@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B4B17E21",
+   "name": "圣斗士星矢 最强的战士们(简)(罗伊SD)(4Mb).gb",
+   "size": 524288
+  }
+ ],
+ "group": "Seisenshi - Saint Paradise - Saikyou no Senshitachi (Japan)",
+ "hack_group": "",
+ "id": "prb-gb-b4b17e21",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "D6FE3C56",
+  "no_intro_name": "Seisenshi - Saint Paradise - Saikyou no Senshitachi (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "圣斗士星矢 最强的战士们"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

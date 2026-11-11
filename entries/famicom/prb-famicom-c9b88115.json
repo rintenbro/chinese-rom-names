@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C9B88115",
+   "name": "塞尔达传说(Zpix)(简)[小笨笨](US)[RPG](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Legend of Zelda, The (USA)",
+ "hack_group": "Zpix 小笨笨",
+ "id": "prb-famicom-c9b88115",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "316CFF69",
+  "no_intro_name": "Legend of Zelda, The (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "塞尔达传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

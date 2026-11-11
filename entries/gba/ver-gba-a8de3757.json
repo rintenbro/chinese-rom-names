@@ -11,10 +11,9 @@
    "size": 4233872
   }
  ],
- "group": "Mario Kart - Super Circuit",
+ "group": "Mario Kart - Super Circuit (USA)",
+ "hack_group": "Chrono",
  "id": "ver-gba-a8de3757",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "ED316E37",
   "no_intro_name": "Mario Kart - Super Circuit (USA)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AMKE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Mario Kart - Super Circuit (USA)",
   "zh-Hans": "马里奥赛车 - 超级巡回赛"
  },
- "vendor": "Chrono",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

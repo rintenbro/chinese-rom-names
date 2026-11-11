@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F92783D0",
+   "name": "古大陆物语2(简)(小鬼混)(32Mb).smc",
+   "size": 4194304
+  }
+ ],
+ "group": "Farland Story 2 (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-f92783d0",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "1CF58DE9",
+  "no_intro_name": "Farland Story 2 (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "古大陆物语2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

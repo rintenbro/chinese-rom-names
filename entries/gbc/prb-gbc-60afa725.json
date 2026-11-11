@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "60AFA725",
+   "name": "勇者斗恶龙I&II(繁)(修正版)(unknown+星夜之幻)(JP)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Dragon Quest I & II (Japan) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "unknown+星夜之幻",
+ "id": "prb-gbc-60afa725",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Dragon Quest I & II (Japan) (SGB Enhanced) (GB Compatible)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "勇者斗恶龙I&II"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

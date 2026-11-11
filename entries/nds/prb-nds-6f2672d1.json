@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6F2672D1",
+   "name": "简单DS系列Vol.18 THE装甲机兵(JP)(的士汉化组)(256Mb).nds",
+   "size": 28869920
+  }
+ ],
+ "group": "Simple DS Series Vol. 18 - The Soukou Kihei Gun Ground (Japan)",
+ "hack_group": "的士汉化组",
+ "id": "prb-nds-6f2672d1",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "F6B57CCD",
+  "no_intro_name": "Simple DS Series Vol. 18 - The Soukou Kihei Gun Ground (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "简单DS系列Vol.18 THE装甲机兵"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

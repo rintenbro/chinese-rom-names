@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-938bfb7627e4/title.png"
+ },
+ "files": [
+  {
+   "crc32": "1B47C2C0",
+   "name": "外星战士2(简)[外星科技+147201688](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "外星战士2",
+ "hack_group": "外星科技+147201688",
+ "id": "cn-10d538edb4b5",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "外星战士2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

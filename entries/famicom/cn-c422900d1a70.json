@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-baed81897641/title.png"
+ },
+ "files": [
+  {
+   "crc32": "E813A625",
+   "name": "杨家将(简)[外星科技](CN)[SLG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "杨家将",
+ "hack_group": "外星科技",
+ "id": "cn-c422900d1a70",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "杨家将"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

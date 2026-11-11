@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5462B57C",
+   "name": "小讨厌 - 梦幻仙境 (简)(v1.1)(Advance汉化组)(8Mb).sfc",
+   "size": 1048576
+  }
+ ],
+ "group": "Yadamon - Wonderland Dream (Japan)",
+ "hack_group": "Advance汉化组",
+ "id": "prb-sfc-5462b57c",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "B5292147",
+  "no_intro_name": "Yadamon - Wonderland Dream (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "小讨厌 - 梦幻仙境"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

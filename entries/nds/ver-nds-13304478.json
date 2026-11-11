@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "New Rainbow Islands",
+ "group": "New Rainbow Islands (Japan)",
+ "hack_group": "PGCG汉化组",
  "id": "ver-nds-13304478",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "80DB7665",
   "no_intro_name": "New Rainbow Islands (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "ARIJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "New Rainbow Islands (Japan)",
   "zh-Hans": "新彩虹岛"
  },
- "vendor": "PGCG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

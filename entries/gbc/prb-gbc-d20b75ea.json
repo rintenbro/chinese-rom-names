@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-ba4a9e84a117/title.png"
+ },
+ "files": [
+  {
+   "crc32": "D20B75EA",
+   "name": "英雄天下 (繁) (Yong Yong).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Capcom vs SNK (China) [CHT]",
+ "hack_group": "Yong Yong",
+ "id": "prb-gbc-d20b75ea",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Capcom vs SNK (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "英雄天下"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 4194304
   }
  ],
- "group": "Dragon's Lair",
+ "group": "Dragon's Lair (USA, Europe) (En,Ja,Fr,De,Es,Zh)",
+ "hack_group": "Capcom",
  "id": "ver-gbc-bf076ca5",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "BF076CA5",
   "no_intro_name": "Dragon's Lair (USA, Europe) (En,Ja,Fr,De,Es,Zh)",
@@ -23,12 +22,12 @@
  },
  "platform": "gbc",
  "script": "繁",
- "serial": "",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Dragon's Lair (USA, Europe) (En,Ja,Fr,De,Es,Zh)",
   "zh-Hans": "龙的传说"
  },
- "vendor": "Capcom",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

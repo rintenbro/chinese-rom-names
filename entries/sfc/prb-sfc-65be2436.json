@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "65BE2436",
+   "name": "天外魔境 (简) (v1.0)(ACG & 星组)(40Mb).sfc",
+   "size": 5242880
+  }
+ ],
+ "group": "Tengai Makyou Zero (Japan)",
+ "hack_group": "ACG & 星组",
+ "id": "prb-sfc-65be2436",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "1E327BD9",
+  "no_intro_name": "Tengai Makyou Zero (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "天外魔境"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

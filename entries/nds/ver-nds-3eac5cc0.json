@@ -11,10 +11,9 @@
    "size": 268435456
   }
  ],
- "group": "Pocket Monsters - White",
+ "group": "Pocket Monsters - White (Japan) (NDSi Enhanced)",
+ "hack_group": "ACG汉化组&ykaljshsh",
  "id": "ver-nds-3eac5cc0",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "CAA820CB",
   "no_intro_name": "Pocket Monsters - White (Japan) (NDSi Enhanced)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简繁",
- "serial": "IRAJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Pocket Monsters - White (Japan) (NDSi Enhanced)",
   "zh-Hans": "口袋妖怪 白 V3修正版"
  },
- "vendor": "ACG汉化组&ykaljshsh",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

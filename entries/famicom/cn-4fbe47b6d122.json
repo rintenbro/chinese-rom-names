@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-2e953aa21bfd/title.png"
+ },
+ "files": [
+  {
+   "crc32": "10C6931D",
+   "name": "推倒胡麻将(繁)[凯程电子](JP)[TAB](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "推倒胡麻将",
+ "hack_group": "凯程电子",
+ "id": "cn-4fbe47b6d122",
+ "platform": "famicom",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "推倒胡麻将"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

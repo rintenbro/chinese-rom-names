@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-59e008056c67/title.png"
+ },
+ "files": [
+  {
+   "crc32": "8907AD00",
+   "name": "重装机兵 (简) (外星科技).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "重装机兵",
+ "hack_group": "",
+ "id": "cn-67a6a2a92d59",
+ "platform": "gbc",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "重装机兵"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

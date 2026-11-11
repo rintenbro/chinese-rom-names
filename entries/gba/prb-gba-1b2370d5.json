@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1B2370D5",
+   "name": "超级机器人大战A[盗版](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Super Robot Taisen A (Japan)",
+ "hack_group": "盗版",
+ "id": "prb-gba-1b2370d5",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Super Robot Taisen A (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级机器人大战A"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

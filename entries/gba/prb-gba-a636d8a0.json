@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A636D8A0",
+   "name": "随身对局 - 役满Advance[盗版&Lifeiyu&Romanticdog](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Dokodemo Taikyoku - Yakuman Advance (Japan)",
+ "hack_group": "盗版&Lifeiyu&Romanticdog",
+ "id": "prb-gba-a636d8a0",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "C2424EDD",
+  "no_intro_name": "Dokodemo Taikyoku - Yakuman Advance (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "随身对局 - 役满Advance"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

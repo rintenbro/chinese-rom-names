@@ -11,10 +11,9 @@
    "size": 33554432
   }
  ],
- "group": "Renzhe Shen Gui 2",
+ "group": "Renzhe Shen Gui 2 (Taiwan)",
+ "hack_group": "D商+yy小龙虾",
  "id": "ver-gba-f4641711",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "F4641711",
   "no_intro_name": "Renzhe Shen Gui 2 (Taiwan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "未标注",
- "serial": "",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Renzhe Shen Gui 2 (Taiwan)",
   "zh-Hans": "忍者神龟2"
  },
- "vendor": "D商+yy小龙虾",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

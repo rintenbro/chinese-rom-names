@@ -11,10 +11,9 @@
    "size": 14176964
   }
  ],
- "group": "Ant Nation",
+ "group": "Ant Nation (Europe) (En,Fr,De,Es,It)",
+ "hack_group": "小黑屋汉化组",
  "id": "ver-nds-f2294b66",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "00F7A863",
   "no_intro_name": "Ant Nation (Europe) (En,Fr,De,Es,It)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "BANP",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Ant Nation (Europe) (En,Fr,De,Es,It)",
   "zh-Hans": "蚂蚁王国 4.23"
  },
- "vendor": "小黑屋汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

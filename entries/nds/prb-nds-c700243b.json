@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C700243B",
+   "name": "集合！卡比 v20200227(无补丁版)(简)(JP)(那个汉化组)(512Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Atsumete! Kirby (Japan)",
+ "hack_group": "那个汉化组",
+ "id": "prb-nds-c700243b",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "47DB3918",
+  "no_intro_name": "Atsumete! Kirby (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "集合！卡比 v20200227"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

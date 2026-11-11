@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Chinmoku no Iseki - Estpolis Gaiden",
+ "group": "Chinmoku no Iseki - Estpolis Gaiden (Japan)",
+ "hack_group": "盗版&唐晓东",
  "id": "ver-gba-da006e58",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "2C00B4E6",
   "no_intro_name": "Chinmoku no Iseki - Estpolis Gaiden (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "繁",
- "serial": "AGDJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Chinmoku no Iseki - Estpolis Gaiden (Japan)",
   "zh-Hans": "沉默的遗迹 - 四狂神战记"
  },
- "vendor": "盗版&唐晓东",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

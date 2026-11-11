@@ -11,10 +11,9 @@
    "size": 123296808
   }
  ],
- "group": "LEGO Battles",
+ "group": "LEGO Battles (USA) (En,Fr,Es)",
+ "hack_group": "陨石大战临时有爱汉化组之乐高大战临时有爱汉化小分队",
  "id": "ver-nds-e134e35e",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "00BB6D1E",
   "no_intro_name": "LEGO Battles (USA) (En,Fr,Es)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "C5SE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "LEGO Battles (USA) (En,Fr,Es)",
   "zh-Hans": "乐高大战 简、正、英三语版"
  },
- "vendor": "陨石大战临时有爱汉化组之乐高大战临时有爱汉化小分队",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

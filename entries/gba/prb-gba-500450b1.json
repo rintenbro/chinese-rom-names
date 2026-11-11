@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "500450B1",
+   "name": "阿拉丁[Advance汉化组](v1.0)(简)(32Mb).gba",
+   "size": 5319968
+  }
+ ],
+ "group": "Aladdin (Japan)",
+ "hack_group": "Advance汉化组",
+ "id": "prb-gba-500450b1",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "587F1AEF",
+  "no_intro_name": "Aladdin (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "阿拉丁"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

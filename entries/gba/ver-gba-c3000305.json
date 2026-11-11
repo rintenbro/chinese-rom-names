@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "EZ-Talk - Shokyuu Hen 2",
+ "group": "EZ-Talk - Shokyuu Hen 2 (Japan)",
+ "hack_group": "Lirdrepus",
  "id": "ver-gba-c3000305",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "38D91A54",
   "no_intro_name": "EZ-Talk - Shokyuu Hen 2 (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "繁",
- "serial": "A23J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "EZ-Talk - Shokyuu Hen 2 (Japan)",
   "zh-Hans": "简单说英文 - 初级篇2"
  },
- "vendor": "Lirdrepus",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

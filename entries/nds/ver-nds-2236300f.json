@@ -11,10 +11,9 @@
    "size": 64011616
   }
  ],
- "group": "Super Robot Taisen K",
+ "group": "Super Robot Taisen K (Japan)",
+ "hack_group": "",
  "id": "ver-nds-2236300f",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "5510236D",
   "no_intro_name": "Super Robot Taisen K (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YSDJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Super Robot Taisen K (Japan)",
   "zh-Hans": "超级机器人大战K 简体公测版1.0"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

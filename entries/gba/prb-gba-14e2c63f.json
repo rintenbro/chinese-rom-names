@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "14E2C63F",
+   "name": "大战略GBA[飞越无尽暗空](v20130212)(简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Daisenryaku for Game Boy Advance (Japan)",
+ "hack_group": "飞越无尽暗空",
+ "id": "prb-gba-14e2c63f",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "3D644946",
+  "no_intro_name": "Daisenryaku for Game Boy Advance (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "大战略GBA"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20130212"
+}

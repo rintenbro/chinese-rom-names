@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F442A103",
+   "name": "SD高达外传 拉古罗亚群英传 (简) (DMG汉化组)(4Mb).gb",
+   "size": 524288
+  }
+ ],
+ "group": "SD Gundam Gaiden - Lacroan' Heroes (Japan)",
+ "hack_group": "DMG汉化组",
+ "id": "prb-gb-f442a103",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "C9DBBA10",
+  "no_intro_name": "SD Gundam Gaiden - Lacroan' Heroes (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "SD高达外传 拉古罗亚群英传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

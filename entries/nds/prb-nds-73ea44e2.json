@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "73EA44E2",
+   "name": "斯隆与马克海尔的谜之物语(繁)(JP)(zzz5655)(512Mb).nds",
+   "size": 61002188
+  }
+ ],
+ "group": "Sloane to MacHale no Nazo no Story (Japan)",
+ "hack_group": "zzz5655",
+ "id": "prb-nds-73ea44e2",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "6CE44D4B",
+  "no_intro_name": "Sloane to MacHale no Nazo no Story (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "斯隆与马克海尔的谜之物语"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

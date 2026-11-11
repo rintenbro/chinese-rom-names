@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Pokemon - FireRed Version",
+ "group": "Pokemon - FireRed Version (USA, Europe)",
+ "hack_group": "电光一闪23333",
  "id": "ver-gba-1e8c2622",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "DD88761C",
   "no_intro_name": "Pokemon - FireRed Version (USA, Europe)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BPRE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Pokemon - FireRed Version (USA, Europe)",
   "zh-Hans": "口袋妖怪 - 火红"
  },
- "vendor": "电光一闪23333",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

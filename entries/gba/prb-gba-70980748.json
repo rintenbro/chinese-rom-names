@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "70980748",
+   "name": "木乃伊归来[oldgba](简)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "Mummy, The (USA) (En,Fr,De,Es,It)",
+ "hack_group": "oldgba",
+ "id": "prb-gba-70980748",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "55BF350B",
+  "no_intro_name": "Mummy, The (USA) (En,Fr,De,Es,It)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "木乃伊归来"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

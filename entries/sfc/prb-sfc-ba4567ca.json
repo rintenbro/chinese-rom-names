@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BA4567CA",
+   "name": "兰古瑞萨Der (简) (v1.31)(痕 & 雪剑冰刀)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Langrisser, Der (Japan)",
+ "hack_group": "痕 & 雪剑冰刀",
+ "id": "prb-sfc-ba4567ca",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "7AEDD703",
+  "no_intro_name": "Langrisser, Der (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "兰古瑞萨Der"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.31"
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-75be26f1c580/title.png"
+ },
+ "files": [
+  {
+   "crc32": "62A8836B",
+   "name": "星河战士(繁)[恒格电子](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "星河战士",
+ "hack_group": "恒格电子",
+ "id": "cn-6f9173cba711",
+ "platform": "famicom",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "星河战士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

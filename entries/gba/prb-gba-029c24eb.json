@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "029C24EB",
+   "name": "口袋怪兽 - 蓝宝石 (早期错译版)[盗版&蜡笔小新](繁)(64Mb).GBA",
+   "size": 1048576
+  }
+ ],
+ "group": "Pocket Monsters - Sapphire (Japan)",
+ "hack_group": "盗版&蜡笔小新",
+ "id": "prb-gba-029c24eb",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "FD1EEB78",
+  "no_intro_name": "Pocket Monsters - Sapphire (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋怪兽 - 蓝宝石"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 41288280
   }
  ],
- "group": "Monster Tale",
+ "group": "Monster Tale (USA)",
+ "hack_group": "临时有爱汉化组",
  "id": "ver-nds-0082d267",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "7C200814",
   "no_intro_name": "Monster Tale (USA)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "BIHE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Monster Tale (USA)",
   "zh-Hans": "怪兽传说"
  },
- "vendor": "临时有爱汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

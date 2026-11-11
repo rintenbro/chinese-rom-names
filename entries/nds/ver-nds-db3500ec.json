@@ -11,10 +11,9 @@
    "size": 118694644
   }
  ],
- "group": "Sangokushi Taisen DS",
+ "group": "Sangokushi Taisen DS (Japan)",
+ "hack_group": "CG汉化组",
  "id": "ver-nds-db3500ec",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "81CF7995",
   "no_intro_name": "Sangokushi Taisen DS (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "A3DJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Sangokushi Taisen DS (Japan)",
   "zh-Hans": "三国志大战DS 汉化重润版"
  },
- "vendor": "CG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

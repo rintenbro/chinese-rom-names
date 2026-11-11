@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FED6B127",
+   "name": "塞尔达传说2 林克的冒险(简)[小笨笨](US)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Zelda II - The Adventure of Link (USA)",
+ "hack_group": "小笨笨",
+ "id": "prb-famicom-fed6b127",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "861C3FE6",
+  "no_intro_name": "Zelda II - The Adventure of Link (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "塞尔达传说2 林克的冒险"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

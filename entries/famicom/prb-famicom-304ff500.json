@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "304FF500",
+   "name": "热血物语(简)[PKome](US)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "River City Ransom (USA)",
+ "hack_group": "PKome",
+ "id": "prb-famicom-304ff500",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "527A65D6",
+  "no_intro_name": "River City Ransom (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "热血物语"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

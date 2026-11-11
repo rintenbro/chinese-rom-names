@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6ED7AB5E",
+   "name": "异形战士(简)(少年不知愁)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Alien Soldier (Japan)",
+ "hack_group": "",
+ "id": "prb-megadrive-6ed7ab5e",
+ "platform": "megadrive",
+ "probable_original": {
+  "crc32": "90FA1539",
+  "no_intro_name": "Alien Soldier (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "异形战士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

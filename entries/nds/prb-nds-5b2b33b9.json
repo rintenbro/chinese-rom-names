@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5B2B33B9",
+   "name": "美少女梦工场4DS 特别版 (繁)全文本汉化版 1.1(JP)(joyful)(1024Mb).nds",
+   "size": 129635980
+  }
+ ],
+ "group": "Princess Maker 4 - Special Edition (Japan)",
+ "hack_group": "joyful",
+ "id": "prb-nds-5b2b33b9",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "2E925FF3",
+  "no_intro_name": "Princess Maker 4 - Special Edition (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "美少女梦工场4DS 特别版 全文本汉化版 1.1"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

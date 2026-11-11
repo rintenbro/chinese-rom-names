@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9A4057AA",
+   "name": "节奏天国 黄金版(简)(庞伙计节奏工作室)(1024Mb).nds",
+   "size": 121116896
+  }
+ ],
+ "group": "Rhythm Sesang (Korea)",
+ "hack_group": "庞伙计节奏工作室",
+ "id": "prb-nds-9a4057aa",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "F5030BD6",
+  "no_intro_name": "Rhythm Sesang (Korea)",
+  "region": "Korea"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "节奏天国 黄金版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

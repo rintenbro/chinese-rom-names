@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "536A3D96",
+   "name": "Elminage 暗之巫女与众神的戒指 REMIX 测试1.5版(JP)(聚贤庄汉化组)(1024Mb).nds",
+   "size": 100371756
+  }
+ ],
+ "group": "Elminage - Yami no Miko to Kamigami no Yubiwa - DS Remix (Japan)",
+ "hack_group": "聚贤庄汉化组",
+ "id": "prb-nds-536a3d96",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "A6707127",
+  "no_intro_name": "Elminage - Yami no Miko to Kamigami no Yubiwa - DS Remix (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "Elminage 暗之巫女与众神的戒指 REMIX 测试1.5版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

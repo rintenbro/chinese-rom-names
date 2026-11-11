@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "48CC8CD7",
+   "name": "牧场物语 (繁) (v2.0)(TGB汉化工作室)(16Mb).sfc",
+   "size": 2097152
+  }
+ ],
+ "group": "Bokujou Monogatari (Japan)",
+ "hack_group": "TGB汉化工作室",
+ "id": "prb-sfc-48cc8cd7",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Bokujou Monogatari (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "牧场物语"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v2.0"
+}

@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Essential Sudoku DS",
+ "group": "Essential Sudoku DS (Europe)",
+ "hack_group": "",
  "id": "ver-nds-de4f5247",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "307E17D9",
   "no_intro_name": "Essential Sudoku DS (Europe)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "AZIP",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Essential Sudoku DS (Europe)",
   "zh-Hans": "竞争数独DS"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

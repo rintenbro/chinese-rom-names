@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Pocket Monsters - Emerald",
+ "group": "Pocket Monsters - Emerald (Japan)",
+ "hack_group": "盗版&Jirachi",
  "id": "ver-gba-e5d2c720",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "4881F3F8",
   "no_intro_name": "Pocket Monsters - Emerald (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BPEJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Pocket Monsters - Emerald (Japan)",
   "zh-Hans": "口袋妖怪 - 绿宝石"
  },
- "vendor": "盗版&Jirachi",
+ "type": "game",
+ "vendor": "",
  "version": "v2.4"
 }

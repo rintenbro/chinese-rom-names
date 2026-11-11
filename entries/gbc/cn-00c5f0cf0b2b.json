@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8B0B2AE4",
+   "name": "真女神转生 - 红之书 (繁) (unknown).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Shin Megami Tensei Devil Children - Aka no Sho (Japan) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "unknown",
+ "id": "cn-00c5f0cf0b2b",
+ "platform": "gbc",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "真女神转生 - 红之书"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

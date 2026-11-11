@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C47FED45",
+   "name": "口袋妖怪卡片版(宝可梦卡牌GB)(简)(v1.01)(Advance汉化组)(8Mb).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Pokemon Card GB (Japan) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "Advance汉化组",
+ "id": "prb-gbc-c47fed45",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "1926F570",
+  "no_intro_name": "Pokemon Card GB (Japan) (SGB Enhanced) (GB Compatible)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪卡片版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.01"
+}

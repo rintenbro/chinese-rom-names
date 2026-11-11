@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A6F69C53",
+   "name": "火焰之纹章5 - 多拉基亚776(简)(v1.01+实机菜单修复+标点修复V3)(狼组+hiken+willzyj)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Fire Emblem - Thracia 776 (Japan)",
+ "hack_group": "v1.01+实机菜单修复+标点修复V3 狼组+hiken+willzyj",
+ "id": "prb-sfc-a6f69c53",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Fire Emblem - Thracia 776 (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "火焰之纹章5 - 多拉基亚776"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

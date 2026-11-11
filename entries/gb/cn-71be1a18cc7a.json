@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gb/cn-279dfd35715e/title.png"
+ },
+ "files": [
+  {
+   "crc32": "74FBBDC2",
+   "name": "悟空外传 - 激斗篇 (繁) (修正版) (unknown)(4Mb).gb",
+   "size": 524288
+  }
+ ],
+ "group": "悟空外传 - 激斗篇",
+ "hack_group": "unknown",
+ "id": "cn-71be1a18cc7a",
+ "platform": "gb",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "悟空外传 - 激斗篇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

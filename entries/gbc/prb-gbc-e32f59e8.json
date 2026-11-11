@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E32F59E8",
+   "name": "勇者斗恶龙III (简) (装备正常) (unknown).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Dragon Quest III - Soshite Densetsu e... (Japan)",
+ "hack_group": "unknown",
+ "id": "prb-gbc-e32f59e8",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Dragon Quest III - Soshite Densetsu e... (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "勇者斗恶龙III"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

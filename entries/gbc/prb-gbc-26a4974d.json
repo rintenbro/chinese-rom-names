@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "26A4974D",
+   "name": "游戏王 - 怪兽胶囊(v1.5)(简)(DMG汉化组)(JP)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Yu-Gi-Oh! - Monster Capsule GB (Japan) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "DMG汉化组",
+ "id": "prb-gbc-26a4974d",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "1371E872",
+  "no_intro_name": "Yu-Gi-Oh! - Monster Capsule GB (Japan) (SGB Enhanced) (GB Compatible)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "游戏王 - 怪兽胶囊"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.5"
+}

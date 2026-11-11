@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5E1FDAB2",
+   "name": "蓝龙 异界巨兽(JP)(天幻汉化组)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Blue Dragon - Ikai no Kyojuu (Japan)",
+ "hack_group": "天幻汉化组",
+ "id": "prb-nds-5e1fdab2",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "5107E127",
+  "no_intro_name": "Blue Dragon - Ikai no Kyojuu (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "蓝龙 异界巨兽"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

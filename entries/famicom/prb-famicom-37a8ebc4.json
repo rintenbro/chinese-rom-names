@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "37A8EBC4",
+   "name": "美国富豪(繁)[恒格电子](CN)[TAB](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "Meiguo Fuhao (China)",
+ "hack_group": "恒格电子",
+ "id": "prb-famicom-37a8ebc4",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "F7E8FCD6",
+  "no_intro_name": "Meiguo Fuhao (China)",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "美国富豪"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

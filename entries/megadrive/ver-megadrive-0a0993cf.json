@@ -1,0 +1,33 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0A0993CF",
+   "name": "信长野望 - 霸王传 (繁) (永盛)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Xin Zhang Yewang - Bawang Chuan (China) (Pirate)",
+ "hack_group": "",
+ "id": "ver-megadrive-0a0993cf",
+ "original": {
+  "crc32": "0A0993CF",
+  "no_intro_name": "Xin Zhang Yewang - Bawang Chuan (China) (Pirate)",
+  "region": "China",
+  "size": 2097152
+ },
+ "platform": "megadrive",
+ "script": "繁",
+ "source": "no-intro",
+ "status": "verified",
+ "titles": {
+  "zh-Hans": "信长野望 - 霸王传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

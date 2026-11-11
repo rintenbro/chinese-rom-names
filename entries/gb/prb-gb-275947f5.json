@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "275947F5",
+   "name": "瓜瓜火龙 (繁) (Gowin)(0.5Mb).gb",
+   "size": 65536
+  }
+ ],
+ "group": "Fire Dragon (China) [CHT]",
+ "hack_group": "Gowin",
+ "id": "prb-gb-275947f5",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Fire Dragon (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "瓜瓜火龙"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

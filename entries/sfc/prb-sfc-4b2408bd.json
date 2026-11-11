@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4B2408BD",
+   "name": "伊苏5 失落的砂之都凯芬(繁)(飞云+雷闪)(32Mb).smc",
+   "size": 4194304
+  }
+ ],
+ "group": "Ys V - Ushinawareta Suna no Miyako Kefin (Japan)",
+ "hack_group": "飞云+雷闪",
+ "id": "prb-sfc-4b2408bd",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "5E08C48C",
+  "no_intro_name": "Ys V - Ushinawareta Suna no Miyako Kefin (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "伊苏5 失落的砂之都凯芬"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

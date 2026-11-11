@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E7C13B89",
+   "name": "圣剑传说(简)(v1.1)(RangerMarsh)(4Mb).gb",
+   "size": 524288
+  }
+ ],
+ "group": "Seiken Densetsu - Final Fantasy Gaiden (Japan)",
+ "hack_group": "RangerMarsh",
+ "id": "prb-gb-e7c13b89",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Seiken Densetsu - Final Fantasy Gaiden (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "圣剑传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

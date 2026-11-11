@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1CCF7040",
+   "name": "0378 火炎之纹章-封印之剑.gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Fire Emblem - Fuuin no Tsurugi (Japan)",
+ "hack_group": "",
+ "id": "prb-gba-1ccf7040",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "D38763E1",
+  "no_intro_name": "Fire Emblem - Fuuin no Tsurugi (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "火炎之纹章-封印之剑"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

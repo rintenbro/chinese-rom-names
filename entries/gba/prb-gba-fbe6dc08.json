@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FBE6DC08",
+   "name": "风之少年 - 梦之帝国[TGB](简)(US)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "Klonoa - Empire of Dreams (USA)",
+ "hack_group": "",
+ "id": "prb-gba-fbe6dc08",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "F74E1036",
+  "no_intro_name": "Klonoa - Empire of Dreams (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "风之少年 - 梦之帝国"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

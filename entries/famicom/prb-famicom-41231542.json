@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "41231542",
+   "name": "魂斗罗力量之战(v1.0)(简)[星空](US)[ACT](2.12Mb).nes",
+   "size": 278544
+  }
+ ],
+ "group": "Contra Force (USA)",
+ "hack_group": "星空",
+ "id": "prb-famicom-41231542",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Contra Force (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "魂斗罗力量之战"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

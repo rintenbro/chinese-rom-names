@@ -11,10 +11,9 @@
    "size": 55206424
   }
  ],
- "group": "SimCity DS 2 - Kodai kara Mirai e Tsuzuku Machi",
+ "group": "SimCity DS 2 - Kodai kara Mirai e Tsuzuku Machi (Japan)",
+ "hack_group": "ACG汉化组",
  "id": "ver-nds-c6776cab",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "809FC966",
   "no_intro_name": "SimCity DS 2 - Kodai kara Mirai e Tsuzuku Machi (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YC2J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "SimCity DS 2 - Kodai kara Mirai e Tsuzuku Machi (Japan)",
   "zh-Hans": "模拟城市DS2 由远古向未来的城市"
  },
- "vendor": "ACG汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

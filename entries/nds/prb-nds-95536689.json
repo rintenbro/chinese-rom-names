@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "95536689",
+   "name": "风舞格斗 20080803(JP)(罗伊SD)(128Mb).nds",
+   "size": 16777216
+  }
+ ],
+ "group": "Windy x Windam (Japan)",
+ "hack_group": "",
+ "id": "prb-nds-95536689",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "787318E4",
+  "no_intro_name": "Windy x Windam (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "风舞格斗 20080803"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

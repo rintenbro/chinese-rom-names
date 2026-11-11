@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "372D860F",
+   "name": "空中魂斗罗(简)[金明](JP)[STG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Final Mission (Japan)",
+ "hack_group": "金明",
+ "id": "prb-famicom-372d860f",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "290DD12F",
+  "no_intro_name": "Final Mission (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "空中魂斗罗"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

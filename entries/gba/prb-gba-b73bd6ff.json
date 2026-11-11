@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B73BD6FF",
+   "name": "寂静岭[云山](完全汉化版v20200325)(简)(JP)(65Mb).gba",
+   "size": 8455568
+  }
+ ],
+ "group": "Play Novel - Silent Hill (Japan)",
+ "hack_group": "云山",
+ "id": "prb-gba-b73bd6ff",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "318A1E9B",
+  "no_intro_name": "Play Novel - Silent Hill (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "寂静岭"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20200325"
+}

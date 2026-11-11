@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-2309c6e3f8e5/title.png"
+ },
+ "files": [
+  {
+   "crc32": "FD26C284",
+   "name": "超级忍(简)[天空联盟](CN)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "超级忍",
+ "hack_group": "天空联盟",
+ "id": "cn-439e6cc60e7a",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "超级忍"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 8495104
   }
  ],
- "group": "Super Mario Ball",
+ "group": "Super Mario Ball (Japan)",
+ "hack_group": "天使汉化组&漫游",
  "id": "ver-gba-8d9b7c28",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "7EB4A336",
   "no_intro_name": "Super Mario Ball (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BMVJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Super Mario Ball (Japan)",
   "zh-Hans": "超级马里奥弹珠台"
  },
- "vendor": "天使汉化组&漫游",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

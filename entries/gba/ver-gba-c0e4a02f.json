@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Sennen Kazoku",
+ "group": "Sennen Kazoku (Japan)",
+ "hack_group": "sten42",
  "id": "ver-gba-c0e4a02f",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "A2F6976C",
   "no_intro_name": "Sennen Kazoku (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BKAJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Sennen Kazoku (Japan)",
   "zh-Hans": "千年家族人"
  },
- "vendor": "sten42",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

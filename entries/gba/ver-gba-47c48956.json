@@ -11,10 +11,9 @@
    "size": 10562848
   }
  ],
- "group": "Yu-Gi-Oh! - Sugoroku no Sugoroku",
+ "group": "Yu-Gi-Oh! - Sugoroku no Sugoroku (Japan)",
+ "hack_group": "Advance汉化组",
  "id": "ver-gba-47c48956",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "8D52B3C5",
   "no_intro_name": "Yu-Gi-Oh! - Sugoroku no Sugoroku (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BYSJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Yu-Gi-Oh! - Sugoroku no Sugoroku (Japan)",
   "zh-Hans": "游戏王 双六的骰子"
  },
- "vendor": "Advance汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

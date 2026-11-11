@@ -11,10 +11,9 @@
    "size": 207732284
   }
  ],
- "group": "Pocket Monsters - Black",
+ "group": "Pocket Monsters - Black (Japan) (NDSi Enhanced)",
+ "hack_group": "ACG汉化组&ykaljshsh",
  "id": "ver-nds-3da45ec1",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "33AF46D5",
   "no_intro_name": "Pocket Monsters - Black (Japan) (NDSi Enhanced)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简繁",
- "serial": "IRBJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Pocket Monsters - Black (Japan) (NDSi Enhanced)",
   "zh-Hans": "口袋妖怪 黑 V3修正版 模拟器版"
  },
- "vendor": "ACG汉化组&ykaljshsh",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

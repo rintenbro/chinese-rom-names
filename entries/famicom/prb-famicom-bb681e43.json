@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BB681E43",
+   "name": "马戏团(简)[卡通](JP)[ACT](0.18Mb).nes",
+   "size": 24592
+  }
+ ],
+ "group": "Circus Charlie (Japan) (En)",
+ "hack_group": "卡通",
+ "id": "prb-famicom-bb681e43",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "963DD3C3",
+  "no_intro_name": "Circus Charlie (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "马戏团"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

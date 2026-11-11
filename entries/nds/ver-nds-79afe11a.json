@@ -11,10 +11,9 @@
    "size": 134217728
   }
  ],
- "group": "Doki Doki Majo Shinpan!",
+ "group": "Doki Doki Majo Shinpan! (Japan)",
+ "hack_group": "",
  "id": "ver-nds-79afe11a",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "68107D8D",
   "no_intro_name": "Doki Doki Majo Shinpan! (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "A3BJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Doki Doki Majo Shinpan! (Japan)",
   "zh-Hans": "心跳魔女神判 文本汉化版35.28%"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

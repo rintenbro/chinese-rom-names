@@ -11,10 +11,9 @@
    "size": 33554432
   }
  ],
- "group": "Koisuru Purin! - Koi wa Daibouken! Dr. Kanmi no Yabou!",
+ "group": "Koisuru Purin! - Koi wa Daibouken! Dr. Kanmi no Yabou! (Japan)",
+ "hack_group": "SOMA汉化组",
  "id": "ver-nds-148f69ca",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "6E912283",
   "no_intro_name": "Koisuru Purin! - Koi wa Daibouken! Dr. Kanmi no Yabou! (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "CIPJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Koisuru Purin! - Koi wa Daibouken! Dr. Kanmi no Yabou! (Japan)",
   "zh-Hans": "恋爱布丁 恋爱大冒险！"
  },
- "vendor": "SOMA汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

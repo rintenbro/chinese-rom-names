@@ -11,10 +11,9 @@
    "size": 134217728
   }
  ],
- "group": "Rhythm Heaven",
+ "group": "Rhythm Heaven (USA)",
+ "hack_group": "远离汉化组",
  "id": "ver-nds-8c3df52b",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "13C65089",
   "no_intro_name": "Rhythm Heaven (USA)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YLZE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Rhythm Heaven (USA)",
   "zh-Hans": "节奏天国 黄金版 英文语音汉化版"
  },
- "vendor": "远离汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

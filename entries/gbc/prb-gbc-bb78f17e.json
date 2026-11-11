@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-215bbb6a5969/title.png"
+ },
+ "files": [
+  {
+   "crc32": "BB78F17E",
+   "name": "海战奇兵 (繁) (新特奇).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Hai Zhan Qi Bing (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-gbc-bb78f17e",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Hai Zhan Qi Bing (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "海战奇兵"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

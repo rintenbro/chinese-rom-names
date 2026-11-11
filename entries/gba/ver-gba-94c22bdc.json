@@ -11,10 +11,9 @@
    "size": 4194304
   }
  ],
- "group": "Kiki Kaikai Advance",
+ "group": "Kiki Kaikai Advance (Japan)",
+ "hack_group": "天使汉化组",
  "id": "ver-gba-94c22bdc",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "1C61225B",
   "no_intro_name": "Kiki Kaikai Advance (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "繁",
- "serial": "AKIJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Kiki Kaikai Advance (Japan)",
   "zh-Hans": "奇奇怪界Advance"
  },
- "vendor": "天使汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

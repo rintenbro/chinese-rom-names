@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "08776CB0",
+   "name": "口袋妖怪黃 (繁) (加強版) (unknown).gb",
+   "size": 1048576
+  }
+ ],
+ "group": "Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (CGB+SGB Enhanced)",
+ "hack_group": "unknown",
+ "id": "prb-gb-08776cb0",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (CGB+SGB Enhanced)",
+  "region": "USA, Europe"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪黃"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 33554432
   }
  ],
- "group": "Urbz, The - Sims in the City",
+ "group": "Urbz, The - Sims in the City (USA, Europe) (En,Fr,De,Es,It,Nl)",
+ "hack_group": "UE Beq+TGB+jumzhu",
  "id": "ver-gba-5efca698",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "8B3330BB",
   "no_intro_name": "Urbz, The - Sims in the City (USA, Europe) (En,Fr,De,Es,It,Nl)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BOCE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Urbz, The - Sims in the City (USA, Europe) (En,Fr,De,Es,It,Nl)",
   "zh-Hans": "模拟人生 上流社会"
  },
- "vendor": "UE / Beq+TGB+jumzhu",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

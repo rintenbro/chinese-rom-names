@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E3D4F749",
+   "name": "帝国战机(简)[高伟](JP)[STG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Crisis Force (Japan) (En)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-e3d4f749",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "A980813D",
+  "no_intro_name": "Crisis Force (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "帝国战机"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

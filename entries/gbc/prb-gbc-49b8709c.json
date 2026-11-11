@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "49B8709C",
+   "name": "洛克人X2 消魂者(简)(DMG汉化组)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Rockman X2 - Soul Eraser (Japan)",
+ "hack_group": "DMG汉化组",
+ "id": "prb-gbc-49b8709c",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "17913DD0",
+  "no_intro_name": "Rockman X2 - Soul Eraser (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "洛克人X2 消魂者"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

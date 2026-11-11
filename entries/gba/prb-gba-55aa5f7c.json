@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "55AA5F7C",
+   "name": "简单2960好友系列Vol.3 - 星光魔法使[Nailgo](简)(JP)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "Simple 2960 Tomodachi Series Vol. 3 - The Itsudemo Puzzle - Massugu Soroete Straws (Japan)",
+ "hack_group": "Nailgo",
+ "id": "prb-gba-55aa5f7c",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "49B92627",
+  "no_intro_name": "Simple 2960 Tomodachi Series Vol. 3 - The Itsudemo Puzzle - Massugu Soroete Straws (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "简单2960好友系列Vol.3 - 星光魔法使"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

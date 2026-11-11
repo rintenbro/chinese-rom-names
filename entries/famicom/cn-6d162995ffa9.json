@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D2C415F0",
+   "name": "超级贪吃蛇(简)[菜菜学堂](CN)[ACT](0.43Mb).nes",
+   "size": 57360
+  }
+ ],
+ "group": "超级贪吃蛇",
+ "hack_group": "菜菜学堂",
+ "id": "cn-6d162995ffa9",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "超级贪吃蛇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

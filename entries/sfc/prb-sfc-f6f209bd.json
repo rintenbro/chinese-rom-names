@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F6F209BD",
+   "name": "快打旋风2(简)(大字汉化版)(九尾猫)(16Mb).sfc",
+   "size": 2097152
+  }
+ ],
+ "group": "Final Fight 2 (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-f6f209bd",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "F41E1A5A",
+  "no_intro_name": "Final Fight 2 (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "快打旋风2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 28385904
   }
  ],
- "group": "Yoshi's Island DS",
+ "group": "Yoshi's Island DS (USA)",
+ "hack_group": "flyeyes",
  "id": "ver-nds-1cde01de",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "C9964EE1",
   "no_intro_name": "Yoshi's Island DS (USA)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "AYWE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Yoshi's Island DS (USA)",
   "zh-Hans": "耀西岛DS"
  },
- "vendor": "flyeyes",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

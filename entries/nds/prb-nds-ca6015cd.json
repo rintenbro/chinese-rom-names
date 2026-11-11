@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CA6015CD",
+   "name": "口袋妖怪守护者 光之轨迹(JP)(TeePartei)(1024Mb).nds",
+   "size": 117739520
+  }
+ ],
+ "group": "Pokemon Ranger - Hikari no Kiseki (Japan)",
+ "hack_group": "TeePartei",
+ "id": "prb-nds-ca6015cd",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "F4DCA07C",
+  "no_intro_name": "Pokemon Ranger - Hikari no Kiseki (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪守护者 光之轨迹"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

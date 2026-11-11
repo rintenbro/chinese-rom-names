@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "56D2B64F",
+   "name": "海贼王 灵魂装备 最终版(JP)(APEX汉化组)(512Mb).nds",
+   "size": 39032872
+  }
+ ],
+ "group": "One Piece - Gear Spirit (Japan)",
+ "hack_group": "APEX汉化组",
+ "id": "prb-nds-56d2b64f",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "One Piece - Gear Spirit (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "海贼王 灵魂装备 最终版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

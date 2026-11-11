@@ -11,10 +11,9 @@
    "size": 49835436
   }
  ],
- "group": "Cross Treasures",
+ "group": "Cross Treasures (Japan)",
+ "hack_group": "Lamer汉化组&维希",
  "id": "ver-nds-066f5150",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "44109EE3",
   "no_intro_name": "Cross Treasures (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "BDNJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Cross Treasures (Japan)",
   "zh-Hans": "夺宝猎人 修正&英文道具"
  },
- "vendor": "Lamer汉化组&维希",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

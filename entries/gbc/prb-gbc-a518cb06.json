@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A518CB06",
+   "name": "三国志 (简) (unknown).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Sangokushi - Game Boy Ban 2 (Japan) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "unknown",
+ "id": "prb-gbc-a518cb06",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "E787B44C",
+  "no_intro_name": "Sangokushi - Game Boy Ban 2 (Japan) (SGB Enhanced) (GB Compatible)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "三国志"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

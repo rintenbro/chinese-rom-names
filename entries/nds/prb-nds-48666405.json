@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "48666405",
+   "name": "呷哺星球 完整汉化版(简)(罗伊SD+地狱樱)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Gabu Gabu Planet (Japan)",
+ "hack_group": "罗伊SD+地狱樱",
+ "id": "prb-nds-48666405",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "710B2414",
+  "no_intro_name": "Gabu Gabu Planet (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "呷哺星球 完整汉化版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

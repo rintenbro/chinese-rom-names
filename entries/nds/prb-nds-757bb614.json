@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "757BB614",
+   "name": "堕天使的甜蜜诱惑x快感指令(JP)(DA游选组&扑家汉化组)(-2048Mb).nds",
+   "size": 208704552
+  }
+ ],
+ "group": "Datenshi no Amai Yuuwaku x Kaikan Phrase (Japan)",
+ "hack_group": "DA游选组&扑家汉化组",
+ "id": "prb-nds-757bb614",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "DA90A663",
+  "no_intro_name": "Datenshi no Amai Yuuwaku x Kaikan Phrase (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "堕天使的甜蜜诱惑x快感指令"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

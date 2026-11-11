@@ -11,10 +11,9 @@
    "size": 16872464
   }
  ],
- "group": "Yu-Gi-Oh! Duel Monsters 8 - Hametsu no Daijashin",
+ "group": "Yu-Gi-Oh! Duel Monsters 8 - Hametsu no Daijashin (Japan)",
+ "hack_group": "Advance汉化组",
  "id": "ver-gba-34bf2509",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "681DAF1F",
   "no_intro_name": "Yu-Gi-Oh! Duel Monsters 8 - Hametsu no Daijashin (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AY8J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Yu-Gi-Oh! Duel Monsters 8 - Hametsu no Daijashin (Japan)",
   "zh-Hans": "游戏王! - 怪兽决斗8 破灭的大邪神"
  },
- "vendor": "Advance汉化组",
+ "type": "game",
+ "vendor": "",
  "version": "v1.0"
 }

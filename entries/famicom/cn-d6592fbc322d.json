@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-8c6f4d93ba3d/title.png"
+ },
+ "files": [
+  {
+   "crc32": "158963B3",
+   "name": "圣剑传说(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "group": "圣剑传说",
+ "hack_group": "南晶科技",
+ "id": "cn-d6592fbc322d",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "圣剑传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

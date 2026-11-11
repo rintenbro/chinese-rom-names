@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "13937085",
+   "name": "谎言的圆舞曲(繁)(JP)(HACC)(512Mb).nds",
+   "size": 50281696
+  }
+ ],
+ "group": "Itsuwari no Rondo (Japan)",
+ "hack_group": "HACC",
+ "id": "prb-nds-13937085",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "6B670412",
+  "no_intro_name": "Itsuwari no Rondo (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "谎言的圆舞曲"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

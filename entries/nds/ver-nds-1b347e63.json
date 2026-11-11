@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Puyo Puyo 7",
+ "group": "Puyo Puyo 7 (Japan)",
+ "hack_group": "兔友汉化组",
  "id": "ver-nds-1b347e63",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "A6B06082",
   "no_intro_name": "Puyo Puyo 7 (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "BYOJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Puyo Puyo 7 (Japan)",
   "zh-Hans": "噗哟噗哟7"
  },
- "vendor": "兔友汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

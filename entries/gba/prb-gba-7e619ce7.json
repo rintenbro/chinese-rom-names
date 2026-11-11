@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7E619CE7",
+   "name": "黄金太阳1润色美化版_IDK-if-its-final.gba",
+   "size": 9256960
+  }
+ ],
+ "group": "Ougon no Taiyou - Hirakareshi Fuuin (Japan)",
+ "hack_group": "",
+ "id": "prb-gba-7e619ce7",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "FB96D9DE",
+  "no_intro_name": "Ougon no Taiyou - Hirakareshi Fuuin (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "黄金太阳1润色美化版_IDK-if-its-final"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

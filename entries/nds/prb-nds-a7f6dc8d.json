@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A7F6DC8D",
+   "name": "押忍！奋斗！应援团 汉化测试版(JP)(HOho汉化组)(512Mb).nds",
+   "size": 67043432
+  }
+ ],
+ "group": "Osu! Tatakae! Ouendan (Japan)",
+ "hack_group": "HOho汉化组",
+ "id": "prb-nds-a7f6dc8d",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "2D59B3C8",
+  "no_intro_name": "Osu! Tatakae! Ouendan (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "押忍！奋斗！应援团 汉化测试版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-50c54c25426c/title.png"
+ },
+ "files": [
+  {
+   "crc32": "EAF0621E",
+   "name": "梦幻沙漏(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "group": "梦幻沙漏",
+ "hack_group": "南晶科技",
+ "id": "cn-76047ff25c89",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "梦幻沙漏"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 60705792
   }
  ],
- "group": "Elebits - Kai to Zero no Fushigi na Tabi",
+ "group": "Elebits - Kai to Zero no Fushigi na Tabi (Japan)",
+ "hack_group": "akairyusei",
  "id": "ver-nds-4d7caba4",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "BEB8C0F9",
   "no_intro_name": "Elebits - Kai to Zero no Fushigi na Tabi (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "繁",
- "serial": "YERJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Elebits - Kai to Zero no Fushigi na Tabi (Japan)",
   "zh-Hans": "能源小精灵"
  },
- "vendor": "akairyusei",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AE3E3238",
+   "name": "街头 热血物语(大字体融合版)(v2)(简)[大糯米藕+asiwish+腓特烈](JP)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Downtown - Nekketsu Monogatari (Japan)",
+ "hack_group": "大糯米藕+asiwish+腓特烈",
+ "id": "prb-famicom-ae3e3238",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "2E6EB9F6",
+  "no_intro_name": "Downtown - Nekketsu Monogatari (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "街头 热血物语"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v2"
+}

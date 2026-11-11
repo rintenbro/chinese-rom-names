@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/md/cn-5d25703322ee/title.png"
+ },
+ "files": [
+  {
+   "crc32": "F6C2CFF2",
+   "name": "姬麻将之麻将情人 (繁) (修正版) (Nemesis_c修正)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Ji Ma Jiang - Ma Jiang Qing Ren (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-megadrive-f6c2cff2",
+ "platform": "megadrive",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Ji Ma Jiang - Ma Jiang Qing Ren (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "姬麻将之麻将情人"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

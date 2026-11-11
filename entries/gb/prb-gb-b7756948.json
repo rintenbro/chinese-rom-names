@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B7756948",
+   "name": "龙珠Z 悟空激斗传(简)(v1.0重翻汉化版)(RangerMarsh)(8Mb).gb",
+   "size": 1048576
+  }
+ ],
+ "group": "Dragon Ball Z - Gokuu Gekitouden (Japan) (SGB Enhanced)",
+ "hack_group": "RangerMarsh",
+ "id": "prb-gb-b7756948",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "FF3C027D",
+  "no_intro_name": "Dragon Ball Z - Gokuu Gekitouden (Japan) (SGB Enhanced)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "龙珠Z 悟空激斗传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

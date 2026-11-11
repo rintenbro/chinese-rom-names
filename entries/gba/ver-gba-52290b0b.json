@@ -11,10 +11,9 @@
    "size": 33554432
   }
  ],
- "group": "Riviera - The Promised Land",
+ "group": "Riviera - The Promised Land (USA)",
+ "hack_group": "盗版 & Maxzhou88",
  "id": "ver-gba-52290b0b",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "4FB6958D",
   "no_intro_name": "Riviera - The Promised Land (USA)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BREE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Riviera - The Promised Land (USA)",
   "zh-Hans": "约束之地 - 利维艾拉"
  },
- "vendor": "盗版 & Maxzhou88",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

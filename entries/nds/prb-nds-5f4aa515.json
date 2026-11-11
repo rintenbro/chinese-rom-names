@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5F4AA515",
+   "name": "寒蝉鸣泣之时绊 第二卷 想 AI汉化v1.0.4(简)(芙兰几木露)(2048Mb).nds",
+   "size": 268435456
+  }
+ ],
+ "group": "Higurashi no Naku Koro ni Kizuna II - Dainikan - Sou (Japan)",
+ "hack_group": "",
+ "id": "prb-nds-5f4aa515",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "20D34479",
+  "no_intro_name": "Higurashi no Naku Koro ni Kizuna II - Dainikan - Sou (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "寒蝉鸣泣之时绊 第二卷 想 AI汉化v1.0.4"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

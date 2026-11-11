@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A29DAC53",
+   "name": "暴力摩托(简)(宇夜喵)(8Mb).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Road Rash (USA, Europe)",
+ "hack_group": "",
+ "id": "prb-gbc-a29dac53",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "11025EEB",
+  "no_intro_name": "Road Rash (USA, Europe)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "暴力摩托"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

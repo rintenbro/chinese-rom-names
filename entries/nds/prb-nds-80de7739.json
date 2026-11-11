@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "80DE7739",
+   "name": "迷失蔚蓝 小岛的大秘密(JP)(ACG汉化组)(512Mb).nds",
+   "size": 62267916
+  }
+ ],
+ "group": "Survival Kids - Chiisana Shima no Ookina Himitsu! (Japan)",
+ "hack_group": "ACG汉化组",
+ "id": "prb-nds-80de7739",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "1FC21E2F",
+  "no_intro_name": "Survival Kids - Chiisana Shima no Ookina Himitsu! (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "迷失蔚蓝 小岛的大秘密"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

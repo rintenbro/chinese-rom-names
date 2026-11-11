@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "47D63A80",
+   "name": "泡泡龙(v20101230)(繁)[NOKOH](US)[ACT](1.43Mb).nes",
+   "size": 188432
+  }
+ ],
+ "group": "Bubble Bobble (USA)",
+ "hack_group": "NOKOH",
+ "id": "prb-famicom-47d63a80",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "77F5AB9B",
+  "no_intro_name": "Bubble Bobble (USA)",
+  "region": "USA"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "泡泡龙"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20101230"
+}

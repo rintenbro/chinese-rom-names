@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AEDB7243",
+   "name": "任天狗 拉布拉多(US)(YYJoy汉化组)(512Mb).nds",
+   "size": 29101024
+  }
+ ],
+ "group": "Nintendogs - Lab & Friends (USA, Australia)",
+ "hack_group": "YYJoy汉化组",
+ "id": "prb-nds-aedb7243",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "616F5D3F",
+  "no_intro_name": "Nintendogs - Lab & Friends (USA, Australia)",
+  "region": "USA"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "任天狗 拉布拉多"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "EFFB8E63",
+   "name": "时空勇士 (简) (v1.0)(Werther等)(20Mb).sfc",
+   "size": 2621440
+  }
+ ],
+ "group": "Live A Live (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-effb8e63",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "6291EE08",
+  "no_intro_name": "Live A Live (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "时空勇士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

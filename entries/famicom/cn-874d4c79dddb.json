@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-ebd9b2c1141b/title.png"
+ },
+ "files": [
+  {
+   "crc32": "E42D67BC",
+   "name": "地道战(繁)[外星科技](CN)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "地道战",
+ "hack_group": "外星科技",
+ "id": "cn-874d4c79dddb",
+ "platform": "famicom",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "地道战"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

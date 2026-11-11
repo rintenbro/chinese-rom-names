@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AD6ADB87",
+   "name": "第4次超级机器人大战 (简)(完整汉化)(WGF)(32Mb).smc",
+   "size": 4194304
+  }
+ ],
+ "group": "Dai-4-ji Super Robot Taisen (Japan)",
+ "hack_group": "WGF",
+ "id": "prb-sfc-ad6adb87",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Dai-4-ji Super Robot Taisen (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "第4次超级机器人大战"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

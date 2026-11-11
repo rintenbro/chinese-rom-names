@@ -11,10 +11,9 @@
    "size": 33554432
   }
  ],
- "group": "Unknown Soldier - Mokuba no Houkou",
+ "group": "Unknown Soldier - Mokuba no Houkou (Japan)",
+ "hack_group": "zakuwarrior",
  "id": "ver-nds-23d48f96",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "3B9D1332",
   "no_intro_name": "Unknown Soldier - Mokuba no Houkou (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "CUMJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Unknown Soldier - Mokuba no Houkou (Japan)",
   "zh-Hans": "无名英雄 木马的咆哮 简体大字汉化版"
  },
- "vendor": "zakuwarrior",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

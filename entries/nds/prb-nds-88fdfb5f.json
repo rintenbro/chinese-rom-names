@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "88FDFB5F",
+   "name": "月球(US)(远离汉化组)(512Mb).nds",
+   "size": 65533988
+  }
+ ],
+ "group": "Moon (USA)",
+ "hack_group": "远离汉化组",
+ "id": "prb-nds-88fdfb5f",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "F6B0937D",
+  "no_intro_name": "Moon (USA)",
+  "region": "USA"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "月球"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "78F64D7F",
+   "name": "超级玛利欧收藏辑(繁)(日版汉化v1.1_20250804)(NOKOH)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Super Mario Collection (Japan)",
+ "hack_group": "NOKOH",
+ "id": "prb-sfc-78f64d7f",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Super Mario Collection (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级玛利欧收藏辑"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

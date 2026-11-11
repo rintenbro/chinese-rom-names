@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "One Piece",
+ "group": "One Piece (USA)",
+ "hack_group": "Flyeyes",
  "id": "ver-gba-5ddd1988",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "7D2CF2A1",
   "no_intro_name": "One Piece (USA)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BONE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "One Piece (USA)",
   "zh-Hans": "海贼王"
  },
- "vendor": "Flyeyes",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

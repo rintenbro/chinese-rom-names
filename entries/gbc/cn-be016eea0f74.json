@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4F784793",
+   "name": "真女神转生 - 黑之书 (繁) (unknown).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Shin Megami Tensei Devil Children - Kuro no Sho (Japan) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "unknown",
+ "id": "cn-be016eea0f74",
+ "platform": "gbc",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "真女神转生 - 黑之书"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

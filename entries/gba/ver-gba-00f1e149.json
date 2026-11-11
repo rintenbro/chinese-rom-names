@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Tennis no Ouji-sama 2003 - Cool Blue",
+ "group": "Tennis no Ouji-sama 2003 - Cool Blue (Japan)",
+ "hack_group": "Kiny",
  "id": "ver-gba-00f1e149",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "9F7FC898",
   "no_intro_name": "Tennis no Ouji-sama 2003 - Cool Blue (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "A9LJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Tennis no Ouji-sama 2003 - Cool Blue (Japan)",
   "zh-Hans": "网球王子2003 - 冰蓝"
  },
- "vendor": "Kiny",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

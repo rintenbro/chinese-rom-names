@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D91D7CAA",
+   "name": "银河战国群雄传 (繁) (完全汉化)(天空汉化组)(16Mb).sfc",
+   "size": 2097152
+  }
+ ],
+ "group": "Ginga Sengoku Gunyuuden Rai (Japan)",
+ "hack_group": "天空汉化组",
+ "id": "prb-sfc-d91d7caa",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "98F76260",
+  "no_intro_name": "Ginga Sengoku Gunyuuden Rai (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "银河战国群雄传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

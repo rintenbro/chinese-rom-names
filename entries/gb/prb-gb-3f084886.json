@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3F084886",
+   "name": "口袋妖怪绿(精灵宝可梦绿) (繁)(完美LOGO+去除开机选择)(unknown+RickyL1213)(8Mb).gb",
+   "size": 1048576
+  }
+ ],
+ "group": "Pocket Monsters - Midori (Japan) (SGB Enhanced)",
+ "hack_group": "完美LOGO+去除开机选择 unknown+RickyL1213",
+ "id": "prb-gb-3f084886",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "BAEACD2B",
+  "no_intro_name": "Pocket Monsters - Midori (Japan) (SGB Enhanced)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪绿"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

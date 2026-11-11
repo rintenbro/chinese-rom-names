@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B25FF781",
+   "name": "死神 - 血染尸魂界[盗版 & Maxzhou88][简](JP)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "Bleach Advance - Kurenai ni Somaru Soul Society (Japan)",
+ "hack_group": "盗版 & Maxzhou88",
+ "id": "prb-gba-b25ff781",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "9DE5CD08",
+  "no_intro_name": "Bleach Advance - Kurenai ni Somaru Soul Society (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "死神 - 血染尸魂界"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

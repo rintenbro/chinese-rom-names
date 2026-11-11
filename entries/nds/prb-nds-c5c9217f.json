@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C5C9217F",
+   "name": "Q版新世纪福音战士(JP)(曲奇汉化组&3DM飞速汉化组)(256Mb).nds",
+   "size": 19378672
+  }
+ ],
+ "group": "Petit Eva - Evangelion@Game (Japan)",
+ "hack_group": "曲奇汉化组&3DM飞速汉化组",
+ "id": "prb-nds-c5c9217f",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "20B8F8D6",
+  "no_intro_name": "Petit Eva - Evangelion@Game (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "Q版新世纪福音战士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

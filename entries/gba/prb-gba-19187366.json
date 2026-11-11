@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "19187366",
+   "name": "龙珠Z - 悟空的遗产II国际版[Superjill&Crystal](繁)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Dragon Ball Z - The Legacy of Goku II International (Japan)",
+ "hack_group": "Superjill&Crystal",
+ "id": "prb-gba-19187366",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "B3297D59",
+  "no_intro_name": "Dragon Ball Z - The Legacy of Goku II International (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "龙珠Z - 悟空的遗产II国际版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

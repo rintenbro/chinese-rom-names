@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F896A163",
+   "name": "三国志 雄霸天下(简)[外星科技](CN)[SLG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Sanguozhi - Xiongba Tianxia (Fighting for Supremacy) (China) (980100026)",
+ "hack_group": "外星科技",
+ "id": "prb-famicom-f896a163",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "3244904A",
+  "no_intro_name": "Sanguozhi - Xiongba Tianxia (Fighting for Supremacy) (China) (980100026)",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "三国志 雄霸天下"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

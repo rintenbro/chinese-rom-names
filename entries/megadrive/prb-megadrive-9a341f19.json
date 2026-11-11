@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9A341F19",
+   "name": "超级街头霸王2 - 未解决 (简) (小鬼混)(40Mb).md",
+   "size": 5242880
+  }
+ ],
+ "group": "Super Street Fighter II - The New Challengers (Japan)",
+ "hack_group": "",
+ "id": "prb-megadrive-9a341f19",
+ "platform": "megadrive",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Super Street Fighter II - The New Challengers (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级街头霸王2 - 未解决"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

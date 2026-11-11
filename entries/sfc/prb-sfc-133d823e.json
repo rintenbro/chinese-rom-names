@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "133D823E",
+   "name": "隐逝的黑暗 (简) (第1章汉化)(HP1980)(24Mb).sfc",
+   "size": 3145728
+  }
+ ],
+ "group": "Dark Half (Japan)",
+ "hack_group": "HP1980",
+ "id": "prb-sfc-133d823e",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "7B9793B1",
+  "no_intro_name": "Dark Half (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "隐逝的黑暗"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 134217728
   }
  ],
- "group": "Bokujou Monogatari - Futago no Mura",
+ "group": "Bokujou Monogatari - Futago no Mura (Japan)",
+ "hack_group": "SOMA汉化组",
  "id": "ver-nds-bf4db9e3",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "B0D2D6F4",
   "no_intro_name": "Bokujou Monogatari - Futago no Mura (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "BKUJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Bokujou Monogatari - Futago no Mura (Japan)",
   "zh-Hans": "牧场物语 双子村"
  },
- "vendor": "SOMA汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

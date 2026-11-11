@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Mario vs. Donkey Kong",
+ "group": "Mario vs. Donkey Kong (Japan)",
+ "hack_group": "Flyeyes",
  "id": "ver-gba-f77e470d",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "7C2B5269",
   "no_intro_name": "Mario vs. Donkey Kong (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BM5J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Mario vs. Donkey Kong (Japan)",
   "zh-Hans": "马里奥VS.大金刚"
  },
- "vendor": "Flyeyes",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

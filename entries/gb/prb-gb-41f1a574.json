@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "41F1A574",
+   "name": "钟为蛙鸣(简)(v1.1.0)(RangerMarsh)(8MB).gb",
+   "size": 1048576
+  }
+ ],
+ "group": "Kaeru no Tame ni Kane wa Naru (Japan)",
+ "hack_group": "RangerMarsh",
+ "id": "prb-gb-41f1a574",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "C18CD57A",
+  "no_intro_name": "Kaeru no Tame ni Kane wa Naru (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "钟为蛙鸣"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1.0"
+}

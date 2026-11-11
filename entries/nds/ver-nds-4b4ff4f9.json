@@ -11,10 +11,9 @@
    "size": 119486512
   }
  ],
- "group": "Nostalgeo no Kaze",
+ "group": "Nostalgeo no Kaze (Japan)",
+ "hack_group": "chienchihfeng",
  "id": "ver-nds-4b4ff4f9",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "96CF5544",
   "no_intro_name": "Nostalgeo no Kaze (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "繁",
- "serial": "CJKJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Nostalgeo no Kaze (Japan)",
   "zh-Hans": "思乡之风V2"
  },
- "vendor": "chienchihfeng",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

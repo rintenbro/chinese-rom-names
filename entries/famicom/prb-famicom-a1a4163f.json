@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A1A4163F",
+   "name": "洛克人(v20250825)(繁)[NOKOH](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Rockman (Japan) (En)",
+ "hack_group": "NOKOH",
+ "id": "prb-famicom-a1a4163f",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Rockman (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "洛克人"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20250825"
+}

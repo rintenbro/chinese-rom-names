@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-678926e50412/title.png"
+ },
+ "files": [
+  {
+   "crc32": "FF10E363",
+   "name": "魔道劫(简)[南晶科技](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "魔道劫",
+ "hack_group": "南晶科技",
+ "id": "cn-f7ce41cdab32",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "魔道劫"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "37805101",
+   "name": "马克斯战士 惑星戒严令(简)[逆游の五彩魚](JP)[STG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Max Warrior - Wakusei Kaigenrei (Japan)",
+ "hack_group": "逆游の五彩魚",
+ "id": "prb-famicom-37805101",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Max Warrior - Wakusei Kaigenrei (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "马克斯战士 惑星戒严令"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4F2B0561",
+   "name": "钟楼惊魂 昔日重现(简)(日文文本汉化)(killllme)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Clock Tower (Japan)",
+ "hack_group": "killllme",
+ "id": "prb-sfc-4f2b0561",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "CBCD0DAD",
+  "no_intro_name": "Clock Tower (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "钟楼惊魂 昔日重现"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

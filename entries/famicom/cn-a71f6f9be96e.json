@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1DFC3D35",
+   "name": "小玛琍(繁)[Idea-Tek](CN)[TAB](0.31Mb).nes",
+   "size": 40976
+  }
+ ],
+ "group": "小玛琍",
+ "hack_group": "Idea-Tek",
+ "id": "cn-a71f6f9be96e",
+ "platform": "famicom",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "小玛琍"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D8281459",
+   "name": "最终幻想2(v20240622)(纯净官译)(简)[LSP](JP)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Final Fantasy II (Japan)",
+ "hack_group": "",
+ "id": "prb-famicom-d8281459",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "9D0529EF",
+  "no_intro_name": "Final Fantasy II (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "最终幻想2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20240622"
+}

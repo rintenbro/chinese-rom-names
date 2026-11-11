@@ -11,10 +11,9 @@
    "size": 8579744
   }
  ],
- "group": "Kokoro ga Uruou - Birei Aquarium DS - Tetra, Guppy, Angelfish",
+ "group": "Kokoro ga Uruou - Birei Aquarium DS - Tetra, Guppy, Angelfish (Japan)",
+ "hack_group": "laubong1",
  "id": "ver-nds-7ab2222f",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "B7D408EE",
   "no_intro_name": "Kokoro ga Uruou - Birei Aquarium DS - Tetra, Guppy, Angelfish (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "繁",
- "serial": "AQ8J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Kokoro ga Uruou - Birei Aquarium DS - Tetra, Guppy, Angelfish (Japan)",
   "zh-Hans": "美丽水族馆DS 灯鱼·孔雀鱼·天使鱼"
  },
- "vendor": "laubong1",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

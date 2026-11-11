@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B0AE9855",
+   "name": "公路赛车(简)[阿渊](JP)[RAC](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Road Fighter (Europe)",
+ "hack_group": "阿渊",
+ "id": "prb-famicom-b0ae9855",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Road Fighter (Europe)",
+  "region": "Europe"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "公路赛车"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

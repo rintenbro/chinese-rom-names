@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9E344849",
+   "name": "精灵宝可梦 黑2 V3(JP)(ACG汉化组&口袋群星SP)(0Mb).nds",
+   "size": 320305592
+  }
+ ],
+ "group": "Pocket Monsters - Black 2 (Japan) (Rev 1) (NDSi Enhanced)",
+ "hack_group": "ACG汉化组&口袋群星SP",
+ "id": "prb-nds-9e344849",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "29C68B2B",
+  "no_intro_name": "Pocket Monsters - Black 2 (Japan) (Rev 1) (NDSi Enhanced)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "精灵宝可梦 黑2 V3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

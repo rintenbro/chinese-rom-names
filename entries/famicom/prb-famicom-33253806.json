@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "33253806",
+   "name": "勇者斗恶龙3 罪恶渊源(简)[晶科泰](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "Yongzhe Dou Elong III - Zuie Yuanyuan (China) (Pirate)",
+ "hack_group": "晶科泰",
+ "id": "prb-famicom-33253806",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Yongzhe Dou Elong III - Zuie Yuanyuan (China) (Pirate)",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "勇者斗恶龙3 罪恶渊源"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

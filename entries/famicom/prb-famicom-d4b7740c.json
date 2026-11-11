@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D4B7740C",
+   "name": "洛克人6 历史上最大的战争(v20061219)(简)[Madcell](JP)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Rockman 6 - Shijou Saidai no Tatakai!! (Japan)",
+ "hack_group": "Madcell",
+ "id": "prb-famicom-d4b7740c",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "4F7F15F5",
+  "no_intro_name": "Rockman 6 - Shijou Saidai no Tatakai!! (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "洛克人6 历史上最大的战争"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20061219"
+}

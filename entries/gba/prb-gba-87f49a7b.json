@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "87F49A7B",
+   "name": "洛克人EXE3 BLX网络大战 (v1.4+)(flyeyes)(简)(80Mb).gba",
+   "size": 10493952
+  }
+ ],
+ "group": "Mega Man - Battle Network 3 - Blue Version (USA)",
+ "hack_group": "v1.4+ flyeyes",
+ "id": "prb-gba-87f49a7b",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "C0C780F9",
+  "no_intro_name": "Mega Man - Battle Network 3 - Blue Version (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "洛克人EXE3 BLX网络大战"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

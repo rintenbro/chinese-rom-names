@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0CCFC696",
+   "name": "不可思议的游戏DS AI汉化(繁)(肉汁拌饭qwq)(2048Mb).nds",
+   "size": 268435456
+  }
+ ],
+ "group": "Fushigi Yuugi DS (Japan)",
+ "hack_group": "",
+ "id": "prb-nds-0ccfc696",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "991E4757",
+  "no_intro_name": "Fushigi Yuugi DS (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "不可思议的游戏DS AI"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F5D0E8DB",
+   "name": "超级街头霸王II X - 重生[左马](简)(JP)(64.13Mb).gba",
+   "size": 8406932
+  }
+ ],
+ "group": "Super Street Fighter II X - Revival (Japan)",
+ "hack_group": "左马",
+ "id": "prb-gba-f5d0e8db",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "7A2C0D61",
+  "no_intro_name": "Super Street Fighter II X - Revival (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级街头霸王II X - 重生"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "80F392C7",
+   "name": "铁板阵(v1.0)(简)[九班](JP)[STG](0.31Mb).nes",
+   "size": 40976
+  }
+ ],
+ "group": "Xevious (Japan) (En)",
+ "hack_group": "九班",
+ "id": "prb-famicom-80f392c7",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "D006E0E8",
+  "no_intro_name": "Xevious (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "铁板阵"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

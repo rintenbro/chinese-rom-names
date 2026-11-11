@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Avatar - The Last Airbender",
+ "group": "Avatar - The Last Airbender (USA)",
+ "hack_group": "Advance汉化组",
  "id": "ver-gba-5727c7fc",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "946787C0",
   "no_intro_name": "Avatar - The Last Airbender (USA)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BQZE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Avatar - The Last Airbender (USA)",
   "zh-Hans": "降世神通 最后的气宗"
  },
- "vendor": "Advance汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D15590E2",
+   "name": "游戏王5D's 桃源乡的复仇 世界冠军2010 0303v1(JP)(CG汉化组)(-2048Mb).nds",
+   "size": 268435456
+  }
+ ],
+ "group": "Yu-Gi-Oh! 5D's - World Championship 2010 - Reverse of Arcadia (Japan) (En,Ja,Fr,De,Es,It)",
+ "hack_group": "CG汉化组",
+ "id": "prb-nds-d15590e2",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "D955594C",
+  "no_intro_name": "Yu-Gi-Oh! 5D's - World Championship 2010 - Reverse of Arcadia (Japan) (En,Ja,Fr,De,Es,It)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "游戏王5D's 桃源乡的复仇 世界冠军2010 0303v1"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

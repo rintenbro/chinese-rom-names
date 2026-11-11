@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E81C3CE5",
+   "name": "超级马里奥Advance 3 - 耀西岛[Flyeyes](简)(US)(40Mb).gba",
+   "size": 5242880
+  }
+ ],
+ "group": "Super Mario Advance 3 - Yoshi's Island (USA)",
+ "hack_group": "Flyeyes",
+ "id": "prb-gba-e81c3ce5",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "40A48276",
+  "no_intro_name": "Super Mario Advance 3 - Yoshi's Island (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级马里奥Advance 3 - 耀西岛"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

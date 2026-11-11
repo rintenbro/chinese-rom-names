@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1F6E5635",
+   "name": "迷宫组曲(简)[高伟](JP)[ACT](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Milon's Secret Castle (USA)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-1f6e5635",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "39961E36",
+  "no_intro_name": "Milon's Secret Castle (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "迷宫组曲"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

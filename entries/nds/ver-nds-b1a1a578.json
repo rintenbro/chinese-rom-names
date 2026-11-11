@@ -11,10 +11,9 @@
    "size": 253264424
   }
  ],
- "group": "Ouran Koukou Host Club DS",
+ "group": "Ouran Koukou Host Club DS (Japan)",
+ "hack_group": "游戏饭饭汉化组",
  "id": "ver-nds-b1a1a578",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "DCA518C9",
   "no_intro_name": "Ouran Koukou Host Club DS (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "COHJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Ouran Koukou Host Club DS (Japan)",
   "zh-Hans": "樱兰高校男公关部DS 1.0"
  },
- "vendor": "游戏饭饭汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

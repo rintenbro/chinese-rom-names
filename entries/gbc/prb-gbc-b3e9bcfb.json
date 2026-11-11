@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-6db9bc9f7cdd/title.png"
+ },
+ "files": [
+  {
+   "crc32": "B3E9BCFB",
+   "name": "银河战士2 - 萨姆斯归来(v1.3)(简)(翼势力)(8Mb).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Metroid II - Return of Samus (World) [CHS]",
+ "hack_group": "",
+ "id": "prb-gbc-b3e9bcfb",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Metroid II - Return of Samus (World) [CHS]",
+  "region": "World"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "银河战士2 - 萨姆斯归来"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.3"
+}

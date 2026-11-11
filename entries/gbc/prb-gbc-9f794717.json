@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9F794717",
+   "name": "大力工头 阿源君 锤爆锤爆通通锤爆(美工版本1)(简)(DMG汉化组)(8Mb).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Daiku no Gen-san - Kachikachi no Tonkachi ga Kachi (Japan) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "DMG汉化组",
+ "id": "prb-gbc-9f794717",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "E2071293",
+  "no_intro_name": "Daiku no Gen-san - Kachikachi no Tonkachi ga Kachi (Japan) (SGB Enhanced) (GB Compatible)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "大力工头 阿源君 锤爆锤爆通通锤爆"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

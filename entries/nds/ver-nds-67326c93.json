@@ -11,10 +11,9 @@
    "size": 33554432
   }
  ],
- "group": "Theme Park DS",
+ "group": "Theme Park DS (Japan) (En,Ja,Fr,De,Es,It)",
+ "hack_group": "YYJoy汉化组",
  "id": "ver-nds-67326c93",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "2932EACC",
   "no_intro_name": "Theme Park DS (Japan) (En,Ja,Fr,De,Es,It)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "A8QJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Theme Park DS (Japan) (En,Ja,Fr,De,Es,It)",
   "zh-Hans": "主题公园DS"
  },
- "vendor": "YYJoy汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

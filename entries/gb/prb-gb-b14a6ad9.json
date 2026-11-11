@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B14A6AD9",
+   "name": "福星小子 寻找友引小姐(简)(v1.0)(RangerMarsh)(4Mb).gb",
+   "size": 524288
+  }
+ ],
+ "group": "Urusei Yatsura - Miss Tomobiki o Sagase! (Japan)",
+ "hack_group": "RangerMarsh",
+ "id": "prb-gb-b14a6ad9",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "56800C6B",
+  "no_intro_name": "Urusei Yatsura - Miss Tomobiki o Sagase! (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "福星小子 寻找友引小姐"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-5e31e1a2ebbb/title.png"
+ },
+ "files": [
+  {
+   "crc32": "6A497FC8",
+   "name": "成吉思汗(简)[外星科技](JP)[SLG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "成吉思汗",
+ "hack_group": "外星科技",
+ "id": "cn-071d71ec4ed2",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "成吉思汗"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

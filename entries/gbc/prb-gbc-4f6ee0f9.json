@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4F6EE0F9",
+   "name": "超进化 数码宝贝 钻石版 (繁) (SKOB).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Digital Monster 2001 (Taiwan) (En)",
+ "hack_group": "SKOB",
+ "id": "prb-gbc-4f6ee0f9",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "D9EB3F2A",
+  "no_intro_name": "Digital Monster 2001 (Taiwan) (En)",
+  "region": "Taiwan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超进化 数码宝贝 钻石版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

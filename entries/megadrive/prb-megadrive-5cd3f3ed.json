@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5CD3F3ED",
+   "name": "吃豆人2 - 新的冒险(简)(AXI)(10Mb).md",
+   "size": 2621440
+  }
+ ],
+ "group": "Pac-Man 2 - The New Adventures (USA)",
+ "hack_group": "AXI",
+ "id": "prb-megadrive-5cd3f3ed",
+ "platform": "megadrive",
+ "probable_original": {
+  "crc32": "FE7A7ED1",
+  "no_intro_name": "Pac-Man 2 - The New Adventures (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "吃豆人2 - 新的冒险"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-42621146e883/title.png"
+ },
+ "files": [
+  {
+   "crc32": "C64818EB",
+   "name": "数码暴龙2 - 翡翠版 (繁) (Yong Yong).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Digimon 2 - Jade Version (China) [CHT]",
+ "hack_group": "Yong Yong",
+ "id": "prb-gbc-c64818eb",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Digimon 2 - Jade Version (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "数码暴龙2 - 翡翠版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

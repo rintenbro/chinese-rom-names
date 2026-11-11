@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3C397089",
+   "name": "王子复仇记(简)[恒格电子](CN)[TAB](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "Wangzi Fuchou Ji (China)",
+ "hack_group": "恒格电子",
+ "id": "prb-famicom-3c397089",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "54FD881D",
+  "no_intro_name": "Wangzi Fuchou Ji (China)",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "王子复仇记"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

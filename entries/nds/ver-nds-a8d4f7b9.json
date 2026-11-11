@@ -11,10 +11,9 @@
    "size": 115568384
   }
  ],
- "group": "Avalon Code",
+ "group": "Avalon Code (Japan)",
+ "hack_group": "",
  "id": "ver-nds-a8d4f7b9",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "3D35B3D4",
   "no_intro_name": "Avalon Code (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YOGJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Avalon Code (Japan)",
   "zh-Hans": "创世法典 全文本汉化版 大字体1.2"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

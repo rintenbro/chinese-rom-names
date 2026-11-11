@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Fanqiejiang Wangguo Da Maoxian",
+ "group": "Fanqiejiang Wangguo Da Maoxian (China) (Proto)",
+ "hack_group": "未发售",
  "id": "ver-gba-5116a665",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "5116A665",
   "no_intro_name": "Fanqiejiang Wangguo Da Maoxian (China) (Proto)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AGLC",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Fanqiejiang Wangguo Da Maoxian (China) (Proto)",
   "zh-Hans": "神游 番茄酱王国大冒险"
  },
- "vendor": "未发售",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

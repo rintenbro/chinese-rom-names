@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "59E4F1E9",
+   "name": "简单DS系列Vol.16 THE寻找不可思议的昆虫之森(JP)(APEX汉化组)(256Mb).nds",
+   "size": 33554432
+  }
+ ],
+ "group": "Simple DS Series Vol. 16 - The Sagasou Fushigi na Konchuu no Mori (Japan)",
+ "hack_group": "APEX汉化组",
+ "id": "prb-nds-59e4f1e9",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "AF0C4C84",
+  "no_intro_name": "Simple DS Series Vol. 16 - The Sagasou Fushigi na Konchuu no Mori (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "简单DS系列Vol.16 THE寻找不可思议的昆虫之森"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

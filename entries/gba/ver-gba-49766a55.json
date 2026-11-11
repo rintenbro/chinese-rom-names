@@ -11,10 +11,9 @@
    "size": 10562848
   }
  ],
- "group": "Digimon Racing",
+ "group": "Digimon Racing (Japan)",
+ "hack_group": "Advance汉化组",
  "id": "ver-gba-49766a55",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "C50468A8",
   "no_intro_name": "Digimon Racing (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BDJJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Digimon Racing (Japan)",
   "zh-Hans": "数码宝贝赛车"
  },
- "vendor": "Advance汉化组",
+ "type": "game",
+ "vendor": "",
  "version": "v1.0"
 }

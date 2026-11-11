@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8632EE96",
+   "name": "江户川乱步的怪人二十面相DS(JP)(小黑屋汉化组)(128Mb).nds",
+   "size": 16212460
+  }
+ ],
+ "group": "Edogawa Ranpo no Kaijin Nijuu Mensou DS (Japan)",
+ "hack_group": "小黑屋汉化组",
+ "id": "prb-nds-8632ee96",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "CB4EEBFC",
+  "no_intro_name": "Edogawa Ranpo no Kaijin Nijuu Mensou DS (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "江户川乱步的怪人二十面相DS"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5E3E77ED",
+   "name": "超级马里奥 (简) (ertong).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Super Mario Bros. Deluxe (Japan) (NP)",
+ "hack_group": "ertong",
+ "id": "prb-gbc-5e3e77ed",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "866B1212",
+  "no_intro_name": "Super Mario Bros. Deluxe (Japan) (NP)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级马里奥"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

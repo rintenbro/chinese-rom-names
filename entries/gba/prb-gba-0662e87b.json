@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0662E87B",
+   "name": "机动战士高达SEED DESTINY[Advance汉化组](v1.1)(简)(96Mb).gba",
+   "size": 11841668
+  }
+ ],
+ "group": "Kidou Senshi Gundam SEED Destiny (Japan)",
+ "hack_group": "Advance汉化组",
+ "id": "prb-gba-0662e87b",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "AA250CCA",
+  "no_intro_name": "Kidou Senshi Gundam SEED Destiny (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "机动战士高达SEED DESTINY"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

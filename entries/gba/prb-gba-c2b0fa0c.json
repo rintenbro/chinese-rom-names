@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C2B0FA0C",
+   "name": "塞尔达传说 - 过去的林克&四支剑[漫游](简)(US)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Legend of Zelda, The - A Link to the Past & Four Swords (USA)",
+ "hack_group": "漫游",
+ "id": "prb-gba-c2b0fa0c",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "8E91CD13",
+  "no_intro_name": "Legend of Zelda, The - A Link to the Past & Four Swords (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "塞尔达传说 - 过去的林克&四支剑"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

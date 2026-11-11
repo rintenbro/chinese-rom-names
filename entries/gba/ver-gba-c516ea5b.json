@@ -11,10 +11,9 @@
    "size": 8520332
   }
  ],
- "group": "Super Robot Taisen A",
+ "group": "Super Robot Taisen A (Japan)",
+ "hack_group": "",
  "id": "ver-gba-c516ea5b",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "2F6E9788",
   "no_intro_name": "Super Robot Taisen A (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "未标注",
- "serial": "ASRJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Super Robot Taisen A (Japan)",
   "zh-Hans": "超級機器人大戰A"
  },
+ "type": "game",
  "vendor": "",
  "version": "v1.1"
 }

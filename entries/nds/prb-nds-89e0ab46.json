@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "89E0AB46",
+   "name": "命运相系(命运交织) v1.1(简)(罗伊SD)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Destiny Links (Japan)",
+ "hack_group": "",
+ "id": "prb-nds-89e0ab46",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "E8C337D6",
+  "no_intro_name": "Destiny Links (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "命运相系 v1.1"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

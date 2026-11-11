@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7A2875C6",
+   "name": "AWAY混乱迷宫 1.0 大字库版(JP)(集中营汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Away - Shuffle Dungeon (Japan)",
+ "hack_group": "集中营汉化组",
+ "id": "prb-nds-7a2875c6",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "455F376D",
+  "no_intro_name": "Away - Shuffle Dungeon (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "AWAY混乱迷宫 1.0 大字库版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

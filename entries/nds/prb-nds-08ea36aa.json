@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "08EA36AA",
+   "name": "口袋妖怪(精灵宝可梦) 灵魂之银 官译修正版v2.1.1(简)(JP)(ACG汉化组+Xzonn)(1024Mb).NDS",
+   "size": 134217728
+  }
+ ],
+ "group": "Pocket Monsters - SoulSilver (Japan)",
+ "hack_group": "ACG汉化组+Xzonn",
+ "id": "prb-nds-08ea36aa",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "CC4C2BEF",
+  "no_intro_name": "Pocket Monsters - SoulSilver (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪 灵魂之银 官译修正版v2.1.1"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

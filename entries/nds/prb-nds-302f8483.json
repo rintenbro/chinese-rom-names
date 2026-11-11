@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "302F8483",
+   "name": "龙珠改 究极武斗传 完全文本汉化版(简)(JP)(dv(c)890)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Dragon Ball Kai - Ultimate Butou Den (Japan)",
+ "hack_group": "",
+ "id": "prb-nds-302f8483",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "320145B9",
+  "no_intro_name": "Dragon Ball Kai - Ultimate Butou Den (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "龙珠改 究极武斗传 完全文本汉化版890"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

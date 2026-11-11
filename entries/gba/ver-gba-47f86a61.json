@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Hamster Paradise Advanchu",
+ "group": "Hamster Paradise Advanchu (Japan)",
+ "hack_group": "yybray",
  "id": "ver-gba-47f86a61",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "902BEFB0",
   "no_intro_name": "Hamster Paradise Advanchu (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AHAJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Hamster Paradise Advanchu (Japan)",
   "zh-Hans": "仓鼠天堂Advanchu"
  },
- "vendor": "yybray",
+ "type": "game",
+ "vendor": "",
  "version": "v0.9"
 }

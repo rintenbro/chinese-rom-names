@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Advance Wars 2 - Black Hole Rising",
+ "group": "Advance Wars 2 - Black Hole Rising (USA)",
+ "hack_group": "Luxin",
  "id": "ver-gba-8f211db5",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "5AD0E571",
   "no_intro_name": "Advance Wars 2 - Black Hole Rising (USA)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AW2E",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Advance Wars 2 - Black Hole Rising (USA)",
   "zh-Hans": "高级战争 2 - 黑洞升起"
  },
- "vendor": "Luxin",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

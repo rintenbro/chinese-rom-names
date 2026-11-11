@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BE487D89",
+   "name": "魔界村外传 恶魔暗影(简)(AI汉化v0.91)(Deloo)(4Mb).gb",
+   "size": 524288
+  }
+ ],
+ "group": "Red Arremer - Makaimura Gaiden (Japan)",
+ "hack_group": "Deloo",
+ "id": "prb-gb-be487d89",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Red Arremer - Makaimura Gaiden (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "魔界村外传 恶魔暗影"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v0.91"
+}

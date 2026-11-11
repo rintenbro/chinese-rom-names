@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Mario & Luigi RPG",
+ "group": "Mario & Luigi RPG (Japan)",
+ "hack_group": "漫游",
  "id": "ver-gba-2ad76580",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "4EF93D41",
   "no_intro_name": "Mario & Luigi RPG (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "A88J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Mario & Luigi RPG (Japan)",
   "zh-Hans": "马里奥&路易基RPG"
  },
- "vendor": "漫游",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

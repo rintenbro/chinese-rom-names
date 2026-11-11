@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-82bb82c6943e/title.png"
+ },
+ "files": [
+  {
+   "crc32": "597B1E04",
+   "name": "三国志 蜀魏争霸(简)[晶科泰](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "三国志 蜀魏争霸",
+ "hack_group": "晶科泰",
+ "id": "cn-c67af636b0c5",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "三国志 蜀魏争霸"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

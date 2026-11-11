@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A87C52F2",
+   "name": "热血硬派 番外乱斗篇(简)(修复版v1.0)(madcell+Stephen)(2Mb).gb",
+   "size": 262144
+  }
+ ],
+ "group": "Nekketsu Kouha Kunio-kun - Bangai Rantou Hen (Japan)",
+ "hack_group": "madcell+Stephen",
+ "id": "prb-gb-a87c52f2",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Nekketsu Kouha Kunio-kun - Bangai Rantou Hen (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "热血硬派 番外乱斗篇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

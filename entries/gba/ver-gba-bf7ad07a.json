@@ -11,10 +11,9 @@
    "size": 8461736
   }
  ],
- "group": "Gakkou o Tsukurou!! Advance",
+ "group": "Gakkou o Tsukurou!! Advance (Japan)",
+ "hack_group": "罗伊SD",
  "id": "ver-gba-bf7ad07a",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "6EB70422",
   "no_intro_name": "Gakkou o Tsukurou!! Advance (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AYSJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Gakkou o Tsukurou!! Advance (Japan)",
   "zh-Hans": "学校创造A"
  },
- "vendor": "罗伊SD",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

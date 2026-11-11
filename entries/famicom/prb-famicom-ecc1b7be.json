@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "ECC1B7BE",
+   "name": "最终幻想1 黑暗篇(简)[恒格电子](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "Final Fantasy (Japan)",
+ "hack_group": "恒格电子",
+ "id": "prb-famicom-ecc1b7be",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "09F667EA",
+  "no_intro_name": "Final Fantasy (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "最终幻想1 黑暗篇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

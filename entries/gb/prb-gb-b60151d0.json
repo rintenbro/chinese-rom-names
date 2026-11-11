@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B60151D0",
+   "name": "科乐美GB精选集2 (简) (DMG汉化组)(8Mb).gb",
+   "size": 1048576
+  }
+ ],
+ "group": "Konami GB Collection Vol.2 (Japan) (SGB Enhanced)",
+ "hack_group": "DMG汉化组",
+ "id": "prb-gb-b60151d0",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Konami GB Collection Vol.2 (Japan) (SGB Enhanced)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "科乐美GB精选集2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

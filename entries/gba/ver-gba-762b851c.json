@@ -11,10 +11,9 @@
    "size": 33554432
   }
  ],
- "group": "Mario Golf - Advance Tour",
+ "group": "Mario Golf - Advance Tour (USA)",
+ "hack_group": "童心宜人",
  "id": "ver-gba-762b851c",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "D56C2E54",
   "no_intro_name": "Mario Golf - Advance Tour (USA)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BMGE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Mario Golf - Advance Tour (USA)",
   "zh-Hans": "马里奥高尔夫 巡回赛"
  },
- "vendor": "童心宜人",
+ "type": "game",
+ "vendor": "",
  "version": "v1.1"
 }

@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Tantei Gakuen Q - Kyuukyoku Trick ni Idome!",
+ "group": "Tantei Gakuen Q - Kyuukyoku Trick ni Idome! (Japan)",
+ "hack_group": "",
  "id": "ver-gba-fa3433fa",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "77C172BD",
   "no_intro_name": "Tantei Gakuen Q - Kyuukyoku Trick ni Idome! (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "未标注",
- "serial": "BTIJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Tantei Gakuen Q - Kyuukyoku Trick ni Idome! (Japan)",
   "zh-Hans": "侦探学园Q-挑战究极诡计完全版"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

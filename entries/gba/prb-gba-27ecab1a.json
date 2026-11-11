@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "27ECAB1A",
+   "name": "F-Zero GBA[PGCG](简)(JP)(32.11Mb).gba",
+   "size": 4209952
+  }
+ ],
+ "group": "F-Zero for Game Boy Advance (Japan)",
+ "hack_group": "",
+ "id": "prb-gba-27ecab1a",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "25E3FC9A",
+  "no_intro_name": "F-Zero for Game Boy Advance (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "F-Zero GBA"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 33603352
   }
  ],
- "group": "Ryuusei no Rockman - Pegasus",
+ "group": "Ryuusei no Rockman - Pegasus (Japan)",
+ "hack_group": "电波人研究中心汉化组",
  "id": "ver-nds-1b2da05a",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "7FFD36D3",
   "no_intro_name": "Ryuusei no Rockman - Pegasus (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "A6AJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Ryuusei no Rockman - Pegasus (Japan)",
   "zh-Hans": "流星洛克人 天马 完全汉化版v3"
  },
- "vendor": "电波人研究中心汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

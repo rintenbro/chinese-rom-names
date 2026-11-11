@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "277367F4",
+   "name": "合金装备 幽灵通天塔(简)(Stephen)(32Mb).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Metal Gear - Ghost Babel (Japan)",
+ "hack_group": "Stephen",
+ "id": "prb-gbc-277367f4",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "7831F84D",
+  "no_intro_name": "Metal Gear - Ghost Babel (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "合金装备 幽灵通天塔"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

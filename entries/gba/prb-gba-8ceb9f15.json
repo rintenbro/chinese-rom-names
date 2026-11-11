@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8CEB9F15",
+   "name": "瓦力欧世界Advance[Chrono](简)(JP)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Wario Land Advance - Youki no Otakara (Japan)",
+ "hack_group": "Chrono",
+ "id": "prb-gba-8ceb9f15",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "F56EBB7A",
+  "no_intro_name": "Wario Land Advance - Youki no Otakara (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "瓦力欧世界Advance"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

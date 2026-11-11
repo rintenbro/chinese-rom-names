@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Metalgun Slinger",
+ "group": "Metalgun Slinger (Japan)",
+ "hack_group": "Amonwang+流星落月",
  "id": "ver-gba-3b5c63e8",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "8DFB7A2F",
   "no_intro_name": "Metalgun Slinger (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "繁",
- "serial": "AAPJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Metalgun Slinger (Japan)",
   "zh-Hans": "合金射击者"
  },
- "vendor": "Amonwang+流星落月",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

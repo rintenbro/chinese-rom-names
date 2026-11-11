@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-892501cc5e6a/title.png"
+ },
+ "files": [
+  {
+   "crc32": "C6746FDD",
+   "name": "香帅传奇(简)[南晶科技](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "香帅传奇",
+ "hack_group": "南晶科技",
+ "id": "cn-ef6b201ca1ff",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "香帅传奇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "39386A45",
+   "name": "怪盗瓦里奥 变相七杰(JP)(兔友汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Kaitou Wario the Seven (Japan)",
+ "hack_group": "兔友汉化组",
+ "id": "prb-nds-39386a45",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "F96657B7",
+  "no_intro_name": "Kaitou Wario the Seven (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "怪盗瓦里奥 变相七杰"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

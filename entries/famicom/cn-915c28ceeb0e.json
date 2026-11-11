@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-c71376d3595a/title.png"
+ },
+ "files": [
+  {
+   "crc32": "E60BC793",
+   "name": "龙珠Z2 激神弗利萨!!(v2)(海美译名版)(繁)[外星科技+Lirdrepus](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "龙珠Z2 激神弗利萨!!",
+ "hack_group": "外星科技+Lirdrepus",
+ "id": "cn-915c28ceeb0e",
+ "platform": "famicom",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "龙珠Z2 激神弗利萨!!"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v2"
+}

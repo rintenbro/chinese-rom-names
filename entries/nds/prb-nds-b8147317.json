@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B8147317",
+   "name": "恶魔城 被夺的刻印 V3(繁)(JP)(ACG汉化组)(512Mb).nds",
+   "size": 50438448
+  }
+ ],
+ "group": "Akumajou Dracula - Ubawareta Kokuin (Japan)",
+ "hack_group": "ACG汉化组",
+ "id": "prb-nds-b8147317",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "CFAED479",
+  "no_intro_name": "Akumajou Dracula - Ubawareta Kokuin (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "恶魔城 被夺的刻印 V3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

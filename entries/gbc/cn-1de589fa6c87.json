@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-3528e90bc15d/title.png"
+ },
+ "files": [
+  {
+   "crc32": "15A4B4EC",
+   "name": "獅子王 (繁) (新特奇).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "獅子王",
+ "hack_group": "",
+ "id": "cn-1de589fa6c87",
+ "platform": "gbc",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "獅子王"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

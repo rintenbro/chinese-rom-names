@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8DE5F8D5",
+   "name": "真三国无双2 (繁) (新特奇).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "真三国无双2",
+ "hack_group": "",
+ "id": "cn-2a721467c595",
+ "platform": "gbc",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "真三国无双2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

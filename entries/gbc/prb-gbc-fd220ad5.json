@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FD220AD5",
+   "name": "口袋妖怪弹珠台(宝可梦弹珠台)(简)(v1.01)(Tom_C)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Pokemon Pinball (Europe) (En,Fr,De,Es,It) (Rumble Version) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "Tom_C",
+ "id": "prb-gbc-fd220ad5",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "39C432A4",
+  "no_intro_name": "Pokemon Pinball (Europe) (En,Fr,De,Es,It) (Rumble Version) (SGB Enhanced) (GB Compatible)",
+  "region": "Europe"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪弹珠台"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.01"
+}

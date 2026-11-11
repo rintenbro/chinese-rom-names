@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CDD09620",
+   "name": "龙珠Z 传说的超战士们(简)(欧版汉化v1.01)(sss888+RangerMarsh)(32Mb).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Dragon Ball Z - Legendary Super Warriors (Europe)",
+ "hack_group": "sss888+RangerMarsh",
+ "id": "prb-gbc-cdd09620",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Dragon Ball Z - Legendary Super Warriors (Europe)",
+  "region": "Europe"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "龙珠Z 传说的超战士们"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

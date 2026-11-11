@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-edd3c825b0cf/title.png"
+ },
+ "files": [
+  {
+   "crc32": "687A5889",
+   "name": "时空斗士(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "group": "时空斗士",
+ "hack_group": "南晶科技",
+ "id": "cn-ceb2c3e78617",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "时空斗士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

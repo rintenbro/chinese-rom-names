@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0DAB18F0",
+   "name": "异型战机 (简) (unknown)(1Mb).gb",
+   "size": 131072
+  }
+ ],
+ "group": "R-Type (Japan) (En)",
+ "hack_group": "unknown",
+ "id": "prb-gb-0dab18f0",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "R-Type (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "异型战机"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

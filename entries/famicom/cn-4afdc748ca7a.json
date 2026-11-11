@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-bb124592b4ce/title.png"
+ },
+ "files": [
+  {
+   "crc32": "301CE43A",
+   "name": "真本西游记(繁)[Asder](CN)[FTG](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "真本西游记",
+ "hack_group": "Asder",
+ "id": "cn-4afdc748ca7a",
+ "platform": "famicom",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "真本西游记"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

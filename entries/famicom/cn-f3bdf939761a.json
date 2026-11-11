@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-342b35a76530/title.png"
+ },
+ "files": [
+  {
+   "crc32": "3C8F92BD",
+   "name": "征服太阳系+小管家(简)[小霸王](CN)[PUZ](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "征服太阳系+小管家",
+ "hack_group": "小霸王",
+ "id": "cn-f3bdf939761a",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "征服太阳系+小管家"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

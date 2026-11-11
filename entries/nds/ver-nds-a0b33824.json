@@ -11,10 +11,9 @@
    "size": 66889052
   }
  ],
- "group": "Love Cat Life",
+ "group": "Love Cat Life (Japan)",
+ "hack_group": "自由汉化组",
  "id": "ver-nds-a0b33824",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "BC5F58B2",
   "no_intro_name": "Love Cat Life (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "AQ9J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Love Cat Life (Japan)",
   "zh-Hans": "爱猫生活 正式版"
  },
- "vendor": "自由汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

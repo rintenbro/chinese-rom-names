@@ -11,10 +11,9 @@
    "size": 134217728
   }
  ],
- "group": "Tengen Toppa Gurren Lagann",
+ "group": "Tengen Toppa Gurren Lagann (Japan)",
+ "hack_group": "Play汉化组",
  "id": "ver-nds-786b2d71",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "6EAC24B8",
   "no_intro_name": "Tengen Toppa Gurren Lagann (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YGRJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Tengen Toppa Gurren Lagann (Japan)",
   "zh-Hans": "天元突破 红莲之眼 全文本汉化版"
  },
- "vendor": "Play汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

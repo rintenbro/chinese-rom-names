@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Lu-Hai-Kong Dazhan",
+ "group": "Lu-Hai-Kong Dazhan (China) (Proto)",
+ "hack_group": "未发售",
  "id": "ver-gba-e166e6ed",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "E166E6ED",
   "no_intro_name": "Lu-Hai-Kong Dazhan (China) (Proto)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AWRC",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Lu-Hai-Kong Dazhan (China) (Proto)",
   "zh-Hans": "神游 陆海空大战"
  },
- "vendor": "未发售",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

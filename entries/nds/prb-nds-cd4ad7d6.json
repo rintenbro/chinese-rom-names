@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CD4AD7D6",
+   "name": "星之卡比 驾到怪盗洛切团(参上！多罗奇团)(CRomputer)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Hoshi no Kirby - Sanjou! Dorotche Dan (Japan)",
+ "hack_group": "CRomputer",
+ "id": "prb-nds-cd4ad7d6",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "F21DBBB8",
+  "no_intro_name": "Hoshi no Kirby - Sanjou! Dorotche Dan (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "星之卡比 驾到怪盗洛切团"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

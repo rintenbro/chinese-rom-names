@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "850FFB8A",
+   "name": "炸弹人锦标赛[飞雨影](AI汉化大字版)(简)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Bomberman Tournament (USA, Europe)",
+ "hack_group": "飞雨影",
+ "id": "prb-gba-850ffb8a",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "240282E6",
+  "no_intro_name": "Bomberman Tournament (USA, Europe)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "炸弹人锦标赛"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

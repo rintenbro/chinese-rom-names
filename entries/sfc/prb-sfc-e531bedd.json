@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E531BEDD",
+   "name": "三国志英杰传(繁)(未知)(24Mb).smc",
+   "size": 3146240
+  }
+ ],
+ "group": "Sangokushi Eiketsuden (Japan)",
+ "hack_group": "未知",
+ "id": "prb-sfc-e531bedd",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "4C78D5EE",
+  "no_intro_name": "Sangokushi Eiketsuden (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "三国志英杰传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

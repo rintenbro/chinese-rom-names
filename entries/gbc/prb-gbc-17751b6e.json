@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "17751B6E",
+   "name": "蜘蛛侠 (简) (unknown).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Spider-Man (USA, Europe)",
+ "hack_group": "unknown",
+ "id": "prb-gbc-17751b6e",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "34E2B3BA",
+  "no_intro_name": "Spider-Man (USA, Europe)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "蜘蛛侠"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

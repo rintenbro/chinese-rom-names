@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E0B9CB7D",
+   "name": "哆啦A梦(v20250525)(简)[多情剑客阿飞](JP)[ACT](1.37Mb).nes",
+   "size": 180240
+  }
+ ],
+ "group": "Doraemon (Japan)",
+ "hack_group": "多情剑客阿飞",
+ "id": "prb-famicom-e0b9cb7d",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "0DB7BD33",
+  "no_intro_name": "Doraemon (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "哆啦A梦"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20250525"
+}

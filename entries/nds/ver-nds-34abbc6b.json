@@ -11,10 +11,9 @@
    "size": 33554432
   }
  ],
- "group": "FIFA Soccer 10",
+ "group": "FIFA Soccer 10 (USA) (En,Fr,De,Es,It)",
+ "hack_group": "fciq配音小组",
  "id": "ver-nds-34abbc6b",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "9E59890D",
   "no_intro_name": "FIFA Soccer 10 (USA) (En,Fr,De,Es,It)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "BFAE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "FIFA Soccer 10 (USA) (En,Fr,De,Es,It)",
   "zh-Hans": "FIFA 10"
  },
- "vendor": "fciq配音小组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Pocket Monsters - Pearl",
+ "group": "Pocket Monsters - Pearl (Japan)",
+ "hack_group": "YYJoy汉化组+Xzonn",
  "id": "ver-nds-a129ac90",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "50DD7518",
   "no_intro_name": "Pocket Monsters - Pearl (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "APAJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Pocket Monsters - Pearl (Japan)",
   "zh-Hans": "口袋妖怪 珍珠 官译修正版v2.1.1"
  },
- "vendor": "YYJoy汉化组+Xzonn",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

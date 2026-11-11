@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AB321663",
+   "name": "波斯王子 没落的国王 最终版(EU)(天使汉化组)(256Mb).nds",
+   "size": 33484800
+  }
+ ],
+ "group": "Prince of Persia - The Fallen King (Europe) (En,Fr,De,Es,It)",
+ "hack_group": "天使汉化组",
+ "id": "prb-nds-ab321663",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "E1F82AC0",
+  "no_intro_name": "Prince of Persia - The Fallen King (Europe) (En,Fr,De,Es,It)",
+  "region": "Europe"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "波斯王子 没落的国王 最终版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

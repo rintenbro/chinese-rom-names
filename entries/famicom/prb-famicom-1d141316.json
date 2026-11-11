@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1D141316",
+   "name": "铁手套(简)[高伟](US)[STG](1.5Mb).nes",
+   "size": 196624
+  }
+ ],
+ "group": "Gauntlet (USA)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-1d141316",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "6C6B691B",
+  "no_intro_name": "Gauntlet (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "铁手套"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

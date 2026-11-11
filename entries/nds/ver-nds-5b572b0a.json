@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Puzzle Bobble DS",
+ "group": "Puzzle Bobble DS (Japan)",
+ "hack_group": "TGB汉化工作室",
  "id": "ver-nds-5b572b0a",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "BC045E36",
   "no_intro_name": "Puzzle Bobble DS (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "APZJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Puzzle Bobble DS (Japan)",
   "zh-Hans": "泡泡龙方块DS"
  },
- "vendor": "TGB汉化工作室",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

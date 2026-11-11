@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "002A62B1",
+   "name": "炸弹人(v1.0)(简)[惊风](JP)[PUZ](0.37Mb).nes",
+   "size": 49168
+  }
+ ],
+ "group": "Bomberman (Japan) (En)",
+ "hack_group": "惊风",
+ "id": "prb-famicom-002a62b1",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "DCBBE28B",
+  "no_intro_name": "Bomberman (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "炸弹人"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

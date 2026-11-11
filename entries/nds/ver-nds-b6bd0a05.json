@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Yume Neko DS",
+ "group": "Yume Neko DS (Japan)",
+ "hack_group": "YOME汉化组",
  "id": "ver-nds-b6bd0a05",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "88462FFE",
   "no_intro_name": "Yume Neko DS (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "AYCJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Yume Neko DS (Japan)",
   "zh-Hans": "梦猫DS"
  },
- "vendor": "YOME汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

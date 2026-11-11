@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "328E4803",
+   "name": "妖怪道中记(v20250501)(繁)[NOKOH](JP)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Youkai Douchuuki (Japan)",
+ "hack_group": "NOKOH",
+ "id": "prb-famicom-328e4803",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "6BFE4C0B",
+  "no_intro_name": "Youkai Douchuuki (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "妖怪道中记"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20250501"
+}

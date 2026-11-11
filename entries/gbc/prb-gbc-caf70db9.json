@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CAF70DB9",
+   "name": "口袋妖怪 – 水晶(新神奇宝贝水晶)(fix v5)(繁)(星星科技+yy小龙虾)(JP)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Pocket Monsters - Crystal Version (Japan)",
+ "hack_group": "fix v5 星星科技+yy小龙虾",
+ "id": "prb-gbc-caf70db9",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "270C4ECC",
+  "no_intro_name": "Pocket Monsters - Crystal Version (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪 – 水晶"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

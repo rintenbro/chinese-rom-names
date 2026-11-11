@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0274D560",
+   "name": "宠物大家族(简)[外星科技](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "Chongwu Da Jiazu - Buluo Fenzheng (Pet Family) (China)",
+ "hack_group": "外星科技",
+ "id": "prb-famicom-0274d560",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "6AB02DF4",
+  "no_intro_name": "Chongwu Da Jiazu - Buluo Fenzheng (Pet Family) (China)",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "宠物大家族"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

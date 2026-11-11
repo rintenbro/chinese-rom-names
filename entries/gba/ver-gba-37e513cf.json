@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Card Party",
+ "group": "Card Party (Japan)",
+ "hack_group": "",
  "id": "ver-gba-37e513cf",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "3D5A2C07",
   "no_intro_name": "Card Party (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "A8CJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Card Party (Japan)",
   "zh-Hans": "卡片聚会"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

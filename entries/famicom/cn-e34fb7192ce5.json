@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-8ad80a27259e/title.png"
+ },
+ "files": [
+  {
+   "crc32": "8FA52263",
+   "name": "剑侠情缘(简)[酷哥电子](CN)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "剑侠情缘",
+ "hack_group": "酷哥电子",
+ "id": "cn-e34fb7192ce5",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "剑侠情缘"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 6290432
   }
  ],
- "group": "Tossa no Keisan Shunkan Kaitou - Keisan DS Training",
+ "group": "Tossa no Keisan Shunkan Kaitou - Keisan DS Training (Japan)",
+ "hack_group": "oni999",
  "id": "ver-nds-6300c40d",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "22D1B711",
   "no_intro_name": "Tossa no Keisan Shunkan Kaitou - Keisan DS Training (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "繁",
- "serial": "A3KJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Tossa no Keisan Shunkan Kaitou - Keisan DS Training (Japan)",
   "zh-Hans": "计算力瞬间解答 计算DS练习"
  },
- "vendor": "oni999",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

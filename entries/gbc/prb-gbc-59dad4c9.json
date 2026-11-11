@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-99e632afff41/title.png"
+ },
+ "files": [
+  {
+   "crc32": "59DAD4C9",
+   "name": "数码宝贝DX6 (繁) (SKOB).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Digimon DX6 (China) [CHT]",
+ "hack_group": "SKOB",
+ "id": "prb-gbc-59dad4c9",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Digimon DX6 (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "数码宝贝DX6"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

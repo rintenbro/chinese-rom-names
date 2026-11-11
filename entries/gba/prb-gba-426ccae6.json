@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "426CCAE6",
+   "name": "0219 - Daisenryaku.gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Daisenryaku for Game Boy Advance (Japan)",
+ "hack_group": "",
+ "id": "prb-gba-426ccae6",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "3D644946",
+  "no_intro_name": "Daisenryaku for Game Boy Advance (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "Daisenryaku"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-e200b9832b19/title.png"
+ },
+ "files": [
+  {
+   "crc32": "F6DC0C54",
+   "name": "数码宝贝 - 超梦梦反击战 (繁) (Yong Yong).gbc",
+   "size": 524288
+  }
+ ],
+ "group": "数码宝贝 - 超梦梦反击战",
+ "hack_group": "Yong Yong",
+ "id": "cn-71c1ce8987b1",
+ "platform": "gbc",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "数码宝贝 - 超梦梦反击战"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

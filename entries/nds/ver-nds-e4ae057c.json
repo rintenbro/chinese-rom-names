@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Idol Janshi Suchie-Pai III Remix",
+ "group": "Idol Janshi Suchie-Pai III Remix (Japan)",
+ "hack_group": "XE汉化组",
  "id": "ver-nds-e4ae057c",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "1B29743F",
   "no_intro_name": "Idol Janshi Suchie-Pai III Remix (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "YIPJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Idol Janshi Suchie-Pai III Remix (Japan)",
   "zh-Hans": "美少女麻将3 Remix"
  },
- "vendor": "XE汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

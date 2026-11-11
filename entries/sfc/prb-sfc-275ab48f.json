@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "275AB48F",
+   "name": "重装机兵瓦尔肯 (繁) (完全汉化)(cslrxyz & Mankee610)(8Mb).sfc",
+   "size": 1048576
+  }
+ ],
+ "group": "Juusou Kihei Valken (Japan)",
+ "hack_group": "cslrxyz & Mankee610",
+ "id": "prb-sfc-275ab48f",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Juusou Kihei Valken (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "重装机兵瓦尔肯"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-d8e7cd988be8/title.png"
+ },
+ "files": [
+  {
+   "crc32": "46977508",
+   "name": "侠客传奇(繁)[晶科泰](CN)[RPG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "侠客传奇",
+ "hack_group": "晶科泰",
+ "id": "cn-2a9839d222d9",
+ "platform": "famicom",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "侠客传奇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 134217728
   }
  ],
- "group": "Final Fantasy III",
+ "group": "Final Fantasy III (USA)",
+ "hack_group": "NdsBBS汉化组&NDSMAN&LevelUp&天幻网",
  "id": "ver-nds-6975a131",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "27883409",
   "no_intro_name": "Final Fantasy III (USA)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "AFFE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Final Fantasy III (USA)",
   "zh-Hans": "最终幻想3"
  },
- "vendor": "NdsBBS汉化组&NDSMAN&LevelUp&天幻网",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "555DD98F",
+   "name": "洛克人ZX4[广誉科技+Dangfer](fix2)(繁)(256Mb).gba",
+   "size": 33554432
+  }
+ ],
+ "group": "洛克人ZX4",
+ "hack_group": "fix2 广誉科技+Dangfer",
+ "id": "cn-dbfe9ef06763",
+ "platform": "gba",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "洛克人ZX4"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

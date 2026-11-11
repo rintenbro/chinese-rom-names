@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "09C1A22D",
+   "name": "大力水手(简)[虫儿](JUE)[ACT](0.18Mb).nes",
+   "size": 24592
+  }
+ ],
+ "group": "Popeye (Japan)",
+ "hack_group": "JUE 虫儿",
+ "id": "prb-famicom-09c1a22d",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "3F263BEB",
+  "no_intro_name": "Popeye (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "大力水手"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

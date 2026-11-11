@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "009EDBF9",
+   "name": "好想告诉你 传递的感情(JP)(扑家汉化组)(512Mb).nds",
+   "size": 55435036
+  }
+ ],
+ "group": "Kimi ni Todoke - Tsutaeru Kimochi (Japan)",
+ "hack_group": "扑家汉化组",
+ "id": "prb-nds-009edbf9",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "6C15B1DF",
+  "no_intro_name": "Kimi ni Todoke - Tsutaeru Kimochi (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "好想告诉你 传递的感情"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

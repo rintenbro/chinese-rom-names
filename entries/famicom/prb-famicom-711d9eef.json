@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "711D9EEF",
+   "name": "火箭赛车(简)[御酒探花](JP)[RAC](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Road Fighter (Japan) (En)",
+ "hack_group": "御酒探花",
+ "id": "prb-famicom-711d9eef",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Road Fighter (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "火箭赛车"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -11,10 +11,9 @@
    "size": 17870147
   }
  ],
- "group": "Mermaid Melody - Pichi Pichi Pitch",
+ "group": "Mermaid Melody - Pichi Pichi Pitch (Japan)",
+ "hack_group": "千岛&叶子",
  "id": "ver-gba-863f59d1",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "63F72589",
   "no_intro_name": "Mermaid Melody - Pichi Pichi Pitch (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BMAJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Mermaid Melody - Pichi Pichi Pitch (Japan)",
   "zh-Hans": "人鱼恋曲 - Pichi Pichi Pitch"
  },
- "vendor": "千岛&叶子",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

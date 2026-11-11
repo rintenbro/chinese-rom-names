@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4BA36A4A",
+   "name": "联合前线(简)(v20241229)(Soldat)(16Mb).bin",
+   "size": 2097152
+  }
+ ],
+ "group": "Hybrid Front, The (Japan)",
+ "hack_group": "Soldat",
+ "id": "prb-megadrive-4ba36a4a",
+ "platform": "megadrive",
+ "probable_original": {
+  "crc32": "A1F1CFE7",
+  "no_intro_name": "Hybrid Front, The (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "联合前线"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20241229"
+}

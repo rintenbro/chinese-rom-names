@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "02E56351",
+   "name": "旅梦人 盗不走的宝石 (简)(32Mb).smc",
+   "size": 4194304
+  }
+ ],
+ "group": "Radical Dreamers - Nusume Nai Houseki (Japan) (2-24)",
+ "hack_group": "",
+ "id": "prb-sfc-02e56351",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Radical Dreamers - Nusume Nai Houseki (Japan) (2-24)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "旅梦人 盗不走的宝石"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

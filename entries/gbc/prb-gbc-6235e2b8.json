@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6235E2B8",
+   "name": "名侦探柯南 - 寺院杀人事件 (简) (修正版) (unknown).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Meitantei Conan - Karakuri Jiin Satsujin Jiken (Japan) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "unknown",
+ "id": "prb-gbc-6235e2b8",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "3B5F24FC",
+  "no_intro_name": "Meitantei Conan - Karakuri Jiin Satsujin Jiken (Japan) (SGB Enhanced) (GB Compatible)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "名侦探柯南 - 寺院杀人事件"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

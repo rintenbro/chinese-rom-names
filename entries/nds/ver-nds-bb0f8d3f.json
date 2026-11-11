@@ -11,10 +11,9 @@
    "size": 26638396
   }
  ],
- "group": "Ryuusei no Rockman 3 - Black Ace",
+ "group": "Ryuusei no Rockman 3 - Black Ace (Japan) (Rev 1)",
+ "hack_group": "",
  "id": "ver-nds-bb0f8d3f",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "B1E3225D",
   "no_intro_name": "Ryuusei no Rockman 3 - Black Ace (Japan) (Rev 1)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "CRBJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Ryuusei no Rockman 3 - Black Ace (Japan) (Rev 1)",
   "zh-Hans": "流星洛克人3 - 黑色王牌 对战汉化版"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

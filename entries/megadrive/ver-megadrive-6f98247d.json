@@ -1,0 +1,33 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6F98247D",
+   "name": "吞食天地3 - 三国外传 (繁) (三协资讯)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Tunshi Tiandi III - Sanguo Waizhuan - Chinese Fighter (Taiwan)",
+ "hack_group": "",
+ "id": "ver-megadrive-6f98247d",
+ "original": {
+  "crc32": "6F98247D",
+  "no_intro_name": "Tunshi Tiandi III - Sanguo Waizhuan - Chinese Fighter (Taiwan)",
+  "region": "Taiwan",
+  "size": 2097152
+ },
+ "platform": "megadrive",
+ "script": "繁",
+ "source": "no-intro",
+ "status": "verified",
+ "titles": {
+  "zh-Hans": "吞食天地3 - 三国外传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

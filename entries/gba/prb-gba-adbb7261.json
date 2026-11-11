@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "ADBB7261",
+   "name": "高级战争2 - 黑洞的崛起[高级战争吧](v1.02)[简](JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Game Boy Wars Advance 1+2 (Japan)",
+ "hack_group": "高级战争吧",
+ "id": "prb-gba-adbb7261",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "49EE1FDD",
+  "no_intro_name": "Game Boy Wars Advance 1+2 (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "高级战争2 - 黑洞的崛起"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.02"
+}

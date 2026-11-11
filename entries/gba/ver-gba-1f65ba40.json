@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Game Boy Wars Advance 1+2",
+ "group": "Game Boy Wars Advance 1+2 (Japan)",
+ "hack_group": "b16 深山闲人",
  "id": "ver-gba-1f65ba40",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "49EE1FDD",
   "no_intro_name": "Game Boy Wars Advance 1+2 (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BGWJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Game Boy Wars Advance 1+2 (Japan)",
   "zh-Hans": "高级战争1+2"
  },
- "vendor": "b16 / 深山闲人",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

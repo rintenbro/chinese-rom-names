@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "522DFD74",
+   "name": "夜光虫(简)(v1.01)(1d4444)(16Mb).smc",
+   "size": 2097152
+  }
+ ],
+ "group": "Yakouchuu (Japan)",
+ "hack_group": "1d4444",
+ "id": "prb-sfc-522dfd74",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "0CD0E8D8",
+  "no_intro_name": "Yakouchuu (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "夜光虫"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.01"
+}

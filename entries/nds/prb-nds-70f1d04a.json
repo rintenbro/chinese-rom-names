@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "70F1D04A",
+   "name": "鬼魂力量 中日英修正版(JP)(狮子战吼)(512Mb).nds",
+   "size": 63904780
+  }
+ ],
+ "group": "Spectral Force - Genesis (Japan)",
+ "hack_group": "",
+ "id": "prb-nds-70f1d04a",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "8F062E72",
+  "no_intro_name": "Spectral Force - Genesis (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "鬼魂力量 中日英修正版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

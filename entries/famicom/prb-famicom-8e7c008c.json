@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8E7C008C",
+   "name": "快打旋风(实机修正)(简)[Madcell+拒绝融化](JP)[ACT](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Mighty Final Fight (USA)",
+ "hack_group": "Madcell+拒绝融化",
+ "id": "prb-famicom-8e7c008c",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "E3417A8D",
+  "no_intro_name": "Mighty Final Fight (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "快打旋风"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

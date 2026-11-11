@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F737FEE1",
+   "name": "携带电兽 - 速度版 (繁) (unknown).gbc",
+   "size": 4150544
+  }
+ ],
+ "group": "Keitai Denjuu Telefang - Speed Version (Japan) (GB Compatible)",
+ "hack_group": "unknown",
+ "id": "prb-gbc-f737fee1",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "FB528F66",
+  "no_intro_name": "Keitai Denjuu Telefang - Speed Version (Japan) (GB Compatible)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "携带电兽 - 速度版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

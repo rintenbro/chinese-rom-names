@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-d90b06f2b053/title.png"
+ },
+ "files": [
+  {
+   "crc32": "ED3520D6",
+   "name": "合金弹头2001 (繁) (unknown).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "合金弹头2001",
+ "hack_group": "unknown",
+ "id": "cn-bc357bdcd753",
+ "platform": "gbc",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "合金弹头2001"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

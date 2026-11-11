@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1C919F06",
+   "name": "四川麻将(繁)[洁晖](CN)[TAB](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Shisen Mahjong - Seifuku Hen (Japan) (En)",
+ "hack_group": "洁晖",
+ "id": "prb-famicom-1c919f06",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "EBC20088",
+  "no_intro_name": "Shisen Mahjong - Seifuku Hen (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "四川麻将"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

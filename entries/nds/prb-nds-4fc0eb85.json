@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4FC0EB85",
+   "name": "怪鸡星际卡丁车赛(US)(UM汉化组)(128Mb).nds",
+   "size": 13114600
+  }
+ ],
+ "group": "Crazy Chicken - Star Karts (USA) (En,Fr,De,Es,It)",
+ "hack_group": "UM汉化组",
+ "id": "prb-nds-4fc0eb85",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "11B92F72",
+  "no_intro_name": "Crazy Chicken - Star Karts (USA) (En,Fr,De,Es,It)",
+  "region": "USA"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "怪鸡星际卡丁车赛"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

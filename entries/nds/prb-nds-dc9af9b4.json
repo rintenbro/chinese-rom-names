@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DC9AF9B4",
+   "name": "时间空洞 寻找被夺走的过去(JP)(远离汉化组)(1024Mb).nds",
+   "size": 131842688
+  }
+ ],
+ "group": "Time Hollow (USA) (En,Fr)",
+ "hack_group": "远离汉化组",
+ "id": "prb-nds-dc9af9b4",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "5120FCDD",
+  "no_intro_name": "Time Hollow (USA) (En,Fr)",
+  "region": "USA"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "时间空洞 寻找被夺走的过去"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

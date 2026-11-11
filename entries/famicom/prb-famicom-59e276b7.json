@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "59E276B7",
+   "name": "飞行蛟(简)[虫虫](US)[STG](1.5Mb).nes",
+   "size": 196624
+  }
+ ],
+ "group": "Sky Shark (USA)",
+ "hack_group": "虫虫",
+ "id": "prb-famicom-59e276b7",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Sky Shark (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "飞行蛟"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

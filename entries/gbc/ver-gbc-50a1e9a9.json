@@ -11,10 +11,9 @@
    "size": 1048576
   }
  ],
- "group": "Elang 2003 - Mark of the Wolfs",
+ "group": "Elang 2003 - Mark of the Wolfs (Taiwan) (En)",
+ "hack_group": "",
  "id": "ver-gbc-50a1e9a9",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "50A1E9A9",
   "no_intro_name": "Elang 2003 - Mark of the Wolfs (Taiwan) (En)",
@@ -23,12 +22,12 @@
  },
  "platform": "gbc",
  "script": "简",
- "serial": "",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Elang 2003 - Mark of the Wolfs (Taiwan) (En)",
   "zh-Hans": "饿狼2003"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

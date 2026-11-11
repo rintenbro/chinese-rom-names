@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2F1AB44A",
+   "name": "生化危机DS 死寂(简)(JP)(PGCG汉化组)(1024Mb).nds",
+   "size": 134217728
+  }
+ ],
+ "group": "Biohazard - Deadly Silence (Japan)",
+ "hack_group": "PGCG汉化组",
+ "id": "prb-nds-2f1ab44a",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "39D177C4",
+  "no_intro_name": "Biohazard - Deadly Silence (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "生化危机DS 死寂"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

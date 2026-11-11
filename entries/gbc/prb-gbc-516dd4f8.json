@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "516DD4F8",
+   "name": "神鬼帝国之恶魔城(繁)(新特奇)(32Mb).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Shengui Diguo Zhi Emo Cheng (Taiwan)",
+ "hack_group": "",
+ "id": "prb-gbc-516dd4f8",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "1823E24D",
+  "no_intro_name": "Shengui Diguo Zhi Emo Cheng (Taiwan)",
+  "region": "Taiwan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "神鬼帝国之恶魔城"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "69D7C388",
+   "name": "石榴之味(简)(v0.9)(1d4444)(16Mb).smc",
+   "size": 2097152
+  }
+ ],
+ "group": "Zakuro no Aji (Japan)",
+ "hack_group": "1d4444",
+ "id": "prb-sfc-69d7c388",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "6391F9B3",
+  "no_intro_name": "Zakuro no Aji (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "石榴之味"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v0.9"
+}

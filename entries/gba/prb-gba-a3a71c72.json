@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A3A71C72",
+   "name": "侦探神宫寺三郎 - 白影的少女[CGP](简)(JP)(65.56Mb).gba",
+   "size": 8593920
+  }
+ ],
+ "group": "Tantei Jinguuji Saburou - Shiroi Kage no Shoujo (Japan)",
+ "hack_group": "",
+ "id": "prb-gba-a3a71c72",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "3C21D7E0",
+  "no_intro_name": "Tantei Jinguuji Saburou - Shiroi Kage no Shoujo (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "侦探神宫寺三郎 - 白影的少女"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

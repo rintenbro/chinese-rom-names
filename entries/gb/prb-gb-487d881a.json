@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "487D881A",
+   "name": "鬼忍降魔录 ONI(v1.0)(简)(RangerMarsh)(2Mb).gb",
+   "size": 262144
+  }
+ ],
+ "group": "Kinin Koumaroku Oni (Japan)",
+ "hack_group": "RangerMarsh",
+ "id": "prb-gb-487d881a",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Kinin Koumaroku Oni (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "鬼忍降魔录 ONI"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

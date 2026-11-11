@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "598E11FD",
+   "name": "鸟的故事(v2)(简)[高伟](JP)[ACT](0.18Mb).nes",
+   "size": 24592
+  }
+ ],
+ "group": "Bird Week (Japan) (En)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-598e11fd",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Bird Week (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "鸟的故事"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v2"
+}

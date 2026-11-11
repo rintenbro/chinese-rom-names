@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-0560e494d0c8/title.png"
+ },
+ "files": [
+  {
+   "crc32": "347FA444",
+   "name": "三国志 - 傲视天下(简)(广誉科技)(CN)(8Mb).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "San Guo Zhi - Ao Shi Tian Xia (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-gbc-347fa444",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "San Guo Zhi - Ao Shi Tian Xia (China) [CHT]",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "三国志 - 傲视天下"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

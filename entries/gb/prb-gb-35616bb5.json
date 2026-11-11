@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "35616BB5",
+   "name": "GB热血！沙滩排球 国雄君(繁)(AXI)(JP)(8Mb).gb",
+   "size": 524288
+  }
+ ],
+ "group": "Nekketsu! Beach Volley Da yo Kunio-kun (Japan) (SGB Enhanced)",
+ "hack_group": "AXI",
+ "id": "prb-gb-35616bb5",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "ABFB84DF",
+  "no_intro_name": "Nekketsu! Beach Volley Da yo Kunio-kun (Japan) (SGB Enhanced)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "GB热血！沙滩排球 国雄君"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

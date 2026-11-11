@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CA3BAB06",
+   "name": "高桥名人之冒险岛3(简)(狸克)(2Mb).gb",
+   "size": 262144
+  }
+ ],
+ "group": "Takahashi Meijin no Bouken-jima III (Japan)",
+ "hack_group": "",
+ "id": "prb-gb-ca3bab06",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "F8FC0B41",
+  "no_intro_name": "Takahashi Meijin no Bouken-jima III (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "高桥名人之冒险岛3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

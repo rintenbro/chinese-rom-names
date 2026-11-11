@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B7D71D6A",
+   "name": "口袋妖怪紅 (繁) (unknown).gb",
+   "size": 1048576
+  }
+ ],
+ "group": "Pokemon - Red Version (USA, Europe) (SGB Enhanced)",
+ "hack_group": "unknown",
+ "id": "prb-gb-b7d71d6a",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "9F7FDD53",
+  "no_intro_name": "Pokemon - Red Version (USA, Europe) (SGB Enhanced)",
+  "region": "USA"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪紅"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

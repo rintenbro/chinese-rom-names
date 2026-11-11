@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1FBD37A9",
+   "name": "梦境之王(修正版)(简)[外星科技+Vanyogin](JP)[RPG](7Mb).nes",
+   "size": 917520
+  }
+ ],
+ "group": "Namco Prism Zone - Dream Master (Japan)",
+ "hack_group": "外星科技+Vanyogin",
+ "id": "prb-famicom-1fbd37a9",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "8F668691",
+  "no_intro_name": "Namco Prism Zone - Dream Master (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "梦境之王"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

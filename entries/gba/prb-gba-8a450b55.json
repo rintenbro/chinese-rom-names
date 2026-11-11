@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8A450B55",
+   "name": "古惑狼Advance2[Advance汉化组](v1.0)(简)(88Mb).gba",
+   "size": 11611424
+  }
+ ],
+ "group": "Crash Bandicoot Advance 2 - Guruguru Saimin Dai-panic! (Japan)",
+ "hack_group": "Advance汉化组",
+ "id": "prb-gba-8a450b55",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "04FBA7CF",
+  "no_intro_name": "Crash Bandicoot Advance 2 - Guruguru Saimin Dai-panic! (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "古惑狼Advance2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

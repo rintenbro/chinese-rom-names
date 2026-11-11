@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B8AEB822",
+   "name": "特救指令(简)[高伟](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Tokkyuu Shirei Solbrain (Japan)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-b8aeb822",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "0CB8CBCE",
+  "no_intro_name": "Tokkyuu Shirei Solbrain (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "特救指令"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

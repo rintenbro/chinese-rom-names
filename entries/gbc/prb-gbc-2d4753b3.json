@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-4374d6c2885a/title.png"
+ },
+ "files": [
+  {
+   "crc32": "2D4753B3",
+   "name": "富甲三国(简)(外星科技+白粥与榨菜+星夜之幻+babypkzhu)(8Mb).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Fu Jia San Guo (China) [CHS]",
+ "hack_group": "外星科技+白粥与榨菜+星夜之幻+babypkzhu",
+ "id": "prb-gbc-2d4753b3",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Fu Jia San Guo (China) [CHS]",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "富甲三国"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

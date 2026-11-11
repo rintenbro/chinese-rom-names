@@ -11,10 +11,9 @@
    "size": 4194304
   }
  ],
- "group": "Jisu F-Zero Weilai Saiche",
+ "group": "Jisu F-Zero Weilai Saiche (China)",
+ "hack_group": "神游",
  "id": "ver-gba-0e5c38b7",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "0E5C38B7",
   "no_intro_name": "Jisu F-Zero Weilai Saiche (China)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AFZC",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Jisu F-Zero Weilai Saiche (China)",
   "zh-Hans": "神游之极速零式未来赛车"
  },
- "vendor": "神游",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

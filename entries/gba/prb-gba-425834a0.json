@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "425834A0",
+   "name": "点点潮流 - 几何世代[深藏竹楼](v0.8)(简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "bit Generations - Dotstream (Japan) (En)",
+ "hack_group": "深藏竹楼",
+ "id": "prb-gba-425834a0",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "F0760400",
+  "no_intro_name": "bit Generations - Dotstream (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "点点潮流 - 几何世代"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v0.8"
+}

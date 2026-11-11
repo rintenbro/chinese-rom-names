@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DA512D25",
+   "name": "泽诺尼亚(DSiWare)(简)(Laoskhan)(128Mb).nds",
+   "size": 13638656
+  }
+ ],
+ "group": "ZENONIA (USA)",
+ "hack_group": "DSiWare Laoskhan",
+ "id": "prb-nds-da512d25",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "ZENONIA (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "泽诺尼亚"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

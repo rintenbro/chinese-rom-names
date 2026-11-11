@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DBDB69A5",
+   "name": "魔法元素![TGB](简)(JP)(32Mb).gba",
+   "size": 4194304
+  }
+ ],
+ "group": "Elemix! (Japan)",
+ "hack_group": "",
+ "id": "prb-gba-dbdb69a5",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "FA28BED8",
+  "no_intro_name": "Elemix! (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "魔法元素!"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

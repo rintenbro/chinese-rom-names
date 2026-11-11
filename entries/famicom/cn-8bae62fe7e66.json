@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-eb88ad3166a7/title.png"
+ },
+ "files": [
+  {
+   "crc32": "94CF6EB4",
+   "name": "超级魂(简)[烟山软件](CN)[ACT](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "超级魂",
+ "hack_group": "烟山软件",
+ "id": "cn-8bae62fe7e66",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "超级魂"
+ },
+ "type": "hack",
+ "vendor": "",
+ "version": ""
+}

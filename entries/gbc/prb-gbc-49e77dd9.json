@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-ce8042d6cbd3/title.png"
+ },
+ "files": [
+  {
+   "crc32": "49E77DD9",
+   "name": "指环王 首部曲 (繁) (新特奇).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Lord of the Rings, The - Part 1 (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-gbc-49e77dd9",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Lord of the Rings, The - Part 1 (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "指环王 首部曲"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

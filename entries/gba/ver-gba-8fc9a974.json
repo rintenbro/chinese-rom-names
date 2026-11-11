@@ -11,10 +11,9 @@
    "size": 11604020
   }
  ],
- "group": "Final Fantasy Tactics Advance",
+ "group": "Final Fantasy Tactics Advance (USA)",
+ "hack_group": "熊组+yggdra+S1的小伙伴们",
  "id": "ver-gba-8fc9a974",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "5645E56C",
   "no_intro_name": "Final Fantasy Tactics Advance (USA)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AFXE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Final Fantasy Tactics Advance (USA)",
   "zh-Hans": "最终幻想战略版Advance"
  },
- "vendor": "熊组+yggdra+S1的小伙伴们",
+ "type": "game",
+ "vendor": "",
  "version": "v0.2.5"
 }

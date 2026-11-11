@@ -11,10 +11,9 @@
    "size": 33547348
   }
  ],
- "group": "Soul Bubbles",
+ "group": "Soul Bubbles (USA) (En,Fr,De,Es,It)",
+ "hack_group": "3DM飞速汉化组",
  "id": "ver-nds-3bab9bce",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "4192FA85",
   "no_intro_name": "Soul Bubbles (USA) (En,Fr,De,Es,It)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YLEE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Soul Bubbles (USA) (En,Fr,De,Es,It)",
   "zh-Hans": "心灵泡泡"
  },
- "vendor": "3DM飞速汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

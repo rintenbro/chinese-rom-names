@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E0DAB0D6",
+   "name": "小青蛙 - 魔法国的大冒险[Aic](简)(JP)(64.71Mb).gba",
+   "size": 8482340
+  }
+ ],
+ "group": "Frogger - Mahou no Kuni no Daibouken (Japan)",
+ "hack_group": "Aic",
+ "id": "prb-gba-e0dab0d6",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "B1EF7532",
+  "no_intro_name": "Frogger - Mahou no Kuni no Daibouken (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "小青蛙 - 魔法国的大冒险"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

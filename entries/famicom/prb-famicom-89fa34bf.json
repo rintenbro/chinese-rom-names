@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "89FA34BF",
+   "name": "戈尔巴乔夫水管大作战(简)[翼势力](JP)[PUZ](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Gorby no Pipeline Daisakusen (Japan) (En)",
+ "hack_group": "翼势力",
+ "id": "prb-famicom-89fa34bf",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Gorby no Pipeline Daisakusen (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "戈尔巴乔夫水管大作战"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

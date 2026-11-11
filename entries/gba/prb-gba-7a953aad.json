@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7A953AAD",
+   "name": "哈利波特 - 阿兹卡班的逃犯[施珂昱](简)(JP)(128Mb).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Harry Potter to Azkaban no Shuujin (Japan)",
+ "hack_group": "施珂昱",
+ "id": "prb-gba-7a953aad",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "42E590D6",
+  "no_intro_name": "Harry Potter to Azkaban no Shuujin (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "哈利波特 - 阿兹卡班的逃犯"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

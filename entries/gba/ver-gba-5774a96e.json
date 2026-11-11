@@ -11,10 +11,9 @@
    "size": 8486912
   }
  ],
- "group": "Tottoko Hamutarou 4 - Nijiiro Daikoushin Dechu",
+ "group": "Tottoko Hamutarou 4 - Nijiiro Daikoushin Dechu (Japan)",
+ "hack_group": "天幻汉化组",
  "id": "ver-gba-5774a96e",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "1B6E5617",
   "no_intro_name": "Tottoko Hamutarou 4 - Nijiiro Daikoushin Dechu (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "A84J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Tottoko Hamutarou 4 - Nijiiro Daikoushin Dechu (Japan)",
   "zh-Hans": "哈姆太郎4 - 七彩虹大行进"
  },
- "vendor": "天幻汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4933DD35",
+   "name": "四狂神战记 - 传说再现 (v1.1) (简) (CKN).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Lufia - The Legend Returns (USA)",
+ "hack_group": "CKN",
+ "id": "prb-gbc-4933dd35",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "5BAE3C04",
+  "no_intro_name": "Lufia - The Legend Returns (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "四狂神战记 - 传说再现"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

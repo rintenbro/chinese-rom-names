@@ -11,10 +11,9 @@
    "size": 8587488
   }
  ],
- "group": "Taiketsu! Ultra Hero",
+ "group": "Taiketsu! Ultra Hero (Japan)",
+ "hack_group": "Advance-010",
  "id": "ver-gba-c8c87ea2",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "4E6BDF8B",
   "no_intro_name": "Taiketsu! Ultra Hero (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BU6J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Taiketsu! Ultra Hero (Japan)",
   "zh-Hans": "决斗！奥特曼英雄"
  },
- "vendor": "Advance-010",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

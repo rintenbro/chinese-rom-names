@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4AE057B7",
+   "name": "Game & Watch游戏合集2 V2汉化版(CN)(3DM汉化组)(64Mb).nds",
+   "size": 3571256
+  }
+ ],
+ "group": "Game & Watch Collection 2 (Japan) (Club Nintendo)",
+ "hack_group": "3DM汉化组",
+ "id": "prb-nds-4ae057b7",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "EA43F946",
+  "no_intro_name": "Game & Watch Collection 2 (Japan) (Club Nintendo)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "Game & Watch游戏合集2 V2汉化版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

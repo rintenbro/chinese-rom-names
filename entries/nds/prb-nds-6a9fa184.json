@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6A9FA184",
+   "name": "快餐危机 菜单汉化版(US)(XEDFTXZ)(256Mb).nds",
+   "size": 32122916
+  }
+ ],
+ "group": "Fast Food Panic (USA) (En,Fr,Es)",
+ "hack_group": "XEDFTXZ",
+ "id": "prb-nds-6a9fa184",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "99DCC9B3",
+  "no_intro_name": "Fast Food Panic (USA) (En,Fr,Es)",
+  "region": "USA"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "快餐危机 菜单汉化版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

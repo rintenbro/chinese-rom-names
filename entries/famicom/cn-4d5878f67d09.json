@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-08dcbd1c17be/title.png"
+ },
+ "files": [
+  {
+   "crc32": "A1D12D56",
+   "name": "原始人(简)[南晶科技](CN)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "原始人",
+ "hack_group": "南晶科技",
+ "id": "cn-4d5878f67d09",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "原始人"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

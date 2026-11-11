@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gb/cn-26a89403171e/title.png"
+ },
+ "files": [
+  {
+   "crc32": "E498D751",
+   "name": "梦幻之星 - 拯救地球 (简) (laopix)(2Mb).gb",
+   "size": 262144
+  }
+ ],
+ "group": "Phantasy Star (China) [CHT]",
+ "hack_group": "laopix",
+ "id": "prb-gb-e498d751",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Phantasy Star (China) [CHT]",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "梦幻之星 - 拯救地球"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

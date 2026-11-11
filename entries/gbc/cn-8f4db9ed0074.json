@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-d1cd2a0ee01c/title.png"
+ },
+ "files": [
+  {
+   "crc32": "AD68B3DD",
+   "name": "Feng Kuang Da Fu Weng (Unlicensed, Chinese) (Multicart Rip) [Header Fix].gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Feng Kuang Da Fu Weng",
+ "hack_group": "Multicart Rip Header Fix",
+ "id": "cn-8f4db9ed0074",
+ "platform": "gbc",
+ "script": "未标注",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "Feng Kuang Da Fu Weng"
+ },
+ "type": "hack",
+ "vendor": "",
+ "version": ""
+}

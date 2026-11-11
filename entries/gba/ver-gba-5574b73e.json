@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Maliou Yu Luyiji RPG",
+ "group": "Maliou Yu Luyiji RPG (China) (Proto)",
+ "hack_group": "未发售",
  "id": "ver-gba-5574b73e",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "5574B73E",
   "no_intro_name": "Maliou Yu Luyiji RPG (China) (Proto)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "A88C",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Maliou Yu Luyiji RPG (China) (Proto)",
   "zh-Hans": "神游 马力欧与路易吉RPG"
  },
- "vendor": "未发售",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "154C970E",
+   "name": "口袋妖怪不可思议迷宫 空之探险队(US)(Team Pokepals)(1024Mb).nds",
+   "size": 91394048
+  }
+ ],
+ "group": "Pokemon Mystery Dungeon - Explorers of Sky (USA)",
+ "hack_group": "Team Pokepals",
+ "id": "prb-nds-154c970e",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "22DDE080",
+  "no_intro_name": "Pokemon Mystery Dungeon - Explorers of Sky (USA)",
+  "region": "USA"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪不可思议迷宫 空之探险队"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

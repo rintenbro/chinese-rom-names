@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "41BDA03E",
+   "name": "蕾拉(简)[高伟](JP)[STG](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Layla (Japan)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-41bda03e",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Layla (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "蕾拉"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

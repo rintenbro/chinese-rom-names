@@ -11,10 +11,9 @@
    "size": 67403820
   }
  ],
- "group": "Osu! Tatakae! Ouendan",
+ "group": "Osu! Tatakae! Ouendan (Japan)",
+ "hack_group": "青文汉化组",
  "id": "ver-nds-f2668cfa",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "2D59B3C8",
   "no_intro_name": "Osu! Tatakae! Ouendan (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "AOSJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Osu! Tatakae! Ouendan (Japan)",
   "zh-Hans": "押忍！战斗！应援团！"
  },
- "vendor": "青文汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

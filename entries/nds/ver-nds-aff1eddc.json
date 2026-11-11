@@ -11,10 +11,9 @@
    "size": 61195456
   }
  ],
- "group": "Robocalypse",
+ "group": "Robocalypse (USA)",
+ "hack_group": "远离汉化组",
  "id": "ver-nds-aff1eddc",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "92CAC62F",
   "no_intro_name": "Robocalypse (USA)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "CYSE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Robocalypse (USA)",
   "zh-Hans": "机器人欢歌"
  },
- "vendor": "远离汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

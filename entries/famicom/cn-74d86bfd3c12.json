@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-ec4ad18a56bb/title.png"
+ },
+ "files": [
+  {
+   "crc32": "B4A71316",
+   "name": "宇宙战将(简)[外星科技](JP)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "宇宙战将",
+ "hack_group": "外星科技",
+ "id": "cn-74d86bfd3c12",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "宇宙战将"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7C39D948",
+   "name": "小魔怪2 新种诞生(简)[满天星](JP)[ACT](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Gremlin 2 - Shinshu Tanjou (Japan)",
+ "hack_group": "满天星",
+ "id": "prb-famicom-7c39d948",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "EA0FF772",
+  "no_intro_name": "Gremlin 2 - Shinshu Tanjou (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "小魔怪2 新种诞生"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

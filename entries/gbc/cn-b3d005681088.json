@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-b489ee172eb3/title.png"
+ },
+ "files": [
+  {
+   "crc32": "0210ED97",
+   "name": "忍者龙剑传 暗影DX上色版(简)(狸克)(4Mb).gbc",
+   "size": 524288
+  }
+ ],
+ "group": "忍者龙剑传 暗影DX上色版",
+ "hack_group": "",
+ "id": "cn-b3d005681088",
+ "platform": "gbc",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "忍者龙剑传 暗影DX上色版"
+ },
+ "type": "hack",
+ "vendor": "",
+ "version": ""
+}

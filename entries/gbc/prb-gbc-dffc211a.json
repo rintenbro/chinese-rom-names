@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DFFC211A",
+   "name": "樱花大战 - 檄 花组入队! (繁) (修正版) (sss888).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Sakura Taisen GB - Geki Hanagumi Nyuutai! (Japan)",
+ "hack_group": "sss888",
+ "id": "prb-gbc-dffc211a",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Sakura Taisen GB - Geki Hanagumi Nyuutai! (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "樱花大战 - 檄 花组入队!"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

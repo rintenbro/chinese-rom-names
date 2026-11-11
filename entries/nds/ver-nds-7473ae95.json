@@ -11,10 +11,9 @@
    "size": 44756636
   }
  ],
- "group": "Commando - Steel Disaster",
+ "group": "Commando - Steel Disaster (USA) (En,Fr,Es)",
+ "hack_group": "aikika",
  "id": "ver-nds-7473ae95",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "9701E9EF",
   "no_intro_name": "Commando - Steel Disaster (USA) (En,Fr,Es)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "YW7E",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Commando - Steel Disaster (USA) (En,Fr,Es)",
   "zh-Hans": "突击队 钢铁灾难"
  },
- "vendor": "aikika",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

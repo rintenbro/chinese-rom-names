@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2062723E",
+   "name": "三国志 群雄争霸(繁)[Asder](CN)[FTG](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "San Guo Zhi - Qun Xiong Zheng Ba (Taiwan)",
+ "hack_group": "Asder",
+ "id": "prb-famicom-2062723e",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "3895CDB0",
+  "no_intro_name": "San Guo Zhi - Qun Xiong Zheng Ba (Taiwan)",
+  "region": "Taiwan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "三国志 群雄争霸"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

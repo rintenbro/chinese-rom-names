@@ -11,10 +11,9 @@
    "size": 4194304
   }
  ],
- "group": "Minna no Soft Series - Numpla Advance",
+ "group": "Minna no Soft Series - Numpla Advance (Japan)",
+ "hack_group": "Dna&PGCG",
  "id": "ver-gba-475c310c",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "044C6F68",
   "no_intro_name": "Minna no Soft Series - Numpla Advance (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BUOJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Minna no Soft Series - Numpla Advance (Japan)",
   "zh-Hans": "大众软件系列 - 数独 Advance"
  },
- "vendor": "Dna&PGCG",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

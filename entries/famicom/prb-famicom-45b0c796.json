@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "45B0C796",
+   "name": "超浮游要塞(v2016)(简)[高伟](JP)[STG](0.31Mb).nes",
+   "size": 40976
+  }
+ ],
+ "group": "Chou Fuyuu Yousai - Exed Exes (Japan) (En)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-45b0c796",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "A39FDD59",
+  "no_intro_name": "Chou Fuyuu Yousai - Exed Exes (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超浮游要塞"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v2016"
+}

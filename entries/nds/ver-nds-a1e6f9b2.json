@@ -11,10 +11,9 @@
    "size": 25275776
   }
  ],
- "group": "Kage no Densetsu - The Legend of Kage 2",
+ "group": "Kage no Densetsu - The Legend of Kage 2 (Japan)",
+ "hack_group": "巴士汉化组",
  "id": "ver-nds-a1e6f9b2",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "C124B4D3",
   "no_intro_name": "Kage no Densetsu - The Legend of Kage 2 (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "YLKJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Kage no Densetsu - The Legend of Kage 2 (Japan)",
   "zh-Hans": "影之传说2"
  },
- "vendor": "巴士汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

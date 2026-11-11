@@ -11,10 +11,9 @@
    "size": 98006180
   }
  ],
- "group": "Kaitou Rousseau",
+ "group": "Kaitou Rousseau (Japan)",
+ "hack_group": "Advance",
  "id": "ver-nds-b7fe5ae8",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "FAF05535",
   "no_intro_name": "Kaitou Rousseau (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "ARSJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Kaitou Rousseau (Japan)",
   "zh-Hans": "怪盗卢梭"
  },
- "vendor": "Advance",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

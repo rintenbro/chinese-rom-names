@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9CC7C59B",
+   "name": "前线任务 兵器危机(简)(v1.01)(烈火暴龙+aGuGu+阿刃)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Front Mission Series - Gun Hazard (Japan)",
+ "hack_group": "烈火暴龙+aGuGu+阿刃",
+ "id": "prb-sfc-9cc7c59b",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "FE27E061",
+  "no_intro_name": "Front Mission Series - Gun Hazard (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "前线任务 兵器危机"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.01"
+}

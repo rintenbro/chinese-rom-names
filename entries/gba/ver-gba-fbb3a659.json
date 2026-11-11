@@ -11,10 +11,9 @@
    "size": 10361856
   }
  ],
- "group": "Final Fantasy Tactics Advance",
+ "group": "Final Fantasy Tactics Advance (Japan)",
+ "hack_group": "熊组+yggdra",
  "id": "ver-gba-fbb3a659",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "A57B0034",
   "no_intro_name": "Final Fantasy Tactics Advance (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AFXJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Final Fantasy Tactics Advance (Japan)",
   "zh-Hans": "最终幻想战略版Advance"
  },
- "vendor": "熊组+yggdra",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

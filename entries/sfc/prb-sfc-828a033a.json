@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "828A033A",
+   "name": "美法兰传说(简)(v1.1)(1d4444+CLARK.H)(12Mb).sfc",
+   "size": 1572864
+  }
+ ],
+ "group": "Melfand Stories (Japan)",
+ "hack_group": "1d4444+CLARK.H",
+ "id": "prb-sfc-828a033a",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "0928FC15",
+  "no_intro_name": "Melfand Stories (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "美法兰传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Yu-Gi-Oh! - World Championship Tournament 2004",
+ "group": "Yu-Gi-Oh! - World Championship Tournament 2004 (Europe) (En,Ja,Fr,De,Es,It)",
+ "hack_group": "PGCG&Nrw",
  "id": "ver-gba-a7f0a348",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "3C42E84C",
   "no_intro_name": "Yu-Gi-Oh! - World Championship Tournament 2004 (Europe) (En,Ja,Fr,De,Es,It)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BYWP",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Yu-Gi-Oh! - World Championship Tournament 2004 (Europe) (En,Ja,Fr,De,Es,It)",
   "zh-Hans": "游戏王! - 世界冠军锦标赛2004"
  },
- "vendor": "PGCG&Nrw",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

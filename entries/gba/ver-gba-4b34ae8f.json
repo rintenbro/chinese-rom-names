@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Shaman King - Master of Spirits",
+ "group": "Shaman King - Master of Spirits (Europe) (En,Fr,De)",
+ "hack_group": "Advance汉化组",
  "id": "ver-gba-4b34ae8f",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "4864B878",
   "no_intro_name": "Shaman King - Master of Spirits (Europe) (En,Fr,De)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BSOP",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Shaman King - Master of Spirits (Europe) (En,Fr,De)",
   "zh-Hans": "通灵王 精神大师"
  },
- "vendor": "Advance汉化组",
+ "type": "game",
+ "vendor": "",
  "version": "v1.0"
 }

@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Magical Houshin",
+ "group": "Magical Houshin (Japan)",
+ "hack_group": "luke2122",
  "id": "ver-gba-182e7f9b",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "70123550",
   "no_intro_name": "Magical Houshin (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AJOJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Magical Houshin (Japan)",
   "zh-Hans": "魔法封神"
  },
- "vendor": "luke2122",
+ "type": "game",
+ "vendor": "",
  "version": "v1.0"
 }

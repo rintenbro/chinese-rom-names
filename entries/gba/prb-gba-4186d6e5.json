@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4186D6E5",
+   "name": "0979 - Fire Emblem - Rekka no Ken (J).gba",
+   "size": 16777216
+  }
+ ],
+ "group": "Fire Emblem - Rekka no Ken (Japan)",
+ "hack_group": "",
+ "id": "prb-gba-4186d6e5",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "F0C10E72",
+  "no_intro_name": "Fire Emblem - Rekka no Ken (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "Fire Emblem - Rekka no Ken"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

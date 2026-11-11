@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "975F7379",
+   "name": "新四人麻雀 役满天国(简)[网一晓](JP)[TAB](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Shin 4 Nin Uchi Mahjong - Yakuman Tengoku (Japan)",
+ "hack_group": "网一晓",
+ "id": "prb-famicom-975f7379",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "8A0C2DDE",
+  "no_intro_name": "Shin 4 Nin Uchi Mahjong - Yakuman Tengoku (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "新四人麻雀 役满天国"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

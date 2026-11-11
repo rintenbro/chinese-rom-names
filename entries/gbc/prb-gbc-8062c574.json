@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8062C574",
+   "name": "炮灰(红色警戒2)(简)(原版LOGO修复版)(sss888)(32Mb).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Cannon Fodder (USA) (En,Fr,De,Es,It)",
+ "hack_group": "sss888",
+ "id": "prb-gbc-8062c574",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "26F8E1A0",
+  "no_intro_name": "Cannon Fodder (USA) (En,Fr,De,Es,It)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "炮灰"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

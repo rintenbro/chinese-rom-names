@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "22687550",
+   "name": "超级魂斗罗(v2.0)(简)[九班](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Super Contra (Japan)",
+ "hack_group": "九班",
+ "id": "prb-famicom-22687550",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "0A9CEF36",
+  "no_intro_name": "Super Contra (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级魂斗罗"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v2.0"
+}

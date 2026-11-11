@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-7760cd983efe/title.png"
+ },
+ "files": [
+  {
+   "crc32": "6FB6E261",
+   "name": "冰原历险记II (繁) (新特奇).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "冰原历险记II",
+ "hack_group": "",
+ "id": "cn-8bc5ac5b2c2a",
+ "platform": "gbc",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "冰原历险记II"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

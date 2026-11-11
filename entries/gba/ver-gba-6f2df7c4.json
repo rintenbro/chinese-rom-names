@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Sitafei De Chuanshuo",
+ "group": "Sitafei De Chuanshuo (China) (Proto)",
+ "hack_group": "未发售",
  "id": "ver-gba-6f2df7c4",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "6F2DF7C4",
   "no_intro_name": "Sitafei De Chuanshuo (China) (Proto)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "ASTC",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Sitafei De Chuanshuo (China) (Proto)",
   "zh-Hans": "神游 斯塔非的传说"
  },
- "vendor": "未发售",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BFA7E8E5",
+   "name": "空中魂斗罗 纽约行动(简)[maoweimam](EU)[STG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Action in New York (Europe)",
+ "hack_group": "maoweimam",
+ "id": "prb-famicom-bfa7e8e5",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Action in New York (Europe)",
+  "region": "Europe"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "空中魂斗罗 纽约行动"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

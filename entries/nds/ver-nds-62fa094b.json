@@ -11,10 +11,9 @@
    "size": 134217728
   }
  ],
- "group": "Sonshi no Heihou DS",
+ "group": "Sonshi no Heihou DS (Japan)",
+ "hack_group": "",
  "id": "ver-nds-62fa094b",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "EDF0449F",
   "no_intro_name": "Sonshi no Heihou DS (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "繁",
- "serial": "C4HJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Sonshi no Heihou DS (Japan)",
   "zh-Hans": "孙子兵法DS 文言"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

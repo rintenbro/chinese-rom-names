@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "88C04C15",
+   "name": "邦得007 - 末日帝国 (繁) (unknown)(8Mb).gb",
+   "size": 1048576
+  }
+ ],
+ "group": "James Bond 007 (USA, Europe) (SGB Enhanced)",
+ "hack_group": "unknown",
+ "id": "prb-gb-88c04c15",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "CA3BC3CE",
+  "no_intro_name": "James Bond 007 (USA, Europe) (SGB Enhanced)",
+  "region": "USA"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "邦得007 - 末日帝国"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

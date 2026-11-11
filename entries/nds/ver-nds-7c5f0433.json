@@ -11,10 +11,9 @@
    "size": 26646076
   }
  ],
- "group": "Ryuusei no Rockman 3 - Red Joker",
+ "group": "Ryuusei no Rockman 3 - Red Joker (Japan) (Rev 1)",
+ "hack_group": "",
  "id": "ver-nds-7c5f0433",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "FA95C5A4",
   "no_intro_name": "Ryuusei no Rockman 3 - Red Joker (Japan) (Rev 1)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "CRRJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Ryuusei no Rockman 3 - Red Joker (Japan) (Rev 1)",
   "zh-Hans": "流星洛克人3 - 红色鬼牌 对战汉化版"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

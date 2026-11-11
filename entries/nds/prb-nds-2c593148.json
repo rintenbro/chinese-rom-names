@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2C593148",
+   "name": "绘图方块 解迷战斗勇者王(简)(fciq汉化配音小组)(128Mb).nds",
+   "size": 16777216
+  }
+ ],
+ "group": "Oekaki Puzzle Battle! - Yuusha Ou GaoGaiGar Hen (Japan)",
+ "hack_group": "",
+ "id": "prb-nds-2c593148",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "FBD8DDF6",
+  "no_intro_name": "Oekaki Puzzle Battle! - Yuusha Ou GaoGaiGar Hen (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "绘图方块 解迷战斗勇者王"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

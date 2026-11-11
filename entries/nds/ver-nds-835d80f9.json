@@ -11,10 +11,9 @@
    "size": 24059432
   }
  ],
- "group": "I Love Dolphin",
+ "group": "I Love Dolphin (Japan)",
+ "hack_group": "的士汉化组",
  "id": "ver-nds-835d80f9",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "436471DF",
   "no_intro_name": "I Love Dolphin (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "繁",
- "serial": "YDPJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "I Love Dolphin (Japan)",
   "zh-Hans": "我爱海豚"
  },
- "vendor": "的士汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

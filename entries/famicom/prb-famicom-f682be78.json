@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F682BE78",
+   "name": "新地底探险(简)[高伟](JP)[PUZ](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Boulder Dash (Japan) (En)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-f682be78",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "1903F7FB",
+  "no_intro_name": "Boulder Dash (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "新地底探险"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

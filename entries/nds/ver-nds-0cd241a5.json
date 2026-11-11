@@ -11,10 +11,9 @@
    "size": 94702592
   }
  ],
- "group": "Mario & Luigi RPG 3!!!",
+ "group": "Mario & Luigi RPG 3!!! (Japan)",
+ "hack_group": "红帽子绿帽子临时汉化组",
  "id": "ver-nds-0cd241a5",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "3E2094C1",
   "no_intro_name": "Mario & Luigi RPG 3!!! (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "CLJJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Mario & Luigi RPG 3!!! (Japan)",
   "zh-Hans": "马里奥&路易RPG3"
  },
- "vendor": "红帽子绿帽子临时汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

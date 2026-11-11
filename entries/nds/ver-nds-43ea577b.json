@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Hiite Utaeru DS Guitar 'M-06'",
+ "group": "Hiite Utaeru DS Guitar 'M-06' (Japan)",
+ "hack_group": "E.Wings汉化组",
  "id": "ver-nds-43ea577b",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "1A9C9357",
   "no_intro_name": "Hiite Utaeru DS Guitar 'M-06' (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "AHDJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Hiite Utaeru DS Guitar 'M-06' (Japan)",
   "zh-Hans": "弹唱DS吉他 M-06"
  },
- "vendor": "E.Wings汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

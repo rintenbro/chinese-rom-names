@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Nihon Curling Kyoukai Kounin - Minna no DS Curling",
+ "group": "Nihon Curling Kyoukai Kounin - Minna no DS Curling (Japan)",
+ "hack_group": "",
  "id": "ver-nds-cd216726",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "FB302534",
   "no_intro_name": "Nihon Curling Kyoukai Kounin - Minna no DS Curling (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "AK5J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Nihon Curling Kyoukai Kounin - Minna no DS Curling (Japan)",
   "zh-Hans": "日本冰上曲棍球协会公认 大家的冰壶DS 文本汉化版"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

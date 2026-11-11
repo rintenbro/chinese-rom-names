@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9336689F",
+   "name": "百万大富翁 - 金版 (简) (广誉科技)(CN)(8Mb).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Millions of Monopoly Kin (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-gbc-9336689f",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Millions of Monopoly Kin (China) [CHT]",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "百万大富翁 - 金版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

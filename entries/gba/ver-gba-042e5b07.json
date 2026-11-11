@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Miteluode Ronghe",
+ "group": "Miteluode Ronghe (China)",
+ "hack_group": "神游",
  "id": "ver-gba-042e5b07",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "042E5B07",
   "no_intro_name": "Miteluode Ronghe (China)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AMTC",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Miteluode Ronghe (China)",
   "zh-Hans": "神游之密特罗德 - 融合"
  },
- "vendor": "神游",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

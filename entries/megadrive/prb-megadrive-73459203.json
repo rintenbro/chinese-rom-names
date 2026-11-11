@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "73459203",
+   "name": "光辉传说(简)(飞云)(8Mb).bin",
+   "size": 1050784
+  }
+ ],
+ "group": "Twinkle Tale (Japan)",
+ "hack_group": "",
+ "id": "prb-megadrive-73459203",
+ "platform": "megadrive",
+ "probable_original": {
+  "crc32": "D757F924",
+  "no_intro_name": "Twinkle Tale (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "光辉传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

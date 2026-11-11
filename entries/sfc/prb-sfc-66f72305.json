@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "66F72305",
+   "name": "超级马里奥合集 (简) (少量汉化)(王潇亮)(24Mb).sfc",
+   "size": 3145728
+  }
+ ],
+ "group": "Super Mario Collection (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-66f72305",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "232BB5B8",
+  "no_intro_name": "Super Mario Collection (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级马里奥合集"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

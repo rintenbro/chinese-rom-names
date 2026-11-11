@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "EEC7B9FA",
+   "name": "大金刚(简)[MS](JUE)[ACT](0.18Mb).nes",
+   "size": 24592
+  }
+ ],
+ "group": "Donkey Kong (Japan) (En)",
+ "hack_group": "JUE",
+ "id": "prb-famicom-eec7b9fa",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "92C40665",
+  "no_intro_name": "Donkey Kong (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "大金刚"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

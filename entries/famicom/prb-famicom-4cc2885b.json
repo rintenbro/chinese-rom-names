@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4CC2885B",
+   "name": "高桥名人的冒险岛2(v20101231)(简)[NOKOH+fciq](JP)[ACT](2.12Mb).nes",
+   "size": 278544
+  }
+ ],
+ "group": "Takahashi Meijin no Bouken-jima II (Japan)",
+ "hack_group": "NOKOH+fciq",
+ "id": "prb-famicom-4cc2885b",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "CBA2F8E5",
+  "no_intro_name": "Takahashi Meijin no Bouken-jima II (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "高桥名人的冒险岛2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20101231"
+}

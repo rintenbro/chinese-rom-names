@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9253E7E4",
+   "name": "海贼王 巨人战争 汉化公测版1.0(JP)(起航汉化组)(512Mb).nds",
+   "size": 62251008
+  }
+ ],
+ "group": "One Piece - Gigant Battle! (Japan)",
+ "hack_group": "起航汉化组",
+ "id": "prb-nds-9253e7e4",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "9F9930B6",
+  "no_intro_name": "One Piece - Gigant Battle! (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "海贼王 巨人战争 汉化公测版1.0"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

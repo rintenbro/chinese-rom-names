@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "49BC84FE",
+   "name": "生命的奇迹 超级宝宝(简)[MS](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Bio Miracle Bokutte Upa (Japan) (En)",
+ "hack_group": "",
+ "id": "prb-famicom-49bc84fe",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Bio Miracle Bokutte Upa (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "生命的奇迹 超级宝宝"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

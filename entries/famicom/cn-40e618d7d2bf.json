@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-eab4aac6e6b7/title.png"
+ },
+ "files": [
+  {
+   "crc32": "8702FC62",
+   "name": "魔神法师(简)[外星科技](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "魔神法师",
+ "hack_group": "外星科技",
+ "id": "cn-40e618d7d2bf",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "魔神法师"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

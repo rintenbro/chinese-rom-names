@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C52B11D2",
+   "name": "工人战记(简)[高伟](JP)[ACT](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Don Doko Don (Japan)",
+ "hack_group": "高伟",
+ "id": "prb-famicom-c52b11d2",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Don Doko Don (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "工人战记"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

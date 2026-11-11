@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "938A7DE3",
+   "name": "1943 中途岛海战(简)[MM之神](JP)[STG](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "1943 - The Battle of Midway (USA)",
+ "hack_group": "MM之神",
+ "id": "prb-famicom-938a7de3",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "46F660C9",
+  "no_intro_name": "1943 - The Battle of Midway (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "中途岛海战"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

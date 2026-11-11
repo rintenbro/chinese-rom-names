@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3D01CB0F",
+   "name": "热斗拳皇96(简)(v1.0)(Stephen+湮没骑士の镇魂歌+落榜の美术生)(8Mb).gb",
+   "size": 1048576
+  }
+ ],
+ "group": "Nettou The King of Fighters '96 (Japan) (SGB Enhanced)",
+ "hack_group": "Stephen+湮没骑士の镇魂歌+落榜の美术生",
+ "id": "prb-gb-3d01cb0f",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "FECDAE42",
+  "no_intro_name": "Nettou The King of Fighters '96 (Japan) (SGB Enhanced)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "热斗拳皇96"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

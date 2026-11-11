@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C5EBFBA0",
+   "name": "双响炮(简)[普泽](CN)[TAB](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Shuangxiang Pao (Taiwan) (En)",
+ "hack_group": "普泽",
+ "id": "prb-famicom-c5ebfba0",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "7D08A2B0",
+  "no_intro_name": "Shuangxiang Pao (Taiwan) (En)",
+  "region": "Taiwan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "双响炮"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

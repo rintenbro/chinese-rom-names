@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7FAF6F74",
+   "name": "使命召唤 世界战争 全文本汉化v20220606+中文配音(US)(COD5临时汉化组+fciq配音小组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Call of Duty - World at War (USA)",
+ "hack_group": "COD5临时汉化组+fciq配音小组",
+ "id": "prb-nds-7faf6f74",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "BD094CF4",
+  "no_intro_name": "Call of Duty - World at War (USA)",
+  "region": "USA"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "使命召唤 世界战争 全文本汉化v20220606+中文配音"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

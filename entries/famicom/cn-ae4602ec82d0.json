@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-a0609a7d798a/title.png"
+ },
+ "files": [
+  {
+   "crc32": "4E7D8C47",
+   "name": "超级五笔汉卡(v1)(简)[科王](CN)[ETC](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "超级五笔汉卡",
+ "hack_group": "科王",
+ "id": "cn-ae4602ec82d0",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "超级五笔汉卡"
+ },
+ "type": "hack",
+ "vendor": "",
+ "version": "v1"
+}

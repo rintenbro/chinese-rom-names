@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-f7ed57fa4330/title.png"
+ },
+ "files": [
+  {
+   "crc32": "8323E8BC",
+   "name": "大唐风云4(简)[恒格电子](JP)[SLG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "大唐风云4",
+ "hack_group": "恒格电子",
+ "id": "cn-e8b60c440cc4",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "大唐风云4"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F3275B7A",
+   "name": "口袋妖怪 – 银(新神奇宝贝银)(繁)(星星科技+yy小龙虾)(JP)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Pocket Monsters Gin (Japan) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "星星科技+yy小龙虾",
+ "id": "prb-gbc-f3275b7a",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "BE1B928A",
+  "no_intro_name": "Pocket Monsters Gin (Japan) (SGB Enhanced) (GB Compatible)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪 – 银"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

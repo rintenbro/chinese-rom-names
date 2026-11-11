@@ -11,10 +11,9 @@
    "size": 9122848
   }
  ],
- "group": "Ghost Trap",
+ "group": "Ghost Trap (Japan)",
+ "hack_group": "云山",
  "id": "ver-gba-cd487c56",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "81EA54E2",
   "no_intro_name": "Ghost Trap (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AGVJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Ghost Trap (Japan)",
   "zh-Hans": "幽灵陷阱"
  },
- "vendor": "云山",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

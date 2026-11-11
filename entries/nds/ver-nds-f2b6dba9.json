@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Tao - Mamono no Tou to Mahou no Tamago",
+ "group": "Tao - Mamono no Tou to Mahou no Tamago (Japan)",
+ "hack_group": "NdsBBS汉化组",
  "id": "ver-nds-f2b6dba9",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "D5C6F870",
   "no_intro_name": "Tao - Mamono no Tou to Mahou no Tamago (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "ALDJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Tao - Mamono no Tou to Mahou no Tamago (Japan)",
   "zh-Hans": "TAO 魔物之塔与魔法之卵"
  },
- "vendor": "NdsBBS汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

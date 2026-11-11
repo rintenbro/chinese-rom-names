@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Sangokushi DS 2",
+ "group": "Sangokushi DS 2 (Japan)",
+ "hack_group": "",
  "id": "ver-nds-3e85b294",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "F47B0B37",
   "no_intro_name": "Sangokushi DS 2 (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "A3FJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Sangokushi DS 2 (Japan)",
   "zh-Hans": "三国志DS 2"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

@@ -11,10 +11,9 @@
    "size": 33554432
   }
  ],
- "group": "Pokemon - Ruby Version",
+ "group": "Pokemon - Ruby Version (USA, Europe)",
+ "hack_group": "口袋丶阿龙+HPHHPT",
  "id": "ver-gba-2d9d9429",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "F0815EE7",
   "no_intro_name": "Pokemon - Ruby Version (USA, Europe)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AXVE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Pokemon - Ruby Version (USA, Europe)",
   "zh-Hans": "口袋妖怪 - 红宝石"
  },
- "vendor": "口袋丶阿龙+HPHHPT",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

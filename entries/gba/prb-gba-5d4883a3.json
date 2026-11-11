@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5D4883A3",
+   "name": "最终幻想VI Advance[天幻网](v1.1+SFC画质音效模型补丁)(简)(US)(65.4Mb).gba",
+   "size": 8573204
+  }
+ ],
+ "group": "Final Fantasy VI Advance (USA)",
+ "hack_group": "v1.1+SFC画质音效模型补丁 天幻网",
+ "id": "prb-gba-5d4883a3",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "D708F5AB",
+  "no_intro_name": "Final Fantasy VI Advance (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "最终幻想VI Advance"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

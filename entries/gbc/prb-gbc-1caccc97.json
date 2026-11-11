@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-7d681620182e/title.png"
+ },
+ "files": [
+  {
+   "crc32": "1CACCC97",
+   "name": "绝对武力(繁)(新特奇)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Jue Dui Wu Li (China) [CHT]",
+ "hack_group": "",
+ "id": "prb-gbc-1caccc97",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Jue Dui Wu Li (China) [CHT]",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "绝对武力"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

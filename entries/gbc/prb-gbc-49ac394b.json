@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "49AC394B",
+   "name": "口袋妖怪 – 金(精灵宝可梦金)(繁)(修正版)(完美LOGO v1.1+背包等汉化)(sss888+RickyL1213)(16Mb).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Pocket Monsters Kin (Japan) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "sss888+RickyL1213",
+ "id": "prb-gbc-49ac394b",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Pocket Monsters Kin (Japan) (SGB Enhanced) (GB Compatible)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "口袋妖怪 – 金"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

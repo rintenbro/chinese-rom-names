@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7A0F8FC6",
+   "name": "樱桃小丸子(繁)[火星电子](CN)[PUZ](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Chibi Maruko-chan - Uki Uki Shopping (Japan)",
+ "hack_group": "火星电子",
+ "id": "prb-famicom-7a0f8fc6",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "B0AF0BBE",
+  "no_intro_name": "Chibi Maruko-chan - Uki Uki Shopping (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "樱桃小丸子"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

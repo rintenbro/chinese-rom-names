@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "72FD61BC",
+   "name": "奇天烈大百科(D商+星夜之幻)(3Mb).gb",
+   "size": 393216
+  }
+ ],
+ "group": "Kiteretsu Daihyakka - Bouken Ooedo Juraki (Japan)",
+ "hack_group": "D商+星夜之幻",
+ "id": "prb-gb-72fd61bc",
+ "platform": "gb",
+ "probable_original": {
+  "crc32": "D53548B0",
+  "no_intro_name": "Kiteretsu Daihyakka - Bouken Ooedo Juraki (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "奇天烈大百科"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

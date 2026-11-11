@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-f178e084fffa/title.png"
+ },
+ "files": [
+  {
+   "crc32": "45D1FF56",
+   "name": "梁山英雄(Fix)(简)(dhx)(16Mb).gb",
+   "size": 2097152
+  }
+ ],
+ "group": "Liang Shan Heroes (China) [CHS]",
+ "hack_group": "Fix dhx",
+ "id": "prb-gbc-45d1ff56",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Liang Shan Heroes (China) [CHS]",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "梁山英雄"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9AE47A3F",
+   "name": "三国志英杰传(简)[外星科技](JP)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Sanguozhi - Yingjie Zhuan (China) (Simplified) (Pirate)",
+ "hack_group": "外星科技",
+ "id": "prb-famicom-9ae47a3f",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "1E00AE3A",
+  "no_intro_name": "Sanguozhi - Yingjie Zhuan (China) (Simplified) (Pirate)",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "三国志英杰传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

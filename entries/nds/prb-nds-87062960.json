@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "87062960",
+   "name": "星际火狐 命令(简)(青文汉化组)(256Mb).nds",
+   "size": 32677468
+  }
+ ],
+ "group": "Star Fox Command (Japan)",
+ "hack_group": "青文汉化组",
+ "id": "prb-nds-87062960",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "618C4089",
+  "no_intro_name": "Star Fox Command (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "星际火狐 命令"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

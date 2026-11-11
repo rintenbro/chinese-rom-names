@@ -11,10 +11,9 @@
    "size": 8490752
   }
  ],
- "group": "Horsez",
+ "group": "Horsez (USA)",
+ "hack_group": "Advance汉化组",
  "id": "ver-gba-2b57d287",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "5B2B4452",
   "no_intro_name": "Horsez (USA)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BHUE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Horsez (USA)",
   "zh-Hans": "我的马场"
  },
- "vendor": "Advance汉化组",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

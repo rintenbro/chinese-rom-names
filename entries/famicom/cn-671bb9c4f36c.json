@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-abc1688111c4/title.png"
+ },
+ "files": [
+  {
+   "crc32": "079C98E9",
+   "name": "英汉词典2(简)[未知](CN)[ETC](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "英汉词典2",
+ "hack_group": "未知",
+ "id": "cn-671bb9c4f36c",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "英汉词典2"
+ },
+ "type": "hack",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2CEBF5E7",
+   "name": "恐龙战队兽连者(v20230106)(简)[LSP](JP)[ACT](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Kyouryuu Sentai Zyuranger (Japan)",
+ "hack_group": "",
+ "id": "prb-famicom-2cebf5e7",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "EAD2C628",
+  "no_intro_name": "Kyouryuu Sentai Zyuranger (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "恐龙战队兽连者"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20230106"
+}

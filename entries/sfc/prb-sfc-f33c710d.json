@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F33C710D",
+   "name": "大老二 (繁) (官方中文版)(不明)(16.5Mb).sfc",
+   "size": 2162688
+  }
+ ],
+ "group": "Super Big 2 (China)",
+ "hack_group": "不明",
+ "id": "prb-sfc-f33c710d",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "6865F663",
+  "no_intro_name": "Super Big 2 (China)",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "大老二"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

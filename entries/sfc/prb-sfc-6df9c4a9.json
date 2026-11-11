@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6DF9C4A9",
+   "name": "超级玛利欧全明星+超级玛利欧世界(繁)(美版汉化v20250730)(NOKOH)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Super Mario All-Stars + Super Mario World (USA)",
+ "hack_group": "NOKOH",
+ "id": "prb-sfc-6df9c4a9",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Super Mario All-Stars + Super Mario World (USA)",
+  "region": "USA"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级玛利欧全明星+超级玛利欧世界"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

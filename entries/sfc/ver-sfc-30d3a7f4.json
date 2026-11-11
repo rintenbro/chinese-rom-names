@@ -11,10 +11,9 @@
    "size": 1572864
   }
  ],
- "group": "Sangokushi III",
+ "group": "Sangokushi III (Hong Kong)",
+ "hack_group": "KOEI",
  "id": "ver-sfc-30d3a7f4",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "30D3A7F4",
   "no_intro_name": "Sangokushi III (Hong Kong)",
@@ -23,12 +22,12 @@
  },
  "platform": "sfc",
  "script": "繁",
- "serial": "",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Sangokushi III (Hong Kong)",
   "zh-Hans": "三国志3"
  },
- "vendor": "KOEI",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

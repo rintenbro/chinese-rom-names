@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BC7B2AEB",
+   "name": "前线任务 (繁) (v1.04c)(Chrono & Mankee610)(24Mb).sfc",
+   "size": 3145728
+  }
+ ],
+ "group": "Front Mission (Japan)",
+ "hack_group": "Chrono & Mankee610",
+ "id": "prb-sfc-bc7b2aeb",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "FE27E061",
+  "no_intro_name": "Front Mission (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "前线任务"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.04c"
+}

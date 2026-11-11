@@ -11,10 +11,9 @@
    "size": 58756432
   }
  ],
- "group": "Gyakuten Kenji",
+ "group": "Gyakuten Kenji (Japan)",
+ "hack_group": "",
  "id": "ver-nds-58c7f57c",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "C363EBF5",
   "no_intro_name": "Gyakuten Kenji (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "未标注",
- "serial": "C32J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Gyakuten Kenji (Japan)",
   "zh-Hans": "逆转检事完美汉化版"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

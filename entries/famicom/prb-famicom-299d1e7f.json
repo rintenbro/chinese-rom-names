@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "299D1E7F",
+   "name": "激龟格斗(v1.0)(简)[星空](US)[FTG](2.37Mb).nes",
+   "size": 311312
+  }
+ ],
+ "group": "Teenage Mutant Ninja Turtles - Tournament Fighters (USA)",
+ "hack_group": "星空",
+ "id": "prb-famicom-299d1e7f",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Teenage Mutant Ninja Turtles - Tournament Fighters (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "激龟格斗"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

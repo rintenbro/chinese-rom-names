@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "545738C0",
+   "name": "塞尔达传说 - 梦见岛(简)(官中文本汉化修正版v2.0)(啪嗒啪嗒+小笨笨+Our Story℃+RangerMarsh)(JP)(8Mb).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (SGB Enhanced) (GB Compatible)",
+ "hack_group": "啪嗒啪嗒+小笨笨+Our Story℃+RangerMarsh",
+ "id": "prb-gbc-545738c0",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (SGB Enhanced) (GB Compatible)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "塞尔达传说 - 梦见岛"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v2.0"
+}

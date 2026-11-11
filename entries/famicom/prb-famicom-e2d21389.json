@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E2D21389",
+   "name": "龙之忍者(简)[虫儿](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Dragon Ninja (Japan)",
+ "hack_group": "虫儿",
+ "id": "prb-famicom-e2d21389",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "1677BF25",
+  "no_intro_name": "Dragon Ninja (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "龙之忍者"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

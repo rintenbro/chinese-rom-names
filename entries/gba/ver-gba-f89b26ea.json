@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Ui-Ire - World Soccer Winning Eleven",
+ "group": "Ui-Ire - World Soccer Winning Eleven (Japan)",
+ "hack_group": "",
  "id": "ver-gba-f89b26ea",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "31B1A586",
   "no_intro_name": "Ui-Ire - World Soccer Winning Eleven (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AEWJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Ui-Ire - World Soccer Winning Eleven (Japan)",
   "zh-Hans": "胜利11人 - 实况足球"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5AEAC3A3",
+   "name": "推箱子(简)[快乐的龙](EU)[PUZ](0.31Mb).nes",
+   "size": 40976
+  }
+ ],
+ "group": "Sokoban (World) (Proto)",
+ "hack_group": "快乐的龙",
+ "id": "cn-3f9a1c049720",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "推箱子"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

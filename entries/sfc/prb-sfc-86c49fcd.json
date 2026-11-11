@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "86C49FCD",
+   "name": "圣剑传说3 (繁) (v1.0 3P)(天幻 & PTT)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "Seiken Densetsu 3 (Japan)",
+ "hack_group": "天幻 & PTT",
+ "id": "prb-sfc-86c49fcd",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Seiken Densetsu 3 (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "圣剑传说3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0 3P"
+}

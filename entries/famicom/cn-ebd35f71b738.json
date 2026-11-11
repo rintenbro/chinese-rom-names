@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-77a8e9979e74/title.png"
+ },
+ "files": [
+  {
+   "crc32": "934AA976",
+   "name": "游戏宝贝(简)[南晶科技](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "游戏宝贝",
+ "hack_group": "南晶科技",
+ "id": "cn-ebd35f71b738",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "游戏宝贝"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "14F6B391",
+   "name": "大盗伍佑卫门 - 新世代出动![星组][简&繁](JP)(32.06Mb).gba",
+   "size": 4203256
+  }
+ ],
+ "group": "Goemon - New Age Shutsudou! (Japan)",
+ "hack_group": "星组",
+ "id": "prb-gba-14f6b391",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "86D6C574",
+  "no_intro_name": "Goemon - New Age Shutsudou! (Japan)",
+  "region": "Japan"
+ },
+ "script": "简繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "大盗伍佑卫门 - 新世代出动!"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

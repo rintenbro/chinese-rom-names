@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2BC2EA1A",
+   "name": "寻找！KERORO军曹 找茬大作战！(JP)(集中营汉化组)(512Mb).nds",
+   "size": 67108864
+  }
+ ],
+ "group": "Mitsukete! Keroro Gunsou - Machigai Sagashi Daisakusen de Arimasu! (Japan)",
+ "hack_group": "集中营汉化组",
+ "id": "prb-nds-2bc2ea1a",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Mitsukete! Keroro Gunsou - Machigai Sagashi Daisakusen de Arimasu! (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "寻找！KERORO军曹 找茬大作战！"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

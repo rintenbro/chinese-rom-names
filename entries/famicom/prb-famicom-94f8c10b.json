@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "94F8C10B",
+   "name": "最终幻想(v20221112)(修正版)(简)[外星科技+晚风轻起](JP)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Final Fantasy (Japan)",
+ "hack_group": "外星科技+晚风轻起",
+ "id": "prb-famicom-94f8c10b",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "09F667EA",
+  "no_intro_name": "Final Fantasy (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "最终幻想"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20221112"
+}

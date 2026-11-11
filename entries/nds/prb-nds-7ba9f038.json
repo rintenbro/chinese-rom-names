@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7BA9F038",
+   "name": "简单DS系列Vol.31 THE超弹丸！改造战车 字体修正版(JP)(APEX汉化组)(128Mb).nds",
+   "size": 16777216
+  }
+ ],
+ "group": "Simple DS Series Vol. 31 - The Chou Dangan!! Custom Sensha (Japan)",
+ "hack_group": "APEX汉化组",
+ "id": "prb-nds-7ba9f038",
+ "platform": "nds",
+ "probable_original": {
+  "crc32": "26DEB69B",
+  "no_intro_name": "Simple DS Series Vol. 31 - The Chou Dangan!! Custom Sensha (Japan)",
+  "region": "Japan"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "简单DS系列Vol.31 THE超弹丸！改造战车 字体修正版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

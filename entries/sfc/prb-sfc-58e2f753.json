@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "58E2F753",
+   "name": "超级机器人大战EX(简)(修正版)(WGF+银河漫步+WMAW2007)(16Mb).sfc",
+   "size": 2097152
+  }
+ ],
+ "group": "Super Robot Taisen EX (Japan)",
+ "hack_group": "WGF+银河漫步+WMAW2007",
+ "id": "prb-sfc-58e2f753",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": "239621A0",
+  "no_intro_name": "Super Robot Taisen EX (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级机器人大战EX"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

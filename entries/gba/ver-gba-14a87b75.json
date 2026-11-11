@@ -11,10 +11,9 @@
    "size": 4194304
   }
  ],
- "group": "Chaoji Maliou 2",
+ "group": "Chaoji Maliou 2 (China)",
+ "hack_group": "神游",
  "id": "ver-gba-14a87b75",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "14A87B75",
   "no_intro_name": "Chaoji Maliou 2 (China)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AMAC",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Chaoji Maliou 2 (China)",
   "zh-Hans": "神游之超级马里欧2"
  },
- "vendor": "神游",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

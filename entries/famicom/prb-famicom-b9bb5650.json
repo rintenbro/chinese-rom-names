@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B9BB5650",
+   "name": "洛克人2 威利博士之谜(繁)[BBasilio2001](US)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Mega Man 2 (USA)",
+ "hack_group": "BBasilio2001",
+ "id": "prb-famicom-b9bb5650",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "80E08660",
+  "no_intro_name": "Mega Man 2 (USA)",
+  "region": "USA"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "洛克人2 威利博士之谜"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

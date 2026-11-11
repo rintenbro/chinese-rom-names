@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D71EF0B3",
+   "name": "横山光辉三国志盘戏 双六英雄记(简)(AI汉化版v1.9)(九尾猫)(16Mb).sfc",
+   "size": 2097152
+  }
+ ],
+ "group": "Yokoyama Mitsuteru Sangokushi (Japan)",
+ "hack_group": "",
+ "id": "prb-sfc-d71ef0b3",
+ "platform": "sfc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Yokoyama Mitsuteru Sangokushi (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "横山光辉三国志盘戏 双六英雄记"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.9"
+}

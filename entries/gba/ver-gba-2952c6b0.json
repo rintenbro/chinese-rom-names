@@ -11,10 +11,9 @@
    "size": 8388567
   }
  ],
- "group": "Teenage Mutant Ninja Turtles",
+ "group": "Teenage Mutant Ninja Turtles (USA)",
+ "hack_group": "Zario",
  "id": "ver-gba-2952c6b0",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "F6C36783",
   "no_intro_name": "Teenage Mutant Ninja Turtles (USA)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BNTE",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Teenage Mutant Ninja Turtles (USA)",
   "zh-Hans": "忍者神龟"
  },
- "vendor": "Zario",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "17176B8F",
+   "name": "火焰纹章(v1.0)(简)[汉化你妹](JP)[SLG](5Mb).nes",
+   "size": 655376
+  }
+ ],
+ "group": "Fire Emblem - Ankoku Ryuu to Hikari no Tsurugi (Japan)",
+ "hack_group": "汉化你妹",
+ "id": "prb-famicom-17176b8f",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Fire Emblem - Ankoku Ryuu to Hikari no Tsurugi (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "火焰纹章"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

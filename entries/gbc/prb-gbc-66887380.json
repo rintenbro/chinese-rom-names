@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/gbc/cn-6854b9b336d8/title.png"
+ },
+ "files": [
+  {
+   "crc32": "66887380",
+   "name": "火焰纹章外传(圣火徽章)(简)(外星科技+小弟+星夜之幻)(8Mb).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "Fire Emblem Gaiden (China) [CHS]",
+ "hack_group": "外星科技+小弟+星夜之幻",
+ "id": "prb-gbc-66887380",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Fire Emblem Gaiden (China) [CHS]",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "火焰纹章外传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

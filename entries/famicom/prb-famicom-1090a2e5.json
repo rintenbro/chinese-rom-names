@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1090A2E5",
+   "name": "撞球传说 花撞2(繁)[晶碁电子](CN)[PUZ](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Zhuangqiu Chuanshuo Hua Zhuang II - Ball Story (Taiwan)",
+ "hack_group": "晶碁电子",
+ "id": "prb-famicom-1090a2e5",
+ "platform": "famicom",
+ "probable_original": {
+  "crc32": "87577D39",
+  "no_intro_name": "Zhuangqiu Chuanshuo Hua Zhuang II - Ball Story (Taiwan)",
+  "region": "Taiwan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "撞球传说 花撞2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

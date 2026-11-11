@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "CT Special Forces 3 - Bioterror",
+ "group": "CT Special Forces 3 - Bioterror (Europe) (En,Fr,De,Es,It,Nl)",
+ "hack_group": "Advance",
  "id": "ver-gba-c04876f6",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "7DC40EDA",
   "no_intro_name": "CT Special Forces 3 - Bioterror (Europe) (En,Fr,De,Es,It,Nl)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "BC3P",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "CT Special Forces 3 - Bioterror (Europe) (En,Fr,De,Es,It,Nl)",
   "zh-Hans": "CT特种部队3-生化恐怖"
  },
- "vendor": "Advance",
+ "type": "game",
+ "vendor": "",
  "version": "v1.1"
 }

@@ -11,10 +11,9 @@
    "size": 67108864
   }
  ],
- "group": "Sangokushi DS 3",
+ "group": "Sangokushi DS 3 (Japan)",
+ "hack_group": "",
  "id": "ver-nds-30a2a180",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "58E981CD",
   "no_intro_name": "Sangokushi DS 3 (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "nds",
  "script": "简",
- "serial": "B35J",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Sangokushi DS 3 (Japan)",
   "zh-Hans": "三国志DS3 汉化测试v13"
  },
+ "type": "game",
  "vendor": "",
  "version": ""
 }

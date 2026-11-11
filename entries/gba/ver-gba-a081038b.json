@@ -11,10 +11,9 @@
    "size": 16777216
   }
  ],
- "group": "Tennis no Ouji-sama 2003 - Passion Red",
+ "group": "Tennis no Ouji-sama 2003 - Passion Red (Japan)",
+ "hack_group": "Kiny",
  "id": "ver-gba-a081038b",
- "layer": "verified",
- "match": "game_code",
  "original": {
   "crc32": "59D1DC73",
   "no_intro_name": "Tennis no Ouji-sama 2003 - Passion Red (Japan)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "A8RJ",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Tennis no Ouji-sama 2003 - Passion Red (Japan)",
   "zh-Hans": "网球王子2003 - 火红"
  },
- "vendor": "Kiny",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

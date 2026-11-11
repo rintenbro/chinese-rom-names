@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "66442E7D",
+   "name": "蜘蛛侠III (简) (新特奇).gbc",
+   "size": 4194304
+  }
+ ],
+ "group": "Spider-Man (Japan)",
+ "hack_group": "",
+ "id": "prb-gbc-66442e7d",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "5A83DFC4",
+  "no_intro_name": "Spider-Man (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "蜘蛛侠III"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

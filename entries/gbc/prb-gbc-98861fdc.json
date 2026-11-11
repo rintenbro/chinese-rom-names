@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "98861FDC",
+   "name": "合金装备 (简) (monkeys).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Metal Gear Solid (USA)",
+ "hack_group": "monkeys",
+ "id": "prb-gbc-98861fdc",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "04B0C5D6",
+  "no_intro_name": "Metal Gear Solid (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "合金装备"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

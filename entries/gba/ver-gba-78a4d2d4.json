@@ -11,10 +11,9 @@
    "size": 8388608
   }
  ],
- "group": "Waliou Zhizao",
+ "group": "Waliou Zhizao (China)",
+ "hack_group": "神游",
  "id": "ver-gba-78a4d2d4",
- "layer": "verified",
- "match": "crc",
  "original": {
   "crc32": "78A4D2D4",
   "no_intro_name": "Waliou Zhizao (China)",
@@ -23,12 +22,12 @@
  },
  "platform": "gba",
  "script": "简",
- "serial": "AZWC",
  "source": "no-intro",
+ "status": "verified",
  "titles": {
-  "en": "Waliou Zhizao (China)",
   "zh-Hans": "神游之瓦力欧制造"
  },
- "vendor": "神游",
+ "type": "game",
+ "vendor": "",
  "version": ""
 }

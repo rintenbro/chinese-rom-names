@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4D93924F",
+   "name": "塞尔达传说 - 过去的林克&四支剑[Larrywalker](繁)(US)(64Mb).gba",
+   "size": 8388608
+  }
+ ],
+ "group": "Legend of Zelda, The - A Link to the Past & Four Swords (USA)",
+ "hack_group": "Larrywalker",
+ "id": "prb-gba-4d93924f",
+ "platform": "gba",
+ "probable_original": {
+  "crc32": "8E91CD13",
+  "no_intro_name": "Legend of Zelda, The - A Link to the Past & Four Swords (USA)",
+  "region": "USA"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "塞尔达传说 - 过去的林克&四支剑"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

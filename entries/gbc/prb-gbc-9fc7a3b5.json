@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9FC7A3B5",
+   "name": "牧场物语2 (简) (unknown).gbc",
+   "size": 2097152
+  }
+ ],
+ "group": "Bokujou Monogatari 2 GB (Japan) (GB Compatible)",
+ "hack_group": "unknown",
+ "id": "prb-gbc-9fc7a3b5",
+ "platform": "gbc",
+ "probable_original": {
+  "crc32": "EE993302",
+  "no_intro_name": "Bokujou Monogatari 2 GB (Japan) (GB Compatible)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "牧场物语2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

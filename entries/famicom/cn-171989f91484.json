@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-2d55f1a56a70/title.png"
+ },
+ "files": [
+  {
+   "crc32": "8AA1C13C",
+   "name": "哆啦A梦 超时空历险(v2)(修正版)(简)[外星科技+无敌阿尔宙斯](JP)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "哆啦A梦 超时空历险",
+ "hack_group": "外星科技+无敌阿尔宙斯",
+ "id": "cn-171989f91484",
+ "platform": "famicom",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "哆啦A梦 超时空历险"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v2"
+}
