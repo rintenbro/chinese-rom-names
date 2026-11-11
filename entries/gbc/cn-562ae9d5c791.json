@@ -1,0 +1,29 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C97AFEFD",
+   "name": "GB战争2(简)(v1.0)(bmmm906)(4Mb).gbc",
+   "size": 524288
+  }
+ ],
+ "group": "GB战争2",
+ "hack_group": "bmmm906",
+ "id": "cn-562ae9d5c791",
+ "notes": "文件为截断/不健康 dump，CRC 仅供识别该文件",
+ "original": null,
+ "platform": "gbc",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "GB战争2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

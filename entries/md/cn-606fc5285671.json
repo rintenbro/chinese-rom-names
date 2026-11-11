@@ -1,0 +1,29 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1D81A67C",
+   "name": "赌神之梦幻扑克 (繁) (松诠资讯)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "赌神之梦幻扑克",
+ "hack_group": "",
+ "id": "cn-606fc5285671",
+ "notes": "文件为截断/不健康 dump，CRC 仅供识别该文件",
+ "original": null,
+ "platform": "md",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "赌神之梦幻扑克"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

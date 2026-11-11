@@ -1,0 +1,29 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "44C660F1",
+   "name": "疯狂桃花源 (繁) (松诠资讯)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "疯狂桃花源",
+ "hack_group": "",
+ "id": "cn-540a5fe48caf",
+ "notes": "文件为截断/不健康 dump，CRC 仅供识别该文件",
+ "original": null,
+ "platform": "md",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "疯狂桃花源"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

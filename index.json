@@ -1,11 +1,11 @@
 {
  "version": "0.1.1",
- "generated_at": "2026-11-11T23:07:07",
- "count": 3739,
+ "generated_at": "2026-11-11T23:28:32",
+ "count": 3756,
  "counts": {
   "verified": 912,
   "probable": 2211,
-  "self": 616
+  "self": 633
  },
  "entries": [
   {
@@ -13365,6 +13365,42 @@
    "hash": "c516c7ef74e15622"
   },
   {
+   "id": "cn-4e77cd8d755e",
+   "status": "self",
+   "platform": "gbc",
+   "group": "洛克人X5",
+   "titles": {
+    "zh-Hans": "洛克人X5"
+   },
+   "crc32": [
+    "FF5B985B"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "1d7b46bce6f26531"
+  },
+  {
+   "id": "cn-562ae9d5c791",
+   "status": "self",
+   "platform": "gbc",
+   "group": "GB战争2",
+   "titles": {
+    "zh-Hans": "GB战争2"
+   },
+   "crc32": [
+    "C97AFEFD"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "3496e5261c4093a1"
+  },
+  {
    "id": "cn-5641f820c68e",
    "status": "self",
    "platform": "gbc",
@@ -13455,6 +13491,24 @@
    "hash": "b4a381cf0c9f5918"
   },
   {
+   "id": "cn-663c11c0b144",
+   "status": "self",
+   "platform": "gbc",
+   "group": "恶魔岛",
+   "titles": {
+    "zh-Hans": "恶魔岛"
+   },
+   "crc32": [
+    "2B2ACB79"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "e38e1ed4d1c4222f"
+  },
+  {
    "id": "cn-67a6a2a92d59",
    "status": "self",
    "platform": "gbc",
@@ -13509,6 +13563,24 @@
    "hash": "68391a2fedc3cde2"
   },
   {
+   "id": "cn-805e1b44d74b",
+   "status": "self",
+   "platform": "gbc",
+   "group": "数码暴龙9 - 暴龙篇2002",
+   "titles": {
+    "zh-Hans": "数码暴龙9 - 暴龙篇2002"
+   },
+   "crc32": [
+    "C10FA909"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "e96dd571b3bf8448"
+  },
+  {
    "id": "cn-81a55f44bfd2",
    "status": "self",
    "platform": "gbc",
@@ -13525,6 +13597,24 @@
     "title": null
    },
    "hash": "17859bb417731e39"
+  },
+  {
+   "id": "cn-81e1a3ded12e",
+   "status": "self",
+   "platform": "gbc",
+   "group": "数码暴龙3 - 水晶版",
+   "titles": {
+    "zh-Hans": "数码暴龙3 - 水晶版"
+   },
+   "crc32": [
+    "10BF11A4"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "0ce38200c5306f1a"
   },
   {
    "id": "cn-8bc5ac5b2c2a",
@@ -13561,6 +13651,42 @@
     "title": "assets/gbc/cn-d1cd2a0ee01c/title.png"
    },
    "hash": "708c20c9f5ae1f49"
+  },
+  {
+   "id": "cn-92ead084ffb6",
+   "status": "self",
+   "platform": "gbc",
+   "group": "太空战士X",
+   "titles": {
+    "zh-Hans": "太空战士X"
+   },
+   "crc32": [
+    "09FEDECC"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "a9ebe16379449bdc"
+  },
+  {
+   "id": "cn-930b146878fc",
+   "status": "self",
+   "platform": "gbc",
+   "group": "雷弩机神",
+   "titles": {
+    "zh-Hans": "雷弩机神"
+   },
+   "crc32": [
+    "0E88967C"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "e2e26a274c830052"
   },
   {
    "id": "cn-97f0f8a3c98b",
@@ -13671,6 +13797,24 @@
    "hash": "cdd38c4aeb76b32e"
   },
   {
+   "id": "cn-ac9cb2f06269",
+   "status": "self",
+   "platform": "gbc",
+   "group": "格斗剑神",
+   "titles": {
+    "zh-Hans": "格斗剑神"
+   },
+   "crc32": [
+    "C0AC1B50"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "7a7567572dfc6c56"
+  },
+  {
    "id": "cn-b321b858a716",
    "status": "self",
    "platform": "gbc",
@@ -13779,6 +13923,24 @@
    "hash": "5c6c136fe196ff29"
   },
   {
+   "id": "cn-c5ac667abe7e",
+   "status": "self",
+   "platform": "gbc",
+   "group": "数码宝贝 - 火箭兵团",
+   "titles": {
+    "zh-Hans": "数码宝贝 - 火箭兵团"
+   },
+   "crc32": [
+    "F4D16E93"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "72aa3b45618ac0a9"
+  },
+  {
    "id": "cn-cadb015fbe2b",
    "status": "self",
    "platform": "gbc",
@@ -13849,6 +14011,24 @@
     "title": null
    },
    "hash": "99ba662bbc64273e"
+  },
+  {
+   "id": "cn-e0a8f2d4552b",
+   "status": "self",
+   "platform": "gbc",
+   "group": "格斗剑神",
+   "titles": {
+    "zh-Hans": "格斗剑神"
+   },
+   "crc32": [
+    "7AFAE089"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "bc69585a3c89711b"
   },
   {
    "id": "cn-e2fcb3572025",
@@ -18513,6 +18693,24 @@
    "hash": "3ddd8f22c9809ad5"
   },
   {
+   "id": "cn-540a5fe48caf",
+   "status": "self",
+   "platform": "md",
+   "group": "疯狂桃花源",
+   "titles": {
+    "zh-Hans": "疯狂桃花源"
+   },
+   "crc32": [
+    "44C660F1"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "e2a45ad9c2e71409"
+  },
+  {
    "id": "cn-5c55a93c307c",
    "status": "self",
    "platform": "md",
@@ -18529,6 +18727,24 @@
     "title": null
    },
    "hash": "1afb9c5122e0810f"
+  },
+  {
+   "id": "cn-606fc5285671",
+   "status": "self",
+   "platform": "md",
+   "group": "赌神之梦幻扑克",
+   "titles": {
+    "zh-Hans": "赌神之梦幻扑克"
+   },
+   "crc32": [
+    "1D81A67C"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "59cff8e0fe530b39"
   },
   {
    "id": "cn-6ce786cfcb03",
@@ -18565,6 +18781,24 @@
     "title": null
    },
    "hash": "057763330884ca7a"
+  },
+  {
+   "id": "cn-97a754cfc5b5",
+   "status": "self",
+   "platform": "md",
+   "group": "姬麻将之麻将情人",
+   "titles": {
+    "zh-Hans": "姬麻将之麻将情人"
+   },
+   "crc32": [
+    "DDD02BA4"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "f1461726ef206e13"
   },
   {
    "id": "cn-97da9461d404",
@@ -18691,6 +18925,24 @@
     "title": null
    },
    "hash": "9b29c094b2c2002f"
+  },
+  {
+   "id": "cn-c95b277c909d",
+   "status": "self",
+   "platform": "md",
+   "group": "战棊",
+   "titles": {
+    "zh-Hans": "战棊"
+   },
+   "crc32": [
+    "9D3DDE48"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "e3c29b4f00559ede"
   },
   {
    "id": "cn-d32dd4fbf2d4",
@@ -22273,6 +22525,24 @@
     "title": null
    },
    "hash": "47d77e76610d12d2"
+  },
+  {
+   "id": "cn-142b25b491e6",
+   "status": "self",
+   "platform": "nds",
+   "group": "火影忍者 忍列传",
+   "titles": {
+    "zh-Hans": "火影忍者 忍列传"
+   },
+   "crc32": [
+    "F4193DDE"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "c3eaf898e61b654e"
   },
   {
    "id": "cn-26a59385084a",
@@ -63513,6 +63783,24 @@
    "hash": "f6233d9c94403133"
   },
   {
+   "id": "cn-a41c817b6c00",
+   "status": "self",
+   "platform": "sfc",
+   "group": "皇家骑士团2",
+   "titles": {
+    "zh-Hans": "皇家骑士团2"
+   },
+   "crc32": [
+    "7DC73988"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "4e0a26012b43541c"
+  },
+  {
    "id": "cn-bd81e0392551",
    "status": "self",
    "platform": "sfc",
@@ -63529,6 +63817,24 @@
     "title": null
    },
    "hash": "d7b1f188f5bd499a"
+  },
+  {
+   "id": "cn-d4c906573192",
+   "status": "self",
+   "platform": "sfc",
+   "group": "神圣记2",
+   "titles": {
+    "zh-Hans": "神圣记2"
+   },
+   "crc32": [
+    "82ABE170"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "bfebfde77081481b"
   },
   {
    "id": "prb-sfc-005f1360",

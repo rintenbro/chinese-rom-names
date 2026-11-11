@@ -1,0 +1,29 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0E88967C",
+   "name": "雷弩机神 (繁) (Gowin).gbc",
+   "size": 524288
+  }
+ ],
+ "group": "雷弩机神",
+ "hack_group": "Gowin",
+ "id": "cn-930b146878fc",
+ "notes": "文件为截断/不健康 dump，CRC 仅供识别该文件",
+ "original": null,
+ "platform": "gbc",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "雷弩机神"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

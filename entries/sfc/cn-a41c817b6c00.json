@@ -1,0 +1,29 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7DC73988",
+   "name": "皇家骑士团2 (繁) (Beta2)(Lula)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "皇家骑士团2",
+ "hack_group": "Lula",
+ "id": "cn-a41c817b6c00",
+ "notes": "文件为截断/不健康 dump，CRC 仅供识别该文件",
+ "original": null,
+ "platform": "sfc",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "皇家骑士团2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

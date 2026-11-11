@@ -1,0 +1,29 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F4193DDE",
+   "name": "火影忍者 忍列传(JP)(E.Wings汉化组)(256Mb).nds",
+   "size": 27337095
+  }
+ ],
+ "group": "火影忍者 忍列传",
+ "hack_group": "E.Wings汉化组",
+ "id": "cn-142b25b491e6",
+ "notes": "文件为截断/不健康 dump，CRC 仅供识别该文件",
+ "original": null,
+ "platform": "nds",
+ "script": "未标注",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "火影忍者 忍列传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

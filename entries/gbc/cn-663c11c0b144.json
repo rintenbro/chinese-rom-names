@@ -1,0 +1,29 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2B2ACB79",
+   "name": "恶魔岛 (繁) (广誉科技).gbc",
+   "size": 524288
+  }
+ ],
+ "group": "恶魔岛",
+ "hack_group": "",
+ "id": "cn-663c11c0b144",
+ "notes": "文件为截断/不健康 dump，CRC 仅供识别该文件",
+ "original": null,
+ "platform": "gbc",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "恶魔岛"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,29 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "10BF11A4",
+   "name": "数码暴龙3 - 水晶版 (繁) (广誉科技).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "数码暴龙3 - 水晶版",
+ "hack_group": "",
+ "id": "cn-81e1a3ded12e",
+ "notes": "文件为截断/不健康 dump，CRC 仅供识别该文件",
+ "original": null,
+ "platform": "gbc",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "数码暴龙3 - 水晶版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

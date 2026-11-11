@@ -1,0 +1,29 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "82ABE170",
+   "name": "神圣记2(简)(v0.9)(sszl)(32Mb).sfc",
+   "size": 4194304
+  }
+ ],
+ "group": "神圣记2",
+ "hack_group": "sszl",
+ "id": "cn-d4c906573192",
+ "notes": "文件为截断/不健康 dump，CRC 仅供识别该文件",
+ "original": null,
+ "platform": "sfc",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "神圣记2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v0.9"
+}

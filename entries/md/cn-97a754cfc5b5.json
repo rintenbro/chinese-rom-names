@@ -1,0 +1,29 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DDD02BA4",
+   "name": "姬麻将之麻将情人 (繁) (松诠资讯)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "姬麻将之麻将情人",
+ "hack_group": "",
+ "id": "cn-97a754cfc5b5",
+ "notes": "文件为截断/不健康 dump，CRC 仅供识别该文件",
+ "original": null,
+ "platform": "md",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "姬麻将之麻将情人"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

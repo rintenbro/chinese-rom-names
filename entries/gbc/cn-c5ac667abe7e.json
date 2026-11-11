@@ -1,0 +1,29 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F4D16E93",
+   "name": "数码宝贝 - 火箭兵团 (繁) (Yong Yong).gbc",
+   "size": 524288
+  }
+ ],
+ "group": "数码宝贝 - 火箭兵团",
+ "hack_group": "Yong Yong",
+ "id": "cn-c5ac667abe7e",
+ "notes": "文件为截断/不健康 dump，CRC 仅供识别该文件",
+ "original": null,
+ "platform": "gbc",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "数码宝贝 - 火箭兵团"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

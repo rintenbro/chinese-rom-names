@@ -1,0 +1,29 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "09FEDECC",
+   "name": "太空战士X (繁) (SKOB).gbc",
+   "size": 1048576
+  }
+ ],
+ "group": "太空战士X",
+ "hack_group": "SKOB",
+ "id": "cn-92ead084ffb6",
+ "notes": "文件为截断/不健康 dump，CRC 仅供识别该文件",
+ "original": null,
+ "platform": "gbc",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "太空战士X"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}
