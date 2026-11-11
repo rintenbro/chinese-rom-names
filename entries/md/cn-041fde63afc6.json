@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9E764A28",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "怪物世界4 (重制版) (简)&(繁)",
+ "hack_group": "未知",
+ "id": "cn-041fde63afc6",
+ "original": null,
+ "platform": "md",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "怪物世界4 (重制版) (简)&(繁)"
+ },
+ "type": "game",
+ "vendor": ""
+}

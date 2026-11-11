@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "81462ABA",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "机器人大战终极版 (繁)",
+ "hack_group": "盗版&AprkMk16",
+ "id": "cn-0aab521539d0",
+ "original": null,
+ "platform": "gba",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "机器人大战终极版 (繁)"
+ },
+ "type": "game",
+ "vendor": ""
+}

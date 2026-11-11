@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F7B1B29B",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "口袋妖怪 - 银 (修正版) (简)",
+ "hack_group": "盗版&sss888",
+ "id": "cn-65d5e6a5224d",
+ "original": null,
+ "platform": "gbc",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "口袋妖怪 - 银 (修正版) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

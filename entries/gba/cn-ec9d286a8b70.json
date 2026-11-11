@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "395FDD5F",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "逆转裁判2 (特别版) (简)",
+ "hack_group": "CGP汉化组",
+ "id": "cn-ec9d286a8b70",
+ "original": null,
+ "platform": "gba",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "逆转裁判2 (特别版) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

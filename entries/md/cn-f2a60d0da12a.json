@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F6700999",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "阿斯特堡兄弟 (Steam版) (简)",
+ "hack_group": "PixelHeart",
+ "id": "cn-f2a60d0da12a",
+ "original": null,
+ "platform": "md",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "阿斯特堡兄弟 (Steam版) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

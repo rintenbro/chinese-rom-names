@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B8F7B766",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "仙剑奇侠传 (简)",
+ "hack_group": "盗版&yy小龙虾",
+ "id": "cn-b33de9343c12",
+ "original": null,
+ "platform": "gbc",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "仙剑奇侠传 (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

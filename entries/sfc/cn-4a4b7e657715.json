@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "97BC293A",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "美少女摔跤手列传 (v0.51) (简)",
+ "hack_group": "风干的包子",
+ "id": "cn-4a4b7e657715",
+ "original": null,
+ "platform": "sfc",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "美少女摔跤手列传 (v0.51) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

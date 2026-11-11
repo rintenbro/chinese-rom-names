@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "45A459FA",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "使命召唤4 - 现代战争 (v0.74) (中文语音版) (简)",
+ "hack_group": "MOBILE汉化组&fciq汉化配音小组",
+ "id": "cn-de8dc5780a3a",
+ "original": null,
+ "platform": "nds",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "使命召唤4 - 现代战争 (v0.74) (中文语音版) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

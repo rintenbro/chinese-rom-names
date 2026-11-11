@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5D743C4C",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "八龙珠 (v2) (修正版) (简)",
+ "hack_group": "外星科技&星夜之幻",
+ "id": "cn-f6b42552ff10",
+ "original": null,
+ "platform": "gbc",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "八龙珠 (v2) (修正版) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

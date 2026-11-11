@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F85BB33E",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "超级玛利欧兄弟2 (v20230225) (FDS版) (繁)",
+ "hack_group": "Nokoh",
+ "id": "cn-1966346e8d7e",
+ "original": null,
+ "platform": "nes",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "超级玛利欧兄弟2 (v20230225) (FDS版) (繁)"
+ },
+ "type": "game",
+ "vendor": ""
+}

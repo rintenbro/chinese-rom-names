@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "02B89F65",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "精灵宝可梦 - 黑&白 (v2.0) (简) （更新时间：20240718）",
+ "hack_group": "BW汉化组",
+ "id": "cn-928f0773a367",
+ "original": null,
+ "platform": "nds",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "精灵宝可梦 - 黑&白 (v2.0) (简) （更新时间：20240718）"
+ },
+ "type": "game",
+ "vendor": ""
+}

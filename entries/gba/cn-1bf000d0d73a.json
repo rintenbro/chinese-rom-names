@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "96BAA190",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "饲养物语1 - 我的兜虫 (v1.0) (简)",
+ "hack_group": "Advance汉化组",
+ "id": "cn-1bf000d0d73a",
+ "original": null,
+ "platform": "gba",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "饲养物语1 - 我的兜虫 (v1.0) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

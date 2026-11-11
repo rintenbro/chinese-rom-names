@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CEE1E46A",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "007 - 末日危机 (繁)",
+ "hack_group": "新特奇",
+ "id": "cn-602868752609",
+ "original": null,
+ "platform": "gba",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "007 - 末日危机 (繁)"
+ },
+ "type": "game",
+ "vendor": ""
+}

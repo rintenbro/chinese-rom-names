@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CBBD7C84",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "龙战士 (v0.9) (简)",
+ "hack_group": "高伟",
+ "id": "cn-ffbc95b9ceb4",
+ "original": null,
+ "platform": "nes",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "龙战士 (v0.9) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

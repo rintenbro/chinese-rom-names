@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FE6B5BF5",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "梦幻模拟战 (修正版) (简)",
+ "hack_group": "永盛&AXI",
+ "id": "cn-99b59470cfa6",
+ "original": null,
+ "platform": "md",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "梦幻模拟战 (修正版) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

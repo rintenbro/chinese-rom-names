@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0D28C3ED",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "星际火狐 (v1.1) (简)",
+ "hack_group": "神游科技",
+ "id": "cn-0efd8a9a39d0",
+ "original": null,
+ "platform": "sfc",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "星际火狐 (v1.1) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

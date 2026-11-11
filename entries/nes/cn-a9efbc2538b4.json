@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E7AF94C3",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "宇宙巡航机 (v0.9) (简)",
+ "hack_group": "高伟",
+ "id": "cn-a9efbc2538b4",
+ "original": null,
+ "platform": "nes",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "宇宙巡航机 (v0.9) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "56827579",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "光辉传说 (v1.0) (简)",
+ "hack_group": "飞云",
+ "id": "cn-71269ed1a979",
+ "original": null,
+ "platform": "md",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "光辉传说 (v1.0) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

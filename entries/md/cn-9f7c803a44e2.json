@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "807C66FB",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "封神英杰传 (v20231008) (修正版) (繁)",
+ "hack_group": "川普科技&Ken",
+ "id": "cn-9f7c803a44e2",
+ "original": null,
+ "platform": "md",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "封神英杰传 (v20231008) (修正版) (繁)"
+ },
+ "type": "game",
+ "vendor": ""
+}

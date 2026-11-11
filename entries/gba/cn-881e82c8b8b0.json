@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1681A235",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "口袋怪兽 - 红宝石&蓝宝石 (v1.1) (繁)",
+ "hack_group": "盗版&Blader",
+ "id": "cn-881e82c8b8b0",
+ "original": null,
+ "platform": "gba",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "口袋怪兽 - 红宝石&蓝宝石 (v1.1) (繁)"
+ },
+ "type": "game",
+ "vendor": ""
+}

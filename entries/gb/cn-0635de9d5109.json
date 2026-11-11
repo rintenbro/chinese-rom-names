@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1EA6CEAF",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "SD高达外传 - 拉古罗亚群英传 (v1.1) (简)",
+ "hack_group": "DMG汉化组",
+ "id": "cn-0635de9d5109",
+ "original": null,
+ "platform": "gb",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "SD高达外传 - 拉古罗亚群英传 (v1.1) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6DA461F9",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "实况足球 - 胜利十一人 (中文语音修正版) (简)",
+ "hack_group": "任意飞&6lay&Guys&PUNKEMNX&fciq汉化配音小组",
+ "id": "cn-023af2cae30e",
+ "original": null,
+ "platform": "gba",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "实况足球 - 胜利十一人 (中文语音修正版) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

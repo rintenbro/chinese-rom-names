@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "26233AEE",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "梦幻模拟战2 (v1.0) (v20151028) (简)",
+ "hack_group": "狼组&星空",
+ "id": "cn-3eb0d95b5839",
+ "original": null,
+ "platform": "md",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "梦幻模拟战2 (v1.0) (v20151028) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

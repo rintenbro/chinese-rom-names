@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "ABA4C752",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "最终幻想3 (修正版) (简)",
+ "hack_group": "外星科技&晚风轻起",
+ "id": "cn-13b7203328f1",
+ "original": null,
+ "platform": "nds",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "最终幻想3 (修正版) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

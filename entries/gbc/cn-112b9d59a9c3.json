@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A2D565B0",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "银河战士2 - 萨姆斯归来 (v1.3) (简)",
+ "hack_group": "翼势力",
+ "id": "cn-112b9d59a9c3",
+ "original": null,
+ "platform": "gbc",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "银河战士2 - 萨姆斯归来 (v1.3) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

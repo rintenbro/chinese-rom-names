@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FF51F477",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "忍者茶茶丸 (v0.9) (简)",
+ "hack_group": "高伟",
+ "id": "cn-3f22c2a2e336",
+ "original": null,
+ "platform": "nes",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "忍者茶茶丸 (v0.9) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

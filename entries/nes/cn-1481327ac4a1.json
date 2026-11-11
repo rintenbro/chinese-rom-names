@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FB829852",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "国王骑士 (v0.9) (简)",
+ "hack_group": "高伟",
+ "id": "cn-1481327ac4a1",
+ "original": null,
+ "platform": "nes",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "国王骑士 (v0.9) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

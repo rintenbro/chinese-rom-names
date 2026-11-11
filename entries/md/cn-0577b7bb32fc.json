@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "82D0F950",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "梦幻之星4 - 千年纪的终结 (v1.4) (共享版) (简)",
+ "hack_group": "意志之路汉化组",
+ "id": "cn-0577b7bb32fc",
+ "original": null,
+ "platform": "md",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "梦幻之星4 - 千年纪的终结 (v1.4) (共享版) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

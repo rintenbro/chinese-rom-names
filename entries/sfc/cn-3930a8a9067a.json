@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E2CC8FF2",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "如梦似幻 (v2.0) (繁)",
+ "hack_group": "RickyL1213",
+ "id": "cn-3930a8a9067a",
+ "original": null,
+ "platform": "sfc",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "如梦似幻 (v2.0) (繁)"
+ },
+ "type": "game",
+ "vendor": ""
+}

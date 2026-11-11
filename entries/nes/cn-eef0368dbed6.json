@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1E9DAF30",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "西游记 (v20090617) (繁)",
+ "hack_group": "Nokoh",
+ "id": "cn-eef0368dbed6",
+ "original": null,
+ "platform": "nes",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "西游记 (v20090617) (繁)"
+ },
+ "type": "game",
+ "vendor": ""
+}

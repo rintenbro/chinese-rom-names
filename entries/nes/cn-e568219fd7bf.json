@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D5BF4455",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "超级玛利欧兄弟2 (v20230225) (选关版) (繁)",
+ "hack_group": "Nokoh",
+ "id": "cn-e568219fd7bf",
+ "original": null,
+ "platform": "nes",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "超级玛利欧兄弟2 (v20230225) (选关版) (繁)"
+ },
+ "type": "game",
+ "vendor": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C27BF444",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "GB战争2 (v1.1) (简)",
+ "hack_group": "bmmm906",
+ "id": "cn-97f0f8a3c98b",
+ "original": null,
+ "platform": "gbc",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "GB战争2 (v1.1) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

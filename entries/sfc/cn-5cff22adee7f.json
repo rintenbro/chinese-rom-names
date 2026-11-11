@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3497AC77",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "灌篮高手 - SD版激斗升级!! (简)",
+ "hack_group": "风干的包子",
+ "id": "cn-5cff22adee7f",
+ "original": null,
+ "platform": "sfc",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "灌篮高手 - SD版激斗升级!! (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

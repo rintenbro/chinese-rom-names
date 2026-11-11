@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A1FC6381",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "天导108星 (修正版) (繁)",
+ "hack_group": "外星科技&yy小龙虾",
+ "id": "cn-31e8695e6190",
+ "original": null,
+ "platform": "gbc",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "天导108星 (修正版) (繁)"
+ },
+ "type": "game",
+ "vendor": ""
+}

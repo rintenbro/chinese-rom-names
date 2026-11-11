@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "05AEE47B",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "星球大战前线 - 精英舰队 (v20220901) (中文语音版) (简)",
+ "hack_group": "fciq汉化配音小组",
+ "id": "cn-0b9636e61609",
+ "original": null,
+ "platform": "nds",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "星球大战前线 - 精英舰队 (v20220901) (中文语音版) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

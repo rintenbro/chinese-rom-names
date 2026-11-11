@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3DEB1066",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "SD高达G世代 (v1.4) (简)",
+ "hack_group": "Advance汉化组",
+ "id": "cn-a00c37fc1e4e",
+ "original": null,
+ "platform": "gba",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "SD高达G世代 (v1.4) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A7D80A8A",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "超级机器人弹珠台 (v0.01) (简)",
+ "hack_group": "湮没骑士の镇魂歌",
+ "id": "cn-cfbcf387d307",
+ "original": null,
+ "platform": "gbc",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "超级机器人弹珠台 (v0.01) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

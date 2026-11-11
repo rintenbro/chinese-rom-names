@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CF1D7F9B",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "钟楼 (简)",
+ "hack_group": "Я929",
+ "id": "cn-1323422eb87f",
+ "original": null,
+ "platform": "sfc",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "钟楼 (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

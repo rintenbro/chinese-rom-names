@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CBE8554A",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "精灵宝可梦 - 金&银 (v1.2.0) (简)",
+ "hack_group": "Tom_C临时汉化组",
+ "id": "cn-db53fbe4562d",
+ "original": null,
+ "platform": "gbc",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "精灵宝可梦 - 金&银 (v1.2.0) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

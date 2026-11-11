@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BD0E7C73",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "路克英雄传3 (繁)",
+ "hack_group": "新特奇",
+ "id": "cn-3e7dc2d29a35",
+ "original": null,
+ "platform": "gbc",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "路克英雄传3 (繁)"
+ },
+ "type": "game",
+ "vendor": ""
+}

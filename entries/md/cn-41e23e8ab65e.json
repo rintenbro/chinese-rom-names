@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "27EFAB72",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "星际枪骑兵 (v0.7) (简)",
+ "hack_group": "SGGG汉化组",
+ "id": "cn-41e23e8ab65e",
+ "original": null,
+ "platform": "md",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "星际枪骑兵 (v0.7) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "56ECBAAC",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "守护者坦克 (v0.9) (简)",
+ "hack_group": "高伟",
+ "id": "cn-407fa6af9f10",
+ "original": null,
+ "platform": "nes",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "守护者坦克 (v0.9) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

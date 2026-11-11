@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "661A4D37",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "最终幻想2 (修正版) (简)",
+ "hack_group": "外星科技&DG小火",
+ "id": "cn-8c9426532e10",
+ "original": null,
+ "platform": "nes",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "最终幻想2 (修正版) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

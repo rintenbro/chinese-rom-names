@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "42DBA4C9",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "蓝宝石之迷 (修正版) (简)",
+ "hack_group": "永盛&小鬼混",
+ "id": "cn-c123a75cc189",
+ "original": null,
+ "platform": "md",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "蓝宝石之迷 (修正版) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

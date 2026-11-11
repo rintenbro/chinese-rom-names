@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "533FCC62",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "召唤之夜 - 铸剑物语 - 起源之石 (v1.1) (修正版) (简)",
+ "hack_group": "铸剑物语吧&樱花乌冬面&wangxy1109",
+ "id": "cn-c5caa7fb888c",
+ "original": null,
+ "platform": "gba",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "召唤之夜 - 铸剑物语 - 起源之石 (v1.1) (修正版) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

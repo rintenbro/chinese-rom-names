@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C2EC3524",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "流星洛克人 - 天马&雄狮&青龙 (简)",
+ "hack_group": "电波人研究中心汉化组",
+ "id": "cn-47342156d1c5",
+ "original": null,
+ "platform": "nds",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "流星洛克人 - 天马&雄狮&青龙 (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6D86E456",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "超级马里奥 (简)",
+ "hack_group": "高伟",
+ "id": "cn-9d478931d8fc",
+ "original": null,
+ "platform": "gbc",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "超级马里奥 (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

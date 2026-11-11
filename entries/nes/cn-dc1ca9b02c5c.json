@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7B7518DA",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "最终幻想2 (v20230615) (修正版) (简)",
+ "hack_group": "LSP汉化组",
+ "id": "cn-dc1ca9b02c5c",
+ "original": null,
+ "platform": "nes",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "最终幻想2 (v20230615) (修正版) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

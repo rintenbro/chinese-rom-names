@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4D181192",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "海绵宝宝 - 亚特兰蒂斯大冒险 (v20230827) (简)",
+ "hack_group": "3爻3",
+ "id": "cn-0e6e990b8ffb",
+ "original": null,
+ "platform": "gba",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "海绵宝宝 - 亚特兰蒂斯大冒险 (v20230827) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

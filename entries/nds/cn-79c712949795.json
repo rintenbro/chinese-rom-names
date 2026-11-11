@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4E45D456",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "洛克人ZX - 降临 (v1.91) (简)",
+ "hack_group": "李田所汉化组",
+ "id": "cn-79c712949795",
+ "original": null,
+ "platform": "nds",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "洛克人ZX - 降临 (v1.91) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

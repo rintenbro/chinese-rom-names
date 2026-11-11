@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9AF05528",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "裕兴 (V9.0)",
+ "hack_group": "裕兴",
+ "id": "cn-0a900ace6422",
+ "original": null,
+ "platform": "nes",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "裕兴 (V9.0)"
+ },
+ "type": "game",
+ "vendor": ""
+}

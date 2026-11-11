@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "15840BED",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "Q波特 (简)",
+ "hack_group": "虫虫",
+ "id": "cn-9fe81a8c591f",
+ "original": null,
+ "platform": "nes",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "Q波特 (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

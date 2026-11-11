@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7A777563",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "三国志2 - 霸王的大陆 (v0.9976) (v20190919) (简)",
+ "hack_group": "心伤谁知",
+ "id": "cn-734527188af6",
+ "original": null,
+ "platform": "nes",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "三国志2 - 霸王的大陆 (v0.9976) (v20190919) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

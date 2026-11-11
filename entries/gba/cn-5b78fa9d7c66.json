@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2A338E90",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "地球冒险2 - 基格的逆袭 (v2.0) (简)",
+ "hack_group": "hotcofe",
+ "id": "cn-5b78fa9d7c66",
+ "original": null,
+ "platform": "gba",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "地球冒险2 - 基格的逆袭 (v2.0) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

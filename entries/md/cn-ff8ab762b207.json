@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5C70016A",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "太空战士 - 魔法战士 (v20221028) (修正版) (繁)",
+ "hack_group": "川普科技&Ken",
+ "id": "cn-ff8ab762b207",
+ "original": null,
+ "platform": "md",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "太空战士 - 魔法战士 (v20221028) (修正版) (繁)"
+ },
+ "type": "game",
+ "vendor": ""
+}

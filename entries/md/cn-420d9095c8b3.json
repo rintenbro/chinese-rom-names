@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "818D78A3",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "风中奇缘 (v0.2) (简)",
+ "hack_group": "SGGG汉化组",
+ "id": "cn-420d9095c8b3",
+ "original": null,
+ "platform": "md",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "风中奇缘 (v0.2) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

@@ -102,9 +102,7 @@
    "items": {
     "type": "object",
     "required": [
-     "name",
-     "crc32",
-     "size"
+     "crc32"
     ],
     "properties": {
      "name": {
@@ -115,8 +113,11 @@
       "pattern": "^[0-9A-F]{8}$"
      },
      "size": {
-      "type": "integer",
-      "minimum": 1
+      "type": [
+       "integer",
+       "null"
+      ],
+      "minimum": 0
      }
     }
    }

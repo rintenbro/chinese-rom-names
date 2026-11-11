@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0D055046",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "建设高楼SP (简)",
+ "hack_group": "天空联盟&绅士熊",
+ "id": "cn-96317708049d",
+ "original": null,
+ "platform": "gba",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "建设高楼SP (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

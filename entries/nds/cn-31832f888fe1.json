@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D8E3B8F0",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "牧场物语 - 精灵驿站 (v1.1) (修正版) (简)",
+ "hack_group": "NB汉化组&MOBILE汉化组&果果雪梨",
+ "id": "cn-31832f888fe1",
+ "original": null,
+ "platform": "nds",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "牧场物语 - 精灵驿站 (v1.1) (修正版) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0833390C",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "阿斯特堡兄弟 (简)",
+ "hack_group": "Neofid Studios",
+ "id": "cn-d32dd4fbf2d4",
+ "original": null,
+ "platform": "md",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "阿斯特堡兄弟 (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

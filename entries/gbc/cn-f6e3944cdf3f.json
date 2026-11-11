@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "343A7E10",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "水浒神兽 (繁)",
+ "hack_group": "广誉科技",
+ "id": "cn-f6e3944cdf3f",
+ "original": null,
+ "platform": "gbc",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "水浒神兽 (繁)"
+ },
+ "type": "game",
+ "vendor": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1BFE7DA2",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "魔卡少女樱 - 小樱牌的迷你游戏 (v1.0) (简)",
+ "hack_group": "卧看微尘",
+ "id": "cn-fc5f21178e27",
+ "original": null,
+ "platform": "gba",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "魔卡少女樱 - 小樱牌的迷你游戏 (v1.0) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

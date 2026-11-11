@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DFC6E02F",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "精灵宝可梦 - 黑2&白2 (v5) (修正版) (简&繁)",
+ "hack_group": "ACG汉化组&口袋群星SP汉化组&天涯",
+ "id": "cn-314121b83091",
+ "original": null,
+ "platform": "nds",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "精灵宝可梦 - 黑2&白2 (v5) (修正版) (简&繁)"
+ },
+ "type": "game",
+ "vendor": ""
+}

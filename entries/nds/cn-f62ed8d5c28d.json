@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D1C92BA5",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "摸摸瓦力欧制造 (繁)",
+ "hack_group": "神游科技",
+ "id": "cn-f62ed8d5c28d",
+ "original": null,
+ "platform": "nds",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "摸摸瓦力欧制造 (繁)"
+ },
+ "type": "game",
+ "vendor": ""
+}

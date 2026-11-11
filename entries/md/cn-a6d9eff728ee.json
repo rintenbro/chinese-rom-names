@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "14236FA1",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "异形战士 (简)",
+ "hack_group": "少年不知愁&Lance_29",
+ "id": "cn-a6d9eff728ee",
+ "original": null,
+ "platform": "md",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "异形战士 (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

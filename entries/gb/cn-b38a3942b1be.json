@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "28474752",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "宝可梦 - 红&蓝&皮卡丘 (v1.1) (简)",
+ "hack_group": "星夜之幻&Tom_C",
+ "id": "cn-b38a3942b1be",
+ "original": null,
+ "platform": "gb",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "宝可梦 - 红&蓝&皮卡丘 (v1.1) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "31831A3D",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "超浮游要塞 (简)",
+ "hack_group": "高伟",
+ "id": "cn-b97b887e281d",
+ "original": null,
+ "platform": "nes",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "超浮游要塞 (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

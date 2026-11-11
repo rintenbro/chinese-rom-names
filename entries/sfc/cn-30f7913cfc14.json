@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "11355475",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "新热血硬派 - 国夫们的挽歌 (Switch版) (简)&(繁)",
+ "hack_group": "WayForward",
+ "id": "cn-30f7913cfc14",
+ "original": null,
+ "platform": "sfc",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "新热血硬派 - 国夫们的挽歌 (Switch版) (简)&(繁)"
+ },
+ "type": "game",
+ "vendor": ""
+}

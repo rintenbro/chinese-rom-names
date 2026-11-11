@@ -1,11 +1,11 @@
 {
  "version": "0.1.1",
- "generated_at": "2026-11-11T20:48:28",
- "count": 3597,
+ "generated_at": "2026-11-11T22:14:55",
+ "count": 3721,
  "counts": {
   "verified": 912,
   "probable": 2211,
-  "self": 474
+  "self": 598
  },
  "entries": [
   {
@@ -26451,6 +26451,132 @@
    "hash": "3b471a15d6ba89e5"
   },
   {
+   "id": "cn-0635de9d5109",
+   "status": "self",
+   "platform": "gb",
+   "group": "SD高达外传 - 拉古罗亚群英传 (v1.1) (简)",
+   "titles": {
+    "zh-Hans": "SD高达外传 - 拉古罗亚群英传 (v1.1) (简)"
+   },
+   "crc32": [
+    "1EA6CEAF"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "78ed38d395ebd4e2"
+  },
+  {
+   "id": "cn-069dad61d4ef",
+   "status": "self",
+   "platform": "gb",
+   "group": "宝可梦 - 红&蓝&皮卡丘 (v1.1) (简)",
+   "titles": {
+    "zh-Hans": "宝可梦 - 红&蓝&皮卡丘 (v1.1) (简)"
+   },
+   "crc32": [
+    "6305FE56"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "40ea088fb0e9ca2e"
+  },
+  {
+   "id": "cn-0f16f1049cb8",
+   "status": "self",
+   "platform": "gb",
+   "group": "宝可梦 - 红&蓝&皮卡丘 (v1.1) (简)",
+   "titles": {
+    "zh-Hans": "宝可梦 - 红&蓝&皮卡丘 (v1.1) (简)"
+   },
+   "crc32": [
+    "3759FD5F"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "afda021c4875e7f4"
+  },
+  {
+   "id": "cn-1e8d4042f129",
+   "status": "self",
+   "platform": "gb",
+   "group": "宝可梦 - 红&蓝&皮卡丘 (v1.1) (简)",
+   "titles": {
+    "zh-Hans": "宝可梦 - 红&蓝&皮卡丘 (v1.1) (简)"
+   },
+   "crc32": [
+    "BA343514"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "d4ab3451daf82141"
+  },
+  {
+   "id": "cn-20f0e322c2cb",
+   "status": "self",
+   "platform": "gb",
+   "group": "宝可梦 - 红&蓝&皮卡丘 (v1.1) (简)",
+   "titles": {
+    "zh-Hans": "宝可梦 - 红&蓝&皮卡丘 (v1.1) (简)"
+   },
+   "crc32": [
+    "0D5B6FCC"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "1f40a33372e9d0d8"
+  },
+  {
+   "id": "cn-291b71d253b3",
+   "status": "self",
+   "platform": "gb",
+   "group": "第2次超级机器人大战G (简)",
+   "titles": {
+    "zh-Hans": "第2次超级机器人大战G (简)"
+   },
+   "crc32": [
+    "7EF509CA"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "47acf0f7c7d3ede1"
+  },
+  {
+   "id": "cn-398e67933599",
+   "status": "self",
+   "platform": "gb",
+   "group": "宝可梦 - 红&蓝&皮卡丘 (v1.1) (简)",
+   "titles": {
+    "zh-Hans": "宝可梦 - 红&蓝&皮卡丘 (v1.1) (简)"
+   },
+   "crc32": [
+    "35FB1F60"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "9a82784234294913"
+  },
+  {
    "id": "cn-436fa953d949",
    "status": "self",
    "platform": "gb",
@@ -26467,6 +26593,24 @@
     "title": "assets/gb/cn-7868a2a890f0/title.png"
    },
    "hash": "c35ee06acc44081c"
+  },
+  {
+   "id": "cn-63d5d832bf9b",
+   "status": "self",
+   "platform": "gb",
+   "group": "第二次超级机器人大战G (修正版) (简)",
+   "titles": {
+    "zh-Hans": "第二次超级机器人大战G (修正版) (简)"
+   },
+   "crc32": [
+    "4693B684"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "98a9663f54061e06"
   },
   {
    "id": "cn-6b535be27cb0",
@@ -26503,6 +26647,78 @@
     "title": "assets/gb/cn-279dfd35715e/title.png"
    },
    "hash": "295fc9b961b858d0"
+  },
+  {
+   "id": "cn-7f36922f101a",
+   "status": "self",
+   "platform": "gb",
+   "group": "水上摩托 (简)",
+   "titles": {
+    "zh-Hans": "水上摩托 (简)"
+   },
+   "crc32": [
+    "30F45E87"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "93ac24cbef34d8bc"
+  },
+  {
+   "id": "cn-86f0fdae1cae",
+   "status": "self",
+   "platform": "gb",
+   "group": "宝可梦 - 红&蓝&皮卡丘 (v1.1) (简)",
+   "titles": {
+    "zh-Hans": "宝可梦 - 红&蓝&皮卡丘 (v1.1) (简)"
+   },
+   "crc32": [
+    "FC1E8A1D"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "8a72853354b7db59"
+  },
+  {
+   "id": "cn-b38a3942b1be",
+   "status": "self",
+   "platform": "gb",
+   "group": "宝可梦 - 红&蓝&皮卡丘 (v1.1) (简)",
+   "titles": {
+    "zh-Hans": "宝可梦 - 红&蓝&皮卡丘 (v1.1) (简)"
+   },
+   "crc32": [
+    "28474752"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "ce9f85f376b90a45"
+  },
+  {
+   "id": "cn-d1ff2d487352",
+   "status": "self",
+   "platform": "gb",
+   "group": "水上摩托 (修正版) (简)",
+   "titles": {
+    "zh-Hans": "水上摩托 (修正版) (简)"
+   },
+   "crc32": [
+    "390201B3"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "f4b01e4a1b0cc10d"
   },
   {
    "id": "prb-gb-067916a7",
@@ -28467,6 +28683,132 @@
    "hash": "2219454dca0ae2cb"
   },
   {
+   "id": "cn-023af2cae30e",
+   "status": "self",
+   "platform": "gba",
+   "group": "实况足球 - 胜利十一人 (中文语音修正版) (简)",
+   "titles": {
+    "zh-Hans": "实况足球 - 胜利十一人 (中文语音修正版) (简)"
+   },
+   "crc32": [
+    "6DA461F9"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "ddcc0f9e71639d74"
+  },
+  {
+   "id": "cn-0aab521539d0",
+   "status": "self",
+   "platform": "gba",
+   "group": "机器人大战终极版 (繁)",
+   "titles": {
+    "zh-Hans": "机器人大战终极版 (繁)"
+   },
+   "crc32": [
+    "81462ABA"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "f6939e2058492fe5"
+  },
+  {
+   "id": "cn-0e6e990b8ffb",
+   "status": "self",
+   "platform": "gba",
+   "group": "海绵宝宝 - 亚特兰蒂斯大冒险 (v20230827) (简)",
+   "titles": {
+    "zh-Hans": "海绵宝宝 - 亚特兰蒂斯大冒险 (v20230827) (简)"
+   },
+   "crc32": [
+    "4D181192"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "99ba4c74f37ff313"
+  },
+  {
+   "id": "cn-19f6f38223c0",
+   "status": "self",
+   "platform": "gba",
+   "group": "口袋怪兽 - 红宝石&蓝宝石 (v1.1) (繁)",
+   "titles": {
+    "zh-Hans": "口袋怪兽 - 红宝石&蓝宝石 (v1.1) (繁)"
+   },
+   "crc32": [
+    "F87BD0AE"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "009eb9d8971d5c58"
+  },
+  {
+   "id": "cn-1bf000d0d73a",
+   "status": "self",
+   "platform": "gba",
+   "group": "饲养物语1 - 我的兜虫 (v1.0) (简)",
+   "titles": {
+    "zh-Hans": "饲养物语1 - 我的兜虫 (v1.0) (简)"
+   },
+   "crc32": [
+    "96BAA190"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "814a1d16d04e0e23"
+  },
+  {
+   "id": "cn-1c1a06c4529f",
+   "status": "self",
+   "platform": "gba",
+   "group": "魔戒奇兵 (繁)",
+   "titles": {
+    "zh-Hans": "魔戒奇兵 (繁)"
+   },
+   "crc32": [
+    "8EE0ED6F"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "3a4aa3e693751a2c"
+  },
+  {
+   "id": "cn-1c6f347e986a",
+   "status": "self",
+   "platform": "gba",
+   "group": "决战三国 (繁)",
+   "titles": {
+    "zh-Hans": "决战三国 (繁)"
+   },
+   "crc32": [
+    "CEB670B2"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "92aa938d496c72f4"
+  },
+  {
    "id": "cn-1d4b186cd3ca",
    "status": "self",
    "platform": "gba",
@@ -28503,6 +28845,24 @@
    "hash": "5f8e3e120965c3bf"
   },
   {
+   "id": "cn-1dc886c46e80",
+   "status": "self",
+   "platform": "gba",
+   "group": "真女神转生 (v1.2) (简)",
+   "titles": {
+    "zh-Hans": "真女神转生 (v1.2) (简)"
+   },
+   "crc32": [
+    "6AC62CB2"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "ff2563c3f517791d"
+  },
+  {
    "id": "cn-2e27a39dcc7e",
    "status": "self",
    "platform": "gba",
@@ -28519,6 +28879,150 @@
     "title": "assets/gba/cn-99eea9cad693/title.png"
    },
    "hash": "9f58a7fa83f5774e"
+  },
+  {
+   "id": "cn-3581e19e5514",
+   "status": "self",
+   "platform": "gba",
+   "group": "召唤之夜 - 铸剑物语 - 起源之石 (v1.1) (修正版) (繁)",
+   "titles": {
+    "zh-Hans": "召唤之夜 - 铸剑物语 - 起源之石 (v1.1) (修正版) (繁)"
+   },
+   "crc32": [
+    "03103EA0"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "66dee9992ad5b879"
+  },
+  {
+   "id": "cn-5922677c94c2",
+   "status": "self",
+   "platform": "gba",
+   "group": "牧场物语 - 矿石镇的伙伴们女孩版 (v1.3a) (修正版) (简)",
+   "titles": {
+    "zh-Hans": "牧场物语 - 矿石镇的伙伴们女孩版 (v1.3a) (修正版) (简)"
+   },
+   "crc32": [
+    "971CA75C"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "fa5bc11072754753"
+  },
+  {
+   "id": "cn-5b78fa9d7c66",
+   "status": "self",
+   "platform": "gba",
+   "group": "地球冒险2 - 基格的逆袭 (v2.0) (简)",
+   "titles": {
+    "zh-Hans": "地球冒险2 - 基格的逆袭 (v2.0) (简)"
+   },
+   "crc32": [
+    "2A338E90"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "55b520c312254a28"
+  },
+  {
+   "id": "cn-602868752609",
+   "status": "self",
+   "platform": "gba",
+   "group": "007 - 末日危机 (繁)",
+   "titles": {
+    "zh-Hans": "007 - 末日危机 (繁)"
+   },
+   "crc32": [
+    "CEE1E46A"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "b6da5d4edd3f11b1"
+  },
+  {
+   "id": "cn-881e82c8b8b0",
+   "status": "self",
+   "platform": "gba",
+   "group": "口袋怪兽 - 红宝石&蓝宝石 (v1.1) (繁)",
+   "titles": {
+    "zh-Hans": "口袋怪兽 - 红宝石&蓝宝石 (v1.1) (繁)"
+   },
+   "crc32": [
+    "1681A235"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "7945b285cd063ba9"
+  },
+  {
+   "id": "cn-96317708049d",
+   "status": "self",
+   "platform": "gba",
+   "group": "建设高楼SP (简)",
+   "titles": {
+    "zh-Hans": "建设高楼SP (简)"
+   },
+   "crc32": [
+    "0D055046"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "158c5f111f9f3f51"
+  },
+  {
+   "id": "cn-a00c37fc1e4e",
+   "status": "self",
+   "platform": "gba",
+   "group": "SD高达G世代 (v1.4) (简)",
+   "titles": {
+    "zh-Hans": "SD高达G世代 (v1.4) (简)"
+   },
+   "crc32": [
+    "3DEB1066"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "ba067bc6c270ce86"
+  },
+  {
+   "id": "cn-aac5a7bfcb28",
+   "status": "self",
+   "platform": "gba",
+   "group": "斯科基病毒 (简)",
+   "titles": {
+    "zh-Hans": "斯科基病毒 (简)"
+   },
+   "crc32": [
+    "2FCCD1EF"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "cd098385197069f4"
   },
   {
    "id": "cn-b85a772dcf31",
@@ -28539,6 +29043,24 @@
    "hash": "53318bfbef63e1f9"
   },
   {
+   "id": "cn-ba4a8e4cc3a3",
+   "status": "self",
+   "platform": "gba",
+   "group": "牧场物语 - 矿石镇的伙伴们 (v1.7) (修正版) (简)",
+   "titles": {
+    "zh-Hans": "牧场物语 - 矿石镇的伙伴们 (v1.7) (修正版) (简)"
+   },
+   "crc32": [
+    "320BB434"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "d2b0e1e72e4519bd"
+  },
+  {
    "id": "cn-bc115341a55f",
    "status": "self",
    "platform": "gba",
@@ -28555,6 +29077,42 @@
     "title": "assets/gba/cn-0052896fac73/title.png"
    },
    "hash": "cfa39c921e35f374"
+  },
+  {
+   "id": "cn-c5caa7fb888c",
+   "status": "self",
+   "platform": "gba",
+   "group": "召唤之夜 - 铸剑物语 - 起源之石 (v1.1) (修正版) (简)",
+   "titles": {
+    "zh-Hans": "召唤之夜 - 铸剑物语 - 起源之石 (v1.1) (修正版) (简)"
+   },
+   "crc32": [
+    "533FCC62"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "42e65ca9aacffd90"
+  },
+  {
+   "id": "cn-cbd8fde58d18",
+   "status": "self",
+   "platform": "gba",
+   "group": "召唤之夜 - 铸剑物语 - 起源之石 (v1.1) (修正版) (简)",
+   "titles": {
+    "zh-Hans": "召唤之夜 - 铸剑物语 - 起源之石 (v1.1) (修正版) (简)"
+   },
+   "crc32": [
+    "188D584E"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "f119f49068a6199a"
   },
   {
    "id": "cn-d1abc6befbcd",
@@ -28591,6 +29149,42 @@
     "title": null
    },
    "hash": "a62f980cd1ee29f4"
+  },
+  {
+   "id": "cn-ec9d286a8b70",
+   "status": "self",
+   "platform": "gba",
+   "group": "逆转裁判2 (特别版) (简)",
+   "titles": {
+    "zh-Hans": "逆转裁判2 (特别版) (简)"
+   },
+   "crc32": [
+    "395FDD5F"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "89b244d2b4a363a0"
+  },
+  {
+   "id": "cn-fc5f21178e27",
+   "status": "self",
+   "platform": "gba",
+   "group": "魔卡少女樱 - 小樱牌的迷你游戏 (v1.0) (简)",
+   "titles": {
+    "zh-Hans": "魔卡少女樱 - 小樱牌的迷你游戏 (v1.0) (简)"
+   },
+   "crc32": [
+    "1BFE7DA2"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "af558345d10170ac"
   },
   {
    "id": "prb-gba-01e8e145",
@@ -39015,6 +39609,24 @@
    "hash": "ec55219978b36995"
   },
   {
+   "id": "cn-112b9d59a9c3",
+   "status": "self",
+   "platform": "gbc",
+   "group": "银河战士2 - 萨姆斯归来 (v1.3) (简)",
+   "titles": {
+    "zh-Hans": "银河战士2 - 萨姆斯归来 (v1.3) (简)"
+   },
+   "crc32": [
+    "A2D565B0"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "2582d0fbeeb8efe4"
+  },
+  {
    "id": "cn-113559ee8aa5",
    "status": "self",
    "platform": "gbc",
@@ -39123,6 +39735,24 @@
    "hash": "8bf831a884a0695d"
   },
   {
+   "id": "cn-31e8695e6190",
+   "status": "self",
+   "platform": "gbc",
+   "group": "天导108星 (修正版) (繁)",
+   "titles": {
+    "zh-Hans": "天导108星 (修正版) (繁)"
+   },
+   "crc32": [
+    "A1FC6381"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "7642eecf1ffabfe7"
+  },
+  {
    "id": "cn-341c2979d8aa",
    "status": "self",
    "platform": "gbc",
@@ -39139,6 +39769,24 @@
     "title": "assets/gbc/cn-b5251bf994a2/title.png"
    },
    "hash": "3c4355d24198b0d8"
+  },
+  {
+   "id": "cn-3e7dc2d29a35",
+   "status": "self",
+   "platform": "gbc",
+   "group": "路克英雄传3 (繁)",
+   "titles": {
+    "zh-Hans": "路克英雄传3 (繁)"
+   },
+   "crc32": [
+    "BD0E7C73"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "a16caca642ae49da"
   },
   {
    "id": "cn-5641f820c68e",
@@ -39211,6 +39859,24 @@
     "title": "assets/gbc/cn-3f88c852f3eb/title.png"
    },
    "hash": "bc86086c6c7a096e"
+  },
+  {
+   "id": "cn-65d5e6a5224d",
+   "status": "self",
+   "platform": "gbc",
+   "group": "口袋妖怪 - 银 (修正版) (简)",
+   "titles": {
+    "zh-Hans": "口袋妖怪 - 银 (修正版) (简)"
+   },
+   "crc32": [
+    "F7B1B29B"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "d730436f10185c9f"
   },
   {
    "id": "cn-67a6a2a92d59",
@@ -39321,6 +39987,24 @@
    "hash": "708c20c9f5ae1f49"
   },
   {
+   "id": "cn-97f0f8a3c98b",
+   "status": "self",
+   "platform": "gbc",
+   "group": "GB战争2 (v1.1) (简)",
+   "titles": {
+    "zh-Hans": "GB战争2 (v1.1) (简)"
+   },
+   "crc32": [
+    "C27BF444"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "eba97a9c60c47508"
+  },
+  {
    "id": "cn-983dcb51b7fd",
    "status": "self",
    "platform": "gbc",
@@ -39337,6 +40021,42 @@
     "title": "assets/gbc/cn-bb95bcd7113a/title.png"
    },
    "hash": "68fcce155003b4b3"
+  },
+  {
+   "id": "cn-9c485bff43ec",
+   "status": "self",
+   "platform": "gbc",
+   "group": "精灵宝可梦 - 金&银 (v1.2.0) (简)",
+   "titles": {
+    "zh-Hans": "精灵宝可梦 - 金&银 (v1.2.0) (简)"
+   },
+   "crc32": [
+    "98C953BA"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "619cfa8453203d1a"
+  },
+  {
+   "id": "cn-9d478931d8fc",
+   "status": "self",
+   "platform": "gbc",
+   "group": "超级马里奥 (简)",
+   "titles": {
+    "zh-Hans": "超级马里奥 (简)"
+   },
+   "crc32": [
+    "6D86E456"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "843511a16f6cf675"
   },
   {
    "id": "cn-a9ac9c41697f",
@@ -39391,6 +40111,24 @@
     "title": "assets/gbc/cn-0990459c0aa4/title.png"
    },
    "hash": "1d3864a3b679d20a"
+  },
+  {
+   "id": "cn-b33de9343c12",
+   "status": "self",
+   "platform": "gbc",
+   "group": "仙剑奇侠传 (简)",
+   "titles": {
+    "zh-Hans": "仙剑奇侠传 (简)"
+   },
+   "crc32": [
+    "B8F7B766"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "813baeacad608e06"
   },
   {
    "id": "cn-b3d005681088",
@@ -39483,6 +40221,24 @@
    "hash": "3b1630db7c28f042"
   },
   {
+   "id": "cn-cfbcf387d307",
+   "status": "self",
+   "platform": "gbc",
+   "group": "超级机器人弹珠台 (v0.01) (简)",
+   "titles": {
+    "zh-Hans": "超级机器人弹珠台 (v0.01) (简)"
+   },
+   "crc32": [
+    "A7D80A8A"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "31a5027f4ddaa1a0"
+  },
+  {
    "id": "cn-da0af31815ea",
    "status": "self",
    "platform": "gbc",
@@ -39499,6 +40255,24 @@
     "title": "assets/gbc/cn-ce79394de836/title.png"
    },
    "hash": "784f127e69dbf8d3"
+  },
+  {
+   "id": "cn-db53fbe4562d",
+   "status": "self",
+   "platform": "gbc",
+   "group": "精灵宝可梦 - 金&银 (v1.2.0) (简)",
+   "titles": {
+    "zh-Hans": "精灵宝可梦 - 金&银 (v1.2.0) (简)"
+   },
+   "crc32": [
+    "CBE8554A"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "06969d145c2d3a8f"
   },
   {
    "id": "cn-e2fcb3572025",
@@ -39607,6 +40381,42 @@
     "title": "assets/gbc/cn-001865a5c3c9/title.png"
    },
    "hash": "67e0873618178f0a"
+  },
+  {
+   "id": "cn-f6b42552ff10",
+   "status": "self",
+   "platform": "gbc",
+   "group": "八龙珠 (v2) (修正版) (简)",
+   "titles": {
+    "zh-Hans": "八龙珠 (v2) (修正版) (简)"
+   },
+   "crc32": [
+    "5D743C4C"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "6f804be85af8a398"
+  },
+  {
+   "id": "cn-f6e3944cdf3f",
+   "status": "self",
+   "platform": "gbc",
+   "group": "水浒神兽 (繁)",
+   "titles": {
+    "zh-Hans": "水浒神兽 (繁)"
+   },
+   "crc32": [
+    "343A7E10"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "a13aabf5b1ac4874"
   },
   {
    "id": "prb-gbc-0010aac0",
@@ -44019,6 +44829,330 @@
    "hash": "b68deb17fd93f257"
   },
   {
+   "id": "cn-041fde63afc6",
+   "status": "self",
+   "platform": "md",
+   "group": "怪物世界4 (重制版) (简)&(繁)",
+   "titles": {
+    "zh-Hans": "怪物世界4 (重制版) (简)&(繁)"
+   },
+   "crc32": [
+    "9E764A28"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "fd6c292ed4a303ac"
+  },
+  {
+   "id": "cn-0577b7bb32fc",
+   "status": "self",
+   "platform": "md",
+   "group": "梦幻之星4 - 千年纪的终结 (v1.4) (共享版) (简)",
+   "titles": {
+    "zh-Hans": "梦幻之星4 - 千年纪的终结 (v1.4) (共享版) (简)"
+   },
+   "crc32": [
+    "82D0F950"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "aeca8188344ab527"
+  },
+  {
+   "id": "cn-3eb0d95b5839",
+   "status": "self",
+   "platform": "md",
+   "group": "梦幻模拟战2 (v1.0) (v20151028) (简)",
+   "titles": {
+    "zh-Hans": "梦幻模拟战2 (v1.0) (v20151028) (简)"
+   },
+   "crc32": [
+    "26233AEE"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "4aba3142694b50ab"
+  },
+  {
+   "id": "cn-41e23e8ab65e",
+   "status": "self",
+   "platform": "md",
+   "group": "星际枪骑兵 (v0.7) (简)",
+   "titles": {
+    "zh-Hans": "星际枪骑兵 (v0.7) (简)"
+   },
+   "crc32": [
+    "27EFAB72"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "988707b8ff21129e"
+  },
+  {
+   "id": "cn-420d9095c8b3",
+   "status": "self",
+   "platform": "md",
+   "group": "风中奇缘 (v0.2) (简)",
+   "titles": {
+    "zh-Hans": "风中奇缘 (v0.2) (简)"
+   },
+   "crc32": [
+    "818D78A3"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "f13a6f6be81740e8"
+  },
+  {
+   "id": "cn-4597d9f44578",
+   "status": "self",
+   "platform": "md",
+   "group": "皇室血裔 (简)",
+   "titles": {
+    "zh-Hans": "皇室血裔 (简)"
+   },
+   "crc32": [
+    "D9C42E40"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "85ec480665cd0069"
+  },
+  {
+   "id": "cn-5c55a93c307c",
+   "status": "self",
+   "platform": "md",
+   "group": "梦幻之星4 - 千年纪的终结 (v1.6) (共享版) (简)",
+   "titles": {
+    "zh-Hans": "梦幻之星4 - 千年纪的终结 (v1.6) (共享版) (简)"
+   },
+   "crc32": [
+    "0DB82DD1"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "c75e205b822d4ab3"
+  },
+  {
+   "id": "cn-6ce786cfcb03",
+   "status": "self",
+   "platform": "md",
+   "group": "美少女战士 (v0.61) (简)",
+   "titles": {
+    "zh-Hans": "美少女战士 (v0.61) (简)"
+   },
+   "crc32": [
+    "F8AE9511"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "55a885d53c409693"
+  },
+  {
+   "id": "cn-71269ed1a979",
+   "status": "self",
+   "platform": "md",
+   "group": "光辉传说 (v1.0) (简)",
+   "titles": {
+    "zh-Hans": "光辉传说 (v1.0) (简)"
+   },
+   "crc32": [
+    "56827579"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "7e7b4f18c2ec5d7d"
+  },
+  {
+   "id": "cn-97da9461d404",
+   "status": "self",
+   "platform": "md",
+   "group": "大航海时代2 (v1.9E6) (加强版) (繁)",
+   "titles": {
+    "zh-Hans": "大航海时代2 (v1.9E6) (加强版) (繁)"
+   },
+   "crc32": [
+    "886A7FDD"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "efcc037b996cff6b"
+  },
+  {
+   "id": "cn-99b59470cfa6",
+   "status": "self",
+   "platform": "md",
+   "group": "梦幻模拟战 (修正版) (简)",
+   "titles": {
+    "zh-Hans": "梦幻模拟战 (修正版) (简)"
+   },
+   "crc32": [
+    "FE6B5BF5"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "6fe65b129c59e197"
+  },
+  {
+   "id": "cn-9f7c803a44e2",
+   "status": "self",
+   "platform": "md",
+   "group": "封神英杰传 (v20231008) (修正版) (繁)",
+   "titles": {
+    "zh-Hans": "封神英杰传 (v20231008) (修正版) (繁)"
+   },
+   "crc32": [
+    "807C66FB"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "8431b12e971820e9"
+  },
+  {
+   "id": "cn-a6d9eff728ee",
+   "status": "self",
+   "platform": "md",
+   "group": "异形战士 (简)",
+   "titles": {
+    "zh-Hans": "异形战士 (简)"
+   },
+   "crc32": [
+    "14236FA1"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "5c641d0c0ea60dae"
+  },
+  {
+   "id": "cn-c123a75cc189",
+   "status": "self",
+   "platform": "md",
+   "group": "蓝宝石之迷 (修正版) (简)",
+   "titles": {
+    "zh-Hans": "蓝宝石之迷 (修正版) (简)"
+   },
+   "crc32": [
+    "42DBA4C9"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "ae9886bdef0727f5"
+  },
+  {
+   "id": "cn-d32dd4fbf2d4",
+   "status": "self",
+   "platform": "md",
+   "group": "阿斯特堡兄弟 (简)",
+   "titles": {
+    "zh-Hans": "阿斯特堡兄弟 (简)"
+   },
+   "crc32": [
+    "0833390C"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "2a466f231ae5a02b"
+  },
+  {
+   "id": "cn-f2a60d0da12a",
+   "status": "self",
+   "platform": "md",
+   "group": "阿斯特堡兄弟 (Steam版) (简)",
+   "titles": {
+    "zh-Hans": "阿斯特堡兄弟 (Steam版) (简)"
+   },
+   "crc32": [
+    "F6700999"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "e373a7cd283e17ac"
+  },
+  {
+   "id": "cn-ff70b5a8b99c",
+   "status": "self",
+   "platform": "md",
+   "group": "怪物世界4 (重制版) (简)&(繁)",
+   "titles": {
+    "zh-Hans": "怪物世界4 (重制版) (简)&(繁)"
+   },
+   "crc32": [
+    "F72DB809"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "0776e9da75f85f43"
+  },
+  {
+   "id": "cn-ff8ab762b207",
+   "status": "self",
+   "platform": "md",
+   "group": "太空战士 - 魔法战士 (v20221028) (修正版) (繁)",
+   "titles": {
+    "zh-Hans": "太空战士 - 魔法战士 (v20221028) (修正版) (繁)"
+   },
+   "crc32": [
+    "5C70016A"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "56e70b0febe7f8d6"
+  },
+  {
    "id": "cn-ab1f99a9396c",
    "status": "self",
    "platform": "megadrive",
@@ -47223,6 +48357,114 @@
    "hash": "f52d79829a9d87dd"
   },
   {
+   "id": "cn-0b9636e61609",
+   "status": "self",
+   "platform": "nds",
+   "group": "星球大战前线 - 精英舰队 (v20220901) (中文语音版) (简)",
+   "titles": {
+    "zh-Hans": "星球大战前线 - 精英舰队 (v20220901) (中文语音版) (简)"
+   },
+   "crc32": [
+    "05AEE47B"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "bc9caa45e6ec4c7e"
+  },
+  {
+   "id": "cn-13b7203328f1",
+   "status": "self",
+   "platform": "nds",
+   "group": "最终幻想3 (修正版) (简)",
+   "titles": {
+    "zh-Hans": "最终幻想3 (修正版) (简)"
+   },
+   "crc32": [
+    "ABA4C752"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "ba927642d11f0461"
+  },
+  {
+   "id": "cn-26a59385084a",
+   "status": "self",
+   "platform": "nds",
+   "group": "有罪×无罪 (简)",
+   "titles": {
+    "zh-Hans": "有罪×无罪 (简)"
+   },
+   "crc32": [
+    "7987ED62"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "e66c031a08901dd4"
+  },
+  {
+   "id": "cn-27539f300801",
+   "status": "self",
+   "platform": "nds",
+   "group": "流星洛克人3 - 黑色王牌&红色鬼牌 (简)",
+   "titles": {
+    "zh-Hans": "流星洛克人3 - 黑色王牌&红色鬼牌 (简)"
+   },
+   "crc32": [
+    "22B4E83C"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "b830dbab7d5b9a14"
+  },
+  {
+   "id": "cn-314121b83091",
+   "status": "self",
+   "platform": "nds",
+   "group": "精灵宝可梦 - 黑2&白2 (v5) (修正版) (简&繁)",
+   "titles": {
+    "zh-Hans": "精灵宝可梦 - 黑2&白2 (v5) (修正版) (简&繁)"
+   },
+   "crc32": [
+    "DFC6E02F"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "83915862470bec23"
+  },
+  {
+   "id": "cn-31832f888fe1",
+   "status": "self",
+   "platform": "nds",
+   "group": "牧场物语 - 精灵驿站 (v1.1) (修正版) (简)",
+   "titles": {
+    "zh-Hans": "牧场物语 - 精灵驿站 (v1.1) (修正版) (简)"
+   },
+   "crc32": [
+    "D8E3B8F0"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "c1c49c6d64d64a06"
+  },
+  {
    "id": "cn-370adcd7b6ce",
    "status": "self",
    "platform": "nds",
@@ -47239,6 +48481,276 @@
     "title": "assets/nds/cn-c73e5c29a8d9/title.png"
    },
    "hash": "a7a49d522d29b8b0"
+  },
+  {
+   "id": "cn-4284b698f3cb",
+   "status": "self",
+   "platform": "nds",
+   "group": "007 - 黄金眼 (v2) (中文语音版) (简)",
+   "titles": {
+    "zh-Hans": "007 - 黄金眼 (v2) (中文语音版) (简)"
+   },
+   "crc32": [
+    "DC415B16"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "b899aa3725fd91e2"
+  },
+  {
+   "id": "cn-45ad37708d03",
+   "status": "self",
+   "platform": "nds",
+   "group": "牧场物语 - 欢迎来到风之集市 (v1.1) (精修版) (简)",
+   "titles": {
+    "zh-Hans": "牧场物语 - 欢迎来到风之集市 (v1.1) (精修版) (简)"
+   },
+   "crc32": [
+    "573F80DC"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "989141b7a4d9316a"
+  },
+  {
+   "id": "cn-47342156d1c5",
+   "status": "self",
+   "platform": "nds",
+   "group": "流星洛克人 - 天马&雄狮&青龙 (简)",
+   "titles": {
+    "zh-Hans": "流星洛克人 - 天马&雄狮&青龙 (简)"
+   },
+   "crc32": [
+    "C2EC3524"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "8acb45debd43143a"
+  },
+  {
+   "id": "cn-4842ee589a83",
+   "status": "self",
+   "platform": "nds",
+   "group": "流星洛克人 - 天马&雄狮&青龙 (简)",
+   "titles": {
+    "zh-Hans": "流星洛克人 - 天马&雄狮&青龙 (简)"
+   },
+   "crc32": [
+    "D3A2205F"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "83b7f71644ea685d"
+  },
+  {
+   "id": "cn-5ed0d149dda1",
+   "status": "self",
+   "platform": "nds",
+   "group": "令旗所向 (简)",
+   "titles": {
+    "zh-Hans": "令旗所向 (简)"
+   },
+   "crc32": [
+    "EC5BBF66"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "7a21f900b3e1521a"
+  },
+  {
+   "id": "cn-6604a963578c",
+   "status": "self",
+   "platform": "nds",
+   "group": "牧场物语 - 欢迎来到风之集市 (v1.1) (精修版) (简)",
+   "titles": {
+    "zh-Hans": "牧场物语 - 欢迎来到风之集市 (v1.1) (精修版) (简)"
+   },
+   "crc32": [
+    "E5610353"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "94b4881c4e3ac324"
+  },
+  {
+   "id": "cn-6a4ba8b70801",
+   "status": "self",
+   "platform": "nds",
+   "group": "高级战争 - 毁灭之日 (v1.01) (完善版) (繁)",
+   "titles": {
+    "zh-Hans": "高级战争 - 毁灭之日 (v1.01) (完善版) (繁)"
+   },
+   "crc32": [
+    "F6280E46"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "72c5ccaa65215005"
+  },
+  {
+   "id": "cn-6ee5e46cedb3",
+   "status": "self",
+   "platform": "nds",
+   "group": "流星洛克人3 - 黑色王牌&红色鬼牌 (简)",
+   "titles": {
+    "zh-Hans": "流星洛克人3 - 黑色王牌&红色鬼牌 (简)"
+   },
+   "crc32": [
+    "C1B05B6E"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "ede6c51fa7321b5e"
+  },
+  {
+   "id": "cn-79c712949795",
+   "status": "self",
+   "platform": "nds",
+   "group": "洛克人ZX - 降临 (v1.91) (简)",
+   "titles": {
+    "zh-Hans": "洛克人ZX - 降临 (v1.91) (简)"
+   },
+   "crc32": [
+    "4E45D456"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "a4894b3b119668a9"
+  },
+  {
+   "id": "cn-928f0773a367",
+   "status": "self",
+   "platform": "nds",
+   "group": "精灵宝可梦 - 黑&白 (v2.0) (简) （更新时间：20240718）",
+   "titles": {
+    "zh-Hans": "精灵宝可梦 - 黑&白 (v2.0) (简) （更新时间：20240718）"
+   },
+   "crc32": [
+    "02B89F65"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "11f9d17480c6d0b9"
+  },
+  {
+   "id": "cn-9e8780c14728",
+   "status": "self",
+   "platform": "nds",
+   "group": "精灵宝可梦 - 黑2&白2 (v5) (修正版) (简&繁)",
+   "titles": {
+    "zh-Hans": "精灵宝可梦 - 黑2&白2 (v5) (修正版) (简&繁)"
+   },
+   "crc32": [
+    "99617CA0"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "6c0ae58f5ad77072"
+  },
+  {
+   "id": "cn-b0510b274410",
+   "status": "self",
+   "platform": "nds",
+   "group": "流星洛克人 - 天马&雄狮&青龙 (简)",
+   "titles": {
+    "zh-Hans": "流星洛克人 - 天马&雄狮&青龙 (简)"
+   },
+   "crc32": [
+    "BE8722AE"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "e8fcff3f3e5dbf92"
+  },
+  {
+   "id": "cn-b823392d9334",
+   "status": "self",
+   "platform": "nds",
+   "group": "凉宫春日的串联 (v0.1.0) (预览版) (简)",
+   "titles": {
+    "zh-Hans": "凉宫春日的串联 (v0.1.0) (预览版) (简)"
+   },
+   "crc32": [
+    "6E215878"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "b3f285dfc23c1996"
+  },
+  {
+   "id": "cn-d0457023514f",
+   "status": "self",
+   "platform": "nds",
+   "group": "最终幻想战略版A2 - 封穴的魔法书 (v3) (修正版) (简)",
+   "titles": {
+    "zh-Hans": "最终幻想战略版A2 - 封穴的魔法书 (v3) (修正版) (简)"
+   },
+   "crc32": [
+    "3CE9E3E4"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "a207197b9147a7eb"
+  },
+  {
+   "id": "cn-de8dc5780a3a",
+   "status": "self",
+   "platform": "nds",
+   "group": "使命召唤4 - 现代战争 (v0.74) (中文语音版) (简)",
+   "titles": {
+    "zh-Hans": "使命召唤4 - 现代战争 (v0.74) (中文语音版) (简)"
+   },
+   "crc32": [
+    "45A459FA"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "7e89bd67d5eb3614"
   },
   {
    "id": "cn-df8a5bddb984",
@@ -47275,6 +48787,24 @@
     "title": "assets/nds/cn-71bebac0999c/title.png"
    },
    "hash": "94d1dcaa9c5e39bd"
+  },
+  {
+   "id": "cn-f62ed8d5c28d",
+   "status": "self",
+   "platform": "nds",
+   "group": "摸摸瓦力欧制造 (繁)",
+   "titles": {
+    "zh-Hans": "摸摸瓦力欧制造 (繁)"
+   },
+   "crc32": [
+    "D1C92BA5"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "42dc60b5be37f0cb"
   },
   {
    "id": "prb-nds-009edbf9",
@@ -60957,6 +62487,510 @@
    "hash": "1466c365e9ba3b91"
   },
   {
+   "id": "cn-0a900ace6422",
+   "status": "self",
+   "platform": "nes",
+   "group": "裕兴 (V9.0)",
+   "titles": {
+    "zh-Hans": "裕兴 (V9.0)"
+   },
+   "crc32": [
+    "9AF05528"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "9d82ed31bb552cf2"
+  },
+  {
+   "id": "cn-0eb25d0280f0",
+   "status": "self",
+   "platform": "nes",
+   "group": "热血高校躲避球部 - 足球篇 (简)",
+   "titles": {
+    "zh-Hans": "热血高校躲避球部 - 足球篇 (简)"
+   },
+   "crc32": [
+    "E035661F"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "230d3452ce6c8b8f"
+  },
+  {
+   "id": "cn-1481327ac4a1",
+   "status": "self",
+   "platform": "nes",
+   "group": "国王骑士 (v0.9) (简)",
+   "titles": {
+    "zh-Hans": "国王骑士 (v0.9) (简)"
+   },
+   "crc32": [
+    "FB829852"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "df86e62a5ebc79a0"
+  },
+  {
+   "id": "cn-1966346e8d7e",
+   "status": "self",
+   "platform": "nes",
+   "group": "超级玛利欧兄弟2 (v20230225) (FDS版) (繁)",
+   "titles": {
+    "zh-Hans": "超级玛利欧兄弟2 (v20230225) (FDS版) (繁)"
+   },
+   "crc32": [
+    "F85BB33E"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "38fe28d3189e5e9c"
+  },
+  {
+   "id": "cn-19aaf343db76",
+   "status": "self",
+   "platform": "nes",
+   "group": "洛克人5 - 布鲁斯的陷阱！ (v20230512) (简&繁)",
+   "titles": {
+    "zh-Hans": "洛克人5 - 布鲁斯的陷阱！ (v20230512) (简&繁)"
+   },
+   "crc32": [
+    "0D7A5923"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "9e2c67339d460457"
+  },
+  {
+   "id": "cn-399da0847d1a",
+   "status": "self",
+   "platform": "nes",
+   "group": "裕兴 (V8.2) (D型)",
+   "titles": {
+    "zh-Hans": "裕兴 (V8.2) (D型)"
+   },
+   "crc32": [
+    "D16E3D5E"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "6bd94e584fd8cc26"
+  },
+  {
+   "id": "cn-3f22c2a2e336",
+   "status": "self",
+   "platform": "nes",
+   "group": "忍者茶茶丸 (v0.9) (简)",
+   "titles": {
+    "zh-Hans": "忍者茶茶丸 (v0.9) (简)"
+   },
+   "crc32": [
+    "FF51F477"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "fea07f8472d8c7d7"
+  },
+  {
+   "id": "cn-407fa6af9f10",
+   "status": "self",
+   "platform": "nes",
+   "group": "守护者坦克 (v0.9) (简)",
+   "titles": {
+    "zh-Hans": "守护者坦克 (v0.9) (简)"
+   },
+   "crc32": [
+    "56ECBAAC"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "9817911a0ce7210b"
+  },
+  {
+   "id": "cn-4431bf0eacd0",
+   "status": "self",
+   "platform": "nes",
+   "group": "影子传说 (v0.9) (简)",
+   "titles": {
+    "zh-Hans": "影子传说 (v0.9) (简)"
+   },
+   "crc32": [
+    "7AB933F6"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "3ca2d6e058ce0b3a"
+  },
+  {
+   "id": "cn-5a7c7e34621d",
+   "status": "self",
+   "platform": "nes",
+   "group": "裕兴 (V8.3) (D型)",
+   "titles": {
+    "zh-Hans": "裕兴 (V8.3) (D型)"
+   },
+   "crc32": [
+    "5D7A7B33"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "214b10a4ed28bc2a"
+  },
+  {
+   "id": "cn-60a4016113ff",
+   "status": "self",
+   "platform": "nes",
+   "group": "裕兴 (V9.2)",
+   "titles": {
+    "zh-Hans": "裕兴 (V9.2)"
+   },
+   "crc32": [
+    "D06BE649"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "f796a9ba0f4d4fd1"
+  },
+  {
+   "id": "cn-734527188af6",
+   "status": "self",
+   "platform": "nes",
+   "group": "三国志2 - 霸王的大陆 (v0.9976) (v20190919) (简)",
+   "titles": {
+    "zh-Hans": "三国志2 - 霸王的大陆 (v0.9976) (v20190919) (简)"
+   },
+   "crc32": [
+    "7A777563"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "aeff8c08978b45e9"
+  },
+  {
+   "id": "cn-7742061f908a",
+   "status": "self",
+   "platform": "nes",
+   "group": "阿贝道X (v0.9) (简)",
+   "titles": {
+    "zh-Hans": "阿贝道X (v0.9) (简)"
+   },
+   "crc32": [
+    "0A651EEC"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "bfdb120cb341ef55"
+  },
+  {
+   "id": "cn-8539c440bd13",
+   "status": "self",
+   "platform": "nes",
+   "group": "花式撞球 (修正版) (日简)",
+   "titles": {
+    "zh-Hans": "花式撞球 (修正版) (日简)"
+   },
+   "crc32": [
+    "E34DA569"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "e7f1f599660fb945"
+  },
+  {
+   "id": "cn-8c9426532e10",
+   "status": "self",
+   "platform": "nes",
+   "group": "最终幻想2 (修正版) (简)",
+   "titles": {
+    "zh-Hans": "最终幻想2 (修正版) (简)"
+   },
+   "crc32": [
+    "661A4D37"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "8917ec5ea3894b2d"
+  },
+  {
+   "id": "cn-973917264818",
+   "status": "self",
+   "platform": "nes",
+   "group": "宇宙巡航机2 (v0.9) (简)",
+   "titles": {
+    "zh-Hans": "宇宙巡航机2 (v0.9) (简)"
+   },
+   "crc32": [
+    "402FAE5D"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "93599eb1fcb1e84c"
+  },
+  {
+   "id": "cn-9c72bc90ee48",
+   "status": "self",
+   "platform": "nes",
+   "group": "裕兴 (V8.0) (C型)",
+   "titles": {
+    "zh-Hans": "裕兴 (V8.0) (C型)"
+   },
+   "crc32": [
+    "89A2D884"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "ccb3f6a20cc586f4"
+  },
+  {
+   "id": "cn-9c7d534860b1",
+   "status": "self",
+   "platform": "nes",
+   "group": "特库摩世界杯足球 (简)",
+   "titles": {
+    "zh-Hans": "特库摩世界杯足球 (简)"
+   },
+   "crc32": [
+    "8205E9AB"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "e571c3fd3279f274"
+  },
+  {
+   "id": "cn-9fe81a8c591f",
+   "status": "self",
+   "platform": "nes",
+   "group": "Q波特 (简)",
+   "titles": {
+    "zh-Hans": "Q波特 (简)"
+   },
+   "crc32": [
+    "15840BED"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "301da482149b6a98"
+  },
+  {
+   "id": "cn-a9efbc2538b4",
+   "status": "self",
+   "platform": "nes",
+   "group": "宇宙巡航机 (v0.9) (简)",
+   "titles": {
+    "zh-Hans": "宇宙巡航机 (v0.9) (简)"
+   },
+   "crc32": [
+    "E7AF94C3"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "4e0ac4a39d338f18"
+  },
+  {
+   "id": "cn-b97b887e281d",
+   "status": "self",
+   "platform": "nes",
+   "group": "超浮游要塞 (简)",
+   "titles": {
+    "zh-Hans": "超浮游要塞 (简)"
+   },
+   "crc32": [
+    "31831A3D"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "ab38f88c18043b10"
+  },
+  {
+   "id": "cn-c51fe627da07",
+   "status": "self",
+   "platform": "nes",
+   "group": "宠物宝宝 (简)",
+   "titles": {
+    "zh-Hans": "宠物宝宝 (简)"
+   },
+   "crc32": [
+    "4FC8C581"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "b3a3471dfb370910"
+  },
+  {
+   "id": "cn-d55783bf9c5c",
+   "status": "self",
+   "platform": "nes",
+   "group": "赤影战士 (v2) (简)",
+   "titles": {
+    "zh-Hans": "赤影战士 (v2) (简)"
+   },
+   "crc32": [
+    "63FDA8C0"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "811ebdd5affe36e6"
+  },
+  {
+   "id": "cn-dc1ca9b02c5c",
+   "status": "self",
+   "platform": "nes",
+   "group": "最终幻想2 (v20230615) (修正版) (简)",
+   "titles": {
+    "zh-Hans": "最终幻想2 (v20230615) (修正版) (简)"
+   },
+   "crc32": [
+    "7B7518DA"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "602305fb2272c29c"
+  },
+  {
+   "id": "cn-e568219fd7bf",
+   "status": "self",
+   "platform": "nes",
+   "group": "超级玛利欧兄弟2 (v20230225) (选关版) (繁)",
+   "titles": {
+    "zh-Hans": "超级玛利欧兄弟2 (v20230225) (选关版) (繁)"
+   },
+   "crc32": [
+    "D5BF4455"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "85a22edc576cd1ff"
+  },
+  {
+   "id": "cn-ed894dd9c98e",
+   "status": "self",
+   "platform": "nes",
+   "group": "最终幻想 (修正版) (简)",
+   "titles": {
+    "zh-Hans": "最终幻想 (修正版) (简)"
+   },
+   "crc32": [
+    "080FC483"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "657ab11230d8cb77"
+  },
+  {
+   "id": "cn-eef0368dbed6",
+   "status": "self",
+   "platform": "nes",
+   "group": "西游记 (v20090617) (繁)",
+   "titles": {
+    "zh-Hans": "西游记 (v20090617) (繁)"
+   },
+   "crc32": [
+    "1E9DAF30"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "2970162b3709d52e"
+  },
+  {
+   "id": "cn-ffbc95b9ceb4",
+   "status": "self",
+   "platform": "nes",
+   "group": "龙战士 (v0.9) (简)",
+   "titles": {
+    "zh-Hans": "龙战士 (v0.9) (简)"
+   },
+   "crc32": [
+    "CBBD7C84"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "c5ce7d1e2da03e10"
+  },
+  {
    "id": "cn-09529d701d49",
    "status": "self",
    "platform": "sfc",
@@ -60973,6 +63007,204 @@
     "title": "assets/sfc/cn-bcb737679301/title.png"
    },
    "hash": "43f5ca293c4effd0"
+  },
+  {
+   "id": "cn-0efd8a9a39d0",
+   "status": "self",
+   "platform": "sfc",
+   "group": "星际火狐 (v1.1) (简)",
+   "titles": {
+    "zh-Hans": "星际火狐 (v1.1) (简)"
+   },
+   "crc32": [
+    "0D28C3ED"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "d8b92436559ce4ed"
+  },
+  {
+   "id": "cn-1323422eb87f",
+   "status": "self",
+   "platform": "sfc",
+   "group": "钟楼 (简)",
+   "titles": {
+    "zh-Hans": "钟楼 (简)"
+   },
+   "crc32": [
+    "CF1D7F9B"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "a6039a8741467972"
+  },
+  {
+   "id": "cn-15235aa4b8c1",
+   "status": "self",
+   "platform": "sfc",
+   "group": "新热血硬派 - 国夫们的挽歌 (Steam版) (简)&(繁)",
+   "titles": {
+    "zh-Hans": "新热血硬派 - 国夫们的挽歌 (Steam版) (简)&(繁)"
+   },
+   "crc32": [
+    "D5958D1F"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "370f4ca1bd02eb5d"
+  },
+  {
+   "id": "cn-262bb38a2f8a",
+   "status": "self",
+   "platform": "sfc",
+   "group": "新热血硬派 - 国夫们的挽歌 (Switch版) (简)&(繁)",
+   "titles": {
+    "zh-Hans": "新热血硬派 - 国夫们的挽歌 (Switch版) (简)&(繁)"
+   },
+   "crc32": [
+    "90BF7D96"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "4088de211f14469a"
+  },
+  {
+   "id": "cn-30f7913cfc14",
+   "status": "self",
+   "platform": "sfc",
+   "group": "新热血硬派 - 国夫们的挽歌 (Switch版) (简)&(繁)",
+   "titles": {
+    "zh-Hans": "新热血硬派 - 国夫们的挽歌 (Switch版) (简)&(繁)"
+   },
+   "crc32": [
+    "11355475"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "5b08faffd24e8437"
+  },
+  {
+   "id": "cn-3930a8a9067a",
+   "status": "self",
+   "platform": "sfc",
+   "group": "如梦似幻 (v2.0) (繁)",
+   "titles": {
+    "zh-Hans": "如梦似幻 (v2.0) (繁)"
+   },
+   "crc32": [
+    "E2CC8FF2"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "a161845e22aca4de"
+  },
+  {
+   "id": "cn-4a4b7e657715",
+   "status": "self",
+   "platform": "sfc",
+   "group": "美少女摔跤手列传 (v0.51) (简)",
+   "titles": {
+    "zh-Hans": "美少女摔跤手列传 (v0.51) (简)"
+   },
+   "crc32": [
+    "97BC293A"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "e920dbee6c97f9fc"
+  },
+  {
+   "id": "cn-5cff22adee7f",
+   "status": "self",
+   "platform": "sfc",
+   "group": "灌篮高手 - SD版激斗升级!! (简)",
+   "titles": {
+    "zh-Hans": "灌篮高手 - SD版激斗升级!! (简)"
+   },
+   "crc32": [
+    "3497AC77"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "963b162f6b8670e5"
+  },
+  {
+   "id": "cn-71655f63a355",
+   "status": "self",
+   "platform": "sfc",
+   "group": "新热血硬派 - 国夫们的挽歌 (Steam版) (简)&(繁)",
+   "titles": {
+    "zh-Hans": "新热血硬派 - 国夫们的挽歌 (Steam版) (简)&(繁)"
+   },
+   "crc32": [
+    "CC85EA52"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "176e4e2bdd9184c3"
+  },
+  {
+   "id": "cn-82985e1f4bc9",
+   "status": "self",
+   "platform": "sfc",
+   "group": "星际火狐 (v1.1) (修正版) (简)",
+   "titles": {
+    "zh-Hans": "星际火狐 (v1.1) (修正版) (简)"
+   },
+   "crc32": [
+    "7EAA1E19"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "ae99c8b58bcf6303"
+  },
+  {
+   "id": "cn-bd81e0392551",
+   "status": "self",
+   "platform": "sfc",
+   "group": "重装机兵Returns (v0.96) (修正版) (简)",
+   "titles": {
+    "zh-Hans": "重装机兵Returns (v0.96) (修正版) (简)"
+   },
+   "crc32": [
+    "EBCF46F0"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "cda7c8ae7f90875a"
   },
   {
    "id": "prb-sfc-005f1360",

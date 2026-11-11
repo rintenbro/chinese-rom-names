@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "320BB434",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "牧场物语 - 矿石镇的伙伴们 (v1.7) (修正版) (简)",
+ "hack_group": "CGP&模拟天下&矿石镇有爱小组&熊2猫3",
+ "id": "cn-ba4a8e4cc3a3",
+ "original": null,
+ "platform": "gba",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "牧场物语 - 矿石镇的伙伴们 (v1.7) (修正版) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "63FDA8C0",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "赤影战士 (v2) (简)",
+ "hack_group": "高伟",
+ "id": "cn-d55783bf9c5c",
+ "original": null,
+ "platform": "nes",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "赤影战士 (v2) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

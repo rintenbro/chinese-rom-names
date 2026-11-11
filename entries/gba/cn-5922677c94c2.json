@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "971CA75C",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "牧场物语 - 矿石镇的伙伴们女孩版 (v1.3a) (修正版) (简)",
+ "hack_group": "K&矿石镇有爱小组&熊2猫3",
+ "id": "cn-5922677c94c2",
+ "original": null,
+ "platform": "gba",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "牧场物语 - 矿石镇的伙伴们女孩版 (v1.3a) (修正版) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

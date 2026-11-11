@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3CE9E3E4",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "最终幻想战略版A2 - 封穴的魔法书 (v3) (修正版) (简)",
+ "hack_group": "巴士汉化组&未知",
+ "id": "cn-d0457023514f",
+ "original": null,
+ "platform": "nds",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "最终幻想战略版A2 - 封穴的魔法书 (v3) (修正版) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

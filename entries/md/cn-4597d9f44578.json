@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D9C42E40",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "皇室血裔 (简)",
+ "hack_group": "永盛&silentkiller",
+ "id": "cn-4597d9f44578",
+ "original": null,
+ "platform": "md",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "皇室血裔 (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

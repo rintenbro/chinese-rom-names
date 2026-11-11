@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7987ED62",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "有罪×无罪 (简)",
+ "hack_group": "有罪×无罪",
+ "id": "cn-26a59385084a",
+ "original": null,
+ "platform": "nds",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "有罪×无罪 (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

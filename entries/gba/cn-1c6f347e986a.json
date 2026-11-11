@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CEB670B2",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "决战三国 (繁)",
+ "hack_group": "盗版",
+ "id": "cn-1c6f347e986a",
+ "original": null,
+ "platform": "gba",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "决战三国 (繁)"
+ },
+ "type": "game",
+ "vendor": ""
+}

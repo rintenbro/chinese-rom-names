@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6AC62CB2",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "真女神转生 (v1.2) (简)",
+ "hack_group": "Advance汉化组",
+ "id": "cn-1dc886c46e80",
+ "original": null,
+ "platform": "gba",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "真女神转生 (v1.2) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

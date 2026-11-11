@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0D7A5923",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "洛克人5 - 布鲁斯的陷阱！ (v20230512) (简&繁)",
+ "hack_group": "Nokoh",
+ "id": "cn-19aaf343db76",
+ "original": null,
+ "platform": "nes",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "洛克人5 - 布鲁斯的陷阱！ (v20230512) (简&繁)"
+ },
+ "type": "game",
+ "vendor": ""
+}

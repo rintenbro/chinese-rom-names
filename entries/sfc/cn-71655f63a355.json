@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CC85EA52",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "新热血硬派 - 国夫们的挽歌 (Steam版) (简)&(繁)",
+ "hack_group": "WayForward",
+ "id": "cn-71655f63a355",
+ "original": null,
+ "platform": "sfc",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "新热血硬派 - 国夫们的挽歌 (Steam版) (简)&(繁)"
+ },
+ "type": "game",
+ "vendor": ""
+}

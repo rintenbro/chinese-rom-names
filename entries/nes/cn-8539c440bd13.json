@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E34DA569",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "花式撞球 (修正版) (日简)",
+ "hack_group": "星空&庞先生",
+ "id": "cn-8539c440bd13",
+ "original": null,
+ "platform": "nes",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "花式撞球 (修正版) (日简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

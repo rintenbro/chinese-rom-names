@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "886A7FDD",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "大航海时代2 (v1.9E6) (加强版) (繁)",
+ "hack_group": "意志之路汉化组",
+ "id": "cn-97da9461d404",
+ "original": null,
+ "platform": "md",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "大航海时代2 (v1.9E6) (加强版) (繁)"
+ },
+ "type": "game",
+ "vendor": ""
+}

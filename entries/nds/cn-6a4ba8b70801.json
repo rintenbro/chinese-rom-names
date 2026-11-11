@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F6280E46",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "高级战争 - 毁灭之日 (v1.01) (完善版) (繁)",
+ "hack_group": "空气汉化组&高级战争吧&情人",
+ "id": "cn-6a4ba8b70801",
+ "original": null,
+ "platform": "nds",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "高级战争 - 毁灭之日 (v1.01) (完善版) (繁)"
+ },
+ "type": "game",
+ "vendor": ""
+}

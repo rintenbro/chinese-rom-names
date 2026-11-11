@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D16E3D5E",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "裕兴 (V8.2) (D型)",
+ "hack_group": "裕兴",
+ "id": "cn-399da0847d1a",
+ "original": null,
+ "platform": "nes",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "裕兴 (V8.2) (D型)"
+ },
+ "type": "game",
+ "vendor": ""
+}

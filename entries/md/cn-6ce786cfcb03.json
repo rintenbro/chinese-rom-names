@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F8AE9511",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "美少女战士 (v0.61) (简)",
+ "hack_group": "SGGG汉化组",
+ "id": "cn-6ce786cfcb03",
+ "original": null,
+ "platform": "md",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "美少女战士 (v0.61) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

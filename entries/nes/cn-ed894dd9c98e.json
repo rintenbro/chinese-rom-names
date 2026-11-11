@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "080FC483",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "最终幻想 (修正版) (简)",
+ "hack_group": "外星科技&晚风轻起",
+ "id": "cn-ed894dd9c98e",
+ "original": null,
+ "platform": "nes",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "最终幻想 (修正版) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

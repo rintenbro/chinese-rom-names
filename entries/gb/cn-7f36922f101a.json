@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "30F45E87",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "水上摩托 (简)",
+ "hack_group": "神游科技",
+ "id": "cn-7f36922f101a",
+ "original": null,
+ "platform": "gb",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "水上摩托 (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8205E9AB",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "特库摩世界杯足球 (简)",
+ "hack_group": "王龙汉化组",
+ "id": "cn-9c7d534860b1",
+ "original": null,
+ "platform": "nes",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "特库摩世界杯足球 (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

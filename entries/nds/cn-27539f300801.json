@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "22B4E83C",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "流星洛克人3 - 黑色王牌&红色鬼牌 (简)",
+ "hack_group": "电波人研究中心汉化组",
+ "id": "cn-27539f300801",
+ "original": null,
+ "platform": "nds",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "流星洛克人3 - 黑色王牌&红色鬼牌 (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

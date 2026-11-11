@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4693B684",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "第二次超级机器人大战G (修正版) (简)",
+ "hack_group": "盗版&li474741502",
+ "id": "cn-63d5d832bf9b",
+ "original": null,
+ "platform": "gb",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "第二次超级机器人大战G (修正版) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

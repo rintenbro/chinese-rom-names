@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6E215878",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "凉宫春日的串联 (v0.1.0) (预览版) (简)",
+ "hack_group": "七不思议汉化组",
+ "id": "cn-b823392d9334",
+ "original": null,
+ "platform": "nds",
+ "script": "",
+ "source": "ppx",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "凉宫春日的串联 (v0.1.0) (预览版) (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}
