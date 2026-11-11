@@ -30,6 +30,15 @@ REVIEWS.md                      尚未定论的争议条目（不入库）
 4. 按发布标签经 jsDelivr 读取，例如
    `https://cdn.jsdelivr.net/gh/rintenbro/chinese-rom-names@v0.1.0/index.json`
 
+## 格式变更记录
+
+### v0.2.0（2026-11-11）
+- `layer` 字段改为 `status`，取值 `verified` / `probable` / `self`
+- 平台目录与 `platform` 值统一：`famicom` → `nes`，`megadrive` → `md`
+- 新增 `probable_original`：`probable` 条目的推荐原版，应用仅作候选，不自动套用
+- 新增 `hack_group`：汉化组，与 `vendor`（厂商）分离
+- `files` 允许只带 `crc32`（部分条目仅有 CRC，无实体文件），`size` 可为空
+
 ## 不包含
 
 - ROM 文件与任何下载链接
