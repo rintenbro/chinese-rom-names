@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "61848015",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "马力欧医生 (简)",
+ "hack_group": "神游科技",
+ "id": "cn-f3317465de68",
+ "original": null,
+ "platform": "n64",
+ "script": "简",
+ "source": "ppx-67p: 【中文ROM补完计划】 https://www.ppxclub.com/forum.php?mod=viewthread&tid=684693",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "马力欧医生 (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

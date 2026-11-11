@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "62CC2CD9",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "纸片马里奥 (v0.9) (繁)",
+ "hack_group": "漫游&zzz5655",
+ "id": "cn-5676e14767f2",
+ "original": null,
+ "platform": "n64",
+ "script": "繁",
+ "source": "ppx-67p: 【中文ROM补完计划】 https://www.ppxclub.com/forum.php?mod=viewthread&tid=684693",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "纸片马里奥 (v0.9) (繁)"
+ },
+ "type": "game",
+ "vendor": ""
+}

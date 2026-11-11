@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "76742798",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "组合机器人 (简)",
+ "hack_group": "神游科技",
+ "id": "cn-8a66970ccf4e",
+ "original": null,
+ "platform": "n64",
+ "script": "简",
+ "source": "ppx-67p: 【中文ROM补完计划】 https://www.ppxclub.com/forum.php?mod=viewthread&tid=684693",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "组合机器人 (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

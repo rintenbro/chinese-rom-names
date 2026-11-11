@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D86E2EDF",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "任天堂明星大乱斗 (简)",
+ "hack_group": "神游科技",
+ "id": "cn-d7870d57826c",
+ "original": null,
+ "platform": "n64",
+ "script": "简",
+ "source": "ppx-67p: 【中文ROM补完计划】 https://www.ppxclub.com/forum.php?mod=viewthread&tid=684693",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "任天堂明星大乱斗 (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

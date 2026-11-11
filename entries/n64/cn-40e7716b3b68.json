@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F45C5532",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "塞尔达传说 - 时光之笛 (简)",
+ "hack_group": "神游科技",
+ "id": "cn-40e7716b3b68",
+ "original": null,
+ "platform": "n64",
+ "script": "简",
+ "source": "ppx-67p: 【中文ROM补完计划】 https://www.ppxclub.com/forum.php?mod=viewthread&tid=684693",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "塞尔达传说 - 时光之笛 (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}

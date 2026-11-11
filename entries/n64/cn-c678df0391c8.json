@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E00DB418",
+   "name": "",
+   "size": null
+  }
+ ],
+ "group": "罪与罚 - 地球的继承者 (简)",
+ "hack_group": "神游科技",
+ "id": "cn-c678df0391c8",
+ "original": null,
+ "platform": "n64",
+ "script": "简",
+ "source": "ppx-67p: 【中文ROM补完计划】 https://www.ppxclub.com/forum.php?mod=viewthread&tid=684693",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "罪与罚 - 地球的继承者 (简)"
+ },
+ "type": "game",
+ "vendor": ""
+}
