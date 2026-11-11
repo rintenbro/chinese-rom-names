@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "40A17CA1",
+   "name": "双截龙(简)[靳大治](US)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Double Dragon (USA)",
+ "hack_group": "靳大治",
+ "id": "prb-nes-40a17ca1",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "F3850BCE",
+  "no_intro_name": "Double Dragon (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "双截龙"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

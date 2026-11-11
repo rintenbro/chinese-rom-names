@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7755B120",
+   "name": "敲冰块(v1.0)(简)[MM之神](JP)[ACT](0.18Mb).nes",
+   "size": 24592
+  }
+ ],
+ "group": "Ice Climber (Japan) (En)",
+ "hack_group": "MM之神",
+ "id": "prb-nes-7755b120",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "CC9EF940",
+  "no_intro_name": "Ice Climber (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "敲冰块"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

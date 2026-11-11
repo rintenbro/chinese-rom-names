@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-3462ac9e1cd1/title.png"
+ },
+ "files": [
+  {
+   "crc32": "CE323120",
+   "name": "鹿鼎记(简)[南晶科技](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "鹿鼎记",
+ "hack_group": "南晶科技",
+ "id": "cn-4e21862dc475",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "鹿鼎记"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

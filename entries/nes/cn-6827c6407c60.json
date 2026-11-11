@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-cca6318cc7cb/title.png"
+ },
+ "files": [
+  {
+   "crc32": "5DCDD73B",
+   "name": "游戏王(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "group": "游戏王",
+ "hack_group": "南晶科技",
+ "id": "cn-6827c6407c60",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "游戏王"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

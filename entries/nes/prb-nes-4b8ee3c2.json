@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4B8EE3C2",
+   "name": "中国雀士故事 东风(大字体)(简)[高伟](JP)[TAB](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Chuugoku Janshi Story - Tonfuu (Japan)",
+ "hack_group": "高伟",
+ "id": "prb-nes-4b8ee3c2",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "A62C8C13",
+  "no_intro_name": "Chuugoku Janshi Story - Tonfuu (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "中国雀士故事 东风"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0000C66B",
+   "name": "飞天战神(简)[虫虫](JP)[STG](0.31Mb).nes",
+   "size": 40976
+  }
+ ],
+ "group": "Thexder (Japan) (En)",
+ "hack_group": "虫虫",
+ "id": "prb-nes-0000c66b",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "6534B917",
+  "no_intro_name": "Thexder (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "飞天战神"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

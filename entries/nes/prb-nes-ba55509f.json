@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BA55509F",
+   "name": "梦企鹅物语(简)[天蝎之忆](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Yume Penguin Monogatari (Japan)",
+ "hack_group": "天蝎之忆",
+ "id": "prb-nes-ba55509f",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Yume Penguin Monogatari (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "梦企鹅物语"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

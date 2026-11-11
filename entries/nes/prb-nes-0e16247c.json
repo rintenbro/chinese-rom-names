@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0E16247C",
+   "name": "小美人鱼 人鱼公主(简)[中伟](JP)[ACT](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Little Mermaid - Ningyo Hime (Japan)",
+ "hack_group": "中伟",
+ "id": "prb-nes-0e16247c",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Little Mermaid - Ningyo Hime (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "小美人鱼 人鱼公主"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-a361209d4e98/title.png"
+ },
+ "files": [
+  {
+   "crc32": "D9B70079",
+   "name": "数学教授系统 小学三年级(简)[小霸王](CN)[ETC](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "数学教授系统 小学三年级",
+ "hack_group": "小霸王",
+ "id": "cn-224cc6bcfc36",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "数学教授系统 小学三年级"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

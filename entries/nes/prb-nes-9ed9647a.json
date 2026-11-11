@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9ED9647A",
+   "name": "重装机兵(修正版)(简)[先锋卡通+星夜之幻](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "Metal Max (Japan)",
+ "hack_group": "先锋卡通+星夜之幻",
+ "id": "prb-nes-9ed9647a",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "6D1E1743",
+  "no_intro_name": "Metal Max (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "重装机兵"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

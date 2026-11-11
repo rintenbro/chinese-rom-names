@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-d274763d23df/title.png"
+ },
+ "files": [
+  {
+   "crc32": "75CE7592",
+   "name": "西楚霸王(简)[外星科技](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "西楚霸王",
+ "hack_group": "外星科技",
+ "id": "cn-bc3d79a81cf4",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "西楚霸王"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

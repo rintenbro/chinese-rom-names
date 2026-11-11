@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7474F005",
+   "name": "超级冲刺赛(美版)(大字体)(简)[高伟](JP)[RAC](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Super Sprint (Japan) (En)",
+ "hack_group": "高伟",
+ "id": "prb-nes-7474f005",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "05310638",
+  "no_intro_name": "Super Sprint (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级冲刺赛"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

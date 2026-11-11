@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F3164771",
+   "name": "城堡探险(简)[MM之神](JP)[ACT](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Castle Excellent (Japan) (En)",
+ "hack_group": "MM之神",
+ "id": "prb-nes-f3164771",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Castle Excellent (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "城堡探险"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

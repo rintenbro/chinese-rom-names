@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "08BF608E",
+   "name": "恶魔城(作弊菜单)(简)[吸血男爵](JP)[ACT](1Mb).nes",
+   "size": 131600
+  }
+ ],
+ "group": "Akumajou Dracula (Japan) (En)",
+ "hack_group": "吸血男爵",
+ "id": "prb-nes-08bf608e",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "04379750",
+  "no_intro_name": "Akumajou Dracula (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "恶魔城"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

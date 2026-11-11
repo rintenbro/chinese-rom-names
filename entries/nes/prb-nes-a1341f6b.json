@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A1341F6B",
+   "name": "激斗圣战士(修正版)(简)[外星科技+Vanyogin](JP)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Bikkuriman World - Gekitou Sei Senshi (Japan)",
+ "hack_group": "外星科技+Vanyogin",
+ "id": "prb-nes-a1341f6b",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "89BADA0E",
+  "no_intro_name": "Bikkuriman World - Gekitou Sei Senshi (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "激斗圣战士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "52759369",
+   "name": "马里奥兄弟(简)[Madcell](JUE)[ACT](0.37Mb).nes",
+   "size": 49168
+  }
+ ],
+ "group": "Mario Bros. (Europe) (PAL-MA-0)",
+ "hack_group": "JUE Madcell",
+ "id": "prb-nes-52759369",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "BA8659C0",
+  "no_intro_name": "Mario Bros. (Europe) (PAL-MA-0)",
+  "region": "Europe"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "马里奥兄弟"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

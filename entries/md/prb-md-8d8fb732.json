@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8D8FB732",
+   "name": "超级忍2 (简) (cslrxyz)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Super Shinobi II, The (Japan, Korea) (Ja)",
+ "hack_group": "cslrxyz",
+ "id": "prb-md-8d8fb732",
+ "platform": "md",
+ "probable_original": {
+  "crc32": "5B412816",
+  "no_intro_name": "Super Shinobi II, The (Japan, Korea) (Ja)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级忍2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

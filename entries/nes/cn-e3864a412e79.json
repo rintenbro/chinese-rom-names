@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4ECE9BB7",
+   "name": "推箱子(大字体)(简)[高伟](US)[PUZ](0.31Mb).nes",
+   "size": 40976
+  }
+ ],
+ "group": "Sokoban (World) (Proto)",
+ "hack_group": "高伟",
+ "id": "cn-e3864a412e79",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "推箱子"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

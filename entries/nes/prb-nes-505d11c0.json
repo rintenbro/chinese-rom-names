@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "505D11C0",
+   "name": "救世主(v1.1)(简)[汉化你妹](JP)[ACT](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "Grand Master (Japan)",
+ "hack_group": "汉化你妹",
+ "id": "prb-nes-505d11c0",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Grand Master (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "救世主"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

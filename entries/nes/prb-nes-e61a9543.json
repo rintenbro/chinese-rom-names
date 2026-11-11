@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E61A9543",
+   "name": "勇者斗恶龙(修正版)(简)[外星科技+庞先生](JP)[RPG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Dragon Quest (Japan)",
+ "hack_group": "外星科技+庞先生",
+ "id": "prb-nes-e61a9543",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "E9F91164",
+  "no_intro_name": "Dragon Quest (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "勇者斗恶龙"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

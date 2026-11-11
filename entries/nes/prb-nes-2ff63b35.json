@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2FF63B35",
+   "name": "赤影战士(v20211022)(标题汉化)(简)[逆游の五彩魚](JP)[ACT](2.06Mb).nes",
+   "size": 270352
+  }
+ ],
+ "group": "Yami no Shigotonin Kage (Japan)",
+ "hack_group": "逆游の五彩魚",
+ "id": "prb-nes-2ff63b35",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Yami no Shigotonin Kage (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "赤影战士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20211022"
+}

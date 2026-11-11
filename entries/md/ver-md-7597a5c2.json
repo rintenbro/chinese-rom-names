@@ -1,0 +1,33 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7597A5C2",
+   "name": "海底两万里(蓝宝石之迷) (简) (小鬼混)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Haidi Liang Wanli (Lanbaoshi Zhi Mi) (China) (Pirate)",
+ "hack_group": "",
+ "id": "ver-md-7597a5c2",
+ "original": {
+  "crc32": "7597A5C2",
+  "no_intro_name": "Haidi Liang Wanli (Lanbaoshi Zhi Mi) (China) (Pirate)",
+  "region": "China",
+  "size": 2097152
+ },
+ "platform": "md",
+ "script": "简",
+ "source": "no-intro",
+ "status": "verified",
+ "titles": {
+  "zh-Hans": "海底两万里"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

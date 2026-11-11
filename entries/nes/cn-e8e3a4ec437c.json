@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-3ca62771e5f9/title.png"
+ },
+ "files": [
+  {
+   "crc32": "6126DB49",
+   "name": "龙珠英雄(简)[外星科技](JP)[SLG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "龙珠英雄",
+ "hack_group": "外星科技",
+ "id": "cn-e8e3a4ec437c",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "龙珠英雄"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

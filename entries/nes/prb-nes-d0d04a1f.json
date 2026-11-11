@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D0D04A1F",
+   "name": "忍者茶茶丸君(v3)(简)[MS](JP)[ACT](0.25Mb).nes",
+   "size": 32784
+  }
+ ],
+ "group": "Ninja Jajamaru-kun (Japan)",
+ "hack_group": "",
+ "id": "prb-nes-d0d04a1f",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Ninja Jajamaru-kun (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "忍者茶茶丸君"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v3"
+}

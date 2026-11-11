@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4CD7666A",
+   "name": "力量刀锋2(简)[逆游の五彩魚](US)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Power Blade 2 (USA)",
+ "hack_group": "逆游の五彩魚",
+ "id": "prb-nes-4cd7666a",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Power Blade 2 (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "力量刀锋2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

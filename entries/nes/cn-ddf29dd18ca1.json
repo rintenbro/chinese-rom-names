@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-d511bd83aad0/title.png"
+ },
+ "files": [
+  {
+   "crc32": "4A3A54B2",
+   "name": "灵界护法(繁)[外星科技](CN)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "灵界护法",
+ "hack_group": "外星科技",
+ "id": "cn-ddf29dd18ca1",
+ "platform": "nes",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "灵界护法"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

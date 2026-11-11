@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4F4532FA",
+   "name": "天神之剑(修正版)(简)[外星科技+Vanyogin](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "God Slayer - Haruka Tenkuu no Sonata (Japan)",
+ "hack_group": "外星科技+Vanyogin",
+ "id": "prb-nes-4f4532fa",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "92ADC6C0",
+  "no_intro_name": "God Slayer - Haruka Tenkuu no Sonata (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "天神之剑"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

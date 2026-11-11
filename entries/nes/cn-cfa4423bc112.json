@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-28a4930f094e/title.png"
+ },
+ "files": [
+  {
+   "crc32": "6A9CDE1F",
+   "name": "征战天下(简)[晶科泰](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "征战天下",
+ "hack_group": "晶科泰",
+ "id": "cn-cfa4423bc112",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "征战天下"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

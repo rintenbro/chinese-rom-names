@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0B46CE9E",
+   "name": "圣魔术师(简)[高伟](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Holy Diver (Japan) (En)",
+ "hack_group": "高伟",
+ "id": "prb-nes-0b46ce9e",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Holy Diver (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "圣魔术师"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

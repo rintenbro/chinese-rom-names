@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "40F7E1F4",
+   "name": "梦幻之星2 - 不归的终点(简)(20260102v1)(am)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Phantasy Star II (USA, Europe) (Rev A)",
+ "hack_group": "20260102v1 am",
+ "id": "prb-md-40f7e1f4",
+ "platform": "md",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Phantasy Star II (USA, Europe) (Rev A)",
+  "region": "USA, Europe"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "梦幻之星2 - 不归的终点"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

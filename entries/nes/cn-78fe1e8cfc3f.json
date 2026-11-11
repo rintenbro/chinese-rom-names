@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-e3e92bcd17db/title.png"
+ },
+ "files": [
+  {
+   "crc32": "65530309",
+   "name": "无间道风云(简)[恒格电子](JP)[SLG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "无间道风云",
+ "hack_group": "恒格电子",
+ "id": "cn-78fe1e8cfc3f",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "无间道风云"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

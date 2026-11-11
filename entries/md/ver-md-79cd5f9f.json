@@ -1,0 +1,33 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "79CD5F9F",
+   "name": "特殊部队357 (繁) (永盛)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Teshu Budui 357 (China) (Pirate)",
+ "hack_group": "",
+ "id": "ver-md-79cd5f9f",
+ "original": {
+  "crc32": "79CD5F9F",
+  "no_intro_name": "Teshu Budui 357 (China) (Pirate)",
+  "region": "China",
+  "size": 1048576
+ },
+ "platform": "md",
+ "script": "繁",
+ "source": "no-intro",
+ "status": "verified",
+ "titles": {
+  "zh-Hans": "特殊部队357"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

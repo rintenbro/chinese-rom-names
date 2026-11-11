@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C45B5724",
+   "name": "索尼克(简)[游戏天地](US)[ACT](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "Sonic The Hedgehog (Taiwan) (En) (Pirate)",
+ "hack_group": "游戏天地",
+ "id": "prb-nes-c45b5724",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Sonic The Hedgehog (Taiwan) (En) (Pirate)",
+  "region": "Taiwan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "索尼克"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

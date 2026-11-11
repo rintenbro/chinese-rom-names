@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-c3136cee621e/title.png"
+ },
+ "files": [
+  {
+   "crc32": "6233556B",
+   "name": "机器猫小叮当(简)[外星科技](CN)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "机器猫小叮当",
+ "hack_group": "外星科技",
+ "id": "cn-38967c674b95",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "机器猫小叮当"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

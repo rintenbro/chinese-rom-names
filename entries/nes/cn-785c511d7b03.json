@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BF3DDB87",
+   "name": "快乐猫世界(简)[高伟](JP)[ACT](5.25Mb).nes",
+   "size": 688160
+  }
+ ],
+ "group": "Garfield no Isshukan (Japan) (En)",
+ "hack_group": "高伟",
+ "id": "cn-785c511d7b03",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "快乐猫世界"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

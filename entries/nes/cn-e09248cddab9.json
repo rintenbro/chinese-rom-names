@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-4cd9bb0512d1/title.png"
+ },
+ "files": [
+  {
+   "crc32": "05C7AE10",
+   "name": "唐伯虎点秋香(简)[南晶科技](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "唐伯虎点秋香",
+ "hack_group": "南晶科技",
+ "id": "cn-e09248cddab9",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "唐伯虎点秋香"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

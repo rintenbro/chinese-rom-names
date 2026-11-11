@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-5f4c3524ed82/title.png"
+ },
+ "files": [
+  {
+   "crc32": "488E7CF0",
+   "name": "鬼魅战记(简)[外星科技](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "鬼魅战记",
+ "hack_group": "外星科技",
+ "id": "cn-4a12e8317e1b",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "鬼魅战记"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

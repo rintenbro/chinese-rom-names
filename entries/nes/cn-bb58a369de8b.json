@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-14bbee19476b/title.png"
+ },
+ "files": [
+  {
+   "crc32": "7FC65695",
+   "name": "三国志 曹操传(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "group": "三国志 曹操传",
+ "hack_group": "南晶科技",
+ "id": "cn-bb58a369de8b",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "三国志 曹操传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

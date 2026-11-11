@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "108141E7",
+   "name": "星际号战机(大字体)(简)[高伟](JP)[STG](0.93Mb).nes",
+   "size": 122896
+  }
+ ],
+ "group": "Star Soldier (Japan)",
+ "hack_group": "高伟",
+ "id": "prb-nes-108141e7",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "7ABE32DD",
+  "no_intro_name": "Star Soldier (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "星际号战机"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

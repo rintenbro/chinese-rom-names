@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DEB37CA4",
+   "name": "三十六计(繁)[外星科技](CN)[TAB](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Sanshiliu Ji - The Thirty-Six Tricks (China)",
+ "hack_group": "外星科技",
+ "id": "prb-nes-deb37ca4",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "5ADAAECF",
+  "no_intro_name": "Sanshiliu Ji - The Thirty-Six Tricks (China)",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "三十六计"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

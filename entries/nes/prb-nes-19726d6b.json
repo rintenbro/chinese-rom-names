@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "19726D6B",
+   "name": "罗罗大冒险3(简)[高伟](US)[PUZ](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Adventures of Lolo 3 (USA)",
+ "hack_group": "高伟",
+ "id": "prb-nes-19726d6b",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Adventures of Lolo 3 (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "罗罗大冒险3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

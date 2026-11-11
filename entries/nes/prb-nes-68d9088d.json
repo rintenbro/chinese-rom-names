@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "68D9088D",
+   "name": "超级魂斗罗(简)[樱组](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Super Contra (Japan)",
+ "hack_group": "樱组",
+ "id": "prb-nes-68d9088d",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "0A9CEF36",
+  "no_intro_name": "Super Contra (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级魂斗罗"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

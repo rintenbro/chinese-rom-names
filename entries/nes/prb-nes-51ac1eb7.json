@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "51AC1EB7",
+   "name": "忍者龟 激烈格斗(v20220223)(繁)[NOKOH](US)[FTG](2.25Mb).nes",
+   "size": 294928
+  }
+ ],
+ "group": "Teenage Mutant Ninja Turtles - Tournament Fighters (USA)",
+ "hack_group": "NOKOH",
+ "id": "prb-nes-51ac1eb7",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Teenage Mutant Ninja Turtles - Tournament Fighters (USA)",
+  "region": "USA"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "忍者龟 激烈格斗"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20220223"
+}

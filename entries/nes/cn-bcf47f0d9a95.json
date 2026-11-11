@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-354da6e306de/title.png"
+ },
+ "files": [
+  {
+   "crc32": "4A4A0130",
+   "name": "口袋怪兽 水晶版(简)[晶科泰](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "口袋怪兽 水晶版",
+ "hack_group": "晶科泰",
+ "id": "cn-bcf47f0d9a95",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "口袋怪兽 水晶版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

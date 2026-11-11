@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-4437cde97796/title.png"
+ },
+ "files": [
+  {
+   "crc32": "CD2448EC",
+   "name": "梦幻之星4(繁)[外星科技](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "梦幻之星4",
+ "hack_group": "外星科技",
+ "id": "cn-52b1dd475579",
+ "platform": "nes",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "梦幻之星4"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

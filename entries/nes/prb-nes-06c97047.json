@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "06C97047",
+   "name": "角子方块(大字体)(简)[高伟](JP)[PUZ](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Puzslot (Japan)",
+ "hack_group": "高伟",
+ "id": "prb-nes-06c97047",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Puzslot (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "角子方块"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

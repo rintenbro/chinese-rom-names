@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1499B706",
+   "name": "愤怒的小鸟(简)[快乐的龙](EU)[PUZ](0.75Mb).nes",
+   "size": 98320
+  }
+ ],
+ "group": "Moai-kun (Japan)",
+ "hack_group": "快乐的龙",
+ "id": "prb-nes-1499b706",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Moai-kun (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "愤怒的小鸟"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

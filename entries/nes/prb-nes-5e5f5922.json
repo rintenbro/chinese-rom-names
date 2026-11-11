@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5E5F5922",
+   "name": "翼人(v1.0)(简)[高伟](US)[STG](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Legendary Wings (USA)",
+ "hack_group": "高伟",
+ "id": "prb-nes-5e5f5922",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Legendary Wings (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "翼人"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

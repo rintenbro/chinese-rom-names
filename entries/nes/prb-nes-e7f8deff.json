@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E7F8DEFF",
+   "name": "戈尔巴乔夫的水管大作战(简)[verkkars](JP)[PUZ](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Gorby no Pipeline Daisakusen (Japan) (En)",
+ "hack_group": "verkkars",
+ "id": "prb-nes-e7f8deff",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Gorby no Pipeline Daisakusen (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "戈尔巴乔夫的水管大作战"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

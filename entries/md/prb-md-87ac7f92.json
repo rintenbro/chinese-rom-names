@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "87AC7F92",
+   "name": "帝国皇朝 - 亚瑟传说 (繁)(Ken最终修正)(16Mb).bin",
+   "size": 2097152
+  }
+ ],
+ "group": "Diguo Wangchao (Ya Se Chuanshuo) (Taiwan)",
+ "hack_group": "川普科技&Ken",
+ "id": "prb-md-87ac7f92",
+ "platform": "md",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Diguo Wangchao (Ya Se Chuanshuo) (Taiwan)",
+  "region": "Taiwan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "帝国皇朝 - 亚瑟传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

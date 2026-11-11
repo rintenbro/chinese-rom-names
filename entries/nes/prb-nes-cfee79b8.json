@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CFEE79B8",
+   "name": "俄罗斯方块2(简)[高伟](JP)[PUZ](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Tetris Flash (Japan)",
+ "hack_group": "高伟",
+ "id": "prb-nes-cfee79b8",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "33BAA603",
+  "no_intro_name": "Tetris Flash (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "俄罗斯方块2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

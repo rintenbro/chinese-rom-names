@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-591a835371d0/title.png"
+ },
+ "files": [
+  {
+   "crc32": "7DA2D1C9",
+   "name": "爆笑三国(繁)[外星科技](CN)[SLG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "Baoxiao Sanguo - Jacks in Tri-Empire (China)",
+ "hack_group": "外星科技",
+ "id": "prb-nes-7da2d1c9",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Baoxiao Sanguo - Jacks in Tri-Empire (China)",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "爆笑三国"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

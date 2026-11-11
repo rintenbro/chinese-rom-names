@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-69cc1b806e85/title.png"
+ },
+ "files": [
+  {
+   "crc32": "0435EBB7",
+   "name": "真假猴王(简)[外星科技](CN)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "真假猴王",
+ "hack_group": "外星科技",
+ "id": "cn-68d6a56a9840",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "真假猴王"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

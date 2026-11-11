@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A060BF37",
+   "name": "超级玛利欧兄弟(v20250609)(繁)[NOKOH](JUE)[ACT](0.75Mb).nes",
+   "size": 98320
+  }
+ ],
+ "group": "Super Mario Bros. (World)",
+ "hack_group": "JUE NOKOH",
+ "id": "prb-nes-a060bf37",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Super Mario Bros. (World)",
+  "region": "World"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级玛利欧兄弟"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20250609"
+}

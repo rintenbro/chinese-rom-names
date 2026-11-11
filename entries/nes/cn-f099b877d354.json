@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-45cd206162f9/title.png"
+ },
+ "files": [
+  {
+   "crc32": "6CAC5CD2",
+   "name": "魔域英雄传(简)[外星科技](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "魔域英雄传",
+ "hack_group": "外星科技",
+ "id": "cn-f099b877d354",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "魔域英雄传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

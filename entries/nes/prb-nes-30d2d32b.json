@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "30D2D32B",
+   "name": "YieAr功夫(简)[高伟](JP)[FTG](0.18Mb).nes",
+   "size": 24592
+  }
+ ],
+ "group": "Yie Ar Kung-Fu (Japan) (En) (Rev 1.2)",
+ "hack_group": "高伟",
+ "id": "prb-nes-30d2d32b",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Yie Ar Kung-Fu (Japan) (En) (Rev 1.2)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "YieAr功夫"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "55FF4EA8",
+   "name": "金属装甲(简)[高伟](JP)[ACT](6Mb).nes",
+   "size": 786464
+  }
+ ],
+ "group": "Metal Flame - Psy Buster (Japan)",
+ "hack_group": "高伟",
+ "id": "prb-nes-55ff4ea8",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "430ADAAC",
+  "no_intro_name": "Metal Flame - Psy Buster (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "金属装甲"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

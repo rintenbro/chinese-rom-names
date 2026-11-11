@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-7fa87adc5a58/title.png"
+ },
+ "files": [
+  {
+   "crc32": "8CBCA3C1",
+   "name": "英雄传奇(简)[恒格电子](JP)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "英雄传奇",
+ "hack_group": "恒格电子",
+ "id": "cn-6e480080a2db",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "英雄传奇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

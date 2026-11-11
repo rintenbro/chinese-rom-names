@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2C588A63",
+   "name": "俄罗斯方块(简)[虫虫](US)[PUZ](0.37Mb).nes",
+   "size": 49168
+  }
+ ],
+ "group": "Tetris (USA)",
+ "hack_group": "虫虫",
+ "id": "prb-nes-2c588a63",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "D16EA396",
+  "no_intro_name": "Tetris (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "俄罗斯方块"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

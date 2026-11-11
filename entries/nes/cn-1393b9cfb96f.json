@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-47cac8d8445a/title.png"
+ },
+ "files": [
+  {
+   "crc32": "56809590",
+   "name": "机器人大战(简)[南晶科技](CN)[SLG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "group": "机器人大战",
+ "hack_group": "南晶科技",
+ "id": "cn-1393b9cfb96f",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "机器人大战"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

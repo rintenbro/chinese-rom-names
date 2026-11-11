@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CFCDB56C",
+   "name": "Q波特(简)[高伟](US)[ACT](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Q-bert (USA)",
+ "hack_group": "高伟",
+ "id": "prb-nes-cfcdb56c",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Q-bert (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "Q波特"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

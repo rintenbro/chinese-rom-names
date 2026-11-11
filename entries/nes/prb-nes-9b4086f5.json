@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9B4086F5",
+   "name": "变形战机Z(简)[muxly](JP)[STG](0.37Mb).nes",
+   "size": 49168
+  }
+ ],
+ "group": "Formation Z (Japan) (En)",
+ "hack_group": "muxly",
+ "id": "prb-nes-9b4086f5",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "A4F5FD70",
+  "no_intro_name": "Formation Z (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "变形战机Z"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

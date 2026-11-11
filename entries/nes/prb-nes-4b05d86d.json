@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4B05D86D",
+   "name": "星际魂斗罗(修正版)(简)[樱组+MS](US)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Rough World (Japan)",
+ "hack_group": "樱组+MS",
+ "id": "prb-nes-4b05d86d",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "62665D54",
+  "no_intro_name": "Rough World (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "星际魂斗罗"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

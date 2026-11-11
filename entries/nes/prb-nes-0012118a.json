@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0012118A",
+   "name": "拉迪亚战记(简)[外星科技](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "Radia Senki - Reimei Hen (Japan)",
+ "hack_group": "外星科技",
+ "id": "prb-nes-0012118a",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "D8E80AB8",
+  "no_intro_name": "Radia Senki - Reimei Hen (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "拉迪亚战记"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

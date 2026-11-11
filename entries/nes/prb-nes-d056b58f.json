@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D056B58F",
+   "name": "光之神话 天使岛传说(简)[MS](UE)[ACT](1Mb).nes",
+   "size": 131215
+  }
+ ],
+ "group": "Kid Icarus (USA, Europe)",
+ "hack_group": "UE",
+ "id": "prb-nes-d056b58f",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Kid Icarus (USA, Europe)",
+  "region": "USA, Europe"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "光之神话 天使岛传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

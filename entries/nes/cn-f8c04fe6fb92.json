@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-f223ad3bcfd2/title.png"
+ },
+ "files": [
+  {
+   "crc32": "39A56932",
+   "name": "神密金三角(繁)[外星科技](JP)[RPG](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "神密金三角",
+ "hack_group": "外星科技",
+ "id": "cn-f8c04fe6fb92",
+ "platform": "nes",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "神密金三角"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

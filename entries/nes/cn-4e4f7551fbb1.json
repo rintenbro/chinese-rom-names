@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-5e84fe788a34/title.png"
+ },
+ "files": [
+  {
+   "crc32": "EE8CE44D",
+   "name": "口袋怪兽 珍珠版(简)[晶科泰](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "口袋怪兽 珍珠版",
+ "hack_group": "晶科泰",
+ "id": "cn-4e4f7551fbb1",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "口袋怪兽 珍珠版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

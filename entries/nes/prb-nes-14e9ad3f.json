@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "14E9AD3F",
+   "name": "龙珠Z3 烈战人造人间(修正版)(简)[外星科技+华薇科技](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "Dragon Ball Z III - Ressen Jinzou Ningen (Japan)",
+ "hack_group": "外星科技+华薇科技",
+ "id": "prb-nes-14e9ad3f",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "79000B2C",
+  "no_intro_name": "Dragon Ball Z III - Ressen Jinzou Ningen (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "龙珠Z3 烈战人造人间"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "02F55611",
+   "name": "龙魂(简)[外星科技](JP)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Dragon Spirit - Aratanaru Densetsu (Japan)",
+ "hack_group": "外星科技",
+ "id": "prb-nes-02f55611",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "B999D928",
+  "no_intro_name": "Dragon Spirit - Aratanaru Densetsu (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "龙魂"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

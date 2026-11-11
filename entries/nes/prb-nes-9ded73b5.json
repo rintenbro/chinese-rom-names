@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9DED73B5",
+   "name": "哈利传奇(简)[天空联盟](CN)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Harry's Legend - Hali Chuanqi (Taiwan) (En)",
+ "hack_group": "天空联盟",
+ "id": "prb-nes-9ded73b5",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "0CC7991D",
+  "no_intro_name": "Harry's Legend - Hali Chuanqi (Taiwan) (En)",
+  "region": "Taiwan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "哈利传奇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

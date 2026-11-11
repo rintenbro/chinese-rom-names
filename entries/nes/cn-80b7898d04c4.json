@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "62E835C5",
+   "name": "梦幻仙境(简)[恒格电子](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "梦幻仙境",
+ "hack_group": "恒格电子",
+ "id": "cn-80b7898d04c4",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "梦幻仙境"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

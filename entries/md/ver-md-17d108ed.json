@@ -1,0 +1,33 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "17D108ED",
+   "name": "独立战争(2018新dump)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Duli Zhanzheng (China) (Pirate)",
+ "hack_group": "永盛",
+ "id": "ver-md-17d108ed",
+ "original": {
+  "crc32": "17D108ED",
+  "no_intro_name": "Duli Zhanzheng (China) (Pirate)",
+  "region": "China",
+  "size": 2097152
+ },
+ "platform": "md",
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "verified",
+ "titles": {
+  "zh-Hans": "独立战争"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

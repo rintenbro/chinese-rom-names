@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-33dac62f4404/title.png"
+ },
+ "files": [
+  {
+   "crc32": "7380B019",
+   "name": "方世玉(简)[南晶科技](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "方世玉",
+ "hack_group": "南晶科技",
+ "id": "cn-4d840710d77a",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "方世玉"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

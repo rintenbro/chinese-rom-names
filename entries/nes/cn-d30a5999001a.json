@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9AB55EDC",
+   "name": "小霸王中英文电脑学习卡(v5.0)(简)[小霸王](CN)[ETC](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "小霸王中英文电脑学习卡",
+ "hack_group": "小霸王",
+ "id": "cn-d30a5999001a",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "小霸王中英文电脑学习卡"
+ },
+ "type": "hack",
+ "vendor": "",
+ "version": "v5.0"
+}

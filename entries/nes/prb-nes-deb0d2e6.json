@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DEB0D2E6",
+   "name": "最终幻想2(v20211024)(系统优化)(简)[外星科技+渣渣皮](JP)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Final Fantasy II (Japan)",
+ "hack_group": "外星科技+渣渣皮",
+ "id": "prb-nes-deb0d2e6",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "9D0529EF",
+  "no_intro_name": "Final Fantasy II (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "最终幻想2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20211024"
+}

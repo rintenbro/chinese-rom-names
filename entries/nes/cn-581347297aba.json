@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-9bd8e5c43b3a/title.png"
+ },
+ "files": [
+  {
+   "crc32": "E91F6017",
+   "name": "轩辕剑 王者归来(简)[晶科泰](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "轩辕剑 王者归来",
+ "hack_group": "晶科泰",
+ "id": "cn-581347297aba",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "轩辕剑 王者归来"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

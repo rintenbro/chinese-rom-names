@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C03FB4F5",
+   "name": "西天取经(简)[小天才](CN)[ACT](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Xitian Qujing - Journey to the West (Asia)",
+ "hack_group": "小天才",
+ "id": "prb-nes-c03fb4f5",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "57C2348A",
+  "no_intro_name": "Xitian Qujing - Journey to the West (Asia)",
+  "region": "Asia"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "西天取经"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

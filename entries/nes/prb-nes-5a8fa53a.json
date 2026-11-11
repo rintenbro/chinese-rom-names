@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5A8FA53A",
+   "name": "魂斗罗力量(简)[MS](US)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Contra Force (USA)",
+ "hack_group": "",
+ "id": "prb-nes-5a8fa53a",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Contra Force (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "魂斗罗力量"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

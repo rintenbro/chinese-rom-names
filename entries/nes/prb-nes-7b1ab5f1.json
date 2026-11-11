@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7B1AB5F1",
+   "name": "三国志2 霸王的大陆(简)[CSLRZYZ](JP)[SLG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Sangokushi II - Haou no Tairiku (Japan)",
+ "hack_group": "CSLRZYZ",
+ "id": "prb-nes-7b1ab5f1",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "400D5A0B",
+  "no_intro_name": "Sangokushi II - Haou no Tairiku (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "三国志2 霸王的大陆"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

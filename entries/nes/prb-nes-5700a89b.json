@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5700A89B",
+   "name": "恶魔之剑(修正版)(简)[Antigloss+MS](US)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Demon Sword (USA)",
+ "hack_group": "Antigloss+MS",
+ "id": "prb-nes-5700a89b",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "BA18A29C",
+  "no_intro_name": "Demon Sword (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "恶魔之剑"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

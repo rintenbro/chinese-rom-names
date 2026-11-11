@@ -1,0 +1,33 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "72DD884F",
+   "name": "世界职棒争霸战 (繁) (全崴资讯)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Jin Guanjun Xiongdi Xiang - Shijie Zhibang Zhengba Zhan (Taiwan)",
+ "hack_group": "",
+ "id": "ver-md-72dd884f",
+ "original": {
+  "crc32": "72DD884F",
+  "no_intro_name": "Jin Guanjun Xiongdi Xiang - Shijie Zhibang Zhengba Zhan (Taiwan)",
+  "region": "Taiwan",
+  "size": 2097152
+ },
+ "platform": "md",
+ "script": "繁",
+ "source": "no-intro",
+ "status": "verified",
+ "titles": {
+  "zh-Hans": "世界职棒争霸战"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

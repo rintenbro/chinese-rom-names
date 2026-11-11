@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1EC71E38",
+   "name": "象棋学园(繁)[圣谦](CN)[TAB](0.37Mb).nes",
+   "size": 49168
+  }
+ ],
+ "group": "Chess Academy (Taiwan) (En)",
+ "hack_group": "圣谦",
+ "id": "prb-nes-1ec71e38",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "305C59DA",
+  "no_intro_name": "Chess Academy (Taiwan) (En)",
+  "region": "Taiwan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "象棋学园"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

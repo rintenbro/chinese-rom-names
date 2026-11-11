@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-e612c97faa4e/title.png"
+ },
+ "files": [
+  {
+   "crc32": "D21F8ACF",
+   "name": "超级魂斗罗(简)[SayHi](JP)[ACT](6Mb).nes",
+   "size": 786464
+  }
+ ],
+ "group": "超级魂斗罗",
+ "hack_group": "SayHi",
+ "id": "cn-af1b1c38c6b1",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "超级魂斗罗"
+ },
+ "type": "hack",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,33 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "174DEFE6",
+   "name": "格斗王 (简) (未知)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Top Fighter 2005 - Gedou Wang (Taiwan)",
+ "hack_group": "未知",
+ "id": "ver-md-174defe6",
+ "original": {
+  "crc32": "174DEFE6",
+  "no_intro_name": "Top Fighter 2005 - Gedou Wang (Taiwan)",
+  "region": "Taiwan",
+  "size": 2097152
+ },
+ "platform": "md",
+ "script": "简",
+ "source": "no-intro",
+ "status": "verified",
+ "titles": {
+  "zh-Hans": "格斗王"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

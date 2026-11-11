@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AEBC5DEB",
+   "name": "超级玛丽(简)[夜幕星辰](JUE)[ACT](0.31Mb).nes",
+   "size": 40976
+  }
+ ],
+ "group": "Super Mario Bros. (Europe)",
+ "hack_group": "JUE 夜幕星辰",
+ "id": "prb-nes-aebc5deb",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "4675571D",
+  "no_intro_name": "Super Mario Bros. (Europe)",
+  "region": "Europe"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级玛丽"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

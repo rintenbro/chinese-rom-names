@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "29852878",
+   "name": "超级幻想地带(简)(汉化v1.0)(1d4444)(8Mb).bin",
+   "size": 1048576
+  }
+ ],
+ "group": "Super Fantasy Zone (Japan) (En,Ja)",
+ "hack_group": "1d4444",
+ "id": "prb-md-29852878",
+ "platform": "md",
+ "probable_original": {
+  "crc32": "767780D7",
+  "no_intro_name": "Super Fantasy Zone (Japan) (En,Ja)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级幻想地带"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

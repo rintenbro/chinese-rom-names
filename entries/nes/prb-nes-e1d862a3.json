@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E1D862A3",
+   "name": "能源战士(简)[Advance](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Power Blazer (Japan)",
+ "hack_group": "Advance",
+ "id": "prb-nes-e1d862a3",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Power Blazer (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "能源战士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

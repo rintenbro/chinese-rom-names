@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F7028247",
+   "name": "少年印第安纳琼斯大冒险(v1.1)(简)[溪流满月+KasuraJ](US)[ACT](3Mb).nes",
+   "size": 393744
+  }
+ ],
+ "group": "Young Indiana Jones Chronicles, The (USA)",
+ "hack_group": "溪流满月+KasuraJ",
+ "id": "prb-nes-f7028247",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Young Indiana Jones Chronicles, The (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "少年印第安纳琼斯大冒险"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-4bb4718a6319/title.png"
+ },
+ "files": [
+  {
+   "crc32": "BB1781D2",
+   "name": "最终幻想4 光与暗 水晶纷争(简)[南晶科技](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "最终幻想4 光与暗 水晶纷争",
+ "hack_group": "南晶科技",
+ "id": "cn-68189ccd63b8",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "最终幻想4 光与暗 水晶纷争"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

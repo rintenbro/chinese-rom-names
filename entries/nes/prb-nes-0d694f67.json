@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0D694F67",
+   "name": "绝影战士(2024)(简)[逆游の五彩魚](JP)(3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Yami no Shigotonin Kage (Japan)",
+ "hack_group": "逆游の五彩魚",
+ "id": "prb-nes-0d694f67",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "232E97AB",
+  "no_intro_name": "Yami no Shigotonin Kage (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "绝影战士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-36b38ebaceae/title.png"
+ },
+ "files": [
+  {
+   "crc32": "0FA8E15D",
+   "name": "坦克游戏大战(简)[流心小雨](JP)[STG](0.18Mb).nes",
+   "size": 24592
+  }
+ ],
+ "group": "坦克游戏大战",
+ "hack_group": "流心小雨",
+ "id": "cn-4cfc446e5363",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "坦克游戏大战"
+ },
+ "type": "hack",
+ "vendor": "",
+ "version": ""
+}

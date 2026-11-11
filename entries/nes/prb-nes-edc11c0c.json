@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "EDC11C0C",
+   "name": "第四次机器人大战(繁)[外星科技](JP)[SLG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "Dai-4-ji Jiqiren Daizhan - Robot War IV (China) (Pirate)",
+ "hack_group": "外星科技",
+ "id": "prb-nes-edc11c0c",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "9F45F6D7",
+  "no_intro_name": "Dai-4-ji Jiqiren Daizhan - Robot War IV (China) (Pirate)",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "第四次机器人大战"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

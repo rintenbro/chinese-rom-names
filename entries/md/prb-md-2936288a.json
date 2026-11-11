@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2936288A",
+   "name": "旋风女战士(简)(SGGG)(v0.6修复红屏)(16Mb).bin",
+   "size": 2097152
+  }
+ ],
+ "group": "El.Viento (Japan)",
+ "hack_group": "SGGG",
+ "id": "prb-md-2936288a",
+ "platform": "md",
+ "probable_original": {
+  "crc32": "6091C36E",
+  "no_intro_name": "El.Viento (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "旋风女战士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

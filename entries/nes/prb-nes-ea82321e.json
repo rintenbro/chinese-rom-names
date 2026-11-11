@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "EA82321E",
+   "name": "快杰洋枪丸3 对决！相凌轩(简)[高伟](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Kaiketsu Yanchamaru 3 - Taiketsu! Zouringen (Japan)",
+ "hack_group": "高伟",
+ "id": "prb-nes-ea82321e",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Kaiketsu Yanchamaru 3 - Taiketsu! Zouringen (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "快杰洋枪丸3 对决！相凌轩"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

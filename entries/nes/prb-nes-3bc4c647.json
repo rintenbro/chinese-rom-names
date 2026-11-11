@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3BC4C647",
+   "name": "勇者斗恶龙3 天空篇(简)[晶科泰](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "Yongzhe Dou Elong - Tiankong Pian (China) (Pirate)",
+ "hack_group": "晶科泰",
+ "id": "prb-nes-3bc4c647",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Yongzhe Dou Elong - Tiankong Pian (China) (Pirate)",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "勇者斗恶龙3 天空篇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

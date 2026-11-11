@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B9340205",
+   "name": "梦之勇士(v1.0)(简)[冰组](JP)[ACT](2.5Mb).nes",
+   "size": 327696
+  }
+ ],
+ "group": "Pajama Hero - Nemo (Japan)",
+ "hack_group": "冰组",
+ "id": "prb-nes-b9340205",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Pajama Hero - Nemo (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "梦之勇士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

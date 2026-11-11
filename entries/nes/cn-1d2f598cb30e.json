@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-f1a56ff874de/title.png"
+ },
+ "files": [
+  {
+   "crc32": "F5AA42A5",
+   "name": "口袋怪兽 翡翠版(简)[晶科泰](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "口袋怪兽 翡翠版",
+ "hack_group": "晶科泰",
+ "id": "cn-1d2f598cb30e",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "口袋怪兽 翡翠版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

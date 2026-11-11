@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0692B02E",
+   "name": "梦幻模拟战2(修正版)(简)(狼组&grape0915)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Langrisser II (Japan) (Rev A)",
+ "hack_group": "狼组&grape0915",
+ "id": "prb-md-0692b02e",
+ "platform": "md",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Langrisser II (Japan) (Rev A)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "梦幻模拟战2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

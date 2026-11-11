@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FE1083C2",
+   "name": "大力工头阿源君2 赤毛弹的逆袭(v1.0)(MMC5)(简)[DMG+Advance](JP)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Daiku no Gen-san 2 - Akage no Dan no Gyakushuu (Japan)",
+ "hack_group": "MMC5 DMG+Advance",
+ "id": "prb-nes-fe1083c2",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Daiku no Gen-san 2 - Akage no Dan no Gyakushuu (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "大力工头阿源君2 赤毛弹的逆袭"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

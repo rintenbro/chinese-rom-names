@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "70506F6F",
+   "name": "异形3(v1.1)(简)[DMG](US)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Alien 3 (USA)",
+ "hack_group": "DMG汉化组",
+ "id": "prb-nes-70506f6f",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "6D5AF3E9",
+  "no_intro_name": "Alien 3 (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "异形3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

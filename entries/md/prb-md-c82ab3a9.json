@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C82AB3A9",
+   "name": "悟空外传 (繁) (修正版) (Ken修正)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Wukong Waizhuan (Taiwan)",
+ "hack_group": "",
+ "id": "prb-md-c82ab3a9",
+ "platform": "md",
+ "probable_original": {
+  "crc32": "880A916E",
+  "no_intro_name": "Wukong Waizhuan (Taiwan)",
+  "region": "Taiwan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "悟空外传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

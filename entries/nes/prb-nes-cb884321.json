@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CB884321",
+   "name": "异域诛魂(简)[孔雀天](US)[ACT](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Arkista's Ring (USA)",
+ "hack_group": "孔雀天",
+ "id": "prb-nes-cb884321",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Arkista's Ring (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "异域诛魂"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

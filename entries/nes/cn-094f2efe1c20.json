@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-ee76652bf715/title.png"
+ },
+ "files": [
+  {
+   "crc32": "886E4E5F",
+   "name": "星际争霸(繁)[恒格电子](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "星际争霸",
+ "hack_group": "恒格电子",
+ "id": "cn-094f2efe1c20",
+ "platform": "nes",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "星际争霸"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

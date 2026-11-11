@@ -1,0 +1,33 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2C6CBD77",
+   "name": "阿Q连环泡 (繁) (全崴资讯)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Ah Q Lianhuan Pao (Taiwan)",
+ "hack_group": "",
+ "id": "ver-md-2c6cbd77",
+ "original": {
+  "crc32": "2C6CBD77",
+  "no_intro_name": "Ah Q Lianhuan Pao (Taiwan)",
+  "region": "Taiwan",
+  "size": 1048576
+ },
+ "platform": "md",
+ "script": "繁",
+ "source": "no-intro",
+ "status": "verified",
+ "titles": {
+  "zh-Hans": "阿Q连环泡"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

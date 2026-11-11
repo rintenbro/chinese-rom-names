@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-8a962f2fafee/title.png"
+ },
+ "files": [
+  {
+   "crc32": "465E513E",
+   "name": "魔神英雄传外传(v2.0)(简)[意志之路](JP)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "魔神英雄传外传",
+ "hack_group": "意志之路",
+ "id": "cn-76ac7f4406e1",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "魔神英雄传外传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v2.0"
+}

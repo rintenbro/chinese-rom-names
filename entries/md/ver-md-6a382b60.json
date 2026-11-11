@@ -1,0 +1,33 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6A382B60",
+   "name": "封神英杰传 (繁) (川普科技)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Feng Shen Yingjie Chuan (Taiwan)",
+ "hack_group": "",
+ "id": "ver-md-6a382b60",
+ "original": {
+  "crc32": "6A382B60",
+  "no_intro_name": "Feng Shen Yingjie Chuan (Taiwan)",
+  "region": "Taiwan",
+  "size": 2097152
+ },
+ "platform": "md",
+ "script": "繁",
+ "source": "no-intro",
+ "status": "verified",
+ "titles": {
+  "zh-Hans": "封神英杰传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

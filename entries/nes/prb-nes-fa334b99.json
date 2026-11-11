@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FA334B99",
+   "name": "双截龙2 复仇(v1.0)(实机修正)(简)[Madcell+拒绝融化](JP)[ACT](2.5Mb).nes",
+   "size": 327696
+  }
+ ],
+ "group": "Double Dragon II - The Revenge (Japan)",
+ "hack_group": "Madcell+拒绝融化",
+ "id": "prb-nes-fa334b99",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "1DDC74E3",
+  "no_intro_name": "Double Dragon II - The Revenge (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "双截龙2 复仇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

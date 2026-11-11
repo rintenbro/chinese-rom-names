@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6EAC4662",
+   "name": "超级马里奥(v20240107)(修正版)(简)[高伟+卡通](JUE)[ACT](0.31Mb).nes",
+   "size": 40976
+  }
+ ],
+ "group": "Super Mario Bros. (World)",
+ "hack_group": "JUE 高伟+卡通",
+ "id": "prb-nes-6eac4662",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Super Mario Bros. (World)",
+  "region": "World"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级马里奥"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20240107"
+}

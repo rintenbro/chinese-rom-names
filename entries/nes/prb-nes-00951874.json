@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "00951874",
+   "name": "盗帅(繁)[洁晖](CN)[ACT](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Dao Shuai - Master Chu (Taiwan) (En)",
+ "hack_group": "洁晖",
+ "id": "prb-nes-00951874",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Dao Shuai - Master Chu (Taiwan) (En)",
+  "region": "Taiwan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "盗帅"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

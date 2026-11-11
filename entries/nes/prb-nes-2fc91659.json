@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2FC91659",
+   "name": "大金刚3(简)[高伟](JUE)[ACT](0.18Mb).nes",
+   "size": 24592
+  }
+ ],
+ "group": "Donkey Kong 3 (World)",
+ "hack_group": "JUE 高伟",
+ "id": "prb-nes-2fc91659",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "30F18E06",
+  "no_intro_name": "Donkey Kong 3 (World)",
+  "region": "World"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "大金刚3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

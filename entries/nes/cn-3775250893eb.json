@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-4b788b10aafa/title.png"
+ },
+ "files": [
+  {
+   "crc32": "869EE221",
+   "name": "中国兔宝宝(繁)[JY Company](CN)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "中国兔宝宝",
+ "hack_group": "JY Company",
+ "id": "cn-3775250893eb",
+ "platform": "nes",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "中国兔宝宝"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

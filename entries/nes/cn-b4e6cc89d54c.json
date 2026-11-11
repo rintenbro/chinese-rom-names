@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-3cbadae1efc0/title.png"
+ },
+ "files": [
+  {
+   "crc32": "D0374D01",
+   "name": "英雄萨姆2(简)[恒格电子](JP)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "英雄萨姆2",
+ "hack_group": "恒格电子",
+ "id": "cn-b4e6cc89d54c",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "英雄萨姆2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

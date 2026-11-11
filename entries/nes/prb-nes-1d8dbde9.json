@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1D8DBDE9",
+   "name": "新西兰故事(v2.0)(作弊菜单)(简)[rym1020](US)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "NewZealand Story, The (Europe)",
+ "hack_group": "rym1020",
+ "id": "prb-nes-1d8dbde9",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "193C2176",
+  "no_intro_name": "NewZealand Story, The (Europe)",
+  "region": "Europe"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "新西兰故事"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v2.0"
+}

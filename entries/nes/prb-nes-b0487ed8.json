@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B0487ED8",
+   "name": "超级魂斗罗(简)[Enta](US)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Super C (USA)",
+ "hack_group": "Enta",
+ "id": "prb-nes-b0487ed8",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "8BE2AC58",
+  "no_intro_name": "Super C (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级魂斗罗"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

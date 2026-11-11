@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-cb45338e5fd9/title.png"
+ },
+ "files": [
+  {
+   "crc32": "03B165E6",
+   "name": "格斗之王R1 最强格斗王(简)[南晶科技](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "格斗之王R1 最强格斗王",
+ "hack_group": "南晶科技",
+ "id": "cn-4b236c9e61cb",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "格斗之王R1 最强格斗王"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

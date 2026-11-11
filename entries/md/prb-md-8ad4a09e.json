@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8AD4A09E",
+   "name": "怒之铁拳3 (简) (天使汉化组)(24Mb).md",
+   "size": 3145728
+  }
+ ],
+ "group": "Bare Knuckle III (Japan)",
+ "hack_group": "天使汉化组",
+ "id": "prb-md-8ad4a09e",
+ "platform": "md",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Bare Knuckle III (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "怒之铁拳3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

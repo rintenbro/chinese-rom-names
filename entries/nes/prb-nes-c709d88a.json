@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C709D88A",
+   "name": "顽皮狗(简)[高伟](US)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Wacky Races (USA)",
+ "hack_group": "高伟",
+ "id": "prb-nes-c709d88a",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "FBACC3CD",
+  "no_intro_name": "Wacky Races (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "顽皮狗"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

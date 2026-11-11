@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2C7E850D",
+   "name": "卡诺夫(v1.1)(简)[Advance](JP)(2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Karnov (Japan)",
+ "hack_group": "Advance",
+ "id": "prb-nes-2c7e850d",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "6A1F1561",
+  "no_intro_name": "Karnov (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "卡诺夫"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

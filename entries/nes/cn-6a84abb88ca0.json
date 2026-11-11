@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-3404d53d450f/title.png"
+ },
+ "files": [
+  {
+   "crc32": "AA58F511",
+   "name": "怪物制造者1(简)[外星科技](JP)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "怪物制造者1",
+ "hack_group": "外星科技",
+ "id": "cn-6a84abb88ca0",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "怪物制造者1"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B066C666",
+   "name": "吞食天地 三国外传(修正版)(繁)[先锋卡通+BonnyXie](JP)[RPG](5Mb).nes",
+   "size": 655376
+  }
+ ],
+ "group": "Tenchi o Kurau (Japan)",
+ "hack_group": "先锋卡通+BonnyXie",
+ "id": "prb-nes-b066c666",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "555F9B9D",
+  "no_intro_name": "Tenchi o Kurau (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "吞食天地 三国外传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

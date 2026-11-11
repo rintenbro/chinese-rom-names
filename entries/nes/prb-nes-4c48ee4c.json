@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4C48EE4C",
+   "name": "高桥名人的冒险岛(简)[Justin](US)[ACT](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Takahashi Meijin no Bouken-jima (Japan)",
+ "hack_group": "Justin",
+ "id": "prb-nes-4c48ee4c",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "0BB95602",
+  "no_intro_name": "Takahashi Meijin no Bouken-jima (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "高桥名人的冒险岛"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

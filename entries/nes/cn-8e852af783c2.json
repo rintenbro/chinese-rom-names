@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-e24734aa945e/title.png"
+ },
+ "files": [
+  {
+   "crc32": "8EAD77D9",
+   "name": "SD高达外传 骑士高达故事3 传说之骑士团(简)[外星科技](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "SD高达外传 骑士高达故事3 传说之骑士团",
+ "hack_group": "外星科技",
+ "id": "cn-8e852af783c2",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "SD高达外传 骑士高达故事3 传说之骑士团"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

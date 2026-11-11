@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-46a0f836e2d8/title.png"
+ },
+ "files": [
+  {
+   "crc32": "30FB1C03",
+   "name": "龙珠Z2 激战弗利萨!!之孙悟饭(简)[外星科技](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "龙珠Z2 激战弗利萨!!之孙悟饭",
+ "hack_group": "外星科技",
+ "id": "cn-9193c6cb9b56",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "龙珠Z2 激战弗利萨!!之孙悟饭"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

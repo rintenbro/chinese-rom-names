@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1BB86A33",
+   "name": "信长野望 - 霸王传 (简) (147201688繁转简)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Nobunaga no Yabou - Haouden (Japan)",
+ "hack_group": "",
+ "id": "prb-md-1bb86a33",
+ "platform": "md",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Nobunaga no Yabou - Haouden (Japan)",
+  "region": "Japan"
+ },
+ "script": "简繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "信长野望 - 霸王传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

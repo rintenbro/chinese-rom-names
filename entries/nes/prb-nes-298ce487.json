@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "298CE487",
+   "name": "火凤凰(简)[虫虫](JP)[STG](0.31Mb).nes",
+   "size": 40976
+  }
+ ],
+ "group": "Exerion (Japan) (En)",
+ "hack_group": "虫虫",
+ "id": "prb-nes-298ce487",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "79757534",
+  "no_intro_name": "Exerion (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "火凤凰"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6BB3B40E",
+   "name": "拉格朗日点(v1.1)(简)[未名+汉化你妹](JP)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "Lagrange Point (Japan)",
+ "hack_group": "未名+汉化你妹",
+ "id": "prb-nes-6bb3b40e",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Lagrange Point (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "拉格朗日点"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

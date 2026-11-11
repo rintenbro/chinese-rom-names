@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9626CE2B",
+   "name": "反重力战士(简)[虫虫](US)[STG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Low G Man - The Low Gravity Man (USA)",
+ "hack_group": "虫虫",
+ "id": "prb-nes-9626ce2b",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "2820F609",
+  "no_intro_name": "Low G Man - The Low Gravity Man (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "反重力战士"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

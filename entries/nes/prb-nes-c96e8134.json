@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C96E8134",
+   "name": "超魔兽大战(简)[封印记忆](JP)[SLG](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Little Magic (Japan)",
+ "hack_group": "封印记忆",
+ "id": "prb-nes-c96e8134",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "B2E3CBBA",
+  "no_intro_name": "Little Magic (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超魔兽大战"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

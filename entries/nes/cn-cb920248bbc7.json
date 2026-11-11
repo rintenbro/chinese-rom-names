@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-c1ac7743b15c/title.png"
+ },
+ "files": [
+  {
+   "crc32": "03CBC0D8",
+   "name": "基督山恩仇记(繁)[外星科技](CN)[SLG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "基督山恩仇记",
+ "hack_group": "外星科技",
+ "id": "cn-cb920248bbc7",
+ "platform": "nes",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "基督山恩仇记"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

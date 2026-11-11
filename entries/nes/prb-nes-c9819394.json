@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C9819394",
+   "name": "林则徐禁烟(修正版)(繁)[外星科技+nfzxyd](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Linzexu Jinyan (China)",
+ "hack_group": "外星科技+nfzxyd",
+ "id": "prb-nes-c9819394",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "5B5C86EF",
+  "no_intro_name": "Linzexu Jinyan (China)",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "林则徐禁烟"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

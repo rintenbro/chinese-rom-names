@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "37C9779E",
+   "name": "超级大富翁 (简) (147201688繁转简)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Chaoji Dafuweng (Taiwan)",
+ "hack_group": "",
+ "id": "prb-md-37c9779e",
+ "platform": "md",
+ "probable_original": {
+  "crc32": "C10268DA",
+  "no_intro_name": "Chaoji Dafuweng (Taiwan)",
+  "region": "Taiwan"
+ },
+ "script": "简繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级大富翁"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "19DE63B1",
+   "name": "太空青蛙(简)[虫虫](JP)[STG](0.18Mb).nes",
+   "size": 24592
+  }
+ ],
+ "group": "Warpman (Japan) (En)",
+ "hack_group": "虫虫",
+ "id": "prb-nes-19de63b1",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Warpman (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "太空青蛙"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

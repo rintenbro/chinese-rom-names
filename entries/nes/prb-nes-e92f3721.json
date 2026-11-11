@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E92F3721",
+   "name": "街头 热血物语(简)[空气](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Downtown - Nekketsu Monogatari (Japan)",
+ "hack_group": "空气",
+ "id": "prb-nes-e92f3721",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "2E6EB9F6",
+  "no_intro_name": "Downtown - Nekketsu Monogatari (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "街头 热血物语"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

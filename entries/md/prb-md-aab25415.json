@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AAB25415",
+   "name": "七龙珠 - 超武斗会完结篇 (繁) (生存实业)(24Mb).md",
+   "size": 3145728
+  }
+ ],
+ "group": "Dragon Ball - Final Bout (Taiwan) (En)",
+ "hack_group": "",
+ "id": "prb-md-aab25415",
+ "platform": "md",
+ "probable_original": {
+  "crc32": "63847005",
+  "no_intro_name": "Dragon Ball - Final Bout (Taiwan) (En)",
+  "region": "Taiwan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "七龙珠 - 超武斗会完结篇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

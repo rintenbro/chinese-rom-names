@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DF8A7F2E",
+   "name": "半熟英雄(标题修正)(简)[外星科技+Vanyogin](JP)[SLG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Hanjuku Hero (Japan)",
+ "hack_group": "外星科技+Vanyogin",
+ "id": "prb-nes-df8a7f2e",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "C3F4A245",
+  "no_intro_name": "Hanjuku Hero (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "半熟英雄"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-3f9ec12e2ce9/title.png"
+ },
+ "files": [
+  {
+   "crc32": "45983679",
+   "name": "口袋宝石 蓝(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "group": "口袋宝石 蓝",
+ "hack_group": "南晶科技",
+ "id": "cn-5ef6f3466d16",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "口袋宝石 蓝"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

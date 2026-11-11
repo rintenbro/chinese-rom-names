@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-f621778427dd/title.png"
+ },
+ "files": [
+  {
+   "crc32": "AF32B6B1",
+   "name": "隋唐演义(简)[外星科技](CN)[SLG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "隋唐演义",
+ "hack_group": "外星科技",
+ "id": "cn-9c9d2bead810",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "隋唐演义"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

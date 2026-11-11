@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9E4081ED",
+   "name": "洛克人2 Dr.Wily之谜(简)[MS](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Rockman 2 - Dr. Wily no Nazo (Japan)",
+ "hack_group": "",
+ "id": "prb-nes-9e4081ed",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "EE7F1751",
+  "no_intro_name": "Rockman 2 - Dr. Wily no Nazo (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "洛克人2 Dr.Wily之谜"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

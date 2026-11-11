@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-28c648885a84/title.png"
+ },
+ "files": [
+  {
+   "crc32": "C2C1AA29",
+   "name": "学生电脑(简)[高昇达](CN)[ETC](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "学生电脑",
+ "hack_group": "高昇达",
+ "id": "cn-aa2d3b3dcc77",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "学生电脑"
+ },
+ "type": "hack",
+ "vendor": "",
+ "version": ""
+}

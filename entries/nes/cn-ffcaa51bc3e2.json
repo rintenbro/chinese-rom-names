@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C63A373F",
+   "name": "泰坦尼克号(简)[南晶科技](CN)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "泰坦尼克号",
+ "hack_group": "南晶科技",
+ "id": "cn-ffcaa51bc3e2",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "泰坦尼克号"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

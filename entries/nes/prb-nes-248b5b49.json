@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "248B5B49",
+   "name": "高桥名人的冒险岛2(v2)(修正版)(简)[高艳龙+MS](US)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Takahashi Meijin no Bouken-jima II (Japan)",
+ "hack_group": "高艳龙+MS",
+ "id": "prb-nes-248b5b49",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "CBA2F8E5",
+  "no_intro_name": "Takahashi Meijin no Bouken-jima II (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "高桥名人的冒险岛2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v2"
+}

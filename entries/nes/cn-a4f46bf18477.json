@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-e8247696304f/title.png"
+ },
+ "files": [
+  {
+   "crc32": "692D0BA5",
+   "name": "天龙八部(简)[南晶科技](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "天龙八部",
+ "hack_group": "南晶科技",
+ "id": "cn-a4f46bf18477",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "天龙八部"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

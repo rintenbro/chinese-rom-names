@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "01E96ADA",
+   "name": "雪人兄弟(v1.0)(简)[高伟](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Snow Bros. (Japan)",
+ "hack_group": "高伟",
+ "id": "prb-nes-01e96ada",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "566D58C2",
+  "no_intro_name": "Snow Bros. (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "雪人兄弟"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

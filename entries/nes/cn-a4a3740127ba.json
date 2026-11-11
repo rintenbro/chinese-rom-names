@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-c7a023e0376c/title.png"
+ },
+ "files": [
+  {
+   "crc32": "9490C38E",
+   "name": "迷宫封印(繁)[圣谦](CN)[PUZ](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "迷宫封印",
+ "hack_group": "圣谦",
+ "id": "cn-a4a3740127ba",
+ "platform": "nes",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "迷宫封印"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E4A95C30",
+   "name": "最终幻想3(v20221112)(修正版)(简)[外星科技+晚风轻起](JP)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "Final Fantasy III (Japan)",
+ "hack_group": "外星科技+晚风轻起",
+ "id": "prb-nes-e4a95c30",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "4EA1E076",
+  "no_intro_name": "Final Fantasy III (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "最终幻想3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20221112"
+}

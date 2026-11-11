@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BA3739D0",
+   "name": "西天取经2(简)[外星科技](CN)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Xitian Qujing - Journey to the West (Asia)",
+ "hack_group": "外星科技",
+ "id": "prb-nes-ba3739d0",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "57C2348A",
+  "no_intro_name": "Xitian Qujing - Journey to the West (Asia)",
+  "region": "Asia"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "西天取经2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

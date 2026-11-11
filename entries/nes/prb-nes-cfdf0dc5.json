@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CFDF0DC5",
+   "name": "美国队长和复仇者联盟(v20220506)(简)[LSP](US)[ACT](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Captain America and the Avengers (USA)",
+ "hack_group": "LSP汉化组",
+ "id": "prb-nes-cfdf0dc5",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Captain America and the Avengers (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "美国队长和复仇者联盟"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20220506"
+}

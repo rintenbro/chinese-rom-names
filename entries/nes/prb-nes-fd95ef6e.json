@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FD95EF6E",
+   "name": "龙之城堡(大字体)(日版)(简)[高伟](JP)[ACT](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Dragon Unit (Japan) (En)",
+ "hack_group": "高伟",
+ "id": "prb-nes-fd95ef6e",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Dragon Unit (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "龙之城堡"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

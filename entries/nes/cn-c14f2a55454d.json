@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-c57d8710d27f/title.png"
+ },
+ "files": [
+  {
+   "crc32": "AFE224F8",
+   "name": "火影忍者RPG(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "group": "火影忍者RPG",
+ "hack_group": "南晶科技",
+ "id": "cn-c14f2a55454d",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "火影忍者RPG"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

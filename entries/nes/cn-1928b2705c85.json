@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-0c3c877a3189/title.png"
+ },
+ "files": [
+  {
+   "crc32": "B8F77357",
+   "name": "石器时代(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "group": "石器时代",
+ "hack_group": "南晶科技",
+ "id": "cn-1928b2705c85",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "石器时代"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

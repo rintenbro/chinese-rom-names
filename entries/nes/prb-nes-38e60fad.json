@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "38E60FAD",
+   "name": "本将棋 内藤九段 将棋秘传(大字体)(简)[高伟](JP)[TAB](0.18Mb).nes",
+   "size": 24592
+  }
+ ],
+ "group": "Honshougi - Naitou 9 Dan Shougi Hiden (Japan)",
+ "hack_group": "高伟",
+ "id": "prb-nes-38e60fad",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Honshougi - Naitou 9 Dan Shougi Hiden (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "本将棋 内藤九段 将棋秘传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6BE23DA5",
+   "name": "1944(v1.0)(简)[MM之神](JP)[STG](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "1944 (Asia) (Ja) (Pirate)",
+ "hack_group": "MM之神",
+ "id": "prb-nes-6be23da5",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "D1E3428B",
+  "no_intro_name": "1944 (Asia) (Ja) (Pirate)",
+  "region": "Asia"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "1944"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

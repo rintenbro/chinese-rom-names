@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E7E52F44",
+   "name": "快打传说(繁)[Gouder](CN)[FTG](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Kuai Da Chuanshuo - Street Fighter IV (Taiwan) (En)",
+ "hack_group": "Gouder",
+ "id": "prb-nes-e7e52f44",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "FABAAE8D",
+  "no_intro_name": "Kuai Da Chuanshuo - Street Fighter IV (Taiwan) (En)",
+  "region": "Taiwan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "快打传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

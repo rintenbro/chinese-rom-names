@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-9f9d6db08003/title.png"
+ },
+ "files": [
+  {
+   "crc32": "032A553F",
+   "name": "龙域天下(简)[外星科技](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "龙域天下",
+ "hack_group": "外星科技",
+ "id": "cn-5d926930ccae",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "龙域天下"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

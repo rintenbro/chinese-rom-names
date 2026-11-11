@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "79768B3B",
+   "name": "B计划(简)[高伟](JP)[STG](0.31Mb).nes",
+   "size": 40976
+  }
+ ],
+ "group": "B-Wings (Japan) (En)",
+ "hack_group": "高伟",
+ "id": "prb-nes-79768b3b",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "D0F54D24",
+  "no_intro_name": "B-Wings (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "B计划"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

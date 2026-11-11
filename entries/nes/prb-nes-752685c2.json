@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "752685C2",
+   "name": "宇宙巡航机2 仿街机 高弗的野望(大字体)(简)[高伟](JP)[STG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Gradius II (Japan) (En)",
+ "hack_group": "高伟",
+ "id": "prb-nes-752685c2",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Gradius II (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "宇宙巡航机2 仿街机 高弗的野望"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

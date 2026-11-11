@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8DA06FB6",
+   "name": "忍者武雷传说(简)(永盛&silentkiller)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Ninja Burai Densetsu (Japan)",
+ "hack_group": "永盛&silentkiller",
+ "id": "prb-md-8da06fb6",
+ "platform": "md",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Ninja Burai Densetsu (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "忍者武雷传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

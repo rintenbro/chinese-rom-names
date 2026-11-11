@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "89253739",
+   "name": "灌篮高手 - 正面的对决 (简) (熊组)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "From TV Animation Slam Dunk - Kyougou Makkou Taiketsu! (Japan)",
+ "hack_group": "",
+ "id": "prb-md-89253739",
+ "platform": "md",
+ "probable_original": {
+  "crc32": "CDF5678F",
+  "no_intro_name": "From TV Animation Slam Dunk - Kyougou Makkou Taiketsu! (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "灌篮高手 - 正面的对决"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

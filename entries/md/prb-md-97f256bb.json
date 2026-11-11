@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "97F256BB",
+   "name": "水浒传 (简) (147201688繁转简)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Shuihu Zhuan (Taiwan)",
+ "hack_group": "",
+ "id": "prb-md-97f256bb",
+ "platform": "md",
+ "probable_original": {
+  "crc32": "61E458C3",
+  "no_intro_name": "Shuihu Zhuan (Taiwan)",
+  "region": "Taiwan"
+ },
+ "script": "简繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "水浒传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

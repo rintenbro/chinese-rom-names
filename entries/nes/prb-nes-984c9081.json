@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "984C9081",
+   "name": "双截龙3 神秘魔石之谜(v0.3)(简+英)[苦练汉化](US)(4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Double Dragon III - The Sacred Stones (USA)",
+ "hack_group": "简+英 苦练汉化",
+ "id": "prb-nes-984c9081",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "EB44EEFC",
+  "no_intro_name": "Double Dragon III - The Sacred Stones (USA)",
+  "region": "USA"
+ },
+ "script": "未标注",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "双截龙3 神秘魔石之谜"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v0.3"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "159BC653",
+   "name": "快乐鼠(v1.1)(简)[雷精灵+姜维第二](JP)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Mappy Kids (Japan)",
+ "hack_group": "雷精灵+姜维第二",
+ "id": "prb-nes-159bc653",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Mappy Kids (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "快乐鼠"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-c39c77d84d29/title.png"
+ },
+ "files": [
+  {
+   "crc32": "DF2D4413",
+   "name": "启智屋B(简)[小霸王](CN)[PUZ](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "启智屋B",
+ "hack_group": "小霸王",
+ "id": "cn-01f18fcce213",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "启智屋B"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

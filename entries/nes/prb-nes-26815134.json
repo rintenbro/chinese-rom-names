@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "26815134",
+   "name": "唐老鸭历险记2(v1.2)(简)[DMG](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "DuckTales 2 (Japan)",
+ "hack_group": "DMG汉化组",
+ "id": "prb-nes-26815134",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "4912C880",
+  "no_intro_name": "DuckTales 2 (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "唐老鸭历险记2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.2"
+}

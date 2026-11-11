@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "919A628B",
+   "name": "超级马力欧兄弟(v20120903)(简)[NOKOH+fciq](JUE)[ACT](0.75Mb).nes",
+   "size": 98320
+  }
+ ],
+ "group": "Super Mario Bros. (World)",
+ "hack_group": "JUE NOKOH+fciq",
+ "id": "prb-nes-919a628b",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Super Mario Bros. (World)",
+  "region": "World"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级马力欧兄弟"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20120903"
+}

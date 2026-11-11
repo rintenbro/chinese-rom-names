@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B01E9F43",
+   "name": "热血格斗传说(v20220403)(实机修正)(简)[热血的鱼缸+asiwish+拒绝融化](JP)[FTG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Nekketsu Kakutou Densetsu (Japan)",
+ "hack_group": "热血的鱼缸+asiwish+拒绝融化",
+ "id": "prb-nes-b01e9f43",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "ECCE4BB5",
+  "no_intro_name": "Nekketsu Kakutou Densetsu (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "热血格斗传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20220403"
+}

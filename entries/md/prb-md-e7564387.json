@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E7564387",
+   "name": "时空异变 (简) (修正版) (小鬼混修正)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Shikong Yibian (China) (Pirate)",
+ "hack_group": "",
+ "id": "prb-md-e7564387",
+ "platform": "md",
+ "probable_original": {
+  "crc32": "A40972A1",
+  "no_intro_name": "Shikong Yibian (China) (Pirate)",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "时空异变"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "249D3002",
+   "name": "龙珠Z外传 赛亚人繁化计划(繁)[小铭帅哥](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (Japan)",
+ "hack_group": "小铭帅哥",
+ "id": "prb-nes-249d3002",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "龙珠Z外传 赛亚人繁化计划"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2AF3FA27",
+   "name": "超级大富翁(繁)[外星科技](CN)[TAB](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "Chaoji Da Fuweng (China)",
+ "hack_group": "外星科技",
+ "id": "prb-nes-2af3fa27",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "38F017E9",
+  "no_intro_name": "Chaoji Da Fuweng (China)",
+  "region": "China"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级大富翁"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

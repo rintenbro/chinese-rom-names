@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CB74A619",
+   "name": "七宝奇谋(简)[卡通](JP)[ACT](0.37Mb).nes",
+   "size": 49168
+  }
+ ],
+ "group": "Goonies (Japan) (En)",
+ "hack_group": "卡通",
+ "id": "prb-nes-cb74a619",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "7B12E8E6",
+  "no_intro_name": "Goonies (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "七宝奇谋"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "11AC03D3",
+   "name": "梦幻之星4 - 千年纪的终结 (繁) (小铭简转繁)(28Mb).md",
+   "size": 3670016
+  }
+ ],
+ "group": "Phantasy Star - Sennenki no Owari ni (Japan)",
+ "hack_group": "",
+ "id": "prb-md-11ac03d3",
+ "platform": "md",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Phantasy Star - Sennenki no Owari ni (Japan)",
+  "region": "Japan"
+ },
+ "script": "简繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "梦幻之星4 - 千年纪的终结"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

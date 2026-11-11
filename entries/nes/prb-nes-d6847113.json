@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D6847113",
+   "name": "战斗直升机(简)[高伟](JP)[STG](0.31Mb).nes",
+   "size": 40976
+  }
+ ],
+ "group": "Gyrodine (Japan) (En)",
+ "hack_group": "高伟",
+ "id": "prb-nes-d6847113",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "538BA7BF",
+  "no_intro_name": "Gyrodine (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "战斗直升机"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

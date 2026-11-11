@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7BE38111",
+   "name": "神鹰一号(v1)(简)[虫虫](JP)[STG](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Terra Cresta (Japan)",
+ "hack_group": "虫虫",
+ "id": "prb-nes-7be38111",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "39557FC8",
+  "no_intro_name": "Terra Cresta (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "神鹰一号"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1"
+}

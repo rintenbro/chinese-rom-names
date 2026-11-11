@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9BC67A50",
+   "name": "超惑星战记(简)[樱组+MS+HK](US)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Blaster Master (USA)",
+ "hack_group": "樱组+MS+HK",
+ "id": "prb-nes-9bc67a50",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "C3961CE2",
+  "no_intro_name": "Blaster Master (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超惑星战记"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,33 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "75B4A604",
+   "name": "大航海时代2 (繁) (永盛)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Da Hanghai Shidai II (Taiwan) (Traditional) (Pirate)",
+ "hack_group": "",
+ "id": "ver-md-75b4a604",
+ "original": {
+  "crc32": "75B4A604",
+  "no_intro_name": "Da Hanghai Shidai II (Taiwan) (Traditional) (Pirate)",
+  "region": "Taiwan",
+  "size": 2097152
+ },
+ "platform": "md",
+ "script": "繁",
+ "source": "no-intro",
+ "status": "verified",
+ "titles": {
+  "zh-Hans": "大航海时代2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

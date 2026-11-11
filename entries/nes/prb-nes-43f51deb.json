@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "43F51DEB",
+   "name": "1943 中途岛海战(v1.0)(简)[KasuraJ](JP)[STG](2Mb).nes",
+   "size": 262672
+  }
+ ],
+ "group": "1943 - The Battle of Midway (USA)",
+ "hack_group": "KasuraJ",
+ "id": "prb-nes-43f51deb",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "46F660C9",
+  "no_intro_name": "1943 - The Battle of Midway (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "中途岛海战"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

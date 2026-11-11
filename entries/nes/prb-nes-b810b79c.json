@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B810B79C",
+   "name": "恶魔城传说(v2.3)(简)[汉化你妹](JP)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Akumajou Dracula (Japan) (En)",
+ "hack_group": "汉化你妹",
+ "id": "prb-nes-b810b79c",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Akumajou Dracula (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "恶魔城传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v2.3"
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-358fc8b9de18/title.png"
+ },
+ "files": [
+  {
+   "crc32": "279F0D1B",
+   "name": "小百科中英文学习机(简)[凌捷](CN)[ETC](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "小百科中英文学习机",
+ "hack_group": "凌捷",
+ "id": "cn-9540f6ae60b8",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "小百科中英文学习机"
+ },
+ "type": "hack",
+ "vendor": "",
+ "version": ""
+}

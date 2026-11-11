@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3C63F85A",
+   "name": "加纳战机(美版)(v1.0)(简)[九班+KasuraJ](US)[STG](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Gun Nac (USA)",
+ "hack_group": "九班+KasuraJ",
+ "id": "prb-nes-3c63f85a",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Gun Nac (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "加纳战机"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

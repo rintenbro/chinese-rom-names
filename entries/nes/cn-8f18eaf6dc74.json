@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-b1a22db83f20/title.png"
+ },
+ "files": [
+  {
+   "crc32": "560F50E0",
+   "name": "银白色沙加(简)[外星科技](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "银白色沙加",
+ "hack_group": "外星科技",
+ "id": "cn-8f18eaf6dc74",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "银白色沙加"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

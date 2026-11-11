@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "552ECC42",
+   "name": "哆啦A梦(v20090616)(繁)[NOKOH](JP)[ACT](1.37Mb).nes",
+   "size": 180240
+  }
+ ],
+ "group": "Doraemon (Japan)",
+ "hack_group": "NOKOH",
+ "id": "prb-nes-552ecc42",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "0DB7BD33",
+  "no_intro_name": "Doraemon (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "哆啦A梦"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20090616"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6EE8CBDA",
+   "name": "光明力量1 - 诸神之遗产 (繁) (未知)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Shining Force (USA)",
+ "hack_group": "未知",
+ "id": "prb-md-6ee8cbda",
+ "platform": "md",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Shining Force (USA)",
+  "region": "USA"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "光明力量1 - 诸神之遗产"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

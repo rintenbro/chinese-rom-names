@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AA71A58F",
+   "name": "凯蒂猫气球世界(简)[虫虫](JP)[ACT](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Hello Kitty World (Japan)",
+ "hack_group": "虫虫",
+ "id": "prb-nes-aa71a58f",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Hello Kitty World (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "凯蒂猫气球世界"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

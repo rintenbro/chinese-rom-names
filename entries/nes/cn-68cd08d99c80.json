@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-86a42739cfac/title.png"
+ },
+ "files": [
+  {
+   "crc32": "0E7F2176",
+   "name": "视窗系统2000(简)[三佳](CN)[ETC](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "视窗系统2000",
+ "hack_group": "三佳",
+ "id": "cn-68cd08d99c80",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "视窗系统2000"
+ },
+ "type": "tool",
+ "vendor": "",
+ "version": ""
+}

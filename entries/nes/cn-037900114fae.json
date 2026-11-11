@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-8d390dd6f82a/title.png"
+ },
+ "files": [
+  {
+   "crc32": "28C262FB",
+   "name": "金卡(v5.0)(简)[科王](CN)[ETC](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "金卡",
+ "hack_group": "科王",
+ "id": "cn-037900114fae",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "金卡"
+ },
+ "type": "hack",
+ "vendor": "",
+ "version": "v5.0"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "84C2F352",
+   "name": "水浒传 (繁)(Ken最终修正)(16Mb).bin",
+   "size": 2097152
+  }
+ ],
+ "group": "Shuihu Zhuan (Taiwan)",
+ "hack_group": "川普科技&Ken",
+ "id": "prb-md-84c2f352",
+ "platform": "md",
+ "probable_original": {
+  "crc32": "61E458C3",
+  "no_intro_name": "Shuihu Zhuan (Taiwan)",
+  "region": "Taiwan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "水浒传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

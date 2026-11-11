@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-52307284cf94/title.png"
+ },
+ "files": [
+  {
+   "crc32": "F4EBE9B2",
+   "name": "雷电皇 比卡丘传说(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "group": "雷电皇 比卡丘传说",
+ "hack_group": "南晶科技",
+ "id": "cn-2c361b9de022",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "雷电皇 比卡丘传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-5ef91e6ed782/title.png"
+ },
+ "files": [
+  {
+   "crc32": "B4AAE3E6",
+   "name": "大话西游(简)[南晶科技](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "大话西游",
+ "hack_group": "南晶科技",
+ "id": "cn-80961599dbe5",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "大话西游"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

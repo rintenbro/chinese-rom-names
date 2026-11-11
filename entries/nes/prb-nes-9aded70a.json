@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "9ADED70A",
+   "name": "战斗原始人(美版)(大字体)(简)[高伟](US)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Joe & Mac (USA)",
+ "hack_group": "高伟",
+ "id": "prb-nes-9aded70a",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "9D6AEA16",
+  "no_intro_name": "Joe & Mac (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "战斗原始人"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

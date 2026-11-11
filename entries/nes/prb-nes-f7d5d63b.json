@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F7D5D63B",
+   "name": "忍者龙剑传2 暗黑邪神剑(简)[TPU](JP)[ACT](2.56Mb).nes",
+   "size": 335888
+  }
+ ],
+ "group": "Ninja Ryuuken Den II - Ankoku no Jashin Ken (Japan)",
+ "hack_group": "",
+ "id": "prb-nes-f7d5d63b",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Ninja Ryuuken Den II - Ankoku no Jashin Ken (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "忍者龙剑传2 暗黑邪神剑"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

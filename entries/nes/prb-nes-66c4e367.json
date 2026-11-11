@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "66C4E367",
+   "name": "突击(繁)[洁晖](CN)[ACT](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Tuji - Raid (Taiwan) (En)",
+ "hack_group": "洁晖",
+ "id": "prb-nes-66c4e367",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Tuji - Raid (Taiwan) (En)",
+  "region": "Taiwan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "突击"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

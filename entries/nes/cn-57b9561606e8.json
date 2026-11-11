@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-ed638eaa9e94/title.png"
+ },
+ "files": [
+  {
+   "crc32": "57B4DD27",
+   "name": "超级马里奥兄弟 路易基之谜团(简)[F0REVERD](JUE)[ACT](0.31Mb).nes",
+   "size": 40976
+  }
+ ],
+ "group": "超级马里奥兄弟 路易基之谜团",
+ "hack_group": "JUE F0REVERD",
+ "id": "cn-57b9561606e8",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "超级马里奥兄弟 路易基之谜团"
+ },
+ "type": "hack",
+ "vendor": "",
+ "version": ""
+}

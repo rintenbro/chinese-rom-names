@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-7d06cf2076eb/title.png"
+ },
+ "files": [
+  {
+   "crc32": "F4CC848F",
+   "name": "七龙珠(繁)[小铭电脑](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "七龙珠",
+ "hack_group": "小铭电脑",
+ "id": "cn-a04324d4ec97",
+ "platform": "nes",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "七龙珠"
+ },
+ "type": "tool",
+ "vendor": "",
+ "version": ""
+}

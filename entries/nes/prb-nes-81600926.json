@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "81600926",
+   "name": "轰天至尊(繁)[小天才](CN)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Thunder Warrior (Taiwan) (En)",
+ "hack_group": "小天才",
+ "id": "prb-nes-81600926",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "E7D12053",
+  "no_intro_name": "Thunder Warrior (Taiwan) (En)",
+  "region": "Taiwan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "轰天至尊"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

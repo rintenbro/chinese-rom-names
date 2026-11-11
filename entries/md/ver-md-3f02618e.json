@@ -1,0 +1,33 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3F02618E",
+   "name": "梦幻模拟战2 (简) (狼组)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Menghuan Moni Zhan 2 (China) (Pirate)",
+ "hack_group": "",
+ "id": "ver-md-3f02618e",
+ "original": {
+  "crc32": "3F02618E",
+  "no_intro_name": "Menghuan Moni Zhan 2 (China) (Pirate)",
+  "region": "China",
+  "size": 2097152
+ },
+ "platform": "md",
+ "script": "简",
+ "source": "no-intro",
+ "status": "verified",
+ "titles": {
+  "zh-Hans": "梦幻模拟战2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

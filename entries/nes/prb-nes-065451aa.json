@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "065451AA",
+   "name": "霹雳神兵(简)[高伟](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Heavy Barrel (Japan) (En)",
+ "hack_group": "高伟",
+ "id": "prb-nes-065451aa",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Heavy Barrel (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "霹雳神兵"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

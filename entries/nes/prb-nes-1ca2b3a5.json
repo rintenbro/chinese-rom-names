@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1CA2B3A5",
+   "name": "成龙之龙(简)[俞亮](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Jackie Chan's Action Kung Fu (USA)",
+ "hack_group": "俞亮",
+ "id": "prb-nes-1ca2b3a5",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "FE1DF5BE",
+  "no_intro_name": "Jackie Chan's Action Kung Fu (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "成龙之龙"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

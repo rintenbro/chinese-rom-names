@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "21A6D70C",
+   "name": "空间暗影(大字体)(简)[高伟](JP)[STG](1.5Mb).nes",
+   "size": 196624
+  }
+ ],
+ "group": "Space Shadow (Japan)",
+ "hack_group": "高伟",
+ "id": "prb-nes-21a6d70c",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Space Shadow (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "空间暗影"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

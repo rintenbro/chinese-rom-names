@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4CF8C581",
+   "name": "宠物宝宝(简)[南晶科技](CN)[ETC](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Chongwu Baobao (China)",
+ "hack_group": "南晶科技",
+ "id": "prb-nes-4cf8c581",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "DABBA820",
+  "no_intro_name": "Chongwu Baobao (China)",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "宠物宝宝"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

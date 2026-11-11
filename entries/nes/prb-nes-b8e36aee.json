@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B8E36AEE",
+   "name": "银河忍者 禅(简)[逆游の五彩魚](US)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Zen - Intergalactic Ninja (USA)",
+ "hack_group": "逆游の五彩魚",
+ "id": "prb-nes-b8e36aee",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "63EE69C7",
+  "no_intro_name": "Zen - Intergalactic Ninja (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "银河忍者 禅"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-a4d41f088c59/title.png"
+ },
+ "files": [
+  {
+   "crc32": "A7F6CCA9",
+   "name": "幽灵列车(简)[外星科技](JP)[AVG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "幽灵列车",
+ "hack_group": "外星科技",
+ "id": "cn-38d48f7e53d1",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "幽灵列车"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

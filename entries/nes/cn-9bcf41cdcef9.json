@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-c4d9748ef5be/title.png"
+ },
+ "files": [
+  {
+   "crc32": "E2E71932",
+   "name": "笑傲江湖 群侠记(简)[南晶科技](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "笑傲江湖 群侠记",
+ "hack_group": "南晶科技",
+ "id": "cn-9bcf41cdcef9",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "笑傲江湖 群侠记"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-91e4fa75afdf/title.png"
+ },
+ "files": [
+  {
+   "crc32": "CFEFDFA3",
+   "name": "笑傲江湖(简)[外星科技](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "笑傲江湖",
+ "hack_group": "外星科技",
+ "id": "cn-6de33af4fecc",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "笑傲江湖"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

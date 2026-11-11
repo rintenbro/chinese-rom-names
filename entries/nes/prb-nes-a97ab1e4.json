@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A97AB1E4",
+   "name": "超级铁板阵 加索布之谜(简)[MS](JP)[STG](1.25Mb).nes",
+   "size": 163856
+  }
+ ],
+ "group": "Super Xevious - Gump no Nazo (Japan)",
+ "hack_group": "",
+ "id": "prb-nes-a97ab1e4",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Super Xevious - Gump no Nazo (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级铁板阵 加索布之谜"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

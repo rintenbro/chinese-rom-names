@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "58AC9068",
+   "name": "时空小子(简)[孔雀天](JP)[ACT](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Booby Kids (Japan) (En)",
+ "hack_group": "孔雀天",
+ "id": "prb-nes-58ac9068",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "1548FC74",
+  "no_intro_name": "Booby Kids (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "时空小子"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

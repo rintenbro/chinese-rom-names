@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A9E79FBA",
+   "name": "最终幻想(修正版)(简)[外星科技+SSforME](JP)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Final Fantasy (Japan)",
+ "hack_group": "外星科技+SSforME",
+ "id": "prb-nes-a9e79fba",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "09F667EA",
+  "no_intro_name": "Final Fantasy (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "最终幻想"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

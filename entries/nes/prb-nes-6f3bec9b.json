@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6F3BEC9B",
+   "name": "上海2(简)[高伟](JP)[PUZ](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Shanghai II (Japan)",
+ "hack_group": "高伟",
+ "id": "prb-nes-6f3bec9b",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "6C8F7532",
+  "no_intro_name": "Shanghai II (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "上海2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

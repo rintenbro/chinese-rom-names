@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "BBFDDD6F",
+   "name": "洞窟物语(v0.8.0)(简)(Andrew DeRosier)(32Mb).md",
+   "size": 4194304
+  }
+ ],
+ "group": "Doukutsu Monogatari (World) (Ja) (v0.8.8)",
+ "hack_group": "Andrew DeRosier",
+ "id": "prb-md-bbfddd6f",
+ "platform": "md",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Doukutsu Monogatari (World) (Ja) (v0.8.8)",
+  "region": "World"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "洞窟物语"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v0.8.0"
+}

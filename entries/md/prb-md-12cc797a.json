@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "12CC797A",
+   "name": "大航海时代1 (简) (cslrxyz繁转简)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Daikoukai Jidai (Japan)",
+ "hack_group": "",
+ "id": "prb-md-12cc797a",
+ "platform": "md",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Daikoukai Jidai (Japan)",
+  "region": "Japan"
+ },
+ "script": "简繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "大航海时代1"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

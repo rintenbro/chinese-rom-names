@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-6c707cbe1ce3/title.png"
+ },
+ "files": [
+  {
+   "crc32": "E89BBF62",
+   "name": "真侍魂 武士道列传(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "group": "真侍魂 武士道列传",
+ "hack_group": "南晶科技",
+ "id": "cn-7393107887f0",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "真侍魂 武士道列传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

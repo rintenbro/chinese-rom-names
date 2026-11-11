@@ -1,0 +1,33 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6E5DD18A",
+   "name": "勇者斗恶龙5(v0100382)(繁)[外星科技](JP)[RPG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Yongzhe Dou Elong V - Dragon Quest (China) (0100382) (Pirate)",
+ "hack_group": "外星科技",
+ "id": "ver-nes-6e5dd18a",
+ "original": {
+  "crc32": null,
+  "no_intro_name": "Yongzhe Dou Elong V - Dragon Quest (China) (0100382) (Pirate)",
+  "region": "China",
+  "size": null
+ },
+ "platform": "nes",
+ "script": "繁",
+ "source": "no-intro",
+ "status": "verified",
+ "titles": {
+  "zh-Hans": "勇者斗恶龙5"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v0100382"
+}

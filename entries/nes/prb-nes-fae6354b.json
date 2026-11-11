@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FAE6354B",
+   "name": "洛克人6 史上最长的战斗！(简)[不知所云](JP)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Rockman 6 - Shijou Saidai no Tatakai!! (Japan)",
+ "hack_group": "不知所云",
+ "id": "prb-nes-fae6354b",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "4F7F15F5",
+  "no_intro_name": "Rockman 6 - Shijou Saidai no Tatakai!! (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "洛克人6 史上最长的战斗！"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

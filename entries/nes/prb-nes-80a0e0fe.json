@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "80A0E0FE",
+   "name": "武士魂(简)[天空联盟](CN)[FTG](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Samurai Shodown III (Taiwan) (En) (Pirate)",
+ "hack_group": "天空联盟",
+ "id": "prb-nes-80a0e0fe",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Samurai Shodown III (Taiwan) (En) (Pirate)",
+  "region": "Taiwan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "武士魂"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "EE5A2E70",
+   "name": "高桥名人的冒险岛4(v20220222)(简)[NOKOH+fciq](JP)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Takahashi Meijin no Bouken-jima IV (Japan)",
+ "hack_group": "NOKOH+fciq",
+ "id": "prb-nes-ee5a2e70",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "5EF1196B",
+  "no_intro_name": "Takahashi Meijin no Bouken-jima IV (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "高桥名人的冒险岛4"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20220222"
+}

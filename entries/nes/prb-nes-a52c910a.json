@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A52C910A",
+   "name": "成龙(简)[王龙](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Jackie Chan (Japan) (En)",
+ "hack_group": "王龙",
+ "id": "prb-nes-a52c910a",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "E291E9D6",
+  "no_intro_name": "Jackie Chan (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "成龙"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

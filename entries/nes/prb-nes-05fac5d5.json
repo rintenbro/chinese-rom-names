@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "05FAC5D5",
+   "name": "忍者战士 龙牙(简)[少年不知愁](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Ninja Crusaders - Ryuuga (Japan)",
+ "hack_group": "少年不知愁",
+ "id": "prb-nes-05fac5d5",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Ninja Crusaders - Ryuuga (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "忍者战士 龙牙"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-26e0c8a601b5/title.png"
+ },
+ "files": [
+  {
+   "crc32": "956BE788",
+   "name": "水浒神兽(简)[外星科技](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "水浒神兽",
+ "hack_group": "外星科技",
+ "id": "cn-255710bf00ea",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "水浒神兽"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-99c465eafd8e/title.png"
+ },
+ "files": [
+  {
+   "crc32": "7F9C86E8",
+   "name": "小博士(简)[鸿达](CN)[ETC](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "小博士",
+ "hack_group": "鸿达",
+ "id": "cn-33b6b5188a3f",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "小博士"
+ },
+ "type": "hack",
+ "vendor": "",
+ "version": ""
+}

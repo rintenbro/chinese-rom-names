@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "AF94B152",
+   "name": "中华大仙(v20250526)(繁)[NOKOH](JP)[STG](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Chuuka Taisen (Japan)",
+ "hack_group": "NOKOH",
+ "id": "prb-nes-af94b152",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "72945AFF",
+  "no_intro_name": "Chuuka Taisen (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "中华大仙"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20250526"
+}

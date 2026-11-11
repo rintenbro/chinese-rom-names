@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "52955F2F",
+   "name": "重力装甲(v1.0)(简)[高伟](JP)[ACT](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Juuryoku Soukou Metal Storm (Japan)",
+ "hack_group": "高伟",
+ "id": "prb-nes-52955f2f",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "D9E42188",
+  "no_intro_name": "Juuryoku Soukou Metal Storm (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "重力装甲"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

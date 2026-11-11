@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-74d51e523814/title.png"
+ },
+ "files": [
+  {
+   "crc32": "FCDA91BC",
+   "name": "隋唐英雄(简)[南晶科技](CN)[SLG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "隋唐英雄",
+ "hack_group": "南晶科技",
+ "id": "cn-99287564871d",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "隋唐英雄"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

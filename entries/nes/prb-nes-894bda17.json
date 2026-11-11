@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "894BDA17",
+   "name": "第2次超级机器人大战(简)[恒格电子](JP)[SLG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Dai-2-ji Super Robot Taisen (Japan)",
+ "hack_group": "恒格电子",
+ "id": "prb-nes-894bda17",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "3C9483F4",
+  "no_intro_name": "Dai-2-ji Super Robot Taisen (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "第2次超级机器人大战"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

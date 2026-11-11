@@ -1,0 +1,33 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "31449113",
+   "name": "黑桃2 (繁) (川普科技)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Hei Tao 2 - Super Big 2 (Taiwan)",
+ "hack_group": "",
+ "id": "ver-md-31449113",
+ "original": {
+  "crc32": "31449113",
+  "no_intro_name": "Hei Tao 2 - Super Big 2 (Taiwan)",
+  "region": "Taiwan",
+  "size": 1048576
+ },
+ "platform": "md",
+ "script": "繁",
+ "source": "no-intro",
+ "status": "verified",
+ "titles": {
+  "zh-Hans": "黑桃2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

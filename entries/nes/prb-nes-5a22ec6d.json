@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "5A22EC6D",
+   "name": "三目童子(简)[Jeff.Ma](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Mitsume ga Tooru (Japan)",
+ "hack_group": "Jeff.Ma",
+ "id": "prb-nes-5a22ec6d",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "73542B44",
+  "no_intro_name": "Mitsume ga Tooru (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "三目童子"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

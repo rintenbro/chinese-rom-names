@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "4BCD9EB1",
+   "name": "三国志 中原之霸者(繁)[Setsuna362](JP)[SLG](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Sangokushi - Chuugen no Hasha (Japan)",
+ "hack_group": "Setsuna362",
+ "id": "prb-nes-4bcd9eb1",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "8513C501",
+  "no_intro_name": "Sangokushi - Chuugen no Hasha (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "三国志 中原之霸者"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

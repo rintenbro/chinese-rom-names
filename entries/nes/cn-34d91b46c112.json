@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-9411022d72f4/title.png"
+ },
+ "files": [
+  {
+   "crc32": "6616FBE2",
+   "name": "毁灭之神(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "group": "毁灭之神",
+ "hack_group": "南晶科技",
+ "id": "cn-34d91b46c112",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "毁灭之神"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

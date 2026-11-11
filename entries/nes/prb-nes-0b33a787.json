@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0B33A787",
+   "name": "SD英雄总决战 打倒！邪恶军团(修正版)(简)[MS+星夜之幻](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "SD Hero Soukessen - Taose! Aku no Gundan (Japan)",
+ "hack_group": "MS+星夜之幻",
+ "id": "prb-nes-0b33a787",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "60550575",
+  "no_intro_name": "SD Hero Soukessen - Taose! Aku no Gundan (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "SD英雄总决战 打倒！邪恶军团"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

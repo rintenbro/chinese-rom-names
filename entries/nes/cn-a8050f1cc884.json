@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "589680D4",
+   "name": "弹射球(修正版)(简)[8GUA+MS](JP)[PUZ](0.31Mb).nes",
+   "size": 40976
+  }
+ ],
+ "group": "Pinball (Japan, USA) (En)",
+ "hack_group": "8GUA+MS",
+ "id": "cn-a8050f1cc884",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "弹射球"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

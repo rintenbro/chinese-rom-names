@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "94B665B8",
+   "name": "摩艾君(简)[虫儿](JP)[PUZ](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Moai-kun (Japan)",
+ "hack_group": "虫儿",
+ "id": "prb-nes-94b665b8",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "8D76A40E",
+  "no_intro_name": "Moai-kun (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "摩艾君"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-486518473cdd/title.png"
+ },
+ "files": [
+  {
+   "crc32": "9263D400",
+   "name": "中华英雄(简)[南通科技](CN)[SLG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "中华英雄",
+ "hack_group": "南通科技",
+ "id": "cn-6fc1543b7e23",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "中华英雄"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

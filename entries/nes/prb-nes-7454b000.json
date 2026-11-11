@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7454B000",
+   "name": "骷髅13 第一章 诸神的黄昏(v1.1)(简)[DMG](JP)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Golgo 13 - Daiisshou - Kamigami no Tasogare (Japan)",
+ "hack_group": "DMG汉化组",
+ "id": "prb-nes-7454b000",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Golgo 13 - Daiisshou - Kamigami no Tasogare (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "骷髅13 第一章 诸神的黄昏"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

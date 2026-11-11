@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-bf87ce01e3fb/title.png"
+ },
+ "files": [
+  {
+   "crc32": "71DC6E50",
+   "name": "武侠天地(简)[南晶科技](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "武侠天地",
+ "hack_group": "南晶科技",
+ "id": "cn-fb47ad8eb69f",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "武侠天地"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

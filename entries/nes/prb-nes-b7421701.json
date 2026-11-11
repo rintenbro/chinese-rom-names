@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B7421701",
+   "name": "绿野仙踪(简)[外星科技](CN)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Luye Xian Zong (China) (960100549)",
+ "hack_group": "外星科技",
+ "id": "prb-nes-b7421701",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "3457127B",
+  "no_intro_name": "Luye Xian Zong (China) (960100549)",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "绿野仙踪"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

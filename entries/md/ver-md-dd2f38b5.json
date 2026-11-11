@@ -1,0 +1,33 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "DD2F38B5",
+   "name": "新乞丐王子 (繁) (全崴资讯)(32Mb).md",
+   "size": 4194304
+  }
+ ],
+ "group": "Xin Qigai Wangzi (Taiwan)",
+ "hack_group": "",
+ "id": "ver-md-dd2f38b5",
+ "original": {
+  "crc32": "DD2F38B5",
+  "no_intro_name": "Xin Qigai Wangzi (Taiwan)",
+  "region": "Taiwan",
+  "size": 4194304
+ },
+ "platform": "md",
+ "script": "繁",
+ "source": "no-intro",
+ "status": "verified",
+ "titles": {
+  "zh-Hans": "新乞丐王子"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

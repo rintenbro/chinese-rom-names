@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "63BE662B",
+   "name": "武者雅士达(简)(v1.0)(飞云)(4Mb).bin",
+   "size": 524288
+  }
+ ],
+ "group": "Musha Aleste (Japan)",
+ "hack_group": "飞云",
+ "id": "prb-md-63be662b",
+ "platform": "md",
+ "probable_original": {
+  "crc32": "8FDE18AB",
+  "no_intro_name": "Musha Aleste (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "武者雅士达"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

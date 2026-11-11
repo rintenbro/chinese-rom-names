@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-a032f81b2ab7/title.png"
+ },
+ "files": [
+  {
+   "crc32": "65F76C7C",
+   "name": "口袋妖怪 钻石版(繁)[外星科技](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "口袋妖怪 钻石版",
+ "hack_group": "外星科技",
+ "id": "cn-5dd2e257844c",
+ "platform": "nes",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "口袋妖怪 钻石版"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

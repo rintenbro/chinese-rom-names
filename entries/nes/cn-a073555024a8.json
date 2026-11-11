@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-99e98dafe2f1/title.png"
+ },
+ "files": [
+  {
+   "crc32": "6C4A2899",
+   "name": "拯救世纪(繁)[外星科技](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "拯救世纪",
+ "hack_group": "外星科技",
+ "id": "cn-a073555024a8",
+ "platform": "nes",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "拯救世纪"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1C19EE87",
+   "name": "快杰洋枪丸2 机关之地大冒险(简)[烈火暴龙](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Kaiketsu Yanchamaru 2 - Karakuri Land (Japan)",
+ "hack_group": "烈火暴龙",
+ "id": "prb-nes-1c19ee87",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Kaiketsu Yanchamaru 2 - Karakuri Land (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "快杰洋枪丸2 机关之地大冒险"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

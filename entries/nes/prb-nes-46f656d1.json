@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "46F656D1",
+   "name": "马里奥水管工(简)[高伟](JUE)[ACT](0.31Mb).nes",
+   "size": 40976
+  }
+ ],
+ "group": "Mario Bros. (World)",
+ "hack_group": "JUE 高伟",
+ "id": "prb-nes-46f656d1",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Mario Bros. (World)",
+  "region": "World"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "马里奥水管工"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

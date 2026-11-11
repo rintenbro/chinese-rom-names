@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-d47f9f1440b8/title.png"
+ },
+ "files": [
+  {
+   "crc32": "69480594",
+   "name": "超级战魂(简)[外星科技](CN)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "超级战魂",
+ "hack_group": "外星科技",
+ "id": "cn-acc74c95ff20",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "超级战魂"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7C170849",
+   "name": "双截龙3 神秘的魔石之谜(v1.1)(简)[星空](US)[ACT](2.5Mb).nes",
+   "size": 327696
+  }
+ ],
+ "group": "Double Dragon III - The Sacred Stones (USA)",
+ "hack_group": "星空",
+ "id": "prb-nes-7c170849",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "EB44EEFC",
+  "no_intro_name": "Double Dragon III - The Sacred Stones (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "双截龙3 神秘的魔石之谜"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

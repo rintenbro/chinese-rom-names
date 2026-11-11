@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1F1D79CB",
+   "name": "超音速机车赛(简)[c1faceb0](JU)[RAC](0.31Mb).nes",
+   "size": 40976
+  }
+ ],
+ "group": "Mach Rider (Japan, USA) (En)",
+ "hack_group": "c1faceb0",
+ "id": "prb-nes-1f1d79cb",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "DA255148",
+  "no_intro_name": "Mach Rider (Japan, USA) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超音速机车赛"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

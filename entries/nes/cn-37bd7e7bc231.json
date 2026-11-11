@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-f51a2649b704/title.png"
+ },
+ "files": [
+  {
+   "crc32": "271F3278",
+   "name": "威洛传奇(修正版)(简)[金巴比伦+Vanyogin](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "威洛传奇",
+ "hack_group": "金巴比伦+Vanyogin",
+ "id": "cn-37bd7e7bc231",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "威洛传奇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

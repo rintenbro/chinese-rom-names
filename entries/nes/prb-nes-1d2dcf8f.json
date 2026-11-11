@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1D2DCF8F",
+   "name": "水果狸(v1.1)(简)[九班](CN)[TAB](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Shui Guo Li (Asia) (En) (Pirate)",
+ "hack_group": "九班",
+ "id": "prb-nes-1d2dcf8f",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Shui Guo Li (Asia) (En) (Pirate)",
+  "region": "Asia"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "水果狸"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1"
+}

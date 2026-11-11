@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CFE1B45B",
+   "name": "趣味方块(简)[水火](JP)[PUZ](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Flipull - An Exciting Cube Game (Japan) (En)",
+ "hack_group": "水火",
+ "id": "prb-nes-cfe1b45b",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "E0BBB461",
+  "no_intro_name": "Flipull - An Exciting Cube Game (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "趣味方块"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

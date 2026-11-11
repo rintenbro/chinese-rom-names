@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F1649580",
+   "name": "蒙纳克皇族 - 最终战斗传说 (繁) (cslrxyz)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Lord Monarch - Tokoton Sentou Densetsu (Japan)",
+ "hack_group": "cslrxyz",
+ "id": "prb-md-f1649580",
+ "platform": "md",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Lord Monarch - Tokoton Sentou Densetsu (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "蒙纳克皇族 - 最终战斗传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

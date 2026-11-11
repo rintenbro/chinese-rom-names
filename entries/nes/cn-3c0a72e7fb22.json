@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "8EC9E1B8",
+   "name": "外星战将(简)[中伟](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Bucky O'Hare (Japan)",
+ "hack_group": "中伟",
+ "id": "cn-3c0a72e7fb22",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "外星战将"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

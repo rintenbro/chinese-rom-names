@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-705d0a8f3263/title.png"
+ },
+ "files": [
+  {
+   "crc32": "B1119802",
+   "name": "盟军赶死队(简)[外星科技](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "盟军赶死队",
+ "hack_group": "外星科技",
+ "id": "cn-ad08a4ac5ee5",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "盟军赶死队"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

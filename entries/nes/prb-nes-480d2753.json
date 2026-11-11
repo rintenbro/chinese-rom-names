@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "480D2753",
+   "name": "忍者神龟3 曼哈顿计划(v1.2)(简)[未名+法兰克飞鸟](JP)[ACT](6Mb).nes",
+   "size": 786960
+  }
+ ],
+ "group": "Teenage Mutant Ninja Turtles 2 - The Manhattan Project (Japan)",
+ "hack_group": "未名+法兰克飞鸟",
+ "id": "prb-nes-480d2753",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Teenage Mutant Ninja Turtles 2 - The Manhattan Project (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "忍者神龟3 曼哈顿计划"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.2"
+}

@@ -1,0 +1,33 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "42DC03E4",
+   "name": "梦幻水果盘 (繁) (三协资讯)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Menghuan Shuiguo Pan - 777 Casino (Taiwan)",
+ "hack_group": "",
+ "id": "ver-md-42dc03e4",
+ "original": {
+  "crc32": "42DC03E4",
+  "no_intro_name": "Menghuan Shuiguo Pan - 777 Casino (Taiwan)",
+  "region": "Taiwan",
+  "size": 1048576
+ },
+ "platform": "md",
+ "script": "繁",
+ "source": "no-intro",
+ "status": "verified",
+ "titles": {
+  "zh-Hans": "梦幻水果盘"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

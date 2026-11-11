@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2CE4C12D",
+   "name": "泡泡龙2(简)[MM之神](US)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Bubble Bobble Part 2 (USA)",
+ "hack_group": "MM之神",
+ "id": "prb-nes-2ce4c12d",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "5B2C21C8",
+  "no_intro_name": "Bubble Bobble Part 2 (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "泡泡龙2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

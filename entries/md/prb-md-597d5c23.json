@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "597D5C23",
+   "name": "超级大富翁 (繁) (修正版) (Ken修正)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Chaoji Dafuweng (Taiwan)",
+ "hack_group": "",
+ "id": "prb-md-597d5c23",
+ "platform": "md",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Chaoji Dafuweng (Taiwan)",
+  "region": "Taiwan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超级大富翁"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-6db32c4967f8/title.png"
+ },
+ "files": [
+  {
+   "crc32": "AE71CEE1",
+   "name": "荣耀之骑士团(简)[酷哥电子](JP)[RPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "荣耀之骑士团",
+ "hack_group": "酷哥电子",
+ "id": "cn-b362d039048f",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "荣耀之骑士团"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

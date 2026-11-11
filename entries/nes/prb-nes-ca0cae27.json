@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CA0CAE27",
+   "name": "魔女小红帽(简)[冰组](JP)[ACT](2.12Mb).nes",
+   "size": 278544
+  }
+ ],
+ "group": "Magical Kid's Doropie (Japan)",
+ "hack_group": "冰组",
+ "id": "prb-nes-ca0cae27",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Magical Kid's Doropie (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "魔女小红帽"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

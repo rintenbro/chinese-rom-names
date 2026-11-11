@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E42D0A97",
+   "name": "吞食天地6 刘备传(简)[南晶科技](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "Tenchi o Kurau (Japan)",
+ "hack_group": "南晶科技",
+ "id": "prb-nes-e42d0a97",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "555F9B9D",
+  "no_intro_name": "Tenchi o Kurau (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "吞食天地6 刘备传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

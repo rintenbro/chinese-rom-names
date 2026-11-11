@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1D8642BD",
+   "name": "暗棋(繁)[洁晖](CN)[TAB](0.18Mb).nes",
+   "size": 24592
+  }
+ ],
+ "group": "Hidden Chinese Chess - An Qi (Taiwan)",
+ "hack_group": "洁晖",
+ "id": "prb-nes-1d8642bd",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "51DCADEB",
+  "no_intro_name": "Hidden Chinese Chess - An Qi (Taiwan)",
+  "region": "Taiwan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "暗棋"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

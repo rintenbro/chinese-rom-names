@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-6aadc121390d/title.png"
+ },
+ "files": [
+  {
+   "crc32": "F2F920A9",
+   "name": "新月剑痕(简)[南晶科技](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "新月剑痕",
+ "hack_group": "南晶科技",
+ "id": "cn-afa3dc2a2d00",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "新月剑痕"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C1BA83A6",
+   "name": "超越地平线(v0.9)(简)[高伟](JP)[STG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Over Horizon (Japan) (En)",
+ "hack_group": "高伟",
+ "id": "prb-nes-c1ba83a6",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "DAFAE749",
+  "no_intro_name": "Over Horizon (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "超越地平线"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v0.9"
+}

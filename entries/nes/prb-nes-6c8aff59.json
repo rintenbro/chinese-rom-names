@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6C8AFF59",
+   "name": "国夫君的热血新记录！ 要得到所有金牌(简)[小滩](JP)[SPG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Bikkuri Nekketsu Shin Kiroku! - Harukanaru Kin Medal (Japan)",
+ "hack_group": "小滩",
+ "id": "prb-nes-6c8aff59",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Bikkuri Nekketsu Shin Kiroku! - Harukanaru Kin Medal (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "国夫君的热血新记录！ 要得到所有金牌"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

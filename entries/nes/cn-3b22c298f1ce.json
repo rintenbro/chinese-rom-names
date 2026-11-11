@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-5f97c341de84/title.png"
+ },
+ "files": [
+  {
+   "crc32": "956A2EE5",
+   "name": "戈德曼(简)[南晶科技](CN)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "戈德曼",
+ "hack_group": "南晶科技",
+ "id": "cn-3b22c298f1ce",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "戈德曼"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

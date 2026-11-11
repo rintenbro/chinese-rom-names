@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6D8E5D59",
+   "name": "太阳勇者 火鸟(简)[hjind1213](JP)[STG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Taiyou no Yuusha - Fighbird (Japan)",
+ "hack_group": "hjind1213",
+ "id": "prb-nes-6d8e5d59",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "2F37E9EC",
+  "no_intro_name": "Taiyou no Yuusha - Fighbird (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "太阳勇者 火鸟"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

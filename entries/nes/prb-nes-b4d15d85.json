@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B4D15D85",
+   "name": "合金装备(公测2)(简)[热血的鱼缸](JP)[AVG](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Metal Gear (Japan)",
+ "hack_group": "热血的鱼缸",
+ "id": "prb-nes-b4d15d85",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "24918D54",
+  "no_intro_name": "Metal Gear (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "合金装备"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

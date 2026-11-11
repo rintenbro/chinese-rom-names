@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C2A2F654",
+   "name": "新人类(简)[Yurica](JP)[ACT](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Shin Jinrui - The New Type (Japan)",
+ "hack_group": "Yurica",
+ "id": "prb-nes-c2a2f654",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "224CB80A",
+  "no_intro_name": "Shin Jinrui - The New Type (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "新人类"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

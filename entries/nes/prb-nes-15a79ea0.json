@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "15A79EA0",
+   "name": "麻雀(v1.1a)(简)[星空](JP)[TAB](0.31Mb).nes",
+   "size": 40976
+  }
+ ],
+ "group": "Mahjong (Japan) (Rev 2) (Animal Crossing)",
+ "hack_group": "星空",
+ "id": "prb-nes-15a79ea0",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Mahjong (Japan) (Rev 2) (Animal Crossing)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "麻雀"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.1a"
+}

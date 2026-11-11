@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-d7b38cd59170/title.png"
+ },
+ "files": [
+  {
+   "crc32": "BA5D37D2",
+   "name": "英雄无敌(繁)[未知](JP)[SLG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "英雄无敌",
+ "hack_group": "未知",
+ "id": "cn-5118cb21179a",
+ "platform": "nes",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "英雄无敌"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

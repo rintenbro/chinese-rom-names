@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-952dde98b745/title.png"
+ },
+ "files": [
+  {
+   "crc32": "9442FEFF",
+   "name": "数码战队2(简)[南晶科技](CN)[RPG](16Mb).nes",
+   "size": 2097168
+  }
+ ],
+ "group": "数码战队2",
+ "hack_group": "南晶科技",
+ "id": "cn-72aeb64c1246",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "数码战队2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "17AB853D",
+   "name": "梦幻之星4 - 千年纪的终结(简)(v2.2b)(意志之路)(32Mb).bin",
+   "size": 4194304
+  }
+ ],
+ "group": "Phantasy Star - Sennenki no Owari ni (Japan)",
+ "hack_group": "",
+ "id": "prb-md-17ab853d",
+ "platform": "md",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Phantasy Star - Sennenki no Owari ni (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "梦幻之星4 - 千年纪的终结"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v2.2b"
+}

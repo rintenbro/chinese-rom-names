@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "77DFDFF5",
+   "name": "魂斗罗力量(v1.2)(简)[DMG](US)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Contra Force (USA)",
+ "hack_group": "DMG汉化组",
+ "id": "prb-nes-77dfdff5",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Contra Force (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "魂斗罗力量"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.2"
+}

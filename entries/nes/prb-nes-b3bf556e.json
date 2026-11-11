@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B3BF556E",
+   "name": "智慧方块(简)[烈火暴龙](JP)[PUZ](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Palamedes (Japan)",
+ "hack_group": "烈火暴龙",
+ "id": "prb-nes-b3bf556e",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "8A531D62",
+  "no_intro_name": "Palamedes (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "智慧方块"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

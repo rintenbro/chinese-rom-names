@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FF27995A",
+   "name": "特种部队 一个真正的美国英雄(简)[汉化你妹](US)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "G.I. Joe - A Real American Hero (USA)",
+ "hack_group": "汉化你妹",
+ "id": "prb-nes-ff27995a",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "G.I. Joe - A Real American Hero (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "特种部队 一个真正的美国英雄"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

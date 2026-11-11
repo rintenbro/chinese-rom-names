@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "F25416A9",
+   "name": "FC原人(v1.0)(简)[高伟](JP)[ACT](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "FC Genjin - Freakthoropus Computerus (Japan)",
+ "hack_group": "高伟",
+ "id": "prb-nes-f25416a9",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "7A3D3C21",
+  "no_intro_name": "FC Genjin - Freakthoropus Computerus (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "FC原人"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

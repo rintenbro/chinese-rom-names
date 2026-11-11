@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-04f01decb64e/title.png"
+ },
+ "files": [
+  {
+   "crc32": "628D05F3",
+   "name": "乱世三国(简)[南晶科技](CN)[SLG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "乱世三国",
+ "hack_group": "南晶科技",
+ "id": "cn-66f97aedeee5",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "乱世三国"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

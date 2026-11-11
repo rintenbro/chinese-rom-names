@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2BB459BA",
+   "name": "中国大亨 迈向大富翁之路(繁)[圣谦](CN)[TAB](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Zhongguo Daheng - Maixiang Da Fuweng Zhi Lu (Taiwan)",
+ "hack_group": "圣谦",
+ "id": "prb-nes-2bb459ba",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "9B9D2DD2",
+  "no_intro_name": "Zhongguo Daheng - Maixiang Da Fuweng Zhi Lu (Taiwan)",
+  "region": "Taiwan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "中国大亨 迈向大富翁之路"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "39735B13",
+   "name": "热血！街头篮球 加油吧！灌篮高手们！(v1.0)(简)[热血的鱼缸](JP)[SPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Nekketsu! Street Basket - Ganbare Dunk Heroes (Japan)",
+ "hack_group": "热血的鱼缸",
+ "id": "prb-nes-39735b13",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "532A21B8",
+  "no_intro_name": "Nekketsu! Street Basket - Ganbare Dunk Heroes (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "热血！街头篮球 加油吧！灌篮高手们！"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.0"
+}

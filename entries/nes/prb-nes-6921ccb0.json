@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6921CCB0",
+   "name": "碰碰飞车(简)[高伟](JP)[RAC](0.5Mb).nes",
+   "size": 65552
+  }
+ ],
+ "group": "Buggy Popper (Japan) (En)",
+ "hack_group": "高伟",
+ "id": "prb-nes-6921ccb0",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "681B1B0E",
+  "no_intro_name": "Buggy Popper (Japan) (En)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "碰碰飞车"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

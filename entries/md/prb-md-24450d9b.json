@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "24450D9B",
+   "name": "三国志3 (繁) (TCT)(12Mb).md",
+   "size": 1572864
+  }
+ ],
+ "group": "Sangokushi III (Japan)",
+ "hack_group": "TCT",
+ "id": "prb-md-24450d9b",
+ "platform": "md",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Sangokushi III (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "三国志3"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

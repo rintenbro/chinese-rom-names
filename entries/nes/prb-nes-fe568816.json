@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "FE568816",
+   "name": "中国麻将(简)[未知](JP)[TAB](0.18Mb).nes",
+   "size": 24592
+  }
+ ],
+ "group": "Zhong Guo Mahjong (China) (Pirate)",
+ "hack_group": "未知",
+ "id": "prb-nes-fe568816",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "B20C6740",
+  "no_intro_name": "Zhong Guo Mahjong (China) (Pirate)",
+  "region": "China"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "中国麻将"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "55EB8DDA",
+   "name": "圣铃传说(v2)(简)[MS](JP)[ACT](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Seirei Densetsu Lickle (Japan)",
+ "hack_group": "",
+ "id": "prb-nes-55eb8dda",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "281D62BE",
+  "no_intro_name": "Seirei Densetsu Lickle (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "圣铃传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v2"
+}

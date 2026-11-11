@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "2CBBB3AD",
+   "name": "突然君(简)[高伟](JP)[ACT](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Totsuzen! Macchoman (Japan)",
+ "hack_group": "高伟",
+ "id": "prb-nes-2cbbb3ad",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Totsuzen! Macchoman (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "突然君"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

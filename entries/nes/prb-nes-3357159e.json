@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3357159E",
+   "name": "星际之门(简)[虫虫](JP)(0.18Mb).nes",
+   "size": 24592
+  }
+ ],
+ "group": "Star Gate (Japan)",
+ "hack_group": "虫虫",
+ "id": "prb-nes-3357159e",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "677CB266",
+  "no_intro_name": "Star Gate (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "星际之门"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

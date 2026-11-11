@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7A0876A0",
+   "name": "数字射击 (简) (小鬼混)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Math Blaster - Episode 1 (USA)",
+ "hack_group": "",
+ "id": "prb-md-7a0876a0",
+ "platform": "md",
+ "probable_original": {
+  "crc32": "D055A462",
+  "no_intro_name": "Math Blaster - Episode 1 (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "数字射击"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

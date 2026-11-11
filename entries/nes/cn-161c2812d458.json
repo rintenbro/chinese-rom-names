@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-d887c3887953/title.png"
+ },
+ "files": [
+  {
+   "crc32": "AB947EB2",
+   "name": "傲剑江湖(简)[南晶科技](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "傲剑江湖",
+ "hack_group": "南晶科技",
+ "id": "cn-161c2812d458",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "傲剑江湖"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

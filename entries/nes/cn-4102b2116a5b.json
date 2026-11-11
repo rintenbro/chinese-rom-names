@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-be78f9f368a0/title.png"
+ },
+ "files": [
+  {
+   "crc32": "85BB9B00",
+   "name": "傲视天地(简)[晶科泰](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "傲视天地",
+ "hack_group": "晶科泰",
+ "id": "cn-4102b2116a5b",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "傲视天地"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

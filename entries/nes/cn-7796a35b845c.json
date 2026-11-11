@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-9a005a83a589/title.png"
+ },
+ "files": [
+  {
+   "crc32": "4FC75B96",
+   "name": "楚汉风云(简)[南晶科技](CN)[SLG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "楚汉风云",
+ "hack_group": "南晶科技",
+ "id": "cn-7796a35b845c",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "楚汉风云"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

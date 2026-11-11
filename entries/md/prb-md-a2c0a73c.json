@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "A2C0A73C",
+   "name": "新创世纪 (简) (147201688繁转简)(16Mb).md",
+   "size": 2097152
+  }
+ ],
+ "group": "Shin Souseiki Ragnacenty (Japan)",
+ "hack_group": "",
+ "id": "prb-md-a2c0a73c",
+ "platform": "md",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Shin Souseiki Ragnacenty (Japan)",
+  "region": "Japan"
+ },
+ "script": "简繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "新创世纪"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

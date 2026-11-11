@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "B50511D5",
+   "name": "天下统一 - 乱世的霸者 (简) (小鬼混繁转简)(8Mb).md",
+   "size": 1048576
+  }
+ ],
+ "group": "Ransei no Hasha (Japan)",
+ "hack_group": "",
+ "id": "prb-md-b50511d5",
+ "platform": "md",
+ "probable_original": {
+  "crc32": "A9A0083D",
+  "no_intro_name": "Ransei no Hasha (Japan)",
+  "region": "Japan"
+ },
+ "script": "简繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "天下统一 - 乱世的霸者"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

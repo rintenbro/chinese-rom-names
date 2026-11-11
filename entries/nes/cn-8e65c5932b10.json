@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-d37878ce01a6/title.png"
+ },
+ "files": [
+  {
+   "crc32": "BD420302",
+   "name": "荣誉勋章(简)[外星科技](JP)[AVG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "荣誉勋章",
+ "hack_group": "外星科技",
+ "id": "cn-8e65c5932b10",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "荣誉勋章"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

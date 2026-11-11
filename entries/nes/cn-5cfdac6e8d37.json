@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-68a40796d488/title.png"
+ },
+ "files": [
+  {
+   "crc32": "EB5DBB86",
+   "name": "屠龙刀(繁)[外星科技](CN)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "屠龙刀",
+ "hack_group": "外星科技",
+ "id": "cn-5cfdac6e8d37",
+ "platform": "nes",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "屠龙刀"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

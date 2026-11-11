@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "CB170CA0",
+   "name": "恶魔城2 西蒙的任务(v1.2)(简)[未名](US)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Castlevania II - Simon's Quest (USA)",
+ "hack_group": "未名",
+ "id": "prb-nes-cb170ca0",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Castlevania II - Simon's Quest (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "恶魔城2 西蒙的任务"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v1.2"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "D657BB39",
+   "name": "宇宙巡航机 仿街机(大字体)(简)[高伟](JP)[STG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Gradius (Japan)",
+ "hack_group": "高伟",
+ "id": "prb-nes-d657bb39",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "B913DC9E",
+  "no_intro_name": "Gradius (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "宇宙巡航机 仿街机"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "946BD420",
+   "name": "天使之翼2 超级神射手(v20180822)(简)[外星科技+太阳王子葵新伍](JP)[SPG](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "Captain Tsubasa II - Super Striker (Japan)",
+ "hack_group": "外星科技+太阳王子葵新伍",
+ "id": "prb-nes-946bd420",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "149DAC0C",
+  "no_intro_name": "Captain Tsubasa II - Super Striker (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "天使之翼2 超级神射手"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20180822"
+}

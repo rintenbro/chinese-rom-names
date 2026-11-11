@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3CEA0142",
+   "name": "魔法总动员(修正版)(简)[混沌星辰+MS](US)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "Totally Rad (USA)",
+ "hack_group": "混沌星辰+MS",
+ "id": "prb-nes-3cea0142",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Totally Rad (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "魔法总动员"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

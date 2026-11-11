@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-19eb369f7360/title.png"
+ },
+ "files": [
+  {
+   "crc32": "DABDB7EF",
+   "name": "三国大乱斗 战国(简)[南晶科技](CN)[RPG](8Mb).nes",
+   "size": 1048592
+  }
+ ],
+ "group": "三国大乱斗 战国",
+ "hack_group": "南晶科技",
+ "id": "cn-9942efe9dc74",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "三国大乱斗 战国"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

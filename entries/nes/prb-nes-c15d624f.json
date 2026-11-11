@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C15D624F",
+   "name": "蜡笔小新(繁)[Future](CN)[ACT](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Crayon Shin-chan - Ora to Poi Poi (Japan)",
+ "hack_group": "Future",
+ "id": "prb-nes-c15d624f",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "F3259AB4",
+  "no_intro_name": "Crayon Shin-chan - Ora to Poi Poi (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "蜡笔小新"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

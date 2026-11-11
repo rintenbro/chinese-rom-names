@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "23BB57F8",
+   "name": "忍者神龟2 曼哈顿计划(简)[逆游の五彩魚](JP)[ACT](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "Teenage Mutant Ninja Turtles 2 - The Manhattan Project (Japan)",
+ "hack_group": "逆游の五彩魚",
+ "id": "prb-nes-23bb57f8",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "882A9F9F",
+  "no_intro_name": "Teenage Mutant Ninja Turtles 2 - The Manhattan Project (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "忍者神龟2 曼哈顿计划"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

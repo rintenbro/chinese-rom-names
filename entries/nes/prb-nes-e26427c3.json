@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "E26427C3",
+   "name": "数码恶魔物语 女神转生2(简)[未知](JP)[RPG](5Mb).nes",
+   "size": 655376
+  }
+ ],
+ "group": "Digital Devil Story - Megami Tensei II (Japan)",
+ "hack_group": "未知",
+ "id": "prb-nes-e26427c3",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Digital Devil Story - Megami Tensei II (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "数码恶魔物语 女神转生2"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "71CC0E65",
+   "name": "热血格斗传说(v20130718)(简)[8-bit Zone+热血的鱼缸](JP)[FTG](3.11Mb).nes",
+   "size": 408768
+  }
+ ],
+ "group": "Nekketsu Kakutou Densetsu (Japan)",
+ "hack_group": "8-bit Zone+热血的鱼缸",
+ "id": "prb-nes-71cc0e65",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "ECCE4BB5",
+  "no_intro_name": "Nekketsu Kakutou Densetsu (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "热血格斗传说"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20130718"
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-412a9ca0794e/title.png"
+ },
+ "files": [
+  {
+   "crc32": "BC292396",
+   "name": "台湾麻雀(繁)[圣谦](CN)[TAB](0.37Mb).nes",
+   "size": 49168
+  }
+ ],
+ "group": "台湾麻雀",
+ "hack_group": "圣谦",
+ "id": "cn-a0a6a9ba5b10",
+ "platform": "nes",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "台湾麻雀"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

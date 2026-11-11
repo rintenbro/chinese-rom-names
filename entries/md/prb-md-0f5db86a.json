@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "0F5DB86A",
+   "name": "新乞丐王子(简)(修正版v20260301)(全崴资讯+小鬼混+飞雨影)(32Mb).md",
+   "size": 4194304
+  }
+ ],
+ "group": "Xin Qigai Wangzi (Taiwan)",
+ "hack_group": "全崴资讯+小鬼混+飞雨影",
+ "id": "prb-md-0f5db86a",
+ "platform": "md",
+ "probable_original": {
+  "crc32": "DD2F38B5",
+  "no_intro_name": "Xin Qigai Wangzi (Taiwan)",
+  "region": "Taiwan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "新乞丐王子"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20260301"
+}

@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6A0A9EF9",
+   "name": "怪物世界4 (繁) (重制汉化版) (未知)(16Mb).gen",
+   "size": 2097152
+  }
+ ],
+ "group": "Turma da Monica na Terra dos Monstros (Brazil)",
+ "hack_group": "未知",
+ "id": "prb-md-6a0a9ef9",
+ "platform": "md",
+ "probable_original": {
+  "crc32": "F8288DE1",
+  "no_intro_name": "Turma da Monica na Terra dos Monstros (Brazil)",
+  "region": "Brazil"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "怪物世界4"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

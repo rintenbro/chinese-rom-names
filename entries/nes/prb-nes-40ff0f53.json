@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "40FF0F53",
+   "name": "洛克人3 Dr.Wily的末日！(简)[MS](JP)[ACT](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Rockman 3 - Dr. Wily no Saigo! (Japan)",
+ "hack_group": "",
+ "id": "prb-nes-40ff0f53",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Rockman 3 - Dr. Wily no Saigo! (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "洛克人3 Dr.Wily的末日！"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

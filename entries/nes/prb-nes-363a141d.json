@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "363A141D",
+   "name": "SD英雄总决战 打倒！恶之军团(大字体)(简)[高伟](JP)[ACT](2Mb).nes",
+   "size": 262160
+  }
+ ],
+ "group": "SD Hero Soukessen - Taose! Aku no Gundan (Japan)",
+ "hack_group": "高伟",
+ "id": "prb-nes-363a141d",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "60550575",
+  "no_intro_name": "SD Hero Soukessen - Taose! Aku no Gundan (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "SD英雄总决战 打倒！恶之军团"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

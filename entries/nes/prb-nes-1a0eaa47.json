@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "1A0EAA47",
+   "name": "雪人兄弟(简)[LSP](JP)[ACT](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Snow Bros. (Japan)",
+ "hack_group": "LSP汉化组",
+ "id": "prb-nes-1a0eaa47",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Snow Bros. (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "雪人兄弟"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

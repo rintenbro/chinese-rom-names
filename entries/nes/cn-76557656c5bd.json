@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-4b656a9cdb89/title.png"
+ },
+ "files": [
+  {
+   "crc32": "568077B3",
+   "name": "导弹坦克(v1.0)(简)[九班](JP)[STG](0.31Mb).nes",
+   "size": 40976
+  }
+ ],
+ "group": "导弹坦克",
+ "hack_group": "九班",
+ "id": "cn-76557656c5bd",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "导弹坦克"
+ },
+ "type": "hack",
+ "vendor": "",
+ "version": "v1.0"
+}

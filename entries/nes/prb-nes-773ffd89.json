@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "773FFD89",
+   "name": "摩登原始人 营救迪诺和霍比(简)[汉化你妹](US)[ACT](5Mb).nes",
+   "size": 655376
+  }
+ ],
+ "group": "Flintstones, The - The Rescue of Dino & Hoppy (USA)",
+ "hack_group": "汉化你妹",
+ "id": "prb-nes-773ffd89",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Flintstones, The - The Rescue of Dino & Hoppy (USA)",
+  "region": "USA"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "摩登原始人 营救迪诺和霍比"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

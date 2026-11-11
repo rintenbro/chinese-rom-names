@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-c0d7071c5239/title.png"
+ },
+ "files": [
+  {
+   "crc32": "2435B18D",
+   "name": "红楼梦(简)[南晶科技](CN)[TAB](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "红楼梦",
+ "hack_group": "南晶科技",
+ "id": "cn-fb6ba2f321f3",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "红楼梦"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-1a289ed81555/title.png"
+ },
+ "files": [
+  {
+   "crc32": "F09B5D92",
+   "name": "挖地雷(简)[未知](CN)[PUZ](0.25Mb).nes",
+   "size": 32784
+  }
+ ],
+ "group": "挖地雷",
+ "hack_group": "未知",
+ "id": "cn-8b24f3b305ab",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "挖地雷"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

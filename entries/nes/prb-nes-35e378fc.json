@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "35E378FC",
+   "name": "忍者龟(v20230408)(繁)[NOKOH](JP)[ACT](6Mb).nes",
+   "size": 786448
+  }
+ ],
+ "group": "Teenage Mutant Ninja Turtles (Japan)",
+ "hack_group": "NOKOH",
+ "id": "prb-nes-35e378fc",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Teenage Mutant Ninja Turtles (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "忍者龟"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20230408"
+}

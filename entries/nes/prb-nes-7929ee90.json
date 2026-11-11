@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7929EE90",
+   "name": "麻雀世界 歌舞伎町篇(繁)[圣谦](CN)[TAB](1Mb).nes",
+   "size": 131088
+  }
+ ],
+ "group": "Mahjong Samit - Kabukicho Hen (Japan)",
+ "hack_group": "圣谦",
+ "id": "prb-nes-7929ee90",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "01BE0B6C",
+  "no_intro_name": "Mahjong Samit - Kabukicho Hen (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "麻雀世界 歌舞伎町篇"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

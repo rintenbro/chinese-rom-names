@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-ddfee3b57e5a/title.png"
+ },
+ "files": [
+  {
+   "crc32": "F04C38D7",
+   "name": "坦克大战2008(简)[叶枫](JP)[STG](0.18Mb).nes",
+   "size": 24592
+  }
+ ],
+ "group": "坦克大战2008",
+ "hack_group": "叶枫",
+ "id": "cn-39dba59e026c",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "坦克大战2008"
+ },
+ "type": "hack",
+ "vendor": "",
+ "version": ""
+}

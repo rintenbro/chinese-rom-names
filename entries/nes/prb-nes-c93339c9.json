@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "C93339C9",
+   "name": "洛克人4新的野心(v20250209)(繁) [NOKOH].nes",
+   "size": 1048592
+  }
+ ],
+ "group": "Rockman 4 - Aratanaru Yabou!! (Japan)",
+ "hack_group": "NOKOH",
+ "id": "prb-nes-c93339c9",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Rockman 4 - Aratanaru Yabou!! (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "洛克人4新的野心"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20250209"
+}

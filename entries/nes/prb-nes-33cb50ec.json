@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "33CB50EC",
+   "name": "国夫君的热血足球联盟(简)[惊风+空气](JP)[SPG](3Mb).nes",
+   "size": 393232
+  }
+ ],
+ "group": "Kunio-kun no Nekketsu Soccer League (Japan)",
+ "hack_group": "惊风+空气",
+ "id": "prb-nes-33cb50ec",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "907D7BCB",
+  "no_intro_name": "Kunio-kun no Nekketsu Soccer League (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "国夫君的热血足球联盟"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

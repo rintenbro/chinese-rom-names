@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "89623618",
+   "name": "宇宙刑警加利邦(v20250524)(简)[NOKOH](JP)[ACT](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "Cosmo Police Galivan (Japan)",
+ "hack_group": "NOKOH",
+ "id": "prb-nes-89623618",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": "D9116DD6",
+  "no_intro_name": "Cosmo Police Galivan (Japan)",
+  "region": "Japan"
+ },
+ "script": "简",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "宇宙刑警加利邦"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v20250524"
+}

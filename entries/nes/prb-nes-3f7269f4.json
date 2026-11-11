@@ -1,0 +1,32 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "3F7269F4",
+   "name": "国雄的时代剧全员集合！(v0.91)(繁)[热血的鱼缸](JP)[ACT](2.5Mb).nes",
+   "size": 327696
+  }
+ ],
+ "group": "Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan)",
+ "hack_group": "热血的鱼缸",
+ "id": "prb-nes-3f7269f4",
+ "platform": "nes",
+ "probable_original": {
+  "crc32": null,
+  "no_intro_name": "Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan)",
+  "region": "Japan"
+ },
+ "script": "繁",
+ "source": "no-intro",
+ "status": "probable",
+ "titles": {
+  "zh-Hans": "国雄的时代剧全员集合！"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": "v0.91"
+}

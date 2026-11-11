@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-5ef91e6ed782/title.png"
+ },
+ "files": [
+  {
+   "crc32": "B54C14E6",
+   "name": "大话西游(繁)[火星电子](CN)[RPG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "大话西游",
+ "hack_group": "火星电子",
+ "id": "cn-c0d67b4625eb",
+ "platform": "nes",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "大话西游"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

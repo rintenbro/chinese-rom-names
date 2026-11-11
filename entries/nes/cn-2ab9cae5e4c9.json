@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-16e5cc879a60/title.png"
+ },
+ "files": [
+  {
+   "crc32": "B886FB2C",
+   "name": "梁山英雄传(繁)[奔升](CN)[SLG](4Mb).nes",
+   "size": 524304
+  }
+ ],
+ "group": "梁山英雄传",
+ "hack_group": "奔升",
+ "id": "cn-2ab9cae5e4c9",
+ "platform": "nes",
+ "script": "繁",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "梁山英雄传"
+ },
+ "type": "game",
+ "vendor": "",
+ "version": ""
+}

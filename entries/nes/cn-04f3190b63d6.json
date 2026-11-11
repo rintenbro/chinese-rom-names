@@ -1,0 +1,27 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": "assets/nes/cn-082229cc88e9/title.png"
+ },
+ "files": [
+  {
+   "crc32": "71E5480D",
+   "name": "龙魂 新的血族(简)[Nineswords](JP)[STG](6Mb).nes",
+   "size": 786464
+  }
+ ],
+ "group": "龙魂 新的血族",
+ "hack_group": "Nineswords",
+ "id": "cn-04f3190b63d6",
+ "platform": "nes",
+ "script": "简",
+ "source": "community",
+ "status": "self",
+ "titles": {
+  "zh-Hans": "龙魂 新的血族"
+ },
+ "type": "hack",
+ "vendor": "",
+ "version": ""
+}
