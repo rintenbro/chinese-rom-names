@@ -1,10 +1,10 @@
 {
  "version": "0.1.1",
- "generated_at": "2026-11-11T19:37:51",
- "count": 1440,
+ "generated_at": "2026-11-11T19:41:36",
+ "count": 1441,
  "counts": {
   "verified": 912,
-  "self": 528
+  "self": 529
  },
  "entries": [
   {
@@ -24105,6 +24105,24 @@
     "title": "assets/nes/cn-9be9ffd0719e/title.png"
    },
    "hash": "ac1a86ea89078d9b"
+  },
+  {
+   "id": "cn-9c88114014bd",
+   "layer": "self",
+   "platform": "nes",
+   "group": "星际武士",
+   "titles": {
+    "zh-Hans": "星际武士"
+   },
+   "crc32": [
+    "4AE5DC6A"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "222278295b0b0f3d"
   },
   {
    "id": "cn-9ee1ac49ae80",
