@@ -1,0 +1,25 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "7D43D880",
+   "name": "六角方块(繁)[小天才](CN)[PUZ](0.75Mb).nes",
+   "size": 98320
+  }
+ ],
+ "group": "六角方块",
+ "id": "cn-ce0274ed3058",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "六角方块"
+ },
+ "type": "game",
+ "vendor": "小天才"
+}

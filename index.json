@@ -1,10 +1,10 @@
 {
  "version": "0.1.1",
- "generated_at": "2026-11-11T11:43:12",
- "count": 1437,
+ "generated_at": "2026-11-11T19:37:51",
+ "count": 1440,
  "counts": {
   "verified": 912,
-  "self": 525
+  "self": 528
  },
  "entries": [
   {
@@ -22113,6 +22113,24 @@
    "hash": "fb2c1bb3306b26df"
   },
   {
+   "id": "cn-5d77b9b26037",
+   "layer": "self",
+   "platform": "nes",
+   "group": "三国桃园记",
+   "titles": {
+    "zh-Hans": "三国桃园记"
+   },
+   "crc32": [
+    "95B0B4B2"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "662614ec6deed4e4"
+  },
+  {
    "id": "cn-5dbd0698cd73",
    "layer": "self",
    "platform": "nes",
@@ -24703,6 +24721,24 @@
    "hash": "40ebbfb627fa59ac"
   },
   {
+   "id": "cn-be5348920dfb",
+   "layer": "self",
+   "platform": "nes",
+   "group": "偷看扑克",
+   "titles": {
+    "zh-Hans": "偷看扑克"
+   },
+   "crc32": [
+    "6081B821"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "dd54fd09f7781e5c"
+  },
+  {
    "id": "cn-be6be3702116",
    "layer": "self",
    "platform": "nes",
@@ -25079,6 +25115,24 @@
     "title": "assets/nes/cn-cd704d07b1bd/title.png"
    },
    "hash": "491a65399d6a5989"
+  },
+  {
+   "id": "cn-ce0274ed3058",
+   "layer": "self",
+   "platform": "nes",
+   "group": "六角方块",
+   "titles": {
+    "zh-Hans": "六角方块"
+   },
+   "crc32": [
+    "7D43D880"
+   ],
+   "assets": {
+    "box": null,
+    "snap": [],
+    "title": null
+   },
+   "hash": "aeb82ec1d4cfd922"
   },
   {
    "id": "cn-ceba5f9592bc",

@@ -1,0 +1,25 @@
+{
+ "assets": {
+  "box": null,
+  "snap": [],
+  "title": null
+ },
+ "files": [
+  {
+   "crc32": "6081B821",
+   "name": "偷看扑克(大字体)(简)[高伟](CN)[TAB](0.75Mb).nes",
+   "size": 98320
+  }
+ ],
+ "group": "偷看扑克",
+ "id": "cn-be5348920dfb",
+ "layer": "self",
+ "original": null,
+ "platform": "nes",
+ "source": "community",
+ "titles": {
+  "zh-Hans": "偷看扑克"
+ },
+ "type": "game",
+ "vendor": "高伟"
+}
