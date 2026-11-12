@@ -1,6 +1,6 @@
 {
  "version": "0.1.1",
- "generated_at": "2026-11-11T23:28:32",
+ "generated_at": "2026-11-12T10:56:59",
  "count": 3756,
  "counts": {
   "verified": 912,
@@ -38090,11 +38090,11 @@
     "FEF3CD45"
    ],
    "assets": {
-    "box": null,
+    "box": "assets/nes/cn-31319d2313cf/box.jpg",
     "snap": [],
     "title": "assets/nes/cn-513233c140df/title.png"
    },
-   "hash": "fcc9b9b9083d39bd"
+   "hash": "066bd3001cd67881"
   },
   {
    "id": "cn-3140435bf6ac",
@@ -41474,11 +41474,11 @@
     "FA57734E"
    ],
    "assets": {
-    "box": null,
+    "box": "assets/nes/cn-98b84a5d36c3/box.jpg",
     "snap": [],
     "title": null
    },
-   "hash": "903e048ea856eeb1"
+   "hash": "9bfa889c4f7c95ee"
   },
   {
    "id": "cn-98f1055df8ad",
@@ -43598,11 +43598,11 @@
     "15577246"
    ],
    "assets": {
-    "box": null,
+    "box": "assets/nes/cn-d50edcbed3fa/box.jpg",
     "snap": [],
     "title": "assets/nes/cn-8fc2fb2d5689/title.png"
    },
-   "hash": "19d5aa9eaee93c76"
+   "hash": "040d397fb95806db"
   },
   {
    "id": "cn-d517bcb13e7e",
@@ -44282,11 +44282,11 @@
     "4790689E"
    ],
    "assets": {
-    "box": null,
+    "box": "assets/nes/cn-f16ece6a2e81/box.jpg",
     "snap": [],
     "title": "assets/nes/cn-5727e2dd52f2/title.png"
    },
-   "hash": "8e2c9b38e464c036"
+   "hash": "cf628f38939375b4"
   },
   {
    "id": "cn-f1e9d8f7db6c",
@@ -44966,11 +44966,11 @@
     "0274D560"
    ],
    "assets": {
-    "box": null,
+    "box": "assets/nes/prb-nes-0274d560/box.jpg",
     "snap": [],
     "title": null
    },
-   "hash": "83c6f8c159720ced"
+   "hash": "2f975b89fa7031a6"
   },
   {
    "id": "prb-nes-02b30e8f",
@@ -53678,11 +53678,11 @@
     "7665AA30"
    ],
    "assets": {
-    "box": null,
+    "box": "assets/nes/prb-nes-7665aa30/box.jpg",
     "snap": [],
     "title": null
    },
-   "hash": "8d7050e769fbbc8a"
+   "hash": "e671b4a93132b83b"
   },
   {
    "id": "prb-nes-7665b8e1",
@@ -53894,11 +53894,11 @@
     "78CB8899"
    ],
    "assets": {
-    "box": null,
+    "box": "assets/nes/prb-nes-78cb8899/box.jpg",
     "snap": [],
     "title": null
    },
-   "hash": "599828753d4c5ef2"
+   "hash": "fca36e5a1d50278e"
   },
   {
    "id": "prb-nes-78ebe3f7",
@@ -57476,11 +57476,11 @@
     "A958B4F2"
    ],
    "assets": {
-    "box": null,
+    "box": "assets/nes/prb-nes-a958b4f2/box.jpg",
     "snap": [],
     "title": null
    },
-   "hash": "c18b35b1978648f1"
+   "hash": "00f70df194e56fef"
   },
   {
    "id": "prb-nes-a97ab1e4",
@@ -57602,11 +57602,11 @@
     "AA3F3733"
    ],
    "assets": {
-    "box": null,
+    "box": "assets/nes/prb-nes-aa3f3733/box.jpg",
     "snap": [],
     "title": null
    },
-   "hash": "d04098c67d273fcf"
+   "hash": "837ec5be29597d8e"
   },
   {
    "id": "prb-nes-aa4c4b5c",
@@ -59690,11 +59690,11 @@
     "C99D097F"
    ],
    "assets": {
-    "box": null,
+    "box": "assets/nes/prb-nes-c99d097f/box.jpg",
     "snap": [],
     "title": null
    },
-   "hash": "1f8c2e4126b622e1"
+   "hash": "e0b996e12d00edfb"
   },
   {
    "id": "prb-nes-c9b88115",

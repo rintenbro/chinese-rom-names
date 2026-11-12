@@ -32,6 +32,11 @@ REVIEWS.md                      尚未定论的争议条目（不入库）
 
 ## 格式变更记录
 
+### v0.2.1（2026-11-12）
+- 新增 `asset_sources`：记录素材来源，例如 `{"box": {"type": "ai-generated", "model": "MiniMax-H3-Image", "date": "2026-11-12", "based_on": ["标题画面","游戏截图"]}}`
+- 新增封面素材 `assets/<platform>/<id>/box.jpg`（宽 2400px、JPEG 质量 92、sRGB）
+- 说明：这批封面是 **AI 依据游戏画面绘制的新插画，不是官方包装图**，不用于冒充原版封面
+
 ### v0.2.0（2026-11-11）
 - `layer` 字段改为 `status`，取值 `verified` / `probable` / `self`
 - 平台目录与 `platform` 值统一：`famicom` → `nes`，`megadrive` → `md`

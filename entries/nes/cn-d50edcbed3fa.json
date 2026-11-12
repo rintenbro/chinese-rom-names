@@ -1,6 +1,17 @@
 {
+ "asset_sources": {
+  "box": {
+   "based_on": [
+    "标题画面",
+    "游戏截图"
+   ],
+   "date": "2026-11-12",
+   "model": "MiniMax-H3-Image",
+   "type": "ai-generated"
+  }
+ },
  "assets": {
-  "box": null,
+  "box": "assets/nes/cn-d50edcbed3fa/box.jpg",
   "snap": [],
   "title": "assets/nes/cn-8fc2fb2d5689/title.png"
  },

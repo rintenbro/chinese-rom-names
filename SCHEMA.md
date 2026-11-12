@@ -37,3 +37,22 @@
 - 同一条目只对应一个 ROM；同一 ROM 出现在多条属错误（CI 校验）。
 - `verified` 层的标准名必须存在于对应平台的 No-Intro dat（CI 校验）。
 - 缺素材允许为空，App 回退占位，禁止借用其他游戏素材。
+
+## asset_sources（v0.2.1）
+
+素材来源，与 `assets` 一一对应：
+
+```json
+"asset_sources": {
+  "box": {
+    "type": "ai-generated",
+    "model": "MiniMax-H3-Image",
+    "date": "2026-11-12",
+    "based_on": ["标题画面", "游戏截图"]
+  }
+}
+```
+
+- `type`：`ai-generated`（AI 依据游戏画面绘制的新插画）、`official`、`scan`、`screenshot`
+- `based_on`：生成时参考的画面类型
+- AI 封面**不是官方包装图**，应用若展示需标注为「AI 插画」

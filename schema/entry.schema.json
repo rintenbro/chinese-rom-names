@@ -234,6 +234,39 @@
   },
   "hack_group": {
    "type": "string"
+  },
+  "asset_sources": {
+   "type": "object",
+   "properties": {
+    "box": {
+     "type": "object",
+     "properties": {
+      "type": {
+       "enum": [
+        "ai-generated",
+        "official",
+        "scan",
+        "screenshot"
+       ]
+      },
+      "model": {
+       "type": "string"
+      },
+      "date": {
+       "type": "string"
+      },
+      "based_on": {
+       "type": "array",
+       "items": {
+        "type": "string"
+       }
+      },
+      "source_url": {
+       "type": "string"
+      }
+     }
+    }
+   }
   }
  }
 }
