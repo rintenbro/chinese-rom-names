@@ -38,21 +38,12 @@
 - `verified` 层的标准名必须存在于对应平台的 No-Intro dat（CI 校验）。
 - 缺素材允许为空，App 回退占位，禁止借用其他游戏素材。
 
-## asset_sources（v0.2.1）
+## 封面素材与 AI 标识（v0.2.1）
 
-素材来源，与 `assets` 一一对应：
+封面存放于 `assets/<platform>/<id>/box.jpg`（宽 2400px、JPEG 质量 92、sRGB），条目字段 `assets.box` 指向它。
 
-```json
-"asset_sources": {
-  "box": {
-    "type": "ai-generated",
-    "model": "MiniMax-H3-Image",
-    "date": "2026-11-12",
-    "based_on": ["标题画面", "游戏截图"]
-  }
-}
-```
+AI 生成的封面不在数据字段里自创标记，而是**在图片内部**携带两套标识：
 
-- `type`：`ai-generated`（AI 依据游戏画面绘制的新插画）、`official`、`scan`、`screenshot`
-- `based_on`：生成时参考的画面类型
-- AI 封面**不是官方包装图**，应用若展示需标注为「AI 插画」
+- 国家标准 AIGC 标识：EXIF `UserComment` 中的 AIGC JSON（含 `ContentProducer`、`ProduceID` 等），以及 JPEG 注释段中原文保留的 `AIGC` 数据
+- IPTC 数字来源类型：XMP 字段 `Iptc4xmpExt:DigitalSourceType` = `http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia`
+

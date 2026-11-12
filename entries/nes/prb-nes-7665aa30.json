@@ -1,15 +1,4 @@
 {
- "asset_sources": {
-  "box": {
-   "based_on": [
-    "标题画面",
-    "游戏截图"
-   ],
-   "date": "2026-11-12",
-   "model": "MiniMax-H3-Image",
-   "type": "ai-generated"
-  }
- },
  "assets": {
   "box": "assets/nes/prb-nes-7665aa30/box.jpg",
   "snap": [],
